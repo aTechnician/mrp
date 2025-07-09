@@ -1,0 +1,371 @@
+Outline:  60-120 Lines
+
+Question:  Was the logistics of the British Army fit for purpose in supporting
+the British Army in operations in NW Europe from 1944-1945.  
+
+/*****************************************************************************/
+Outline as Follows:
+
+No indentation is a top level <h2> type heading / Latex \section{} unit.  
+Each successive tab indentation reduces the heading by one level.  Thus, a 
+single tab denotes <h3> / \subsection{} whereas two tabs denote 
+<h4> / \subsubsection{}.  Constrained to no more than three tabs/levels of 
+sectioning.
+
+Comments will use either C style comments for embedded remarks (/* comment */) 
+or Latex comments where the whole line after `%` will be ignored on output.
+
+Outline begins on line 25 and will continue till line 85-145.
+
+Output target length 50-70 pages. 
+/*****************************************************************************/
+
+% Conops, perhaps use a narrative flow moving from before invasion for the
+% prepwork and training, to the actual invasion for execution and adaptation,
+% to transition around or after TOTALIZE?
+
+\section{Introduction}
+
+	% Importance of log, perhaps introduce ABCDE (ammo, beans, cold water, 
+	% diesel, everything else).  Perhaps an "Imagine ..." line.  Maybe even
+	% emphisize the importence of the 2nd S in SMESC.
+
+	% Include thesis:  The critique that the British Army only beat the 
+	% German army due to material superiority, and that the German Army
+	% had better soldiers is groundless.  This is because, in modern
+	% Wars (incl. ww2) it is material that matters.  That the British 
+	% Army had good lgoistics is testimant to the quality of their
+	% soldiers as supplies are inherently part of soldiering.  It is not
+	% that the Germans had better soldiers but worse logistics leading to
+	% their defeat by Anglo-American forces, it is that German soldiers
+	% (officers really) were worse soldiers as they could not create a
+	% serviceable supply chain.  How do you fight if you cannot eat or
+	% if you have no bullets.  
+	% /* perhaps I should make this more consise */
+
+	% Set scope:  This is about the British *Army's* logistics starting
+	% from ships to the units (TBH, maybe even from the beach, before the
+	% high-tide line is a Navy problem)
+
+	% Mission of Q branch
+
+	% A tale of heroic pencil pushers and bean counters lol!
+
+	% Useful quote to throw in maybe?  
+	% ``The delivery at the right time and place of supplies required by 
+	% an army in the field may frequently be the deciding factor in the
+	% success of its operations''. 
+	%cite No 27 trg crs p. 34 quoted fsr vol 1, s.29(3)
+
+\section{Historiographical Review}
+
+	% Complain loudly and long-windedly at the lack of discussion on log 
+	% in /*insert list */  Consider subsections or flow of text?
+
+	% Discuss the current logistical scholarship done
+		% Namely historical work in 50s and Supplying War, Julian
+		% Thompson, Great Feat...
+
+% Start with Context %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+/* Figure out where to incorporate the fact that the British/Canadians focused
+on firepower over manpower.  This means materiel is critical --- A is for ammo,
+B is for beans, C cold water, D: deisil, E-everything else... */
+
+/* Do I want to expand to include things like traffic control?  Traffic jams
+on Sword Beach may have made the Br fail to capture Caen on D.  10m of dry
+beach between water and sea wall at high tide.  Perhaps an MP or two would
+have solved the issue.  IIRC, RAF beach sqn dealt with it.  Was this a critcal
+oversight?  Not a lack of tenacity or anything else, but a good, old fasioned
+traffic jam vis-a-vis Toronto at rush-hour caused the failure to take Caen?
+lol --- what a way to win a war! */
+
+\section{Interwar Development} 
+
+% Can I mostly lean on GFOI for it? Have a few things WRT mechanization and
+% whatnot too. 
+
+\section{Logistics Working Practices in Theory}
+
+	
+	% How supply chains work from dumps, and depots, to distribution, to
+	% 1st line units.  
+
+	% ``The principle of supply is that field units should always have
+	% with them, or within reach, two days' rations and forage, and one 
+	% iron ration, and that these stocks should be replenished by 
+	% delivery, at a point within reach of the troops, of one day's ration
+	% and forage each day.'' %cite No27 Trg Course p. 32, quoted in,
+	% refs F.S.R. Vol. I. Sec107(I). %validate this
+
+	% Key was placed on  on rabild concentration of force, incl sup, LofC
+	% etc. to permit strategic use of force %cite 27 trg crs p. 32
+
+	\subsection{The Structure of Supply}
+		%cite No 27 Trg Course p. 34ish (diagram's on 34)
+		\subsubsection{The Base Sup-Area (BSA)}
+			% The Docks
+				% Bulk Petorl
+				% Cold STorage
+
+			% Main Supply Depot --- Field Bakery, DID
+
+			% Petorl Sub Depot 
+
+			% Base Marhsalling Yard (start of railway line)
+
+		\subsubsection{L of C Area}
+
+			% Einvisioned as a railway line, lorries will do 
+			% just fine but this theory came at the dawn of
+			% mechanization.  Point was to take stores from
+			% the BSA and transport them near the combat zone.
+			% It's basically a transprot area.  IT goes from 
+			% just outside the BSA to, and including the railhead.
+
+			% If distance from the BSA to the railhead is < 12
+			% hr trip, BSA will control.  Else, there will be
+			% a regulating station around 6 hrs from the rail
+			% head. %cite no27 Winter Trg p. 32 5c
+			
+			% The railheads also had field supply depots, to
+			% supply local resources.
+			
+			% If using trucks, it's 150 tons per 21 trucks with
+			% old pat, 59 tonns across 12 trucks (5 supplies, 2 
+			% ord, 2 R E, 2 stores, 1 RAMC)  railway trucks 
+			% %cite No 27 course, p. 32 para 5
+
+		\subsubsection{Corps or GHQ Area}
+
+			% Start of what really starts to feel like the
+			% field army and not just transport areas.
+			% Transprt at thsi point is by road.
+
+			% Seperate Chain for 'stuff' and POL.  POL is the
+			% Coprs Petrol Park (25 Mi for Div, 75 mi for C.T)
+
+			% Supply Coln. HQ handles the rest of it.  Here, 
+			% stores are bulk broken and sent further forward.
+
+		\subsubsection{Div Area}
+			
+			% POL side, POL is held at the Div Petrol Coy 
+			% and should have a 50 mi. supply (chk this).  
+			% The div Pet Coy will set up petrol points and
+			% unit transport will collect POL from those points.
+
+			% General Supplies are handled at a rondezvous 
+			% where supplies will be delivered at delivery 
+			% points via meeting points.  Range from the L of C
+			% area to the DPs is 30-40 mi.  DPs are where 
+			% individual units come to collect stores.
+	
+
+	\subsection{Warehousing}
+
+		% Especially in those early weeks when a lot of it was dumping
+		% rather than warehousing per-se.  
+
+		% DID (maybe??) 3000 Tons/acre= gross stacking area.  x 4-10
+		% for expansion %cite No 27 trg 32 (this might be a general
+		% rule too)
+
+		\subsubsection{Base Supply Depots}
+			% Located near Base Marshalling Yard, outside docks
+			% to permit expansion and dispersion.  Consider `water
+			% light, telephones, good roads, office accomodation'
+			% when selecting the location. Area = Strength X 
+			% stock X weight one ration / (unintelligable) = 
+			% 8.5 sq ft /ton = stacking 
+			% +50\% for stock spacing = gross stacking area X 4
+			% to 10 for expansion, etc.  (that's a quote)
+			%cite 27 trg course p.32, 4
+
+
+	\subsection{Distribution and Transport}
+		% Intermixing of the RASC and RAOC for moving the 'stuff' vs
+		% transporting the 'stuff'
+
+		% 'Harbours', how increadably quaint lol!
+
+		% Discuss the role of MPs, you can't have supply without 
+		% transport, and you can't have transport without a traffic 
+		% light (MP)
+
+	\subsection{Delivery} 
+		% this may be rather light.  IDK if sources avail for action 
+		% line unit's distr.  One feels they tend to assume the stuff 
+		% just arrives, then hands it out.
+
+\section{Logistics Working Practices as trained}
+
+	% Describe the structure of the supply chain
+
+	% Dump specifications
+	
+		% Land use
+	
+		% Capacitities
+
+	% Qty of men involved
+
+	% Transport options
+
+\section{On Normandy}
+
+	% Wasting Army --- Br could not sustain losses in men --- there were 
+	% no more men to allow to die if you still wanted an army. 
+	% \autocite[%cite]{collossal-cracks}
+
+	% Allied preference for munitions over men and it's consequences.
+	% How material works, need for arty, etc. %cite Gunfire or perhaps
+	% somethign else?
+
+	% Arty requirements and what it entails WRT 3 tonne lorries.
+	%cite Gunfire
+
+	% What's a good deapth to take it?  I should at least give a 
+	% general description of it; however, how much can I take as
+	% common knowledge in the field.
+
+\section{Logistics Working Practices as Executed}
+
+	% Routine nature of supply WRT A B C D E
+
+	% Exceptional 
+
+		% white turrent tops for AG recognician.
+
+		% Supporting the paras
+
+	% Length of supply lines approximate
+
+	% Ammo shortage during first few days
+
+	% Porpoise sledges
+
+\section{Maybe add a section on how log is taken foregranted?}
+% Maybe make this a subsection?  I wonder if I can find any examples though.
+
+% Water, food, etc. have very few mention in the sources.  Some discussion
+% made in AGFOI
+
+% Discuss the hard requriements (meals/day, water rations 
+% (this is in many OpsOs)
+
+	% Find in RCASC trg docs, it's somewhere there --- perhaps when my
+	% eyes stop flashing!
+
+% Maybe discuss why it's important it doesnt fail?  I'm hungry, dehydrated,
+% out of ammo, and freezing, what good am I?
+
+	% Just how much evidence do i need?  So much of this is pointing
+	% out the obvious, but, at the same time, unless you've been outside
+	% hungry and shivering, I wonder if your ealize just how miserable
+	% it is.
+
+% the British fondness for artillary is quite useless without ammo --- a 
+% 25-pdr isn't even a good paperweight, it'll only crush the paper!
+
+	% Find rounds per hour, rounds per lorry, etc.  See if I can find 
+	% surface area requriements for dumps to avoid a rapid incineration
+	% of the dump when subjected to enemy fire.
+
+\section{Failures and Successes}
+
+% there's 90 coy RASC on D - D+3ish
+
+% Coy maintained the 6th airborn bridgehead as well as the 3rd Br Infantry 
+% Div and 27 Armd Brig for multiple days on Overlord.  They ferried 
+% and arranged all transport on the D Day off Sword beach.  No other 2nd line
+% unit avail.
+
+% but I wonder if this merits a whole section. 
+
+	% Only 2nd line RASC unit to land on d-day.  Supported 6 Airborn & 27
+	% armd bde
+
+	% planned was that 27th would be supported by by 3 div for POL.  Due
+	% to extra shipping space, 1 platoon of 90 coy was to land with the
+	% 105 amn for 3 div, amn, mines, POL, water, RE stores for 6 para 
+	% (abv is quoteish)  Last minute, more space became avail, 13 3-tons
+	% landed D-day 1st tide to support 27th with POL.  THey became first
+	% to land at 1300.  POL would have been in tins and not bulk. 
+	% POL, water, RE stores for 6 airborne.  Original lorries from 3div
+	% with 27th's POL didn't arrive till D+2, tanks aren't useful without
+	% POL.  13 lorries of B Pl thus supplied the whole bde. Check support
+	% range in RASC traning docs.  Virtually no breaks until D+4 C pl 
+	% did 6 airborne.  6 Airborne started resupply at 2300, returned to
+	% harbour by 0430
+
+	% Veh capacity 11 on D, 33 D+1, 23 D + 2, 20 by D + 4.  Decline due
+	% to casualties.  Transprted 5-6 lorries to carry 3rd Br Inf Div 
+	% re-inforcements, sups for 27 Armd Bde (quoteish) Experience useful
+	% as 6th Abrn supply pers were unable to communicate requirements
+	% or forecast them accurately.  As such, veh moved constantly between
+	% the beach and 6th airborne.  Beach congestion very heavy.  
+	% transport so short that no trip could be wasted.  Lorry drivers 
+	% even were used as a quazi recce to ensure they always knew what
+	% would be needed.  This was reported to Pl Harbour as they passed.
+
+	% Trip from Coy Haroubr to beach and back was a 2 hr trip.  
+	%cite Jul hist rep sheet 5
+
+	% As it happens, 6 para supplies landed at Juno and were stuck till
+	% D + 4.  
+
+	% Harbour planned for W of Hermanville not secured till d+2, 
+	% temp harbour E of Colleville 2-3 mi from enemy pos.  
+	%cite june-history-report.pdf(4)
+
+	% Chk pg ct, perhaps elaborate, perhaps not.
+
+	%cite sourcery/wd/27armd/90coy/06/histrep p1
+
+% Maybe traffic control and overlord fire control too?  Shoudl I divide into
+% supply and transport?  
+
+	% If this, what about MPs directing traffic under fire --- sounds
+	% rediculous when you put it like that but it was certainly done.
+
+	% Include ambulance drivers?  It feels a little too otuside the remit
+	% though
+
+\section{Transition to Future Ops} % Consider omission after Sep 44?  
+% maybe swrod beach
+
+% could I perhaps use some records from medal citations for this?
+
+\section{Conclusion}
+
+/******************************************************************************
+END OF OUTLINE
+******************************************************************************/
+
+/* Header as fol *************************************************************/
+
+\documentclass[noraggedright]{turabian-researchpaper}
+
+\title{}  
+\subtitle{}
+
+\date{\today} % alter?
+\author{Albert Duan}
+
+% Sets UK Date format
+\usepackage[british]{babel}
+
+% Autopunctuation outside of quotes
+\usepackage{csquotes} 
+
+% Auto link URLs, hyphenate long URLs in appearance.
+\PassOptionsToPackage{hyphens}{url}\usepackage{hyperref}
+
+% Find pkg to wrap long URLs
+
+% Sets Bibliographic Style 
+\usepackage[notes]{biblatex-chicago}
+\addbibresource{} % add path
+
+/* Library includes */
