@@ -23,51 +23,81 @@ Note:  POL stands for petrol, oil, & lubricants.
 /***************************************************************************/
 
 % Conops, perhaps use a narrative flow moving from before invasion for the
-% prepwork and training, to the actual invasion for execution and adaptation,
+% prep work and training, to the actual invasion for execution and adaptation,
 % to transition around or after TOTALIZE?
 
 % TLDR:  if you accept that the British CA soldier was tactically worse than
-% teh Germans but were able to defeat the Gemrans by unloading an ungodly
-% amout of steel and expolosives over their head at the first sign of 
-% difficulty, then the british logistial soldier was far superior.  A war 
+% the Germans but were able to defeat the Germans by unloading an ungodly
+% amount of steel and explosives over their head at the first sign of 
+% difficulty, then the British logistical soldier was far superior.  A war 
 % cannot be won by killing alone!
 
+% Thesis: 
+
+% L1:  Historical community is quite hard on the British for lackluster
+% results vis-a-vis armoured warfare and armour-infantry co-operation; 
+% however, what this is missing is that the British Army --- Army, not 
+% economy --- work quite well at a logistical level.  This is what, in the
+% field, enabled the British Army to defeat the Germans despite tactical
+% mediocrity.  Logistics worked to support flawed tactics.
+
+% L2:  Criticality of the services to the effective waging of war.
+
+% L3:  We ought to stop viewing armies as mere fighting forces.  Understanding
+% them using a systems approach explains why we can win wars.  Merely 
+% examining how an army can outfight its opponent at a tactical level misses
+% the operational reasons the tactical level can even function.
+
+
 % CONOPS:  What if I do this as a microhistory of 90 Coy?  I can use them as 
-% a way to talk about the criticallity of logistics.  What if I used them as
+% a way to talk about the criticality of logistics.  What if I used them as
 % the pivot around which an army (tbh, 27 Armd Bde, and 3 Div) can turn?  I 
-% can use it to skirt around the wider issue that I don't have evidecne for
-% a macro view but I have 90 Coys WD.  Alas, I can't find as many decorations
+% can use it to skirt around the wider issue that I don't have evidence for
+% a macro view but I have 90 Coy's WD.  Alas, I can't find as many decorations
 % for them as I would like to really make it personal.  Could I use examples 
 % from other units as a `take Cpl Bloggins from X, note the work he did'?
 % time to run git branch I suppose.  It also allows me to be narrative which
 % is always fun.  Their 4 day history was already 7 pages, I could breath life
 % into.  I can harp on about them for 8-10 x that, right? 1-2 pages 
-% intoducing (let's do it as if they hit a beach and they're driving a 
-% convoy up the road to Benouville with that preload of supplies for 6 Airborn
+
+% introducing (let's do it as if they hit a beach and they're driving a 
+% convoy up the road to Benouville with that preload of supplies for 6 Airborne
 % whence we pause to discuss what we currently talk about in the 
 % historiography.   I have 5-10 pages on what other people have been writing 
 % about Normandy, from there, perhaps another 5ish to narrow down on Sword 
-% Beach, the whys, the objectives, who was involved etc. --- I shoudl re-read
+% Beach, the whys, the objectives, who was involved etc. --- I should re-read
 % return of martin guerre I think.  
 
-	% so 20pgs here, I'll probably do more once I footnote it all.
-% With this context, we return to the convoy and lay out the theretical 
+	% so 20-30pgs here, I'll probably do more once I footnote it all.
+% With this context, we return to the convoy and lay out the theoretical 
 % framework by which logistics operates.  Depots, lengths of supply lines,
 % how distribution happens, etc.  How this work integrates with the rest of
 % the army.  We deliver the supplies and talk about the RV.  Let's also start
 % talking about the arduous work over the next few days to supply 3 Div and 
-% 27th bde as there are no other 2nd line transport units.  As we continue 
-% here, I can interesect the sources for 27th Armoured Bde to give context
-% as to what 90 Coy was doing.  I suppose I"ll have to do soem probablies and
+% 27th Bde as there are no other 2nd line transport units.  As we continue 
+% here, I can intersect the sources for 27th Armoured Bde to give context
+% as to what 90 Coy was doing.  I suppose I"ll have to do some probables and
 % perhapses.  We can talk about how 90 Coy supported the Bde until the Bde was
 % disbanded.  Then, continue talking about how the Coy supported other units
 % till Totalize maybe?  Then, have a final almost pre-conclusion discussing
-		% Perhaps this takes 4-6 pagesish?
-% how, whilst we don't write about it, these oprations would have been 
+		% Perhaps this takes 4-6 pages-ish?
+% how, whilst we don't write about it, these operations would have been 
 % impossible without the supporting arms and concluding with how the British
-% ability to have tacitical mediocraty and an unwillingness to spend lives
-% meant that their logistics had to be good, really good.  Mmbe this would 
-% work? 
+% ability to have tactical mediocrity and an unwillingness to spend lives
+% meant that their logistics had to be good, really good.  
+
+% Expand this to how armies function, and who this paper doesn't cover.  I 
+% don't discuss workshops, clerks --- the whole of A branch actually --- MPs, 
+% BADs, beach detachments, etc. yet they're all important. (5 pgs)  Maybe 
+% paint a picture of the whole rear area and why it's important (landing 
+% tickets maybe?).
+% Tie it back to historiography and methods like  how a lot in the sources 
+% requires you to intersect doctrine with the WDs to figure out what supply 
+% units were doing --- making a meal dely isn't something that really gets 
+% recorded in the WD, etc.  (5 pgs)
+
+% Finally, conclude.
+
 
 \section{Introduction}
 
@@ -78,11 +108,11 @@ Note:  POL stands for petrol, oil, & lubricants.
 	% you're X lorries are carrying preloads of ammunition, rations, and
 	% other supplies for 6 Abrn.  They're holding the Anglo-American 
 	% left flank from a possible German counter attack.  what if I put
-	% it in the perspective of that Lt who did the initial recce?  YOu 
-	% weren't originally scheduled to land yet but an accdient of war
+	% it in the perspective of that Lt who did the initial recce?  You 
+	% weren't originally scheduled to land yet but an accident of war
 	% means here you are.  Describe more about what 6 Airborne is doing
-	% you don't belong to 6 Airborn but are instead of 27 bde, you're 
-	% just taksed to help them on D day, their unit 2nd line unit will
+	% you don't belong to 6 Airborne but are instead of 27 Bde, you're 
+	% just tasked to help them on D day, their unit 2nd line unit will
 	% arrive from Juno later /* Come back to this when discussing import */
 
 	% THESIS
@@ -92,11 +122,11 @@ Note:  POL stands for petrol, oil, & lubricants.
 	% You wonder what the historians who write about these events 80 years 
 	% in the future will think about it all, what drives your focus?
 
-	% Maybe have a bitter reflection, it's always teh fighting troops or
-	% the generals who get the cheers.  No-one appauds the cooks!  Use
+	% Maybe have a bitter reflection, it's always the fighting troops or
+	% the generals who get the cheers.  No-one applauds the cooks!  Use
 	% the perhapses of history for this
 
-	% Shift to that historiographical frame:  With the benifit of 
+	% Shift to that historiographical frame:  With the benefit of 
 	% hindsight, we know that the drive to Caen would not be a quick 
 	% drive, but as a logistician, one asks oneself, was there a 
 	% significant logistical constraint or was it due to something
@@ -127,7 +157,7 @@ Note:  POL stands for petrol, oil, & lubricants.
 		% harbours.  I fear little has been done on the actual
 		% military administration of the war.  Indeed, the logistical
 		% section of military history is fairly poorly written about
-		% by hisotrians, some more work done military acadamies
+		% by historians, some more work done military academies
 		% reflecting its importance to them
 	\subsection{On WW2} % there's got to be a better name than this
 		\subsubsection{\textit{Britain's Other Army:  The Story of
@@ -153,8 +183,8 @@ Note:  POL stands for petrol, oil, & lubricants.
 		\subsubsection{\textit{Montgomery and `Colossal Cracks':  
 			The 21st Army Group in Northwest Europe, 1944-45}}
 			% manpower Constraints
-			% Morale problems Be sure to emphisize both of these
-			% as supplies are criticle to this
+			% Morale problems Be sure to emphasize both of these
+			% as supplies are critical to this
 		\subsubsection{\textit{The Normandy Campaign 1944}}
 		\subsubsection{\textit{Gators of Neptune: Naval Amphibious
 			Planning for the Normandy Invasions}}
@@ -172,9 +202,9 @@ Note:  POL stands for petrol, oil, & lubricants.
 
 %% Do I wanna put the books for WW2 logistics here or in WW2?  I'm tempted
 % to concentrate it here but I also like the idea of keeping something from
-% the field of military science and not history seperate --- military science
+% the field of military science and not history separate --- military science
 % cares much more on actually executing operations.  Split this into two 
-% subsubs and make the rest subsubsubs?  One for hisotry, one for less so?
+% subsubs and make the rest subsubsubs?  One for history, one for less so?
 % Could also compress, maybe compressing and not sectioning this section 
 % will flow better.  In any case, I wonder if it's better to chk pg ct
 
@@ -193,10 +223,10 @@ Note:  POL stands for petrol, oil, & lubricants.
 
 		\subsubsection{\textit{War of Supply:  World War II Allied
 			Logistics in the Mediterranean}}
-			% Cheifly American in the Med
+			% Chiefly American in the Med
 		\subsubsection{\textit{Supplying the Troops:  General 
 			Somervell and American Logistics in WWII}}
-			% Very much a great man hisotry.  Logistics in the
+			% Very much a great man history.  Logistics in the
 			% form of a biography
 		\subsubsection{\textit{Military Logistics and Strategic 
 			Performance}}
@@ -236,11 +266,11 @@ Note:  POL stands for petrol, oil, & lubricants.
 
 	% We return to our convoy, you're thinking and a bit day-dreamy 
 	% driving through the French countryside thinking about the 
-	% magnitude of what you're acutally doing.  DO I want to go this
+	% magnitude of what you're actually doing.  DO I want to go this
 	% tone??
 
 	% Overlord & Neptune:  Mission, invade France, push the Germans
-	% across the rhine sooner or later
+	% across the Rhine sooner or later
 
 	% Division of beaches, start from the W and move E.  How beaches
 	% are subdivided.  Start thinking about the beach exits maybe and
@@ -248,7 +278,7 @@ Note:  POL stands for petrol, oil, & lubricants.
 
 	% Talk about the 'bloody army', Q branch, A branch, and G branch.
 
-\section{} % move to Hermanville, 90 coy's control point in running convoys
+\section{} % move to Hermanville, 90 Coy's control point in running convoys
 
 	% Talk about how supply works, the DIDs, supply lines, POL differences
 
@@ -260,7 +290,7 @@ Note:  POL stands for petrol, oil, & lubricants.
 	% Keep that story telling feeling, you're at the control point mourning
 	% the fact that there are no other second line units, you're vastly 
 	% overworked.  If only you had the additional units to support you.
-	% if only ____ instead, you're left trying to maintins [sustainment
+	% if only ____ instead, you're left trying to maintains [sustainment
 	% standards] and just keep what's needed flowing as hard as you can.
 
 	{Logistics Working Practices in Theory}
@@ -289,22 +319,22 @@ Note:  POL stands for petrol, oil, & lubricants.
 		%cite No 27 Trg Course p. 34ish (diagram's on 34)
 		\subsubsection{The Base Supply-Area (BSA)}
 			% The Docks
-				% Bulk Petorl
-				% Cold STorage
+				% Bulk Petrol
+				% Cold Storage
 
 			% Main Supply Depot --- Field Bakery, DID
 
-			% Petorl Sub Depot 
+			% Petrol Sub Depot 
 
-			% Base Marhsalling Yard (start of railway line)
+			% Base Marshalling Yard (start of railway line)
 
 		\subsubsection{L of C Area}
 
-			% Einvisioned as a railway line, lorries will do 
+			% Envisioned as a railway line, lorries will do 
 			% just fine but this theory came at the dawn of
 			% mechanization.  Point was to take stores from
 			% the BSA and transport them near the combat zone.
-			% It's basically a transprot area.  IT goes from 
+			% It's basically a transport area.  IT goes from 
 			% just outside the BSA to, and including the railhead.
 
 			% If distance from the BSA to the railhead is < 12
@@ -316,7 +346,7 @@ Note:  POL stands for petrol, oil, & lubricants.
 			% supply local resources.
 			
 			% If using trucks, it's 150 tons per 21 trucks with
-			% old pat, 59 tonns across 12 trucks (5 supplies, 2 
+			% old pat, 59 tonnes across 12 trucks (5 supplies, 2 
 			% ord, 2 R E, 2 stores, 1 RAMC)  railway trucks 
 			% %cite No 27 course, p. 32 para 5
 
@@ -324,13 +354,13 @@ Note:  POL stands for petrol, oil, & lubricants.
 
 			% Start of what really starts to feel like the
 			% field army and not just transport areas.
-			% Transprt at thsi point is by road.
+			% Transport at this point is by road.
 
-			% Seperate Chain for 'stuff' and POL.  POL is the
-			% Coprs Petrol Park (25 Mi for Div, 75 mi for C.T)
+			% Separate Chain for 'stuff' and POL.  POL is the
+			% Corps Petrol Park (25 Mi for Div, 75 mi for C.T)
 			% Explain the logic of this.  POL used containerized
 			% distribution rather than tankers for end-point
-			% distriubtion.  Used flimsies or jerrycans
+			% distribution.  Used flimsies or jerrycans
 
 			% Supply Coln. HQ handles the rest of it.  Here, 
 			% stores are bulk broken and sent further forward.
@@ -342,7 +372,7 @@ Note:  POL stands for petrol, oil, & lubricants.
 			% The div Pet Coy will set up petrol points and
 			% unit transport will collect POL from those points.
 
-			% General Supplies are handled at a rondezvous 
+			% General Supplies are handled at a rendezvous 
 			% where supplies will be delivered at delivery 
 			% points via meeting points.  Range from the L of C
 			% area to the DPs is 30-40 mi.  DPs are where 
@@ -361,9 +391,9 @@ Note:  POL stands for petrol, oil, & lubricants.
 		\subsubsection{Base Supply Depots}
 			% Located near Base Marshalling Yard, outside docks
 			% to permit expansion and dispersion.  Consider `water
-			% light, telephones, good roads, office accomodation'
+			% light, telephones, good roads, office accommodation'
 			% when selecting the location. Area = Strength X 
-			% stock X weight one ration / (unintelligable) = 
+			% stock X weight one ration / (unintelligible) = 
 			% 8.5 sq ft /ton = stacking 
 			% +50\% for stock spacing = gross stacking area X 4
 			% to 10 for expansion, etc.  (that's a quote)
@@ -386,73 +416,73 @@ lol --- what a way to win a war! */
 
 \section{Return to the moment} 
 %New title, want to get back to what 90 Coy was up to till D+7
-% summ up the Jun Hist Rep for 90 Coy 
+% sum up the Jun Hist Rep for 90 Coy 
 
 \section{Operation } %name, if any?  Was hasty operation.  
-% Maybe just consolodations?  Oh, how about the Dumps at Ranville
+% Maybe just consolidations?  Oh, how about the Dumps at Ranville
 
-% give context for the situation IVO ranville at the time.  British holding
+% give context for the situation IVO Ranville at the time.  British holding
 % several KM^2 E of the Orn at IVO Ranville.  This land was supplied from main
 % beaches over the Benouville-Ranville bridges.  Single point of failure.  
 % fear of DE cntr attk as DE tps moving IVO E of region probing for points of
-% failure.  27th Armd Bde involved in supporitng local infantry.  90 Coy
-% supporitng Bde
+% failure.  27th Armd Bde involved in supporting local infantry.  90 Coy
+% supporting Bde
 
 % Operation with Paras of 13/18th with paras, 90 Coy dumping stores in support
 	% 12 June, mail arrives, first letters since D Day
 
 % 13/18 moved E of river to defend against counter attack %cite 13/18 WD 12 Jun
-% A, B Sqns supporting attack of German postions by 7 Para & black watch.  
+% A, B Sqns supporting attack of German positions by 7 Para & black watch.  
 % on 10 Jun, Germans were seating themselves into a wood IVO Le Mariquet, 
-% threatened to seperate 5 & 3 para bdes as well as supporting infantry units.  
+% threatened to separate 5 & 3 para Bde as well as supporting infantry units.  
 % Paras ordered to sweep woods to dislodge Germans with 13/18th in support.
 % part of wider fears of a German counter attack.  
 %cite 7 para jun WD appendix p. 5
-% 90 Coy established a dump using 12x 3tonners.  Maintly Amn & POL, started
-% 12 1800 Jun 44.  Incrases to 20x lorries next day (how many lorries in 
+% 90 Coy established a dump using 12x 3tonners.  Mainly Amn & POL, started
+% 12 1800 Jun 44.  Increases to 20x lorries next day (how many lorries in 
 % a coy again?)
-% dump at Ranville (1173) %cite 90 coy wd 12 Jun 
+% dump at Ranville (1173) %cite 90 coy WD 12 Jun 
 % Do I wanna mention decorations here for 90 Coy or maybe do it earlier
 % IVO Ranville.  Positioning of this dump wise.  Only route to supply troops
-% E of Orne and canal is via Benouville/ranville bridges.  This would permit
+% E of Orne and canal is via Benouville/Ranville bridges.  This would permit
 % bridgehead to keep fighting if the bridges were destroyed.  Infantry armour
 % co-operation was a noted problem.  6 tks KO.  Paras take 40 prisoners, 0 KIA,
 % 9 Wounded. 
 %cite 7 para jun WD appendix p. 6
 
 
-% Highlight that prepairation is key.  If there was a counter attack and the
-% bridge was blown, gallentry matters naught if you aren't supplied.  What 
-% will you do, fix bayonettes --- well, yes acutually...?
+% Highlight that preparation is key.  If there was a counter attack and the
+% bridge was blown, gallantry matters naught if you aren't supplied.  What 
+% will you do, fix bayonets --- well, yes actually...?
 % C Pl 90 Coy continue to provide light support till 16 Jun
 
 \section{The Arrivals of A \& B Plns}
 % non critical section, setting the tone of a lull.  A/B Pl arrive 
 % 15 2000 Jun 44.  Go to Coy HQ in Cresserons GR 0379.  Brings with them 
 % 59 Veh, 165 Pers.  Arrives 2300 hrs. Some DE bombing.  Over the next 3 days,
-% new platoons involved in dewatering and reorganising in prep for ops.  
+% new platoons involved in dewatering and reorganizing in prep for ops.  
 % sporadic bombing and shelling of veh pk.  Veh dispersed 75 yds between 
 % each veh --- quite exposed with no protection then (they're in an open 
 % field).  
 
-% Queen Beach still being shelled.  (appears both in 90 Coy and 13/18wd)
+% Queen Beach still being shelled.  (appears both in 90 Coy and 13/18WD)
 % buildup thus slowed.  13/18th don't get their D+9-10 residues by 18 June
 % This is a failure in supply.  Delays due to weather.
 
 % Generally fairly quiet for Bde till end of month %cite 27 Armd Bde WD
 % quiet for 90 Coy until 23 Jun %cite WD
 
-% Maybe talk about the perhapses?  Amn sitll was consumed, as was POL, in 
+% Maybe talk about the perhapses?  Amn still was consumed, as was POL, in 
 % addition, what about general transport of rations, etc.  I don't have
 % a src, but these must have happened.
 
 % Talk about that wonderfully dull stuff like stove and flour shortages in
-% the 27th Bde WD Admin instructions (and deficate in the latrines!).  
+% the 27th Bde WD Admin instructions (and defecate in the latrines!).  
 % Also, traffic flow patterns, spare parts, uniforms, water points etc.
 % Highlight the importance of the ordinary and mundane. 
 
 % Talk about how a POL lorry catches fire in the 13/18 rgmt area on 20 Jun.  
-% Spreads to Amn dump.  %cite 13/18wd
+% Spreads to Amn dump.  %cite 13/18WD
 % Not in 90 Coy's WD.  Why not, routine fetch and carry.  Fire happens, 
 % amn is replaced, maybe only a few lorry loads, no bother.  Talk about
 % the need to look between the sources.  An armoured rgmt is unlikely to
@@ -463,8 +493,8 @@ lol --- what a way to win a war! */
 
 \section{Operation Mitten 27--28 June 1944}
 
-% Want to shwo that operations impossible without such units.  Focus on what
-% worked, not what didn't work for the british.  British tanks bad, arty good.
+% Want to show that operations impossible without such units.  Focus on what
+% worked, not what didn't work for the British.  British tanks bad, arty good.
 % this is a useful moment to talk about the nature of Br Arty.
 
 % Objective (no idea TBH, check 27th Bde WD) TLDR form google search,
@@ -472,10 +502,10 @@ lol --- what a way to win a war! */
 
 % 90 Coy's Work
 
-% 30x 3Ton loads of 105mm amn held on wheels for 3 br div on 23 Jun.  
+% 30x 3Ton loads of 105mm amn held on wheels for 3 Br div on 23 Jun.  
 % Likely for M7 Priest.  Should clarify, this isn't 90 tons but 30 
 % truckloads. wonder if I can find out how many 105mm shells a 3 tonner can 
-% load onto it.  Does it volume out or weight out?  Emphisize that 90 Coy
+% load onto it.  Does it volume out or weight out?  Emphasize that 90 Coy
 % was only helping this unit.  Technically, as the 27th Bde unit, they 
 % don't do arty stuff.
 
@@ -484,17 +514,17 @@ lol --- what a way to win a war! */
 % don't forget about the stuff for flamethrowers!!
 
 	\subsection{British Artillery} % amn consumption in barrage, arty
-		% usage, etc.  Show just hwo dependant the Br were with
+		% usage, etc.  Show just how dependant the Br were with
 		% arty.  Maybe get the mass of a 105 shell and propellant?
 		% there's no way to get an accurate estimate though, if
 		% only they were 25 pdrs...
 
 	\subsection{Support to Operations}
-		% Operation used flamethrower tanks from 141 RAC (Chruchill
-		% Crocodiles)  Needed special fuel and nitrogen cylendars.
+		% Operation used flamethrower tanks from 141 RAC (Churchill
+		% Crocodiles)  Needed special fuel and nitrogen cylinders.
 		
 		% Coy sets up dump of 3000 Gal (13640L) of fuel and 90 N cyl
-		% at Gazell (GR 0276) on 27th, withdrawn on 29th.
+		% at Gazelle (GR 0276) on 27th, withdrawn on 29th.
 
 		% D+1, Maint Point set up at Le Vey (GR976757) distributing
 		% 2400 Gal of FTF.  
@@ -505,9 +535,9 @@ lol --- what a way to win a war! */
 		% amn capacity of tank  
 
 		% in Op Inst No 2 for 27th Bde (28 Jun 44) sqn shoots limited
-		% to 50 rds/gun.  Tanks were to harrass Germans as long as 
+		% to 50 rds/gun.  Tanks were to harass Germans as long as 
 		% Br infantry weren't harmed by this fire and the tanks move
-		% as soon as counterbattery fire is encountered
+		% as soon as counter battery fire is encountered
 		%cite 27th Armd Bde WD, Jun 44 p12
 		% This tells us there's no great fear of running out of 
 		% ammo.  If you could fire off half your ammo in sqn shoots
@@ -518,8 +548,8 @@ lol --- what a way to win a war! */
 	\subsection{Figure out a name} %rename
 		% conclude this section maybe this doesn't actually need a 
 		% subsection.  This much work was needed for a simple 2 day
-		% operation.  WOrk vital but it was doable.  Sum it back up.
-		% Maybe the tanks weren't the best, but their inadequecies were
+		% operation.  Work vital but it was doable.  Sum it back up.
+		% Maybe the tanks weren't the best, but their inadequacies were
 		% floated by a supply chain that kept up so that they could be
 		% bad but still effective.
 
@@ -531,10 +561,10 @@ lol --- what a way to win a war! */
 % there's contact made with emy.  Here we can focus on how operations
 % take place.  Hmm...
 
-\section{} % Runup to Op SHERWOOD
+\section{} % Run up to Op SHERWOOD
 
 	% extensive minefields to be laid (do sq footage) 
-	% (See pg 13 of 27th bde wd)
+	% (See pg 13 of 27th Bde WD)
 
 \section{The Lead up to Charnwood}
 
@@ -545,26 +575,26 @@ lol --- what a way to win a war! */
 
 % D = 8 Jul
 
-% Willc ontinue using the Gazzell ammo dump until exhausted (smart, why move 
+% Will continue using the Gazelle ammo dump until exhausted (smart, why move 
 %it)  This is the only initially authorized dump. 
 
 % 90 Coy sets up POL pt just S of Hermanville 2100-2400 8 Jul (likely units 
-% moving through, north to south, fueling as they pass)
+% moving through, north to south, fuelling as they pass)
 %cite 90 WD 8 July
 
-% AP set up NW of Cresserons at Coy HQish area %cite 90 WD 8 July
+% AP set up NW of Cresserons at Coy HQ-ish area %cite 90 WD 8 July
 % Rgmts draw ammo next morning, ERY withdrawn 1400 when Caen's captured
 
 % 90 Coy is carrying 1000 Gal FTF, 35 N bottles on wheels for crocs at
 % Cresserons
 
-% 3 days compo rats issuesed, additional 3 days AFV packs carried in tks if
+% 3 days compo rats issued, additional 3 days AFV packs carried in tks if
 % compo not avail.
 
 % Blankets to be distr as situation permits
 
 
-% tracked traffic to use tracks rather than roads --- degridation
+% tracked traffic to use tracks rather than roads --- degradation
 %cite 27th Jul orders 34-6  Sandbags used to store casualty's kit
 
 \section{Pre Goodwood}
@@ -573,9 +603,9 @@ lol --- what a way to win a war! */
 % CONTEXT
 % Post Charnwood, Bde is withdrawn on 24 hrs notice on 10th, increased to
 % 48 hrs notice on 13th.  Men get some rest but in the background a number
-% of conferences occur in prepariation for goodwood.  Viehicles are likely
+% of conferences occur in preparation for Goodwood.  Vehicles are likely
 % being maintained and losses replenished in this time.  2nd Army's being
-% reoganized and a CO's conference on battle lessons occurs on the 13th.
+% reorganized and a CO's conference on battle lessons occurs on the 13th.
 %cite 27th WD
 
 
@@ -588,60 +618,60 @@ lol --- what a way to win a war! */
 % Moreover, important work continues.
 
 % Note the shortage of messtins and KFS at hospitals and the chronic shortage
-% of tyres.  Requirement to return amn casings, empty ammo cans, etc.
-% 27 bde Jul orders p37
+% of tires.  Requirement to return amn casings, empty ammo cans, etc.
+% 27 Bde Jul orders p37
 
 % note how issuance of rations, units were overdrawing, and fresh rats were
-% scarse.  Officers sent round to audit.  Talk about how this isn't just about
-% REMF harrassing front line troops, but a nessessary part of military admin.
-%cite 27 bde jul Os p38
+% scarce.  Officers sent round to audit.  Talk about how this isn't just about
+% REMF harassing front line troops, but a necessary part of military admin.
+%cite 27 Bde Jul Os p38
 
 % TRANSITION
 
 \section{Goodwood (18-20 Jul 44)}
 % ARGUMENT:  Use Goodwood to really start to show the centrality of logistics
 % to ops.  No food, no amn, no POL, no fighting. (goodwood's detailed)
-% Argue that trucks, not jsut tanks are what it means for an army to be mobile.
+% Argue that trucks, not just tanks are what it means for an army to be mobile.
 
-% STRUCTURE:  go day by day in the runup and keep very chrono-narrative.  
-% each day seems to sort nicely into themes; thus, use thsoe themes and
+% STRUCTURE:  go day by day in the Run up and keep very chrono-narrative.  
+% each day seems to sort nicely into themes; thus, use those themes and
 % talk about them
 
-% Point of operation  How do i want to manage thsi transition?  This is
+% Point of operation  How do i want to manage this transition?  This is
 % too abrupt
 
 % THEME FOR 14TH:  Battle sustainment
-% WngO (formal or informal) likely recieved for Goodwood 14th late morning or
+% WngO (formal or informal) likely received for Goodwood 14th late morning or
 % early afternoon.  90 Coy spends the afternoon organizing, then
 % 14 Jul, over five hours (1700-2200), 90 Coy 
-% converts teh 13/18 rgmt amn & POL dumps IVO Ranville into dumps fit to 
+% converts the 13/18 rgmt amn & POL dumps IVO Ranville into dumps fit to 
 % supply the Bde (likely approx 2 sq km in size).  
 % dump consists of 38 lorry loads of amn to the 13/18th Rgmt dump enough
-% to provide 97 rds/tk (a full load of amn) for the whole bde.
-% POL:  18 lorryloads of Pet & Derv (diesil) (7000 (either units or gal) of
+% to provide 97 rds/tk (a full load of amn) for the whole Bde.
+% POL:  18 lorry loads of Pet & Derv (diesel) (7000 (either units or gal) of
 % each).  This is enough POL to take the Bde 30 mi.  Coy does this via the BAD
-% and PD.  Vehs fueled as well before return to Coy HQ by 2400.  SPeculate this
-% was in reciept of WngO On 15th at 1900, Coy formally 
+% and PD.  Vehs fuelled as well before return to Coy HQ by 2400.  Speculate this
+% was in receipt of WngO On 15th at 1900, Coy formally 
 % establishes a det at the Ranville dumps to control R&I.  Det consists of 
-% Capt Duffus, 46 ORs and 16 lorries.  Useful time to talk about fightiing
+% Capt Duffus, 46 ORs and 16 lorries.  Useful time to talk about fighting
 % range and what it means.
 %cite 90 Coy WD
 
-% By the 15th, prepairations for Goodwood occur in ernest across the Bde.  
-% 3 Div holds another confernece and, over the next few days, the Bde starts
-% mvoing E of Orne likely via Ranville.  %cite 27th WD 15th Jul-ish
+% By the 15th, preparations for Goodwood occur in earnest across the Bde.  
+% 3 Div holds another conference and, over the next few days, the Bde starts
+% moving E of Orne likely via Ranville.  %cite 27th WD 15th Jul-ish
 % Ranville det loads load 4 days compo into 6 lorries
 % (enough to sustain whole Bde) as a mobile reserve.  8 lorries are devoted to
 % keeping croc flamethrowers amned.  2 lorries leftover for odds and ends.
-% Useful tme to talk about importance of flexibility maybe?  
+% Useful time to talk about importance of flexibility maybe?  
 %cite 90 coy WD
 
 % 16th:  RATIONS
-% Bde HQ moves closer to Raanville but stays W of Orne.  Bde Cmd holds 
+% Bde HQ moves closer to Ranville but stays W of Orne.  Bde Cmdr holds 
 % conference with Bde COs. %cite 27th WD
 % As a result of this, all units W of Orne received 3 days extra compo, E of
-% orne, 4 days. %cite 90 WD
-% LIkely, whilst not stated in teh WD, that 90 Coy made these regular 
+% Orne, 4 days. %cite 90 WD
+% Likely, whilst not stated in the WD, that 90 Coy made these regular 
 % deliveries to the battalions.
 
 % Total rations thus 4 days in vehicles, and 4 at 2nd line transport.  Ready 
@@ -652,12 +682,12 @@ lol --- what a way to win a war! */
 
 
 % 17th:  Comms
-% 27th HQ issues it's OpO for Goodwood today.  THe Bde will help hold 8 Corps'
-% left flank as 8 Corps breaks through.  Bde estabishes it's battle net today.
+% 27th HQ issues it's OpO for Goodwood today.  The Bde will help hold 8 Corps'
+% left flank as 8 Corps breaks through.  Bde establishes it's battle net today.
 %cite 27th WD and Orders
-% 90 Coy recieves two wireless lorries, one at Coy HQ, and 1 at the Ranville
+% 90 Coy receives two wireless lorries, one at Coy HQ, and 1 at the Ranville
 % det.  Each lorry comes with 3 wireless ops.  %cite 90th WD
-% Curiusly, the OpO hardly mentions logistics.  Log is just expected to work.
+% Curiously, the OpO hardly mentions logistics.  Log is just expected to work.
 
 % 18th:  D-day H-hr 0745
 % Bde attack successful.  Objectives met around 1100.  At 2000 Coy HQ sends
@@ -668,29 +698,29 @@ lol --- what a way to win a war! */
 % prepared, surely they'll be needed.
 
 % 19th:  DE send 8 JU88 to attack Orne bridges.  Bde makes minor gains.
-% ditto 20th.  Little chang ehappens at this point as the front stabilizes.
+% ditto 20th.  Little change happens at this point as the front stabilizes.
 %cite 27th WD
-% 90 Coy uses this as a time to resuppy units from Det Ranville.  
-% talk about how amunition moves.  The Ranville dump goes from X lorry 
-% loads to 45 loads of amn when the dump closes and teh amn is brought back
+% 90 Coy uses this as a time to resupply units from Det Ranville.  
+% talk about how ammunition moves.  The Ranville dump goes from X lorry 
+% loads to 45 loads of amn when the dump closes and the amn is brought back
 % to BAD Hermanville. %cite 90th WD for 25 Jul
 
-% If goodwood failed to break out, it wasn't logistical constraints.
+% If Goodwood failed to break out, it wasn't logistical constraints.
 \section{Post Goodwood}
 
-% use it as a chance to talk about infantry transport --- br infantry don't 
+% use it as a chance to talk about infantry transport --- Br infantry don't 
 % have organic transport.  Also how more normal RASC transport units work
 
 % 22nd, the Bde is informed they'll be broken up.  They get assigned to 
-% 2nd Army's 22 Transprot Coln at months end.  
+% 2nd Army's 22 Transport Coln at months end.  
 % Det Ranville shrinks by 45 lorry loads of amn
-% and the coy moves to Camilly (GR 933704).  Det Ranville is hadned over to 
+% and the coy moves to Camilly (GR 933704).  Det Ranville is handed over to 
 % different unit and rejoins the Coy.  Coy provides transport to Staff Yeo
 % to Arromaches docks.  Coy returns the 2nd line amn holding of 30x 3ton 
 % truckloads and 27 6-ton loads to BAD.  %cite 90 WD p.7 mention this holding
 % earlier on too.
 
-\section{} %nto sure what to call it, something about being an ordinary
+\section{} %not sure what to call it, something about being an ordinary
 % 2nd line RASC unit
 
 
@@ -706,34 +736,38 @@ lol --- what a way to win a war! */
 % Invite community to see an army as a system and merely disconnected fighting
 % groups.
 
-% Discuss my gaps, I barely touch on maintenence units, etc.  What I could
+% Discuss my gaps, I barely touch on maintenance units, etc.  What I could
 % have talked about, what other sources say.  Consider Tiger or Panther without
-% maint units
+% Maint units
 
 % talk about sources, how 90 Coy WD doesn't really mention resupplies unless
 % it's major, but just because it's not written, doesn't mean it wasn't done.
 % by asking the question of who would do X, one starts to uncover the Y, and Z.
-% talk about how enteries like 6 Jun are very long --- likely because of the
-% initial excitement.  THe WD's progressively shorter and more concise as time
-% wares on, likely because it's teadious and, "I want to go to bed!".  Supply
+% talk about how entries like 6 Jun are very long --- likely because of the
+% initial excitement.  The WD's progressively shorter and more concise as time
+% wares on, likely because it's tedious and, "I want to go to bed!".  Supply
 % logs are tedious.  Talk about how this study is actually quite constrained
-% by sources in so far as a heavy dependace on electronic sources.  War diaries
+% by sources in so far as a heavy dependence on electronic sources.  War diaries
 % don't mention routine replenishments but it doesn't mean they don't happen.
 % alas, I doubt they kept the waybills!
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Stop Work Point 19 2000 Jul 25
+% Stop Work Point 22 1846 Jul 25
 %
-% Prepairing to talk about what happens to the company after the 27th is 
-% disbanded.  Starting work on Aguust diary.  Talk till end of Aug to show
+% Preparing to talk about what happens to the company after the 27th is 
+% disbanded.  Starting work on August diary.  Talk till end of Aug to show
 % other side of log.
 %
-% Working note, fleshing out the analisys more
+% Flesh out \section{Criticality of Supply}
 %
-% Should flesh out the explaination of sup as sys in earlier section
+% Working note, fleshing out the analysis more
+%
+% Should flesh out the explanation of sup as sys in earlier section
 %
 % Wondering what to do about the sectioning where I talk about the structure
 % of supply. 
+% 
+% Don't forget to email prof sooner rather than later!
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Conclusion}
@@ -755,7 +789,7 @@ END OF OUTLINE
 % Sets UK Date format
 \usepackage[british]{babel}
 
-% Autopunctuation outside of quotes
+% Auto-punctuation outside of quotes
 \usepackage{csquotes} 
 
 % Auto link URLs, hyphenate long URLs in appearance.
@@ -768,3 +802,5 @@ END OF OUTLINE
 \addbibresource{} % add path
 
 /* Library includes */
+
+% Formatting notes, do I want to divide this into multiple source code files?
