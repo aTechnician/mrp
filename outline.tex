@@ -1,26 +1,52 @@
-Outline:  60-120 Lines
+\documentclass[noraggedright]{turabian-researchpaper}
 
-Question:  Was the logistics of the British Army fit for purpose in supporting
-the British Army in operations in NW Europe from 1944-1945.  
+\title{}  
+\subtitle{}
 
-/*****************************************************************************/
-Outline as Follows:
+\date{\today} % alter?
+\author{}
 
-No indentation is a top level <h2> type heading / Latex \section{} unit.  
-Each successive tab indentation reduces the heading by one level.  Thus, a 
-single tab denotes <h3> / \subsection{} whereas two tabs denote 
-<h4> / \subsubsection{}.  Constrained to no more than three tabs/levels of 
-sectioning.
+% Sets UK Date format
+\usepackage[british]{babel}
 
-Comments will use either C style comments for embedded remarks (/* comment */) 
-or Latex comments where the whole line after `%` will be ignored on output.
+% Auto-punctuation outside of quotes
+\usepackage{csquotes} 
 
-Outline begins on line 25 and will continue till line 85-145.
+% Auto link URLs, hyphenate long URLs in appearance.
+\PassOptionsToPackage{hyphens}{url}\usepackage{hyperref}
 
-Output target length 50-70 pages. 
+% Find pkg to wrap long URLs
 
-Note:  POL stands for petrol, oil, & lubricants.  
-/***************************************************************************/
+% Sets Bibliographic Style 
+\usepackage[notes]{biblatex-chicago}
+\addbibresource{src/sec.bib} 
+\addbibresource{src/pri-uk.bib}
+\addbibresource{src/pri-can.bib}
+
+% Formatting notes, do I want to divide this into multiple source code files?
+% Outline:  60-120 Lines
+
+% Question:  Was the logistics of the British Army fit for purpose in supporting
+% the British Army in operations in NW Europe from 1944-1945.  
+
+% /*****************************************************************************/
+% Outline as Follows:
+
+% No indentation is a top level <h2> type heading / Latex \section{} unit.  
+% Each successive tab indentation reduces the heading by one level.  Thus, a 
+% single tab denotes <h3> / \subsection{} whereas two tabs denote 
+% <h4> / \subsubsection{}.  Constrained to no more than three tabs/levels of 
+% sectioning.
+
+% Comments will use either C style comments for embedded remarks (/* comment */) 
+% or Latex comments where the whole line after `%` will be ignored on output.
+
+% Outline begins on line 25 and will continue till line 85-145.
+
+% Output target length 50-70 pages. 
+
+% Note:  POL stands for petrol, oil, & lubricants.  
+% /***************************************************************************/
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % MARKS SET
@@ -29,6 +55,7 @@ Note:  POL stands for petrol, oil, & lubricants.
 % h	Historiography
 % c	Conclusion
 % m	Mark Set (this)
+% w	Working Point
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -108,6 +135,9 @@ Note:  POL stands for petrol, oil, & lubricants.
 
 % Finally, conclude.
 
+\begin{document}
+
+\maketitle
 
 \section{Introduction}
 
@@ -187,7 +217,30 @@ that reveals the British Army's strengths.  %e I hate this para!
 
 	% \subsection{Clarification of Terms} % maybe omit?
 		% How I use D-Day to actually mean D Day and not 6 Jun 44
-
+testing a citation.\autocite[beginning][end]{pri-testcite}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Stop Work Point 23 1924 Jul 25
+%
+% Started writing the intro and am fleshing out historiography.  Trying to 
+% figure out biblatex-chicago syntax for primary sources.  Check unpublished
+% type
+%
+% Adding to context
+%
+% Preparing to talk about what happens to the company after the 27th is 
+% disbanded.  Starting work on August diary.  Talk till end of Aug to show
+% other side of log.
+%
+% Flesh out \section{Criticality of Supply} Do I want to make the 
+% historiographical section a subsection or it's own section?
+%
+% Working note, fleshing out the analysis more
+%
+% Should flesh out the explanation of sup as sys in earlier section
+%
+% Wondering what to do about the sectioning where I talk about the structure
+% of supply. 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Historiographical Review}
 
 	% `Of course we know that 80 years after the fact, historians...'
@@ -336,27 +389,6 @@ that reveals the British Army's strengths.  %e I hate this para!
 	% preloaded supplies to 6 Para over the river.  6 Para's 2nd line
 	% transport was landing at Juno.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Stop Work Point 22 2021 Jul 25
-%
-% Adding to context
-%
-% Preparing to talk about what happens to the company after the 27th is 
-% disbanded.  Starting work on August diary.  Talk till end of Aug to show
-% other side of log.
-%
-% Flesh out \section{Criticality of Supply} Do I want to make the 
-% historiographical section a subsection or it's own section?
-%
-% Working note, fleshing out the analysis more
-%
-% Should flesh out the explanation of sup as sys in earlier section
-%
-% Wondering what to do about the sectioning where I talk about the structure
-% of supply. 
-% 
-% Don't forget to email prof sooner rather than later!
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	% Talk about the 'bloody army', Q branch, A branch, and G branch.
 
 \section{} % move to Hermanville, 90 Coy's control point in running convoys
@@ -835,37 +867,8 @@ lol --- what a way to win a war! */
 
 \section{Conclusion}
 
-/******************************************************************************
-END OF OUTLINE
-******************************************************************************/
+\newpage
 
-/* Header as fol *************************************************************/
+\printbibliography
 
-\documentclass[noraggedright]{turabian-researchpaper}
-
-\title{}  
-\subtitle{}
-
-\date{\today} % alter?
-\author{Albert Duan}
-
-% Sets UK Date format
-\usepackage[british]{babel}
-
-% Auto-punctuation outside of quotes
-\usepackage{csquotes} 
-
-% Auto link URLs, hyphenate long URLs in appearance.
-\PassOptionsToPackage{hyphens}{url}\usepackage{hyperref}
-
-% Find pkg to wrap long URLs
-
-% Sets Bibliographic Style 
-\usepackage[notes]{biblatex-chicago}
-\addbibresource{src/sec.bib} 
-\addbibresource{src/pri-uk.bib}
-\addbibresource{src/pri-can.bib}
-
-/* Library includes */
-
-% Formatting notes, do I want to divide this into multiple source code files?
+\end{document}
