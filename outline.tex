@@ -23,6 +23,20 @@
 \addbibresource{src/pri-uk.bib}
 \addbibresource{src/pri-can.bib}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Citation Aids
+% All citation aids will start with capital letters for sake of namespaces
+
+% For citing 27 course's Lecture No. 12 Petrol p 35-7.  Largely on bulk vs 
+% container
+\newcommand{\Petrol}{Precis of Lecture No. 12:  Petrol}
+%cite Author is Maj W. P. Pessell RASC.  Figure out how to do it when LAC 
+% website works.  It's on p 35 of my scan
+
+% For Supplies in War Lecture pt 2 by Lt.Col. P. L. SPAFFORD, 0.B.E.
+\newcommand{\SupInWar}{Precis on Lecture ``Supplies in War'', (Part II)}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 % Formatting notes, do I want to divide this into multiple source code files?
 % Outline:  60-120 Lines
 
@@ -528,10 +542,8 @@ Moreover, as the British Army was fully mechanized by the Second World War,
 it was the aim that all viehicles would have full petrol tanks at the end of
 each day. To enable operational mobility, 2nd line transport was also to have 
 immediately available, an additional 50 miles of fuel; and 3rd line transport,
-a further 25 miles instantly available for use.\autocite[Precis of Lecture
-No. 12:  Petrol][s 3]{27course}
-%cite Author is Maj W. P. Pessell RASC.  Figure out how to do it when LAC 
-% website works.  It's on p 35 of my scan
+a further 25 miles instantly available for use.\autocite[\Petrol][s 3]
+{27course}
 Of course, it is unlikely that this exact fuel holding was available on 
 D - Day;
 however, this was the standard the British Army would have expected.  These
@@ -583,7 +595,7 @@ for example.  In the case of prepackaged stores, bulk breaking is more similar
 to the procedure that occurs when a grocery store recieves a palette of cereal
 which is subsequently unpacked and loaded as single units on a shelf.  Thus,
 the Sup Coln HQ can function as an interface where the Army's bulk handling 
-meets it's piece handing functions.%cite
+meets it's piece handing functions.\autocite[\SupInWar][3]{27course}
 
 Likewise, fuel could, at times be shipped in bulk initially however fuel for
 the British Army was never delievered to field units as such.  It was always
@@ -592,7 +604,7 @@ our modern world.  When we buy fuel at the petrol station, we pump it from a
 massive underground tank into our cars where it's sold by volume.  Rarely do
 we buy a pre-packed can of fuel.  This was however how the British Army 
 prefered to recieve it's fuel --- in 4 Gal (18L) of petrol per tin.\footnote
-{%cite 35-6 27course
+{\cite[\Petrol][3]{27course}.
 For reference, the 2025 Toyota Corolla sedan has an approximately 50 l fuel 
 tank whilst the 2025 Ford F150 Raptor pickup truck has a 136l tank.}%cite
 These tins were nicknamed flimseys, and it was not an ironic term of affection. 
@@ -604,9 +616,10 @@ Indeed, the flimseys were so bad that the Brtish Army began to simply use
 captured German (Jerry) petrol cans --- hence our modern term jerrycan 
 (a German petrol can).  
 
-Nevertheless, despite their questionable durability, the British Army had some
-sound reasons for using containerized rahter than bulk distribution.  Firstly,
-tanker lorries weren't nearly so common in 1940 as the are today.  Secondly,
+Nevertheless, despite the questionable durability of flimsies, the British 
+Army had some sound reasons for using containerized, as opposed to than bulk 
+distribution.  Firstly, tanker lorries weren't nearly so common in 1940 as the 
+are today.  Secondly,
 containers are compartmentalized.  If a bullet percies a tanker lorry, one may
 loose thousands of litres of fuel before one notices; hwoever, if a bullet 
 travels through a containerized fuel transport (i.e. lorry full of flimseys),
@@ -620,6 +633,36 @@ tins at each viehicle, and each crew then subsequently fuels their viehicle
 with a cheap tin funnel.  Of course, this system was quite labourious to 
 use but even so, it was judged by the British Army that the additional labour
 was worth the cost.  % packaged at factory?
+
+Having been bulk broken at the Corps or GHQ levels, it was now up to the 2nd
+line transport units like 90 Coy to then bring those stores forward into the
+Divisional areas and deliver them to the end-user units.  Depending on 
+operational requirements, this may mean delivering it directly to the 
+individual end-users, or it could mean delivering such stores to the units who 
+could then further distribute stores internally.  This formed the basic, 
+theoretical structure of the British Army's supply chain; however, just as how
+no plan survives first contact with the enemy, the supply chain had to adapt
+to tactical and oeprational nessessitites.  
+
+Already, you may have noticed that the 27th Armoured Brigade is a 
+\textit{brigade}.  Why does it have it's own 2nd line transport?  The answer
+is fairly simple, 27th Armd Bde's full name was 27th Armoured Brigade 
+(Armoured Assault). %e fact check
+The Bde was raised as an independant armoured brigade for Overlord.  As such,
+it needed a way to ensure it could run its own logistics.  You may also recall
+how 90 Coy was, on D-Day, delivering both POL as well as ammunition to 27 Armd
+Bde.  This shows how the supply chain had to remain flexible.  Whilst in 
+theory, there was a seperate chain for POL and ammunition, in practice, this
+was impossible.  This was the advantage of containerized fuel as fuel could 
+simply be loaded into any available lorry.
+
+Finally, before we carry on with the affairs of 90 Coy, it may be prudent to 
+clarify what is meant by a `dump' and other forms of storage.  In a perfect 
+world, supply chains would be perfectly efficient.  Ever single item required
+by an army would be produced when it's needed, sent to where that item was 
+required without delay, and used immediately on reciept.  Alas, hiccups 
+invariably appear.  Shipping gets stalled, major operations consume unusally
+large quantities of fuel, 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Stop Work Point 28 2020 Jul 25
@@ -678,7 +721,7 @@ was worth the cost.  % packaged at factory?
 		% goes from 
 
 		%cite No 27 Trg Course p. 34ish (diagram's on 34)
-		\subsubsection{The Base Supply-Area (BSA)}
+		% \subsubsection{The Base Supply-Area (BSA)}
 			% The Docks
 				% Bulk Petrol
 				% Cold Storage
@@ -689,7 +732,7 @@ was worth the cost.  % packaged at factory?
 
 			% Base Marshalling Yard (start of railway line)
 
-		\subsubsection{L of C Area}
+		%\subsubsection{L of C Area}
 
 			% Envisioned as a railway line, lorries will do 
 			% just fine but this theory came at the dawn of
@@ -711,7 +754,7 @@ was worth the cost.  % packaged at factory?
 			% ord, 2 R E, 2 stores, 1 RAMC)  railway trucks 
 			% %cite No 27 course, p. 32 para 5
 
-		\subsubsection{Corps or GHQ Area}
+		% \subsubsection{Corps or GHQ Area}
 
 			% Start of what really starts to feel like the
 			% field army and not just transport areas.
@@ -726,7 +769,7 @@ was worth the cost.  % packaged at factory?
 			% Supply Coln. HQ handles the rest of it.  Here, 
 			% stores are bulk broken and sent further forward.
 
-		\subsubsection{Div Area}
+		% \subsubsection{Div Area}
 			
 			% POL side, POL is held at the Div Petrol Coy 
 			% and should have a 50 mi. supply (chk this).  
