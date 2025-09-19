@@ -1,0 +1,36 @@
+pg_0032.pdf:
+TRACE A
+185 INF BDE
+BAF TARGET AREAS
+Ref 1.25,000 Sheets 40/6_
+H - 105
+H- 45
+69
+45 To H HR
+F
+D
+G
+to = 105
+To
+H - 45
+E
+H
+* - 105
+H - 45
+H+ 15
+TO
+H+ 75
+M
+1-| - 105
+H1 - 45
+TOP SECPET
+Copy No.l.__-
+/ 4-45 l
+To
+H не
+LEGEND
+= HEAVY
+= FORT
+= FRAGMENTATION
+BOMBS
+

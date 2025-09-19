@@ -1,0 +1,20 @@
+pg_0012.pdf:
+Flail
+AVRE
+Crocodile
+Fd Arty
+Box
+Whip
+Fort
+Lizard
+Meadow
+SP A Tk 3"
+Towed A ck 6 pr
+Inf
+Mortar
+APPENDIX. "A"
+Taxi
+Hansom
+Locusts
+Growler
+
