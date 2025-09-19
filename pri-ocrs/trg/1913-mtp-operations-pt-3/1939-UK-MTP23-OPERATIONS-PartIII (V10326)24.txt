@@ -1,0 +1,46 @@
+pg_0024.pdf:
+V10326 (23) Digitised by the Vickers MG Collection & Research Association - www.vickersmg.org
+17
+9. Time
+1. Time will be described by reference to the 24-hour clock.
+Groups of four figures followed by " hrs" will be used. The
+first two figures represent the hour and the last two the minutes
+past the hour.
+Examples (Date—3 Sep) :
+" 0001 hrs" : one minute past midnight, night 2/3 Sep.
+" 0900 hrs" : nine o'clock in the morning.
+" 1200 hrs" : noon.
+" 1635 hrs" : twenty-five minutes to five in the afternoon.
+" 2400 hrs" : midnight 3/4 Sep.
+2. When plans are being drawn up which are to be carried
+out in accordance with a time-table, it will be usual to base
+the timings on a time known as " zero hour"; this enables
+arrangements to be made in detail without the necessity of
+fixing or disclosing, until it is convenient to do so, the actual
+moment when the operation will begin. It will be the
+responsibility of the commander who issues the orders for an
+operation to define what constitutes zero hour for that
+particular operation: in attack, it will normally be the hour
+at which the leading troops of the attack cross their starting
+line.
+Action to be taken before or after zero hour will normally
+be timed from zero in minutes, and all figures will be read as
+minutes unless otherwise stated, e.g. Z—10, or Z + 4 hrs.
+3. i. In communication between units (including inter-
+service communication) in the same time-keeping area, the
+local time of the area will be used both for " times of origin"
+and times occurring in the subject-matter of a message.
+Times will not be followed by the group LT.
+ii. In communicating with any authority that is in a
+different time-keeping area, or whose whereabouts are not
+known, G.M.T. will be used for all purposes, and all times in
+the subject-matter and " time of origin" will be followed by
+the group GMT. This method will be used in all cases when
+any possible doubt may arise as to the recipient understanding
+references to local time, and is applicable in peace and war
+except for a specially planned combined operation for which
+special instructions are issued.
+iii. In any case the same standard time must be used both
+in the body of the message and for " time of origin."
+V10326 (23) Digitised by the Vickers MG Collection & Research Association - www.vickersmg.org
+

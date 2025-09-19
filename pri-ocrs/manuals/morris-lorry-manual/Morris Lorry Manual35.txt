@@ -1,0 +1,38 @@
+pg_0035.pdf:
+Causes of Bad Slow Running and their Remedy
+To obtain good slow running, it is necessary that several items,
+other than the carburetter, should be in perfect order, as these
+have a very big effect on perfect slow running. The most important
+of these are the following :—
+(I) Sparking plugs: These should be quite clean, especially at
+the points, and the gap should be set not wider than half a
+millimetre.
+(2) The sticking of valves, or if they are not closing properly on
+their seatings, has a very big effect on slow running.
+should be seen that there is a correct clearance between the
+valve tappets and the valve stems to ensure their closing
+correctly.
+(3) The magneto contact breaker points should be occasionally
+examined to see that they are clean, and the gap on the make
+and break set to the correct distance advised by the makers.
+(See Section V. Magneto.)
+(4) Should the engine refuse to run slowly after the above items
+have been carefully checked, it is advisable to see that the
+slow-running device of the carburetter is not blocked with
+dirt. A separate slow-running jet and screw is provided
+which can be quickly removed after taking off the screwed
+cap.
+The screw regulates the volume of slow-running mixture
+passing to the edge of the butterfly throttle, where the high
+velocity of the air thoroughly atomises the petrol. To adjust
+this screw, first tighten it down on its seating, and then un-
+screw it approximately half a turn, after which a fraction of a
+turn in one direction or the other will give slow, even running
+Turning the screw anti-clockwise will strengthen the mixture.
+Turning it clockwise will weaken it.
+The Main Jet
+The main jet in this carburetter controls the amount of fuel
+supplied, and is shown in Figs. I and 2, marked "K." It is
+screwed into the jet carrier plug, and is withdrawn with this
+plug. This jet is calibrated on a standard calibrating machine,
+

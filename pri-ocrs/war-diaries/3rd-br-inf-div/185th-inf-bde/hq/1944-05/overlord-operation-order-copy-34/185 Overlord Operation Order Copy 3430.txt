@@ -1,0 +1,51 @@
+pg_0030.pdf:
+NOT TO BE TAKEN ON SHORE
+Apox 'C' to 185 Inf Bde Operation Order No.1
+NEPTUNE - BIGOT
+TOP SECRET
+COFY NO
+FRE-ARRANGED TARGET LIST
+1. 1U1 TARGETS
+Target No.
+U 101
+Ü 102
+U 103
+U 104
+U 105
+U 106
+U 107
+U 108
+Map Ref
+022770
+033759
+037743
+056740
+051 723
+038722
+007720
+036703
+Description
+Station
+Buildings at ra junc
+Buildings
+HQ in Village
+Corner of Orchard, WEST
+of road.
+Cross tracks
+Cross roads in village
+Buildings
+M 1
+M
+M
+Map Ref
+04.7773
+065709
+990705
+014695
+Description
+Battery
+HHROUVILLE (reference to
+centre of town)
+Battery
+LAA Battery
+

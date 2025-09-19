@@ -1,0 +1,56 @@
+pg_0012.pdf:
+18
+The length of the scale will. then be—
+2,500
+2,500X36
+yards=
+inches=5•68 inches.
+15,840
+15,840
+If it is preferred, the result may be obtained from a sum in
+proportion, thus—
+Yards in
+Yards in
+Inches
+repre-
+a mile,
+1,760
+the scale, — senting a mile.
+2,500
+Length of
+scale in ins.
+"x"
+Therefore x=5•68 inches.
+The length of a scale should be calculated to the second
+decimal of an inch, or the first of a millimetre.
+Draw a line 5•68 inches long and divide it into 5 equal
+division into 5 parts, each representing 100 yards, as shown
+in Fig. 1.
+Example 2.—To construct a scale of 1/100,000 to show
+quarter miles.
+Here 1 mile is represented by 1/100,000 mile=63,360/100,-
+000 inch=0•634 inch. Hence, if the scale is to represent 10
+miles in all, its total length will be 6-34 inches.
+With the dividers bisect the total length of 6•34 inches, and
+divide each half into five. The primary on the left will be
+sub-divided into 4 secondaries, each representing ‡ mile.
+(Fig. 2.)
+Example 3.—To construct a scale of 1/25,000 to show 100
+metres.
+On this scale, since 100,000 centimetres=1 kilo-
+metre, the length representing a kilometre will be
+100,000/25,000=4 cms., that is, about 1}
+inches.
+Consequently 4 kms. can be shown on about 6 inches of
+scale. In the absence of a scale of centimetres, we
+may proceed thus—
+1 metre=39-370 inches; therefore 4 kms.=157,480 inches,
+represented by 157,480/25,000=6-30 inches. Divide this
+length into eight parts, each representing 500 metres. Sub-
+divide the left primary into five secondaries, each of about t
+inch, representing 100 metres. See Fig. 3 and compare it with
+the scale of metres on the same R.F., on a service protractor.
+2. As the value of a scale depends in a great measure
+upon the accuracy with which it is divided into equal parts,
+the rollowing method may be adopted:-
+

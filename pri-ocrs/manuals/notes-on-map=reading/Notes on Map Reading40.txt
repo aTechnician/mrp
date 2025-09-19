@@ -1,0 +1,59 @@
+pg_0040.pdf:
+48
+2. An extract from a sheet of the 1/20,000 series of Great
+Britain (now obsolete) is given on Plate X. This is the scale
+for which this particular system was designed. The squares
+represent the same areas on the ground as those on the one-
+inch sheet, and are lettered in the four corners, but as 1/20,000
+is about three inches to the mile, the sides of these squares
+are about three times as long as on the one-inch.
+Thick lines,
+as before, bound the 10-kilometre squares, and thin lines divide
+them up.
+References are easier than on the one-inch, because
+in each little (kilometre) square are printed two figures, the
+first of
+which is the number (eastwards) of the west edge,
+whilst the second is the number (northwards) of the south
+edge.
+Refer to Plate X (which shows only a portion of a
+big square) and consider "old chalk pit" which lies in the little
+It will be seen to be one-tenth of a kilometre
+eastards in this little square and the easting is therefore 21.
+similarly, it lies
+7-tenths north and the northing is 17.
+The full reference is then Q.2117.
+Verify the following additional references:
+Rose Cottage
+Q.1120.
+Dandridge Copse, North corner
+Woodmancott Church
+Q.2605.
+Q.0124.
+45. The Modified British System
+1. In the British System the whole system of reference is
+repeated every 50 kms.; thus in the smaller scale maps
+it is possible to have on the same sheet two identical map
+references referring
+; to two different places. The Modified
+British System obviates this difficulty.
+2. In this system the area is divided into squares of 500
+kms. side, each of which is designated by & letter. Each of
+these squares is subdivided into 25 squares of 100 kms. side
+which are also lettered from "A" to "Z"
+omitting the letter
+"I"
+These squares are again subdivided, each into 100
+squares of 10 kms. side.
+3. The 10 miles to 1 inch map.
+The sides of each 100 km, square are thickened; the
+appropriate letter is printed in the centre of the square,
+and to the left of it smaller type is printed also the letter
+of the 500 km. square in which the 100 km, square falls.
+Of the grid lines forming the sides of the 10 km. squares,
+every
+fifth-horizontally and vertically-is numbered,
+as
+bottom corner of the 100 km. lettered square in which it lies.
+This is the point to which map references are normally
+

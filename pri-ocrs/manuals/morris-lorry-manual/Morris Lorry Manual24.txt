@@ -1,0 +1,52 @@
+pg_0024.pdf:
+FOOT BRAKE.
+A turnbuckle adjustment is provided at the front
+end of the brake-rod, and at the rear of the servo box.
+The other
+adjustments are similar to those of the hand brake connections.
+It will be noted that the brake mechanism on the Six-wheeled
+machine is of necessity somewhat differently arranged to the usual
+brake mechanism on a four-wheeled vehicle.
+Owing to the extreme
+articulation of the axles relative to the chassis frame and to one
+another, it has been found necessary to take all the brake links to
+the one common centre about which the axles articulate. This
+point is between the two axles. It is, therefore, necessary to arrange
+for the brakes on the forward axle to be pushed on by means of
+adjustable tubular links, while the brakes on the rearmost axle are
+pulled on by means of adjustable brake links of the usual pattern.
+There are two brakes on each wheel, one hand and one foot, the
+hand lever operating one brake in each of the four driving wheels,
+the foot brake pedal operating the remaining four. Compensating
+gear between each of these four brakes is not provided, and equal
+adjustment of the same is, therefore, necessary. When once either
+of the four brakes (hand or foot) have been equally adjusted and
+equally worn, further adjustment of the hand brakes may be effected
+by means of the turnbuckle provided between the lower end of the
+hand brake lever and the forward brake cross shaft.
+In the case
+of the foot brake, a common and equal adjustment of the brakes may
+be effected by means of the turnbuckle fitted in the link between the
+servo mechanism and the forward brake cross shaft. On no account
+should the adjustment of the link between the foot pedal and the
+servo mechanism be altered in order to effect adjustment of brakes.
+Should the equal adjustment of either the hand or the foot brakes
+have been disarranged, such as for instance by the fitting of new
+brake-shoes or the removal of axle or springs for adjustment, it will
+be found advisable and more expeditious to effect this adjustment of
+the brakes by proceeding methodically as follows, assuming that
+the whole of the brake link mechanism from the foot pedal to the
+camshaft levers on the axles may have been dismantled or their
+adjustment altered.
+Firstly, ascertain that the link connecting the foot pedal to the
+servo mechanism is adjusted to such a length that, when the foot
+pedal travels over its whole range, the long lever inside the servo
+mechanism will travel over its whole range also. The connecting
+link between the servo mechanism and the forward brake cross shaft
+'off" position, the levers on the brake cross hake pedo ar in the
+rear end of the chassis at an angle of about 30 degrees from the
+vertical. All four wheels should be jacked clear of the ground, and
+the two foot brakes on opposite sides of the final axle should then be
+connected by means of their respective links to the correct levers on
+the brake cross shaft. The foot brake should then be applied, and it
+

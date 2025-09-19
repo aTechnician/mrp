@@ -1,0 +1,49 @@
+pg_0045.pdf:
+(г18• 4), 01 мощаси
+is mounted on the yoke of the machine at the commutator end.
+The cables are secured by means of grub screws.
+Lubrication
+As the bearings are packed with grease before leaving the Works,
+very little attention is needed. A few drops of oil, however, may
+be added through the lubricators, say, every 1000 miles.
+The
+reader is cautioned that far more trouble has been caused by
+excessive oiling than by too little.
+After the vehicle has run about 10,000 miles the dynamo should
+be dismantled for cleaning and adjustment, and the bearings should
+be repacked with grease.
+This is preferably carried out at the
+nearest Lucas Service Depot.
+Adjustment of Dynamo Output
+These dynamos are dispatched from the Works with the control
+brush set to give an approximate output of either 7 or 11 amperes.
+Generally speaking, the low output machines are fitted to chassis
+with the standard five-lamp set, while the high output machines
+are fitted when there is an extra lamp load such as internal lighting
+in omnibuses.
+To enable lighting sets to give satisfactory service the maximum
+output of the dynamo should approximately balance the lamp load.
+In certain circumstances it may, therefore, be advisable to alter
+the dynamo output.
+The following test will indicate if any adjustment is necessary :
+When the vehicle is running at 18-20 miles per hour in top gear with
+the head
+and sidelamps switched on, note the position of the
+ammeter needle.
+(I) With vehicles fitted with a five-lamp set only, the ammeter
+needle should be at zero.
+(2) With vehicles fitted with a five-lamp set and internal lamps, the
+ammeter should give a reading on the charge side of the scale
+equal to the internal lighting load. This is explained by the
+fact that the internal lights are connected directly to the
+battery, and consequently the current taken by these lamps
+is not indicated on the ammeter.
+This load may be calculated by assuming that the internal lights
+are fitted with six-watt bulbs, and will, therefore, take half an
+ampere each. For instance, suppose there are seven internal lights,
+then the ammeter reading on the charge side should be about three
+and a half amperes.
+Unless in the first case the reading is greater than two amperes
+on either side the scale, or in the second case unless the reading
+differs by more than two amperes from the calculated value, it is
+

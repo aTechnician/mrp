@@ -1,0 +1,45 @@
+pg_0024.pdf:
+24
+CHAPTER V
+RELIEF AND ITS REPRESENTATION
+25. Hill Features and Methods of Representing them
+The chief difficulty felt by most students in map reading
+is that of understanding the methods used to represent hill
+features.
+There are several ways in which hill features and
+heights may be indicated on a flat surface, viz: —
+i. Contours (including form lines).
+ii. Hachures.
+iii. Hill Shading.
+iv. Layer Tints.
+v. Spot Heights.
+Methods i and ii are distinct in themselves and are
+seldom combined on the same map.
+Method iii is rarely
+found except in conjunction with either i or ii. Method iv
+is invariably associated with contours i, and method v is
+used on practically every map, in connection with one or
+other method or combination of methods.
+26. Description of Contours
+These are best explained by the following simple practical
+illustrations:—
+All students will be familiar with the ordinary wooden
+or plaster models sometimes used to represent, in relief, hills
+and other geographical features. Say we have such a model,
+the scale of which we know to be 1/12, i.e. 1 inch on the
+model representing 1 foot on the ground. Place the model
+in an empty tank or bath and pour in water until there 18
+a depth of 1 inch in the bath. The watermark will cut the
+model all round, 1 inch vertically above its base. Draw this
+watermark on the model with a pencil.
+Now add water
+until there are 2 inches in the bath and draw in the second
+watermark. Continue to add water by inches in this way,
+and to draw in the successive watermarks, until the model is
+colapletely covered with water.
+On removing the model it will be found to be marked with
+& succession of lines which are vertically 1 inch above the
+other (Fig. 9). These lines are "Contours."
+Now if a drawing of the model is made, as seen from above,
+ie. a plan of the model on the actual scale, "Contours" at
+

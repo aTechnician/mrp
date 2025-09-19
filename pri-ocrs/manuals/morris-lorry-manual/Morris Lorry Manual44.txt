@@ -1,0 +1,53 @@
+pg_0044.pdf:
+the commutator end bracket.
+Brushes
+It is very important to make sure that the three brushes work
+freely in their holders.
+This can easily be ascertained by gently
+pulling each flexible lead, when the brush should move without
+the slightest suggestion of sluggishness. It should also return
+freely directly the lead is let go.
+When testing the brush in this
+way, release it gently; violent contact with the commutator may
+fracture it.
+The brushes should "bed" over the whole surface ;
+that is, the face in contact with the commutator should appear
+uniformly polished and clean.
+Dirty brushes may be cleaned with
+a cloth moistened with petrol. If any of the brushes become so
+badly worn that it is necessary to replace them, this can easily
+be done as follows: Release the eyelet "J" (Fig. t) on the brush
+flexible by unscrewing the two screws-or, in some models, by
+removing two nuts--and hold back the spring lever
+the brush may be withdrawn from its holder.
+"B."
+when
+When ordering brush replacements, state whether they are main
+or control brushes, and for what type machine they are required.
+The brush springs should be inspected occasionally to see that they
+have sufficient tension to keep the brushes firmly pressed against
+the commutator when the machine is running.
+It is particularly
+necessary to keep this in mind when the brushes have been in use
+for a long time and are very much worn down.
+Owners are cautioned that it is unwise to insert brushes of a
+grade other than that supplied with the machine, or to change
+the tension springs.
+The grade and tension provided has been
+arrived at only after many years' experience, and it will be found
+to give the best results and the longest life.
+Commutator
+The surface of the commutator should be kept clean and free
+from oil or brush dust, etc.; neglect of this precaution will result in
+the commutator becoming blackened, causing sparking to occur at
+the brushes, and the life of the machine will be shortened in conse-
+The best way to clean the commutator is to insert a fine
+duster, held by means of a suitably shaped piece of wond, againse
+the commutator surface, slowly rotating the armature at the same
+time. If the commutator has been neglected for long periods it
+may need cleaning with fine glass paper, but this is more difficult
+to do and should not be necessary if it has received regular attention.
+The grooves between the commutator segments should be
+examined occasionally, and any deposits of copper or carbon dust
+may be cleaned out by means of a thin saw blade or similar article.
+

@@ -1,0 +1,80 @@
+pg_0026.pdf:
+2.
+30
+2
+Code Words
+SPRAT
+STAR
+STOUT
+SUNFLOWER
+TEA
+DOE
+TROUT
+TUNNY
+VERMOUTH
+WHITEBAIT
+WHITING
+WINE
+WINKLE
+YEW
+Meaning
+Break wireless silence on 3 Er Inf Div A net
+BMA behind MIKE/NAN sectors
+Battalion position overlooking CAEN 0370
+Bde concentration area
+0480 - 0479
+Bde bound in CAEN 027683 - 037686
+Assembly area sub-section 0976 (27 Arma 3đe Gp)
+Objective for beach clearance 074812
+Preak wireless silence on 3 Br Inf Div A net
+Wooded area 0571
+Spare - 3 Er Inf Div Sigs
+Wireless silence ON!
+Battalion position overlooling CAEN 0470
+Div Cond Gp ashore takes control from Div HQ ship
+Report line 36862 - 970844 - to sea at 025846
+The following Code Words will he used as the first word in the text of
+any message purporting to break or relax wireless silence :-
+Corps RT
+Army WI
+Div A
+Div B
+Contact
+Breaking
+(Ist occasion).
+DINGDONG
+LEGBREAK
+SPRAT
+MUSSEL
+LOBSTER
+Breaking (2nd and subsequent occasions )
+or relaxing
+FOGLAM?
+LEGSROAK
+T'UNNY
+PRANN
+WHITING
+Passwords
+D
+The following will be used from D to D + ll throughout 1 Corps :-
+Challenge
+0200B to D + 1,
+1200B
+1,
++ +
+===
+$8$8
++ ++++
+====
+Reply
+FOR VICTORY
+WITH CARE
+AND CAJES
+HARDE
+BREAKFAST
+THE SOLDIER
+KNOX
+DUTTER
+MUSTARD
+CRESS
+

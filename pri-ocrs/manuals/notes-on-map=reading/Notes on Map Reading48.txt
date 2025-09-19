@@ -1,0 +1,122 @@
+pg_0048.pdf:
+(a)
+(b)
+(c)
+PLATE XIT.
+MARGINAL GRID NUMBERING ON
+FOREIGN MAPS
+BELGIUM
+1: 40,000
+84000
+63
+64 19 35
+65
+37240 MV 66)+193222.74
+§ Long. O.
+Grid and grid numbers in orange. 1000 metre squares.
+FRANCE
+1: 50,000
+241
+405
+406
+407
+549
+40'
+49 60'
+Grid and grid numbers in red.
+1000 metre squares.
+- 195
+SWITZERLAND
+1: 50,000
+194
+705
+706
+707
+708
+2000 metre squares. Grid and grid numbers in black
+Standard
+• Scales.
+Unit of
+reference
+100
+metres.
+Area of
+reference
+a - 100,000
+metres
+square.
+b.& c. 1 000,000
+metres
+square.
+GERMANY
+1: 300,000
+129
+4500
+10
+12°2ơ'
+14520
+5990
+Small Scale.
+Unit of
+reference
+1000 metres.
+Area of
+reference
+1,000,000
+metres square.
+-10 Kilometre squares. Grid and grid numbers in black.
+55
+scales. The only difficulty arises on certain maps, about the
+scale of 1/100,000, where the distance between grid lines is
+5,000 instead of the ordinary 100 or 10,000.
+Fig. 29 illustrates
+the way in which references can be given on such maps with
+the aid of a
+"Romer."
+In cases such as that illustrated by
+Fig. 29 the unit of reference is still 100 yards, but the division
+by eye into fiftieths is impossible-with a Romer it is easy
+if care be taken.
+The Romer scales are divided into main
+divisions of 0 to 5 nearest
+the
+margin
+and from 5 to 10
+farthest from the margin. If the distance from east and north
+is already more than an odd 5 (i.e. more than 15, 25, 35, etc.)
+the scale farthest from the margin is used.
+distance
+from east and
+north is more than an even 10 or less than
+an odd 5, use that nearest to the margin.
+2. Plate XIII shows how marginal figures are given
+on
+some foreign gridded
+maps of to-day.
+Note that on the
+German, as on some other systems, the figures for reference
+are printed larger than the
+(and for reference
+unnecessary) survey figures.
+The same procedure is followed
+in the Modified British System.
+CHAPTER VIII
+SETTING THE MAP AND FINDING POSITION
+ON IT
+52. Setting a Map
+A map is said to be set or "oriented" when it is laid out
+direct correspondence with the ground so that the true
+north on the map corresponds to the North Point. If, after
+setting, the directions between features on the ground are then
+compared with the same directions as shown on the map,
+they will be seen to be parallel. A map may be set by
+compass or by objects recognizable both on the ground and
+on the map.
+53. Setting by Compass
+1. Lay the compass, opened, over the "magnetic north"
+line (produced if necessary) given on the map, so that the
+notches representing the zero line of the compass fall directly
+over the magnetic north line of the map.
+and compass together until the needle pointing to magnetic
+north is on the same line. The map is now set.
+

@@ -1,0 +1,26 @@
+pg_0026.pdf:
+should be
+turning both of the wheels, that the braking
+effect on them is equal.
+After these have been adjusted and equalised
+disconnect 2A (see diagram), taking care not to alter the link adjust-
+ment, and equalise IA and 3A.
+Then disconnect IA and 3A and
+connect and equalise 2A and 4A, afterwards re-connecting all links
+and making final adjustments for running clearance by means of
+the turnbuckle between the cross shaft and the servo mechanism.
+A similar procedure should be followed when equalising the hand
+brake adjustments,
+commencing with IB and
+2B only connected
+while being equalised, and proceeding by disconnecting 2B and con-
+necting iB and 3B as in the case of the foot brake.
+Final adjustment
+for running clearance will then be made by means of the turnbuckle
+between the lower end of the hand brake lever and the brake cross
+shaft.
+The above description may seem to the reader to be lengthy and
+complicated, but it will be found that, in order to ensure equal adjust-
+ment and consequent equal life of the brake-shoes, it is well worth
+carrying out methodically, as it will probably save time in the end
+

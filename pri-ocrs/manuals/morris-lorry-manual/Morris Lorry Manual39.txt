@@ -1,0 +1,39 @@
+pg_0039.pdf:
+Says not appreciably greater
+than the standard amount, as an unduly wide opening would not
+only cause a possibility of misfiring, but would also cause undue
+wear.
+F
+B
+• C
+Fig. 2. View of Contact Breaker.
+B Contact breaker lever.
+E Securing nut.
+C-Fibre heel.
+F -Hexagon head.
+D Gap between contacts.
+G Securing bolt.
+H- Locating spring.
+If, when the contact points are examined, it is found that they
+are burned or blackened, they may be cleaned with very fine emery
+cloth, and afterwards with a cloth moistened with petrol. Care
+must be taken that all particles of dirt and metal dust are wiped
+away.
+To render the points accessible for cleaning, it is necessary
+to withdraw the contact breaker from its housing by unscrewing
+the hexagon-headed bolt "G" with the magneto spanner.
+The
+whole contact breaker can then be pulled off the tapered shaft
+on which it fits.
+Now push aside the locating spring.
+"H," prise
+the rocker-arm off its bearings, and it will be possible to begin
+cleaning the points.
+When replacing
+the contact breaker, care should be taken to
+ensure that the projecting key on the tapered portion of the con-
+tact breaker base engages with the keyway cut in the armature
+spindle, or the whole timing of the magneto will be upset. The
+hexagon-headed bolt should be tightened up with care; it must
+be neither too slack, nor must undue force be used.
+

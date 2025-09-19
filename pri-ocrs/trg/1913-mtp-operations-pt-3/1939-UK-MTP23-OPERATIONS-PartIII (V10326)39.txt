@@ -1,0 +1,46 @@
+pg_0039.pdf:
+V10326 (38) Digitised by the Vickers MG Collection & Research Association - www.vickersmg.org
+32
+CHAPTER V
+SIGNALS SECURITY
+19. Wireless security
+1. All messages sent by wireless (W/T and R/T) are liable
+to interception by an enemy. The approximate position of a
+wireless station can also be determined by an enemy using
+direction-finding apparatus.
+The following precautions may therefore be necessary to
+obtain wireless security.
+i. Wireless silence.
+ii. Wireless restriction, including use of cipher for W/T
+and restriction in the use of R/T.
+ili. The periodical changing of wireless frequencies and
+call signs.
+2. Wireless silence.—A commander who is anxious to conceal
+the dispositions and movements of his troops will risk the loss
+of surprise unless he is prepared to impose complete or partial
+wireless silence. No fixed rules can be given since the
+importance of secrecy must be weighed against the need for
+control and information, but as a general guide wireless
+silence should be observed by all except the following : —
+i. Reconnaissance troops and aircraft when no other
+effective means of communication are available.
+The unit or formation headquarters receiving such
+wireless messages will acknowledge them by
+wireless and may ask for any necessary corrections,
+but this does not permit the full use of its wireless.
+ii. A unit or formation headquarters, when its forward
+elements are in contact with enemy troops and
+it is, itself, exercising tactical control of operations.
+iii. A unit or formation in cases of extreme urgency, when
+no other effective means of communication are
+available.
+The wishes of a commander in the matter of wireless silence
+are often better conveyed in the form of an operation instruction
+than in an operation order.
+3. Wireless vestriction.—Although messages may be inter-
+cepted, an interval must always elapse before the enemy can
+act on the information received.
+The sending of W/T
+messages in clear and the free use of R/T are therefore justified
+V10326 (38) Digitised by the Vickers MG Collection & Research Association - www.vickersmg.org
+

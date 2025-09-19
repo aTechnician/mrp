@@ -1,0 +1,53 @@
+pg_0057.pdf:
+BELFAST
+3-5, Calvin Street.
+Telegrams : "Servdep, Belfast"
+Telephone
+BIRMINGHAM
+Great Hampton Street.
+Telegrams : "Lucas, Birmingham"
+Telephone : Northern 2201
+BRISTOL
+25, Temple Street.
+Telegrams: "Kingly, Bristol"
+Telephone: Bristol 6661 & 7665
+COVENTRY
+Priory Street.
+Telegrams : "Lucas, Coventry"
+Telephone : Coventry 1868
+DUBLIN
+41, Middle Abbey Street.
+Telegrams : "Autolite, Dublin"
+Telephone : Dublin 653
+GLASGOW
+227-229, St. George's Road.
+Telegrams: "Lucas, Glasgow"
+Telephone : Douglas 3075-6
+LEEDS
+117, Park Lane.
+(Roseville Road, opening
+shortly.)
+Telegrams : " Rotax, Leeds"
+Telephone : Leeds 26788
+LONDON
+• Dordrecht Road, Acton Vale,
+W.3.
+Telegrams : " Dynomagna, Act, London"
+Telephone : Chiswick 2000 (7 lines)
+LONDON
+759, High Road, Leyton, E.10. Telegrams : "Luserdep, Walt, London"
+Telephone: Walthamstow 1838
+LONDON
+155, Merton Road, Wands-
+worth, S.W.18.
+Telegrams : "Luserv, Wands, London"
+Telephone: Putney 0235
+MANCHESTER
+Talbot Road, Stretford.
+Telegrams : "Lucas, Stretford"
+Telephone : Trafford Park 1410-1-2
+NEWCASTLE-ON-TYNE
+63, St. Mary's Place.
+Telegrams: "Motolite, Newcastle-on-Tyne"
+Telephone : City 237-8
+

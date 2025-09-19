@@ -1,0 +1,62 @@
+pg_0011.pdf:
+mount of gas being supplied to the engine
+main use, however, is as a slow-running and starting adjustment,
+which enables the throttle to be kept away from the fully shut
+position when starting up from cold.
+The throttle adjustment is
+open when it is farthest from the driver, and shut when it is toward
+the driver.
+The chief control for the throttle is the accelerator
+pedal, which is situated at the extreme right of the foot board
+The left-hand lever on the steering column is the magneto advance
+and retard.
+The advance
+position is
+forward
+and the
+towards the driver.
+Regarding the pedals:
+the left-hand
+retard
+pedal,
+following the usual custom, controls the clutch, and the right-hand
+the foot brake.
+REVERSE
+FOURTH!
+SECOND
+The gear positions of the Morris-Commercial Six-wheeled Truck.
+Gears
+In addition to the standard four-speed gearbox, an auxiliary
+double reduction gear unit is provided. For the four-speed unit.
+the lever positions are stamped
+on the gate, and are as follows
+First speed, to the right and forward.
+Second speed,
+back from the position of the first.
+straight
+from neutral.
+Third speed, straight forward
+Fourth speed, straight back from the third.
+To
+engage the reverse gear it is necessary to lift the reverse stop by
+means of the small finger piece at the side of the lever.
+This allows
+the lever to be moved to the left and forward into reverse.
+The auxiliary gearbox is situated at the rear of the four-speed
+unit, and the operating lever is to the rear of the change-speed
+lever of the former.
+When this lever is right forward, away from
+the driver, the drive is direct on the four-speed box, and when the
+lever is pulled right back towards the driver, the following overall
+reductions are obtainable :-
+Ist
+2nd
+3rd
+4th
+Reverse
+81.5
+57.0
+40.0
+23.5
+104.8
+

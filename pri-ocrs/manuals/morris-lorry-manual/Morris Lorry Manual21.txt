@@ -1,0 +1,50 @@
+pg_0021.pdf:
+Braking System
+Used on the Morris-Commercial Six-Wheeled Truck
+T
+HE Dewandre Vacuum Servo utilises the vacuum created
+in the induction pipe of the engine through the closing of
+the throttle valve of the carburetter. When depressing
+the
+brake pedal the induction is put into communication with a cylin-
+der, in which a piston is connected through levers with the brake-
+rods. The piston is drawn into the cylinder and pulls on the
+brakes.
+This device enables the driver to bring a vehicle to a standstill
+with considerably less effort than when the pedal is only acting
+on the brake system. If for any reason the servo is out of action,
+the driver is able to operate his brakes in the usual way.
+No special attention is required in connection with the servo,
+but from time to time it is advisable to pour a small quantity of
+cylinder oil on to the levers. This can easily be done by removing
+the top cover.
+Method of Operation
+The normal positions of the various parts when the brake is not
+in use are as shown in Fig. I, the levers "C" and "D" resting against
+the stop "M."
+When the brake pedal is depressed by the foot, and a pull exerted
+on the rod "E," the lever "C" is pulled forward (to the extent
+of the clearance at "Hr") causing a push on the rod "J," and so
+opening, through the locking lever
+"K," the valve "A," which
+puts the suction cylinder into communication with the induction
+pipe of the engine.
+The suction acting on the piston "P" exerts a pull on the lower
+end of the lever "C,'
+which, using
+"N" as its fulcrum point, carries
+with it the lever "D," and augments or supplements the pull on
+rod "F,
+" in the ratio of four to five on the part of the servo to one
+applied by the driver.
+To properly appreciate this action it must be remembered that
+the position of the fulcrum point "N" is maintained by the pres-
+sure of the driver on the brake pedal, so that the pull of the piston
+is reacting against the driver's effort.
+As soon as the fulcrum point "N" becomes stationary (that is,
+when no further movement of the brake pedal takes place) the
+pull of the piston will cause the lever "C" to turn on this fulcrum
+and so release the push on the rod "J," until the valve "A" closes
+and arrests any further pull of the piston.
+18
+

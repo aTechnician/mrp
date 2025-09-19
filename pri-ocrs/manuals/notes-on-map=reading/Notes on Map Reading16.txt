@@ -1,0 +1,100 @@
+pg_0016.pdf:
+20
+1
+To construct, for sketching, a scale of pace RF 15,840
+(Assume that a pace is equal to 30 inches).
+is
+15,840
+equivalent to 4 inches=1 mile=1,760 yards.
+6 inches=1} miles=2,640 yards= -
+2,640X36
+=3,618 paces.
+Therefore take 3,000 paces as the length of the scale
+x : 3,000 paces
+From which x=5•68", and the scale will be drawn and
+figured as shown in Fig. 5.
+2. Diagonal Scale.-This is a device for dividing a primary
+division into very small
+If carefully drawn
+divine note papert divid ith the best for be
+a hard sharp pencil must be
+The scale is constructed as follows (Fig. 7):—
+Draw 10 equidistant lines, I, II, III
+• parallel to the scale line.
+IX
+the figure the interval between these
+lines has been taken at about one-sixth
+VIL
+vI
+inch, but it may be any convenient dis-
+tance.
+It is important that the lines
+should be exactly equidistant.
+Draw a line at each end of the pri-
+mary (in this case 1 inch division of a
+scale) perpendicular to these parallel
+Divide the top and bottom lines
+(here inches) into the required number
+(here 10) equal parts and number the
+points of division (0 to 10) as shown.
+Join O on the bottom line to 1 on the
+top, 1 on the bottom to 2 on the top;
+and so on as shown.
+Then to measure the distance 0•76 inch.
+say, run up the diagonal numbered 7 as far as the horizontal
+The distance from this crossing to the right-hand
+perpendicular zero line is 0•76 inch. (See also Plate XV.)
+16. The Choice of Scale
+Maps supplied to the army, in peace or war, vary in scale
+from a quarter of an inch to
+inches to the mile.
+The ht to the sil, to train tely for
+operations
+inch to the mile.
+Large scale
+(approximately
+22 inches to the mile) are used for special
+types of
+training
+and will be issued
+when possible,
+pre-arranged
+operations in war. Small scale maps, quarter
+inch to the mile, are issued for specially mobile operations,
+and for transport and communications.
+The scale at which a field sketch is made depends on the
+object in view.
+and therefore on the amount of information
+regarding the features of the country which is required.
+is important that the student should realize that the area of
+paper in a map or sketch varies as the square of the number
+of inches to the mile (or of centimetres to the kilometre).
+Thus a portion of ground of a given area will cover four times
+as much paper on a scale of 2 inches to the mile as on a scale
+of 1 inch to the mile.
+Beware then of attempting to crowd
+upon a sketch at a scale of 1 inch to the mile all the detail
+and information
+which would appear more correctly
+scale of 2 inches to the mile.
+Fig. 8 shows a square mile in its actual dimensions on
+different scales, and gives a good indication of the most
+suitable scale to choose for any given purpose.
+Road
+or river reconnaissances and sketches of a defensive
+A Square of l-mile side on 5 Scales.
+1: 20.000
+3-168 SIMILE
+1: 40000
+/-S84"* / MILE
+1:63.380
+/ = I MILE
+1:126,720
+1:253.440
+FIa. 8.
+or outpost position are usually made on scales ranging from
+1 to 4 inches to 1 mile. Sketches which may be required for
+the defence of a village or town, or for the selection of a camp
+or billeting area, are generally made on scales ranging fron
+inches to 1 mile and upward
+

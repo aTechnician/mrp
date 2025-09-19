@@ -1,0 +1,131 @@
+pg_0057.pdf:
+66
+66. Liquid Prismatic Compass
+The advantage of this type is that the card, being immersed
+in liquid, comes to rest very much more quickly than in the
+It is therefore unnecessary to provide a
+check-spring and stop.
+In other respects the compass
+generally the same as Mark VIII, but a few points of differ-
+ence may be noticed.
+graduation on the card is transparent.
+luminous patch on the bottom of the box beneath the erected
+prism emits rays which illuminate the graduation at night.
+On the glass which seals the liquid there is another luminous
+patch near the hinge; on this horizontal patch the lubber
+line is drawn.
+The setting circle is etched on the upper
+glass, whose cell is milled and rotates as in the dry type. The
+bearing is then set for night marching by bringing the desired
+reading on the upper glass into coincidence with the lubber
+(Note that in this graduation (5º) the short division
+traces correspond to the figures.)
+There is, however, a setting
+vane for use with the points of the compass, which form the
+to this setting
+singe there is, as belore, a corresie to this set the
+movable upper glass.
+Bubble in the liquid may be trapped by turning the box
+over and slowly turning it back.
+67. Lensatic Liquid Compass
+This compass may be met with in the service. but it is not
+a general issue and is not now manufactured.
+It is in appear-
+ance similar to the, Liquid Prismatic Compass,
+reading lens takes the place of the prism of the latter.
+lens is mounted in a circular metal frame which is hinged to
+and has a sighting slit cut above the lens.
+reading, the compass is held in the same way as the Prismatic
+with the reading lens upright, and the hair-line on the window
+is sighted on the distant object through the slit in the lens
+holder and the bearing is read by means of the lens direct on
+the compass card opposite the lubber line.
+To adjust the
+focus of the lens its holder should be tilted slightly forward
+or backward
+as required.
+The compass card is graduated
+scale only;
+this is in
+single degrees-
+numbered-and reads clockwise from the North point.
+The setting circle for night marching is fixed to the case
+of the com ass.
+is graduated
+anticlockwise
+mark over the lubber line below the lid hinge.
+20° graduation from zero is marked with a spot of
+luminous paint, the graduations 360°, 270°, 180° and 90° each
+The luminous setting index is
+67
+carried on a metal ring inside the setting scale and is rotated
+by means of two small studs on it.
+68. Compass Errors
+1. Terrestrial Disturbances.-The presence
+of iron always
+affects a compass,
+and great care should be taken to with-
+draw from any
+of iron when taking an
+observation.
+The following are minimum safe distances for visible masses
+of iron:—
+Heavy gun..
+Field gun and telegraph wires.
+Barbed wire ..
+60
+40
+10
+yards
+Steel helmet..
+Cap badge
+Box respirator ...
+in
+" slung" position
+Electric
+cables and wires,
+dumps,
+railroads, tractors
+cor-
+rugated iron hutments, steel or " rolled gold " spectacle frames
+and the like should be avoided.
+Iron on the surface can be avoided, but when it lies below
+ground it presents a serious difficulty.
+Pipe lines below
+streets, or buried shells in battlefields,
+may be suspected,
+but in general there is no means of detecting masses of iron
+ore the common cause of error-except by the behaviour
+of the compass itself.
+If there is the least suspicion of disturbance the position
+of the compass should
+The compass may
+showing that there had been local
+different reading, it does not alter, there remains the
+some widespread local magnetic field.
+following test may be helpful although it is not conclusive.
+Consider the forward (direct) and backward (reverse) bear-
+ings of the line AB in Fig. 32
+The bearings AB at A and
+BA at B should differ by 180°; if they
+do not, there is
+presumably disturbance at A or B, or both.
+Every ordinary compass has its individual variation, which
+may differ from the mean.
+Compass users should not rely
+too much on the magnetic variation as charter (Plate VIII),
+but should test their compasses on lines of known true
+bearing, between trig points; and this should be done period-
+Bearings taken from a small scale map by a small
+protractor are
+barely good enough for this purpose; a goo
+ircular protractor and large scale map 1/20,000 are neces
+In addition the line of known bearing may not be free from
+magnetic disturbance:
+hence
+comparisons
+at both extremi-
+ties are desirable, and if possible a comparison should be made
+on two different lines.
+24531—54
+

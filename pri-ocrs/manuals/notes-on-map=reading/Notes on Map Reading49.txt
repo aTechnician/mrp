@@ -1,0 +1,94 @@
+pg_0049.pdf:
+56
+2. If true north only is shown on the map
+(either by a
+special marginal north point or by the east and west margins
+of the map itself), then set off magnetic north from true north
+with the protractor, draw in the magnetic north line and
+proceed as above.
+Strictly speaking, it is not absolutely necessary to draw in
+the magnetie north line.
+If the compass is aligned on the
+"true north" line, and map and compass are revolved until
+the compass card (inner graduation) reads the amount of the
+local variation east or west (against the index at the hinge),
+the correct setting of the map will have been obtained.
+3. British military maps are normally over-printed with
+a grid, and in the margin of the map information is given as
+to the relation between grid north, true north, and magnetic
+north, for that particular sheet.
+Thus, either of the above
+methods can be used, substituting grid north for true north
+and the angle between grid and magnetic north for magnetic
+54. Setting by Objects
+A map can be set on the ground without using the north
+point as follows: —
+i. If the observer's position can be identified as some
+point marked or known on the map,
+the next step is to
+identify, also on the map, some distant object which can be
+the ground.
+Join the two points by a straight line.
+Then turn the map about until this line points to the distant
+The map is then set.
+ii. Even if the exact position of the observer cannot be
+identified on the map, it may be possible, by moving slightly
+to one side or the other, to find a place in prolongation of some
+straight road, railway, canal, telegraph line or other feature
+shown on the map. Fig. 30 should be studied in reading this
+and the subsequent paragraph. It is not necessary that the
+straight line should be continuous.
+It may happen that a
+distant spire and a near-by fence corner are seen to be in a
+line from the observer's position and can be identified on the
+If then the map is so placed that the line through
+them coincides with, or is parallel to, the same line in nature,
+It sometimes
+happens that two con-
+spicuous points appear opposite each other on either side of
+the observer (say at P). In this case draw on the map the
+line joining them, and lay the map on the ground so that
+this line points to one of them (say F).
+Now look in the
+direction and see if the other point, say G, is in
+prolongation of the line. If it falls to the right (left) move
+to the right (left) and try again.
+57
+ili. A map can be set approximately for reading by iden-
+tifying on the map prominent objects than can be seen.
+The
+F
+C
+B
+OA
+FIG. 30.
+map is then held so that the directions between these objects
+as they appear on the ground and on the map are parallel to
+one another.
+55. Finding Position on a Map
+1. It will be observed that in the case considered under
+Sec. 54, ii, above, the position is not fixed, but only a straight
+line on which that position must lie.
+With this information,
+however, the map being set, it is usually quite easy to deter-
+mine the position with all the accuracy required for map
+reading, as apart from sketching
+2. In general, in fully developed and fully mapped coun
+tries like the United Kingdom, the correct position can be
+fixed from map detail.
+The position is first fixed roughly in
+relation to the greater features around, such as hills, villages.
+voods. roads and the like. The locality being thus identified.
+exact location is found by means of the smaller features. For
+purpose, the intersections
+of fences, the windings of
+streams, the presence of farmhouses, lanes and tracks, corners
+of copses and
+other minor
+features are
+according to circumstances.
+Here, as in setting,
+it is often
+easy to identify on the map two fences or other straight lines
+which, if produced, intersect near the required spot. (Refer
+

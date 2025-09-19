@@ -1,0 +1,43 @@
+pg_0047.pdf:
+54
+of its appropriate East and North lines.* This is known as
+a "Pin Point" reference and is seldom required except by
+technical troops.
+50. Foreign Systems
+In order to describe
+foreign methods of referencing the
+following terms must be used:
+Unit of reference is the number represented by the estimated
+tenth of the side of the square.
+In the British Modified
+System this is 100 yards or metres on the one inch, and a
+thousand yards
+quarter inch (see
+explanatory diagrams at the side of Plates XI and XII).
+Area of Reference
+is the area
+or square within which
+references are being given.
+51. Use of Foreign Systems
+1. Foreign grid systems can be used in the style of the
+Modified British System.
+The unit of reference is generally
+100 metres on large and standard, and 1,000 metres on small
+MAP REFERENCING
+when Grid Lines are spaced at fives instead of tens-
+note construction of "Romer"
+(example of this spacing-the German 1:100,000.)
+4520
+25
+10
+6,
+Map Reference for 0
+264988
+5795
+72
+183
+94
+10 5
+Ftg. 29.
+* Full reference 93414859.
+

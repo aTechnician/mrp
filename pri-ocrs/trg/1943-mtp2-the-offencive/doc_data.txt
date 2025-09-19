@@ -1,0 +1,641 @@
+InfoBegin
+InfoKey: Creator
+InfoValue: Adobe Acrobat Pro (64-bit) 24.3.20180
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20241011122950+01&apos;00&apos;
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20241011101535+01&apos;00&apos;
+InfoBegin
+InfoKey: Producer
+InfoValue: Adobe Acrobat Pro (64-bit) 24.3.20180
+PdfID0: 372043d06d41714ca375ab28fbf62820
+PdfID1: f81478f5d4a4994e9bb19a41089d6a9a
+NumberOfPages: 70
+BookmarkBegin
+BookmarkTitle: V10323 (1) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: V10323 (2) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 3
+BookmarkBegin
+BookmarkTitle: V10323 (3) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 4
+BookmarkBegin
+BookmarkTitle: V10323 (4) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 5
+BookmarkBegin
+BookmarkTitle: V10323 (5) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: V10323 (6) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 7
+BookmarkBegin
+BookmarkTitle: V10323 (7) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: V10323 (8) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 9
+BookmarkBegin
+BookmarkTitle: V10323 (9) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: V10323 (10) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: V10323 (11) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: V10323 (12) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: V10323 (13) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: V10323 (14) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 15
+BookmarkBegin
+BookmarkTitle: V10323 (15) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: V10323 (16) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: V10323 (17) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: V10323 (18) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: V10323 (19) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: V10323 (20) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: V10323 (21) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: V10323 (22) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 23
+BookmarkBegin
+BookmarkTitle: V10323 (23) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: V10323 (24) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 25
+BookmarkBegin
+BookmarkTitle: V10323 (25) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: V10323 (26) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: V10323 (27) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 28
+BookmarkBegin
+BookmarkTitle: V10323 (28) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: V10323 (29) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: V10323 (30) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle: V10323 (31) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: V10323 (32) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: V10323 (33) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: V10323 (34) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 35
+BookmarkBegin
+BookmarkTitle: V10323 (35) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 36
+BookmarkBegin
+BookmarkTitle: V10323 (36) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 37
+BookmarkBegin
+BookmarkTitle: V10323 (37) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 38
+BookmarkBegin
+BookmarkTitle: V10323 (38) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 39
+BookmarkBegin
+BookmarkTitle: V10323 (39) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 40
+BookmarkBegin
+BookmarkTitle: V10323 (40) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: V10323 (41) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 42
+BookmarkBegin
+BookmarkTitle: V10323 (42) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 43
+BookmarkBegin
+BookmarkTitle: V10323 (43) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: V10323 (44) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 45
+BookmarkBegin
+BookmarkTitle: V10323 (45) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 46
+BookmarkBegin
+BookmarkTitle: V10323 (46) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 47
+BookmarkBegin
+BookmarkTitle: V10323 (47) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 48
+BookmarkBegin
+BookmarkTitle: V10323 (48) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: V10323 (49) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 50
+BookmarkBegin
+BookmarkTitle: V10323 (50) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 51
+BookmarkBegin
+BookmarkTitle: V10323 (51) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 52
+BookmarkBegin
+BookmarkTitle: V10323 (52) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 53
+BookmarkBegin
+BookmarkTitle: V10323 (53) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: V10323 (54) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 55
+BookmarkBegin
+BookmarkTitle: V10323 (55) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 56
+BookmarkBegin
+BookmarkTitle: V10323 (56) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 57
+BookmarkBegin
+BookmarkTitle: V10323 (57) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 58
+BookmarkBegin
+BookmarkTitle: V10323 (58) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 59
+BookmarkBegin
+BookmarkTitle: V10323 (59) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 60
+BookmarkBegin
+BookmarkTitle: V10323 (60) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 61
+BookmarkBegin
+BookmarkTitle: V10323 (61) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 62
+BookmarkBegin
+BookmarkTitle: V10323 (62) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 63
+BookmarkBegin
+BookmarkTitle: V10323 (63) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 64
+BookmarkBegin
+BookmarkTitle: V10323 (64) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 65
+BookmarkBegin
+BookmarkTitle: V10323 (65) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 66
+BookmarkBegin
+BookmarkTitle: V10323 (66) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 67
+BookmarkBegin
+BookmarkTitle: V10323 (67) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 68
+BookmarkBegin
+BookmarkTitle: V10323 (68) WM
+BookmarkLevel: 1
+BookmarkPageNumber: 69
+BookmarkBegin
+BookmarkTitle: ManualTopper 2025
+BookmarkLevel: 1
+BookmarkPageNumber: 70
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 6
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 7
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 8
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 9
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 10
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 11
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 12
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 13
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 14
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 15
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 16
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 17
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 18
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 19
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 20
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 21
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 22
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 23
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 24
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 25
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 26
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 27
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 28
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 29
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 30
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 31
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 32
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 33
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 34
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 35
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 36
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 37
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 38
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 39
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 40
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 41
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 42
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 43
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 44
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 45
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 46
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 47
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 48
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 49
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 50
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 51
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 52
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 53
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 54
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 55
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 56
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 57
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 58
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 59
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 60
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 61
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 62
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 63
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 64
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 65
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 66
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 67
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 68
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,388 2,170
+PageMediaDimensions: 1,388 2,170
+PageMediaBegin
+PageMediaNumber: 69
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,397 2,153
+PageMediaDimensions: 1,397 2,153
+PageMediaBegin
+PageMediaNumber: 70
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89

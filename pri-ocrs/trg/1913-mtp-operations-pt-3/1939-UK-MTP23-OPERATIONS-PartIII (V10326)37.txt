@@ -1,0 +1,49 @@
+pg_0037.pdf:
+V10326 (36) Digitised by the Vickers MG Collection & Research Association - www.vickersmg.org
+30
+In protracted operations, where buried cables are installec
+within divisional areas, this general co-ordination may extenc
+to the front line.
+17. Organization of wireless communication
+1. Allotment of wave frequencies.—Subject to any genera
+directions as to policy or any special requirements laid dowi
+by the general staff, the allotment of frequencies for use by
+the Army and by the R.A.F. component is controlled by the
+signal officer-in-chief. He will allot blocks of frequencies to
+all formations which come directly under G.H.Q., to line ot
+communication and G.H.Q. signals, as well as those required
+by the air officer commanding for communication with army
+co-operation wings and air formations directly under air force
+headquarters.
+Similarly signal officers of lower formations, on receipt of a
+block of frequencies, will make their own
+sub-allotments
+Detailed instructions are given in Signal Training, Vol. I, 1937,
+Chapter XX
+2. Allotment of call signs.—The allotment of call signs
+requires the same co-ordination as frequencies and is therefore
+made under the instructions of the signal officer-in-chief. As
+it is bound up, however, with other security questions, it is
+subject to the control of the general staff.
+Call signs for use by the R.A.F. component of an army in the
+field are allotted by the army. For wireless call signs to be
+used in communication with army co-operation aircraft see
+The Employment of Air Forces with the Army in the Field,
+1938, Sec. 17, 10.
+3. Grouping of wireless stations.—A number of wireless
+stations working together on one frequency is called a group.
+A group of two stations resembles, in traffic capacity, two
+L/T terminals at the end of a line, subject to the delay imposed
+by cipher.
+If there are more than two stations in a group, only one can
+transmit at a time, and messages from any one of the group
+are received simultaneously by all the others. Such an
+arrangement is often useful for transmitting multiple addressed
+messages. The traffic capacity, however, diminishes as the
+Such a group should have a fair traffic capacity, and at the
+same time
+provides lateral communication
+subordinate formations.
+between the
+V10326 (36) Digitised by the Vickers MG Collection & Research Association - www.vickersmg.org
+

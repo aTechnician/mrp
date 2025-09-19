@@ -1,0 +1,48 @@
+pg_0041.pdf:
+101
+we vetecuon anu
+nencuy
+of Ignition Faults
+If a failure of the ignition is suspected, unless the cause is at
+once apparent, the reader is strongly recommended to proceed in
+accordance with the following routine, which should quickly enable
+him to locate the trouble.
+If mistiring occurs in only one cylinder, either the plug lead or
+the plug itself may be at fault. An examination of the high-ten-
+sion cables may reveal the fault. Rubber is apt to perish or crack
+with age, and it will not last for ever. If a spare plug is at hand,
+it may be substituted for the suspected one, or if it is merely the
+gap that is too large it may be adjusted. (See page 35.)
+Missing on full throttle is sometimes due to the plug gaps being
+too wide. Bad plug insulation is sometimes caused through sooting,
+and may occasionally be remedied by washing the plug out with
+petrol.
+It is sometimes recommended to remove the plug, and,
+resting the body on the cylinder head, to observe whether a spark
+occurs at the points when the engine is turned by hand. It should
+be noted, however, that this is only a rough test, since it is possible
+that a spark may not take place when the plug is under compression.
+If it is suspected that the ignition has failed completely in all
+cylinders, this may be checked by removing from the plug ter-
+minals one or more of the high-tension cables and observing whether
+a spark takes place on turning the engine round with the terminal
+lead held about & in. from some metal part of the engine.
+If no
+spark takes place, examine first the earth wire leading from the
+magneto to the cut-off switch; it may have been accidentally
+earthed. This may be checked by temporarily removing the
+contact breaker end cover, enabling the magneto to function
+correctly again.
+If the fault is not yet apparent, before replacing the contact
+breaker cover, turn the engine slowly by hand and examine the
+notion of the on act bree spins, but sible the the leventis
+open as it is rotated. If this appears to be so, remove the contact
+breaker, and, applying pressure with the finger on the fibre heel
+," observe whether the points readily open and close. If they
+are at all sluggish, push aside the locating spring "H" and, prising
+the rocker-arm off its bearing, examine the steel pin on which it
+works. Clean this, if necessary, with fine emery cloth, wiping
+away all grit and moistening the pin with oil before replacing the
+lever. We need hardly warn the reader that no trace of oil should
+be left anywhere near the contact points after this has been done.
+

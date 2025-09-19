@@ -1,0 +1,44 @@
+pg_0029.pdf:
+V10326 (28) Digitised by the Vickers MG Collection & Research Association - www.vickersmg.org
+22
+If an acknowledgment is also required from those to whom it
+has been repeated, " all ack" will be used. To reduce signal
+traffic, however, acknowledgments should be asked for only
+when the sender must know at once that a particular message
+has been delivered.
+14. Signature.—All messages will be signed by the originator
+with his name and rank only.
+15. Originator's instructions.—The originator is responsible
+for informing signals of any precaution necessary in the method
+of transmission. This he does by signing in the appropriate
+space at the foot of A.F.C.2128; he need not delete the space
+not signed. He will write any other instructions in the space
+marked " Originator's Instructions. Degree of priority."
+16. Degree of priority.—If a special degree of priority (see
+para. 17, below) is required, the indication (e.g. " immediate ")
+Will be written in full in the space marked " Originator's
+instructions. Degree of priority." In multiple address
+messages the copies for some only of the addressees may require
+a degree of priority. Originators will ensure that this is given
+only to those copies which require it.
+17. Priority.—Messages are sent in the order in which they
+are handed in unless a special degree of priority is indicated
+by the originator.
+They will be classified in accordance with their relative
+urgency as follows :—
+i. (a) Most immediate ;
+(b) Emergency operations.
+ii. Immediate.
+iii. Important.
+iv. Other official messages.
+v. Private messages, if they are to be accepted.
+Precedence of despatch for messages franked in the same
+way will be according to the time of their receipt by signals.
+18. " Most immediate." -Only a commander-in-chief or his
+chief general staff officer will frank a message in this way. It
+will be reserved for occasions of vital urgency; it not only
+gives absolute priority of despatch on army signals system but
+on those of the Royal Navy and Royal Air Force, and on those
+controlled by the civil administration.
+V10326 (28) Digitised by the Vickers MG Collection & Research Association - www.vickersmg.org
+

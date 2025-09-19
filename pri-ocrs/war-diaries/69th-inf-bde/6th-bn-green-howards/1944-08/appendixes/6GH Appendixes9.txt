@@ -1,0 +1,22 @@
+pg_0009.pdf:
+Copy No.
+Ref Mope: 1/25,000 3hegte 374 STaSE-
+43
+12h & 347 Pd Regta
+START LINE
+k
+87
+7
+41
+BARRACELL
+Nap Refe - Corners of Barrage,-
+85154237
+86294247
+86404140
+85244129
+Ht
+265 m
+253 m
+209 к
+215 m
+

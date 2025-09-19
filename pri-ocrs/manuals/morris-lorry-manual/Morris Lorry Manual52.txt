@@ -1,0 +1,49 @@
+pg_0052.pdf:
+ACU LUUUCI
+tube as far as possible in the acid, then gradually lessen the pressure
+on the bulb until the acid solution rises in the barrel lifting the
+hydrometer float about 1, in.
+Removing the hydrometer from
+the cell, note the scale reading at the surface
+of the electrolyte; this gives
+the density or
+specific gravity.
+Care must be taken that the
+stem of the float does not touch any part of the
+barrel or bulb while the reading is actually being
+taken.
+Period for which a Battery should be Charged
+It is difficult to lay down rigid instructions on
+this subject, as the
+conditions under
+which
+vehicles are used vary considerably. The follow-
+ing suggestion will, however, serve as a rough
+guide.
+For vehicles running regularly under normal
+conditions the battery should be kept on charge
+approximately two or three hours dally during
+laytime running. This time should be increased
+if there has been an extra drain on the batteries,
+e.g. if the vehicle has been stationary for longer
+periods than usual at night with the lights on.
+If it is found that, with the amount of daytime
+charging decided on, the density of the acid
+is
+too high (1.250 or over) and the acid level is
+apt to get unusually low, or if, when running, it
+is found that the lamp
+bulbs are too bright and
+are liable to burn out, it is then desirable to cut
+down the charging time or the output of the
+dynamo (see page 42). Similarly, if the battery
+density gets too low (I.150 or under) and the lights
+Fig. 8.
+become too dim, especially when standing, either
+Syphon hydrometer.
+the charging time should be increased or the
+output of the dynamo increased.
+It is preferable to increase the charging time rather than the
+dynamo output, and an adjustment should only be made when
+this is not possible.
+

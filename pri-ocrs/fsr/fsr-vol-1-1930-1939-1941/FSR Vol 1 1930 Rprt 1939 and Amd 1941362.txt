@@ -1,0 +1,29 @@
+pg_0362.pdf:
+V07795 (361) Digitised by the Vickers MG Collection & Research Association - www.vickersmg.org
+Appendix II.]
+333
+2. Fig. 1.-Example of a simple statistical graph to
+show the number of rations in hand at a post.
+Data (a) The normal garrison of the post is 100 men.
+(b) On the Ist January the number of rations in
+hand is 4,000.
+(c) On 11th, 500 more rations will arrive.
+(d) From 15th to 20th another detachment of
+200 men will be attached to the post for
+rations.
+FIG. 1.
+6) 4000
+- 3000
+E. 2000
+1000
+B
+g& Jan (Days)
+20
+30 * Feb
+To construct the graph.From the point O draw the
+lines OA and OB at right angles. In this case the point
+represents 0 rations and ist January. Each division
+on OA represents 200 rations and on OB one day. On
+Ist January there are 4,000 rations in hand. Plot the
+V07795 (361) Digitised by the Vickers MG Collection & Research Association - www.vickersmg.org
+

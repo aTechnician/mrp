@@ -1,0 +1,45 @@
+pg_0025.pdf:
+V10326 (24) Digitised by the Vickers MG Collection & Research Association - www.vickersmg.org
+18
+10. Place
+1. The name of a place at which a headquarters is situated
+or from or to which a message is despatched will never be given
+unless it is essential to ensure correct transmission or delivery,
+or to make the sense plain.
+2. Names of places will be written in block capitals, thus—
+LONDON, exactly as spelt on the maps in use.
+If more than
+one place of the same name exists, misunderstanding must
+be avoided by the use of a map reference.
+3. If a map is referred to, the one used must be specified
+unless, in the knowledge of the sender, no confusion can arise
+by the omission of the information. When a map is specified,
+its description will be given under the heading of an order,
+instruction or report, and at the beginning of a message, e.g.
+" Ref. Map 1 inch to 1 mile Sheet 114 WINDSOR."
+4. Points will be described either by co-ordinates (if a
+squared or gridded map is available); or by giving the
+distance and direction from some easily found reference point,
+e.g. i-
+" X rds. ½ mile SW of HASELEY."
+"X rds. 225° from HASELEY CHURCH."
+"X rds. $ mile SIV of second E in (NOT 'of')
+HASELEY" (the letter referred to being underlined
+except in messages to be transmitted by signal in which
+the underlining of individual letters of a word cannot be
+transmitted).
+5. The four cardinal points of the compass will be written
+in full, abbreviations with the letters " N," "S," " E" and
+"W"
+being used to denote intermediate points, e.g. :—
+" South of HASELEY " not "S of HASELEY."
+" SW of HASELEY" not " South-West of HASELEY."
+6. Roads will be indicated by place names on them, care
+being taken to name sufficient places to ensure that the road
+intended is followed. The word " road" will precede, not
+follow, the place names, e.g. " rd BAGSHOT-CAMBERLEY "
+not
+" BAGSHOT-CAMBERLEY rd". Railways may be
+similarly described.
+V10326 (24) Digitised by the Vickers MG Collection & Research Association - www.vickersmg.org
+

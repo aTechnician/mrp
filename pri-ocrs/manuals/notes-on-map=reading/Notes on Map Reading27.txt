@@ -1,0 +1,42 @@
+pg_0027.pdf:
+30
+3. On the map draw
+straight line, AD (Fig. 13),
+running through the portion of the hill of which a section is
+required. Mark on this line the points at which it is inter-
+sected by the contours; then, either on the map, or on a
+separate sheet of paper, draw a horizontal line of equal
+length, AD, representing the level of the lowest contAt
+and mark accurately thereon the contour intersections.
+each of these points erect a perpendicular line and mark on
+the right and
+left uprights equidistant points representing
+the V.I. to which the map is drawn. The vertical scale
+MAP
+(Plan)
+SECTION
+125
+100
+75
+50
+125
+1100
+75
+50
+125
+D
+FIG. 13.
+should be exaggerated to about six times the horizontal scale,
+otherwise the differences in height may not be appreciable.
+Through the equidistant points draw lines parallel to the
+lowest line, and mark these lines successively, corresponding
+to the heights of the contours which they represent.
+From
+X draw a line ascending through the intersection of the vertical
+lines with the contour lines until the bill-top is reached, and
+descending similarly to Y.
+4. From this sketch (Fig. 13) it can again be clearly seen
+that where the slope is gentle the contours are far apart, and
+where steep they are close together. (See also Plate VII and
+Fig. 14.)
+

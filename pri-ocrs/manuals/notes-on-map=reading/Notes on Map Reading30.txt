@@ -1,0 +1,59 @@
+pg_0030.pdf:
+36
+ii. Second Method.-By a simple proportion sum.
+On Plate VII E is the top of a hill which may, or may not,
+be visible from the hill A. The hill D is the intervening
+feature.
+Distance A to D 700 yards.
+Distance A to E 1,520 yards.
+Difference in height A and D 50 feet.
+Difference in height A and E 75 feet.
+The line of sight from A to E rises 75 feet in 1,520 yards. The
+amount it will rise in 700 yards is found by proportion as
+follows: —
+700 : 1,520 : : x : 75
+700X75
+or x= -
+1,520*
+=34•5 feet
+It therefore passes about 15 feet below the summit of D and
+E will not be visible from A.
+iii. Third Method.-By drawing a section (Plate VII):
+ground (ground invisible to the observer) is clearly shown.
+iv. Fourth Method.-By proportion (Plate VII).
+Join the line AB. The terminal heights are 303 and 403,
+and the difference is 100 feet (or four times the V.I.). Divide
+the line AB into parts representing the H.Es. between A (303)
+and 325, 325 and 350, 350 and 375, 375 and 400, and between
+400 and B (403) •
+For example (measurements were made in this instance
+with a centimetre scale, but any convenient unit may
+be used).
+AB is 9•7 cms.
+Now the 1st H.E. (measured from A) is
+100°f 9 - 7 or 2 • 13 cms.
+The 2nd, 3rd and 4th HEs. are each 100 of 9•7 or
+2•43 cms., and the three measure.. ..
+7•29 "
+The last H.E. is— of 9•7.. ..
+0-29
+"
+100
+Total..
+9-71
+Set off these measurements, and the points marked indi-
+cate where the line of sight is at a height of 325, 350, 375
+and 400 feet.
+Compare these heights with the actual
+con-
+tours of the map and see whether at any point the ground is
+higher than the line of sight.
+it is obvious, on inspection, that the ground near is higher
+than the line of sight, and that A and B are not intervisible.
+This method is convenient and quick.
+The division can be
+made on a separate piece of paper, which is then laid on the
+map.
+NorE.-A very practical application of this method is as follows: —
+Take a piece of elastic ribbon. Mark on it devisions of equal size,
+

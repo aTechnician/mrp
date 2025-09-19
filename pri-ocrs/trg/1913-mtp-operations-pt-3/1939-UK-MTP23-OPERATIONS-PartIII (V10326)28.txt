@@ -1,0 +1,51 @@
+pg_0028.pdf:
+V10326 (27) Digitised by the Vickers MG Collection & Research Association - www.vickersmg.org
+21
+7. The text.—This will begin with the originator's dis-
+tinguishing letter and number in the appropriate space.
+Distinguishing letters are given in Appendix IV.
+may employ any combination of letters up tetters are allotter
+provided they have not already been allotted and do not give
+any indication of the identity of the sender, his unit or
+formation.
+8. The distinguishing letters will be followed by a number
+which will be the serial number of outgoing messages from the
+office or appointment held by the originator. A series will be
+repeated on reaching the figure 9999.
+In the date space the day of the month only will be given.
+The month and year will not be shown.
+9. In the text each of the following will be written in one
+space :—
+i. A word, letter or figure.
+ii. An abbreviated word.
+iii. A combination of letters or figures meaning one thing.
+iv. A cipher group (up to five letters or figures).
+v. The sign indicating the full stop (see para. 12, below).
+10. Roman numerals and mathematical signs (e.g. those for
+yards, feet, inches, degrees, percentages, plus and minus)
+cannot be telegraphed and must be replaced by words or
+recognized abbreviations (e.g. yds., ft.).
+11. Letters, letter-ciphers and important words will be
+written in block letters; otherwise capitals will not be used.
+Underlining and the use of dashes and oblique strokes should
+be resorted to only when absolutely necessary, e.g. " W/T"
+" night 2/3 sep."
+The use of parentheses is forbidden, i.e
+" Area HARTLEY ROW 2076-PHOENIX GREEN 2075"
+and
+not "Area HARTLEY ROW (2076) - PHOENIX
+GREEN (2075) "
+12. Punctuation.—A full stop will be indicated by o but
+when the message is typed the ordinary full stop "
+" may be
+used. In neither case must anything else be written or typed
+in the space.
+No stop is required at the end of the text.
+Other punctuation signs are not transmitted in signal messages;
+care must be taken that their omission does not alter the sense
+of the message.
+13. Acknowledgments.—If an acknowledgment is required
+from those who have to take action on the message the
+expression "ack" will be written at the end of the message.
+V10326 (27) Digitised by the Vickers MG Collection & Research Association - www.vickersmg.org
+

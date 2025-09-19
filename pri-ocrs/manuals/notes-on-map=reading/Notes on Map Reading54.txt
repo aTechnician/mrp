@@ -1,0 +1,74 @@
+pg_0054.pdf:
+62
+The protractor, properly
+so called, is
+represented by
+degree graduation along three edges of the front face.
+point from which
+the rays are drawn is on the fourth (or
+zero) edge and is indicated by an arrow-head.
+It will be seen that there are two sets of figures to these
+graduations an outer set, reading from 0º to 180° and
+inner set reading from 180° to
+All readings being
+made clockwise,
+this arrangement is
+plotting bearings, which are always measured from north by
+62. Plotting Bearings with the Protractor
+The angle denoted by any graduation on the edge of the
+protractor is that contained between
+the zero
+edge, i.e. the
+180
+o t
+FIG. 31.
+edge joining 0° and 180°
+, and a line joining the centre of the
+zero edge, marked with an arrow-head, to the graduation in
+To plot any bearing between 0° and 180° from any point x
+Fig 31, draw a line xy through the point in the direction of
+north-true, grid or magnetic as the case may require. Lay
+the protractor with zero edge along this line with the arrow-
+head on x and the graduated edge to the right. Any bearing,
+such as th and 115 Join up and xy.
+may then be marked
+off with a sharp
+pencil at p and q.
+To plot bearings between 180° and 360°, say 226° and
+, set the protractor in a similar manner, but with the
+graduated edge to the left.
+63
+It is not always necessary to draw a north line through
+the point from which bearings are being
+plotted.
+the paper-such
+as parallel lines drawn or
+printed on sketching paper or meridian or grid lines on a map
+-it is often possible to lay the zero edge parallel to north and
+south by setting the protractor so that one of these lines
+cuts its bottom and top edge at graduations symmetrically
+placed, as in Fig. 32, or to set off the required bearing from
+mag. mer.
+mer.
+21
+,6St
+FIG. 32.
+a convenient corner of a grid square, and transfer it by means
+of parallel rulers to the correct point.
+63. Reading Bearings with the Protractor
+Proceed in a similar way for the reverse process of reading
+from a map.
+To find the bearing of t from x,
+Fig. 31, join xt by a straight line, set the protractor as before
+with arrow-head at x and zero edge parallel to the north line:
+then read the bearing where the line at cuts the graduated
+It may be noted that the reverse bearing* tx, i.e. x from
+t, may, if desired, be read at the same time on the other set
+of graduation
+Thus if the bearing xt reads 94°,
+the bearing tx is 274° (Fig. 32).
+* If the bearing of B from A is t°, then the bearing of A from B is
+called the reverse bearing, and is equal to t°#180°.
+If to is less than
+130 the the severe being 8180 180. If t° is greater than 18°,
+

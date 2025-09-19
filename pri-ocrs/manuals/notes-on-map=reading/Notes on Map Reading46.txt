@@ -1,0 +1,79 @@
+pg_0046.pdf:
+52
+The area of a square may be indicated by the co-ordinates
+of the S.W. corner—e.g. Bivouac area squares Q.70 and Q.71
+—or squares 7363-7463 (according to scale).
+47. On Cross Referenon between Farge and Small Scale
+Maps (modified British)
+Consider Fig. 27. A commands a force operating in the
+area of the quarter-inch sheet outlined. B commands a unit
+working on a standard (1/50,000) map covering the hatched
+P 9
+FIG. 27.
+A's references in orders, etc., are of the type Q.3145.
+B will naturally follow those orders on the quarter inch, but
+for his own purposes will use a reference of the type 308451
+If B reports activity at 483608, A knowing his locality, will
+look for Q4861 on the quarter inch.
+48. Instruction on the Grid System
+Emphasis in instruction should be put on lines rather than
+on squares.
+Squares are formed, of course, by the intersec-
+tion at right angles of two sets of equally spaced parallel
+lines, but they are not essential to the system.
+The lines,
+on the other hand, are essential and act as a set of scales by
+which to measure the distances ON and NP of Fig. 26.
+The tendency to think in squares leads to three undesir-
+able results:—
+i. The inclusion of numbers in small squares all over the
+map.
+ii. The idea of a square of fixed size. On scales so differ-
+ent aa the 1/25,000 (or 24 inch) and the 1/250,000 (or
+quarter inch) this is impossible.
+iii. The inversion of references. Thus in a square in which
+31 appears (often called square 31) the impulse is often to
+refer to a point as 3106 instead
+of 3016.
+53
+49. " Romers"
+or Reference Cards
+It is possible in ordinary referencing to estimate the required
+tenths, provided the side of the square does not exceed 12
+to 2 inches. If particular accuracy is required a romer,
+Use of Reference Card or "Romer"
+49
+SCALE 1/25,000
+48
+TO MEASURE COORDINATES ON
+SQUARED MAPS PLACE THE
+ARROW HEAD ON THE POINT WITH
+EDGES OF SCALE PARALLEL
+TO
+SIDES OF SQUARE READ SCALES
+WHERE CUT BY SQUARE LINES.
+This Scale can be cut out and used
+for Measurement of Coordinates
+92
+93
+Reference of 0-934486
+FIG. 28.
+47
+94
+or reference card, as shown in Fig. 28, must be
+this figure it is obvious that the position of O is roughly
+4/10ths East and 6/10ths North from the appropriate East
+and North lines. The divisions of a Romer allow of a more
+correct measurement than can be made by eye, and if neces-
+sary can be further subdivided by estimation.
+Thus, in Fig
+28, it is seen that O is 41/100ths East and 59/100ths North
+*If romers are not issued, they can be made on a piece of paper
+or cardboard as follows:
+Take one corner of a sheet of paper
+cardboard and number it nought.
+Set off along both edges the distance
+between grid lines.
+Subdivide this distance into tenths and number
+them from 0-10 outwards from the corner or zero point.
+

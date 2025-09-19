@@ -1,0 +1,45 @@
+pg_0033.pdf:
+- 40
+CHAPTER VI
+NORTH POINTS
+38. Cardinal Points
+Fig. 18 shows the four cardinal points, and the more im-
+oortant intermediate points of the compass.
+Opposite the
+cardinal points are marked their readings in degrees.
+It is obvious from this figure that a man standing at "p"
+and facing the North, has the South immediately behind him,
+the East on his right, and the West on his left.
+It will also
+be seen that there are 360° in a circle, and that these are
+reckoned in the same direction as the figures on a watch
+beginning at North, which is 0°. In each degree there are
+N.360° or. 0°
+N.W,
+270'W
+S.W.
+N.E.
+S.E.
+E.90'
+S.180°
+FIG. 18
+60 minutes,
+and in each minute 60 seconds. Degrees are
+marked thus ", minutes', seconds "
+At any time of the day the sun is a rough guide to orienta-
+tion.
+Roughly speaking it rises in the East, sets in the West,
+and is on the meridian at noon. Without furthur study,
+however, it is dangerous to use the position of the sun as
+anything more than an approximate guide. The actual bear-
+ings of the points of rising and setting vary greatly with the
+season and the latitude. It must also be remembered that
+"summer time" is an hour ahead of sun time.
+Fig. 19 is given in order to show the variation in the bearing
+of the points of rising and setting in the latitude of London.
+39. Bearings
+A bearing is the angle measured clockwise from a certain
+fixed line to any line in question.
+The fixed line may be the
+true North, grid north or magnetic north. Thus, in Fig. 19
+

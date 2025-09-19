@@ -1,0 +1,37 @@
+pg_0365.pdf:
+V07795 (364) Digitised by the Vickers MG Collection & Research Association - www.vickersmg.org
+336
+[Appendix II.
+4. It will thus be seen that the graph shows the three
+factors in time and space calculations, viz.:—
+(a) Timing at a starting point.
+(b) Timing at any subsequent point.
+(c) Rate of march.
+If a graph is constructed with any two of these as data,
+the third can be read off.
+If, for example, the head of a column moving at 3
+miles an hour is to reach R, 6 miles from O, at 0200
+hours, the hour of start is found by drawing from R
+towards the starting point, the line RQ at the slope
+representing 3 miles an hour and producing it until
+it cuts the horizontal line representing the starting
+point O.
+FIG.3
+MILES
+8
+5
+4
+3
+2
+HEAD
+TAIL,
+ID 20 30 4 050
+10 2030 40 50
+1D 20
+02
+HOURS
+5. Fig. 3 shows the effect of the normal halt of 10
+minutes immediately preceding each clock hour. Move-
+ment ceases at 0050 hours and is resumed at 0100 hours.
+V07795 (364) Digitised by the Vickers MG Collection & Research Association - www.vickersmg.org
+

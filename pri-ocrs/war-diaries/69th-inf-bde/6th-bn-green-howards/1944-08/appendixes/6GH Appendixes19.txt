@@ -1,0 +1,139 @@
+pg_0019.pdf:
+SERIAL
+1
+2
+3
+4
+7
+Approx
+No
+vehs
+23
+46
+134
+51
+7
+105
+48
+13
+TPP
+4
+6
+17
+14
+7
+Appx "A" to 69 Bde Op Instr. No 12:
+SECRET
+17 Aug 44
+1.
+Date:
+2. Speed:
+18
+AUg
+44
+30 mi2h
+69 INF BDE MARCH TABLE
+3.
+Density: 30 vtn
+4.
+Halts: None
+UNIT
+TIME PAST SP
+Head of
+Head of
+coln
+coln
+Recce Parties
+X - 50
+X - 45
+82 Bty, 25 LAA
+Regt
+X - 47
+X - 39
+4/7 DG incl
+A1
+Ech plus
+one tr W Dgns
+6 GH Vanguard
+6 GH Bn Comds
+Gp
+X + 23
+X + 28
+X +
+37
+X + 39
+X
+41
+6 GH Main
+Guard
+X + 42
+X + 60
+RA Recce
+parties
+Tac Bde HQ
+X + 64
+X + 75
+X + 73
+X + 77
+Z= x+16
+SP
+ROUTE
+REMARKS
+To incl
+sec carriers
+5 E Yorks, and two secs
+233 Fa COY RE
+SP X rds
+821448
+- X rds
+801449 -
+X rds
+La CAVERIE
+769405 - VASSY
+X ras 821448
+- 791326 -
+CONDE
+SUR
+NOIREAU X rds
+881318 thence
+CLUB route
+To incl Bty Comd 124
+Fd Regt,
+A Tk
+99 A Tk Bty,
+Tp
+Comd
+Sec RE
+and RE recce
+party
+To incl P1
+less
+one
+sec
+233
+Fd
+Coy
+RE, one
+M 10
+99
+A
+Tk Bty,
+P1 4.2 mortar, sec
+186 Fd Amb
+To
+incI LO 4/T DG,
+CO 124
+Fa
+Regt,
+CO 7 GH,
+OC
+99
+A
+Tk Bty,
+OC
+233 Fd
+Coy, OC
+Coy,
+2 CHESHIRE.
+Dal Diagn
+

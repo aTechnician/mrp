@@ -1,0 +1,77 @@
+pg_0083.pdf:
+SECTION XITI
+Chart for Diagnosing Trouble
+T time or
+HE following list of possible troubles that might occur at one
+another has been arranged so that if the symptom
+or outside evidence of the trouble is determined, a process
+of elimination should show the actual cause.
+Symptoms have been
+grouped according to the units of the truck in which they are
+likely to occur.
+Engine Faults
+No compression. (Valves or piston
+rings bad.)
+Magneto
+contact breaker bush
+stuck.
+Air leak between carburetter and
+cylinder block.
+Camshaft gear wheel key sheared.
+Water or dampness in magneto.
+Ignition switched off.
+ENGINE WILL NOT START
+No petrol.
+Slow running control not adjusted
+properly
+Too much petrol.
+No spark from magneto!
+Magneto contact
+breaker points
+dirty
+Petrol feed obstructed
+ENGINE STARTS WITH DIFFICULTY
+Sparking plug electrodes out of
+Petrol level of carburetter too
+adjustment.
+low.
+Mixture too weak.
+Magneto contact breaker
+points
+Poor compression.
+Air leak at carburetter joint.
+dirty, burnt, or out of adjust-
+ment.
+Valve stem guides worn.
+Inferior petrol.
+Carburetter control improperly set.
+Magneto magnets weak
+Mixture too rich. (if engine is
+warm.)
+Magneto
+contact breaker points
+Wrong oil being used.
+sticking
+Sparking plugs dirty
+Sparking plug electrodes too wide
+or too
+close.
+Weak valve springs.
+Short circuit in high tension leads.
+Mica flaking or insulator cracked
+on plugs.
+Poor compression.
+Improper adjustment of carburet-
+ter control.
+ENGINE MISSES AT ALL SPEEDS
+Choked petrol supply. (Dirty jets.)
+Magneto high tension leads loose.
+Contact breaker points worn or
+burnt.
+Condenser burnt out in magneto.
+Bad petrol.
+Contact breaker arm sticking.
+Carburetter adjustment wrong.
+Water in magneto.
+80
+

@@ -1,0 +1,367 @@
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20250918190757Z00&apos;00&apos;
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20250918190757Z00&apos;00&apos;
+InfoBegin
+InfoKey: Producer
+InfoValue: macOS Version 15.6.1 (Build 24G90) Quartz PDFContext
+PdfID0: b4da6793fd2b814c1ed5bb7e554478e0
+PdfID1: b4da6793fd2b814c1ed5bb7e554478e0
+NumberOfPages: 71
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 3,835 5,709
+PageMediaDimensions: 3,835 5,709
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,161 5,621
+PageMediaDimensions: 7,161 5,621
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,187 5,689
+PageMediaDimensions: 7,187 5,689
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,161 5,614
+PageMediaDimensions: 7,161 5,614
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,171 5,621
+PageMediaDimensions: 7,171 5,621
+PageMediaBegin
+PageMediaNumber: 6
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,709 7,192
+PageMediaDimensions: 5,709 7,192
+PageMediaBegin
+PageMediaNumber: 7
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,176 5,620
+PageMediaDimensions: 7,176 5,620
+PageMediaBegin
+PageMediaNumber: 8
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,192 5,699
+PageMediaDimensions: 7,192 5,699
+PageMediaBegin
+PageMediaNumber: 9
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,186 5,692
+PageMediaDimensions: 7,186 5,692
+PageMediaBegin
+PageMediaNumber: 10
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,187 5,694
+PageMediaDimensions: 7,187 5,694
+PageMediaBegin
+PageMediaNumber: 11
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,181 5,701
+PageMediaDimensions: 7,181 5,701
+PageMediaBegin
+PageMediaNumber: 12
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,182 5,704
+PageMediaDimensions: 7,182 5,704
+PageMediaBegin
+PageMediaNumber: 13
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,171 5,696
+PageMediaDimensions: 7,171 5,696
+PageMediaBegin
+PageMediaNumber: 14
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,187 5,689
+PageMediaDimensions: 7,187 5,689
+PageMediaBegin
+PageMediaNumber: 15
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,619 7,171
+PageMediaDimensions: 5,619 7,171
+PageMediaBegin
+PageMediaNumber: 16
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,187 5,709
+PageMediaDimensions: 7,187 5,709
+PageMediaBegin
+PageMediaNumber: 17
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,171 5,684
+PageMediaDimensions: 7,171 5,684
+PageMediaBegin
+PageMediaNumber: 18
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,197 5,709
+PageMediaDimensions: 7,197 5,709
+PageMediaBegin
+PageMediaNumber: 19
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,486 8,568
+PageMediaDimensions: 5,486 8,568
+PageMediaBegin
+PageMediaNumber: 20
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,310 5,709
+PageMediaDimensions: 7,310 5,709
+PageMediaBegin
+PageMediaNumber: 21
+PageMediaRotation: 0
+PageMediaRect: 0 0 8,583 5,329
+PageMediaDimensions: 8,583 5,329
+PageMediaBegin
+PageMediaNumber: 22
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,141 5,603
+PageMediaDimensions: 7,141 5,603
+PageMediaBegin
+PageMediaNumber: 23
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,108 5,679
+PageMediaDimensions: 7,108 5,679
+PageMediaBegin
+PageMediaNumber: 24
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,121 5,597
+PageMediaDimensions: 7,121 5,597
+PageMediaBegin
+PageMediaNumber: 25
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,142 5,687
+PageMediaDimensions: 7,142 5,687
+PageMediaBegin
+PageMediaNumber: 26
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,121 5,602
+PageMediaDimensions: 7,121 5,602
+PageMediaBegin
+PageMediaNumber: 27
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,122 5,709
+PageMediaDimensions: 7,122 5,709
+PageMediaBegin
+PageMediaNumber: 28
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,112 5,617
+PageMediaDimensions: 7,112 5,617
+PageMediaBegin
+PageMediaNumber: 29
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,127 5,687
+PageMediaDimensions: 7,127 5,687
+PageMediaBegin
+PageMediaNumber: 30
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,112 5,612
+PageMediaDimensions: 7,112 5,612
+PageMediaBegin
+PageMediaNumber: 31
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,127 5,692
+PageMediaDimensions: 7,127 5,692
+PageMediaBegin
+PageMediaNumber: 32
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,108 5,692
+PageMediaDimensions: 7,108 5,692
+PageMediaBegin
+PageMediaNumber: 33
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,072 5,592
+PageMediaDimensions: 7,072 5,592
+PageMediaBegin
+PageMediaNumber: 34
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,088 5,702
+PageMediaDimensions: 7,088 5,702
+PageMediaBegin
+PageMediaNumber: 35
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,171 5,602
+PageMediaDimensions: 7,171 5,602
+PageMediaBegin
+PageMediaNumber: 36
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,187 5,687
+PageMediaDimensions: 7,187 5,687
+PageMediaBegin
+PageMediaNumber: 37
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,171 5,592
+PageMediaDimensions: 7,171 5,592
+PageMediaBegin
+PageMediaNumber: 38
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,182 5,697
+PageMediaDimensions: 7,182 5,697
+PageMediaBegin
+PageMediaNumber: 39
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,156 5,621
+PageMediaDimensions: 7,156 5,621
+PageMediaBegin
+PageMediaNumber: 40
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,142 5,709
+PageMediaDimensions: 7,142 5,709
+PageMediaBegin
+PageMediaNumber: 41
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,126 5,617
+PageMediaDimensions: 7,126 5,617
+PageMediaBegin
+PageMediaNumber: 42
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,142 5,709
+PageMediaDimensions: 7,142 5,709
+PageMediaBegin
+PageMediaNumber: 43
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,131 5,612
+PageMediaDimensions: 7,131 5,612
+PageMediaBegin
+PageMediaNumber: 44
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,132 5,709
+PageMediaDimensions: 7,132 5,709
+PageMediaBegin
+PageMediaNumber: 45
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,126 5,612
+PageMediaDimensions: 7,126 5,612
+PageMediaBegin
+PageMediaNumber: 46
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,142 5,707
+PageMediaDimensions: 7,142 5,707
+PageMediaBegin
+PageMediaNumber: 47
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,131 5,617
+PageMediaDimensions: 7,131 5,617
+PageMediaBegin
+PageMediaNumber: 48
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,142 5,692
+PageMediaDimensions: 7,142 5,692
+PageMediaBegin
+PageMediaNumber: 49
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,126 5,607
+PageMediaDimensions: 7,126 5,607
+PageMediaBegin
+PageMediaNumber: 50
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,137 5,697
+PageMediaDimensions: 7,137 5,697
+PageMediaBegin
+PageMediaNumber: 51
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,121 5,607
+PageMediaDimensions: 7,121 5,607
+PageMediaBegin
+PageMediaNumber: 52
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,122 5,702
+PageMediaDimensions: 7,122 5,702
+PageMediaBegin
+PageMediaNumber: 53
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,107 5,607
+PageMediaDimensions: 7,107 5,607
+PageMediaBegin
+PageMediaNumber: 54
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,127 5,697
+PageMediaDimensions: 7,127 5,697
+PageMediaBegin
+PageMediaNumber: 55
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,107 5,607
+PageMediaDimensions: 7,107 5,607
+PageMediaBegin
+PageMediaNumber: 56
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,127 5,697
+PageMediaDimensions: 7,127 5,697
+PageMediaBegin
+PageMediaNumber: 57
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,107 5,617
+PageMediaDimensions: 7,107 5,617
+PageMediaBegin
+PageMediaNumber: 58
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,118 5,702
+PageMediaDimensions: 7,118 5,702
+PageMediaBegin
+PageMediaNumber: 59
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,107 5,617
+PageMediaDimensions: 7,107 5,617
+PageMediaBegin
+PageMediaNumber: 60
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,118 5,709
+PageMediaDimensions: 7,118 5,709
+PageMediaBegin
+PageMediaNumber: 61
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,141 5,642
+PageMediaDimensions: 7,141 5,642
+PageMediaBegin
+PageMediaNumber: 62
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,157 5,709
+PageMediaDimensions: 7,157 5,709
+PageMediaBegin
+PageMediaNumber: 63
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,136 5,662
+PageMediaDimensions: 7,136 5,662
+PageMediaBegin
+PageMediaNumber: 64
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,147 5,709
+PageMediaDimensions: 7,147 5,709
+PageMediaBegin
+PageMediaNumber: 65
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,107 5,664
+PageMediaDimensions: 7,107 5,664
+PageMediaBegin
+PageMediaNumber: 66
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,118 5,704
+PageMediaDimensions: 7,118 5,704
+PageMediaBegin
+PageMediaNumber: 67
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,102 5,711
+PageMediaDimensions: 7,102 5,711
+PageMediaBegin
+PageMediaNumber: 68
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,132 5,709
+PageMediaDimensions: 7,132 5,709
+PageMediaBegin
+PageMediaNumber: 69
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,107 5,719
+PageMediaDimensions: 7,107 5,719
+PageMediaBegin
+PageMediaNumber: 70
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,098 5,709
+PageMediaDimensions: 7,098 5,709
+PageMediaBegin
+PageMediaNumber: 71
+PageMediaRotation: 0
+PageMediaRect: 0 0 6,999 5,722
+PageMediaDimensions: 6,999 5,722

@@ -1,0 +1,36 @@
+pg_0047.pdf:
+ANNEXURE B
+TO
+APPENDIX G OF 185 INF BDE OPERATION ORDER NO 1.
+PROCEDURE AND AUTIENTICATION LIST TO BE USED ON
+JOINT FORCE RI BROADCASI
+SECRET
+COrE No 34
+Part 1 - PROCEDURE
+1.
+All messages will include a Serial No., an Army two letter authenticatoo
+and a Naval authenticator consisting of a time of origin and two three-letter
+groups sent once
+irmediately after the call and once at the end of the transmisg-
+- ion.
+Ex - Hullo all stations - This is BACKLINE (RT call sign of the Ship making
+the broadcast) - Serial one four - Time 261416 - OBOE PETER (Army au-
+-thenticator) - ABLE NAN WILLIAN - QUEEN KING X-RAY (Naval authenti-
+-cator) -
+of message said twice -
+Serial one four -
+-thenticator ) - OUT.
+HUS HILARY will be control station.
+RT call signs
+of HQ Ships are .-
+Force G
+Force J
+Force
+S
+HIS BULULO
+HIS HILARY
+HIS LARGS
+HEADLICHT
+BACKLINE
+/ILDNESS
+

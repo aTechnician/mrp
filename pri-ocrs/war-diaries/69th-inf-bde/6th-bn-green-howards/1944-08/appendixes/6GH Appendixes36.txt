@@ -1,0 +1,134 @@
+pg_0036.pdf:
+Serial
+2
+4
+7
+8
+10
+12
+13
+144
+15
+16
+17
+18
+19
+20
+21
+22
+MET 400
+020 17,0
+69 INS EDE MARCH TABLE N0:36
+20 AUG 44
+SPEED
+30 mi2h,
+DENSITY 30 vim.
+NO HAITS.
+SECRET
+G/62/1/1
+19 Aug 14
+Unit.
+Unit Recce Parties
+82 Bty 25 LAA Regt
+4/7 DG incl A1 Ech
+6 GREEN HOWARDS
+Vanguard
+6 GREEN HOWARDS BM
+Cond Gp
+6 GREEN HOWARDS
+Main Guard
+RA Recce Party
+TAC 69 Bae
+7 GREEN HOWARDS
+124 Fd Regt RA
+Main HQ 69 Bde
+233 Fd Coy RE less
+ane Pl & two secs
+69 Bde COP
+B Coy 2 CHESHIRE
+99 A Tk Bty less
+one to
+5 E YORKS
+186 Fa Amb Jess COP
+AWD 69 Bde Wkisps
+Rear 69 Bde
+฿ Echs:
+5 E Yorks
+6 Green Howards
+7 Green Howards
+B Bahs
+124 Fd Regtt RA
+99 A Tk Bly RA
+ID W DEns
+Time
+past
+SP
+SP
+ROUTE
+Remarks
+X - 90
+X he
+X plus 19
+rd trachr
+june
+964238•
+Routa to
+SP via LA
+CARMETITE
+9523
+SP to x rds
+971262 - Ste
+HONORINE 0023
+to dia P area
+* rds 053209
+BRASCO at x
+95 mins.
+Vehs to move
+ta Gps of NO:
+more than 5
+vehs - 5 mim:
+interval.
+between Gps.
+47
+x
+49
+70
+80
+85
+AuSt ra pune 956235 =x+30
+"
+104,
+Route - Rm SP.
+to D.P
+134
+D *
+139
+146
+Tune pen PreP 1025
+Cos comd9j 10 42
+Mani Guar 1044
+BISC 1035
+1047
+1049
+149
+Recue partis
+Pm HQ
+0%10
+BaSP 0825
+156
+Gidu a manch
+164
+185
+X
+191
+B ĐCH GP
+193
+Kition
+1000
+198
+x " 207
+X " 217
+Journey time from SP 1u-M1s P approx 32 mins.
+I hr will be notified by signal. It will NoT be before 0900 hrs 20 Aug 44,
+OCK.
+

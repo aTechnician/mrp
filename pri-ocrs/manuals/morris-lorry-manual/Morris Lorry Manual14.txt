@@ -1,0 +1,58 @@
+pg_0014.pdf:
+first 1000 miles, the working surtaces will become well polished
+and bedded down, and the life of the truck very considerably pro-
+longed.
+The Magneto. (See also separate section.)
+When ignition trouble is suspected, before intertering with the
+magneto, verify that the sparking plugs, cables and connections
+are
+correct.
+Check the spark gap at the plug points.
+These
+points are liable to distortion from heat, and sometimes open up
+too wide, when difficult starting and spitting back will occur.
+If these are in order, turn the engine slowly by hand with
+the
+lower circular cover off the magneto and watch if the contact-
+breaker lever works properly.
+This is equipped with a fibre
+insulating bush, and in damp weather there is a possibility of this
+material swelling and sticking. If this happens, ease the hole out
+very slightly and clean the steel pin with fine emery cloth.
+The platinum points on the contact breaker should open to a
+maximum distance of 0.5 mm. or a full 1/64th in.
+The points
+onlv need adjustment at very long intervals.
+Should they become
+pitted or burnt they may be dressed with a dead-smooth file, the
+least possible amount being taken off, but this is rarely necessary.
+The distributor should be cleaned every 1000 miles.
+Move back
+the retaining spring, remove the distributor, and wipe out the
+inside with a dry rag.
+See that the brush on the rotating arm is
+clean and perfectly free in its holder hefore replacing the distributor.
+Give the magneto two or three drops of good quality thin machine
+oil every 1000 miles in the lubricator.
+Valve Timing
+The plug provided in the cylinder head of No. 4 cylinder should
+be removed, and a thin rod inserted. The engine should now be
+turned until the piston of No. 4 cylinder comes to the top of its
+stroke, with the exhaust valve closing. This position is called the
+top dead centre. The engine should then be slowly turned by
+means of the starting handle until the piston has gone down on
+the suction stroke a distance of 3/32nds of an inch. The exhaust
+valve of this cylinder should then be just closing, the tappets
+having been previously set to a clearance of 6/1000ths of an inch.
+This is necessary owing to the slight rise at beginning of lift, making
+it difficult to get a correct reading.
+When the valve timing is
+finally adjusted, the inlet tappets should be reset to 4/1000ths of
+an inch, and the exhaust tappets to 5/Ioooths of an inch.
+Timing the Magneto
+When the Morris-Commercial Six-wheeled Truck leaves the Works
+the ignition is carefully set. Should it be necessary to recover
+the setting, proceed as follows :-
+In all engines a plug is provided in the cylinder head over No. 4
+clinder. The culinder numbers are read from the front of
+

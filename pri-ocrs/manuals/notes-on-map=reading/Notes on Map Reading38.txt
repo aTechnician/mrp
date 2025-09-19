@@ -1,0 +1,36 @@
+pg_0038.pdf:
+46
+Example 3 (Fig. 25):-
+M.N. G.N.
+Magnetic north is 13° West of Grid North.
+Grid bearing is 340°.
+What is magnetic bearing?
+Magnetic bearing=340° +13°=353°
+340
+FIG. 25.
+CHAPTER VII
+SYSTEMS OF REFERENCE
+THE GRID, AND HOW TO GIVE AND READ REFERENCES
+42. The Principle of a Reference
+The purpose of this chapter is to enable the student to
+understand the methods of reference used in describing the
+position of a point on the various
+maps he may be called upon to
+use.
+A few preliminary remarks are
+necessary.
+If we look at Fig. 26,
+which
+represents two lines XOX' and
+., drawn at right angles and
+crossing one another at , and
+presuppose that the position
+point O is known, the position of point P can be described by
+the lengths of ON and NP (where NP is perpendicular to
+XOX', or parallel to YOY').
+The basic principle of the systems of reference under dis-
+cussion is that outlined above.
+In all systems XOX' and
+YOY' are, respectively, east-west and north-south lines, and
+ON and NP are termed eastings and northings.
+

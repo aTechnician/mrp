@@ -1,0 +1,47 @@
+pg_0034.pdf:
+G
+42
+cannot be rectangular. It is usual to make one grid line
+coincide with a meridian. On this "standard" meridian the
+grid points to the true nerth. All other vertical grid lines are
+drawn parallel to it, and do not point to the true north, but
+in each
+case to a different and imaginary point called the
+grid north.
+From Fig. 20 it will be seen that grid north is east of true
+north when
+east of the standard meridian, and west of true
+north when west of that meridian.
+The angle between grid north and true north is known as
+"the angle of convergence," and it is evident that this angle
+G
+G
+True North
+N
+G
+G
+G
+NX Standard Meridian
+N North Pole
+G
+Grid North
+a Angle of Convergency
+FIG. 20
+increases the farther the grid departs from the standard
+meridian.
+ili. Magnetic North.-Magnetie north is the direction in
+which the compass needle points (unaffected by any local
+attraction): i.e. the direction of the magnetic pole at any
+point. The magnetic north pole changes from year to year,
+and thus the magnetic variation, which is the angle between
+true north and magnetic north, varies from year to year as
+well as from place to place.
+Plate VIII shows the value of the magnetic variation all
+over the world in 1927. At present (1927) the variation of
+the cumpass in Great Britain and Ireland varies between 13°
+west in the east of England and 19° west in the west of
+Ireland, and it is diminishing by about 11 minutes annually.
+It should be noted here that (a) every ordinary compass
+has its own individual variation which will differ by a constant
+amount from the local magnetic variation, and (b) compasses
+

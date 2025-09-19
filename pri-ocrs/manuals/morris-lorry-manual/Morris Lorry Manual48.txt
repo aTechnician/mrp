@@ -1,0 +1,55 @@
+pg_0048.pdf:
+To enable the cables to be correctly connected up, the terminals
+are identified on a diagram affixed to the inside of the switchbox
+cover.
+This cover is easily removed by unscrewing the two fixing
+screws "A" (Fig. 5). When connecting the cables to the switchbox
+terminals, care should be taken that no strands are left straying,
+as this may cause a short circuit.
+Before removing the switchbox
+cover for any reason, other than for fuse replacements, it is necessary
+to disconnect the positive lead of the battery to avoid the danger
+of causing a short circuit.
+Switch Positions
+There are three switches of the push "on" and pull "off" type
+in this switchbox.
+The left-hand one controls the headlamps, and
+the right one the sidelamps; at the same time, the tail-lamp is
+switched on by the operation of either of these switches.
+The
+lower switch controls the charging circuit; when switched "on,"
+the dynamo is connected with the battery for charging.
+The battery, in the majority of commercial vehicle sets, requires
+very little daytime charging, as the lamp load is roughly balanced
+by the dynamo output (see dynamo output adjustment, page
+42). Consequently, in this set means are employed to restrict
+the output of the dynamo during the day.
+The system adopted by us is to insert a resistance in the dynamo
+shunt circuit, so that when the charging switch is in the
+"on"
+position the dynamo only gives about half its normal output.
+It is necessary, however, for the dynamo to give its maximum
+output whenever the lamps are in use.
+To this end we have inter-
+connected the lighting switches with the charging circuit in such
+a manner that when either the head or sidelamps are switched
+"on" the dynamo is connected at the same time to give the full
+output determined by the control brush setting.
+Electro-Magnetic Cut-out
+The cut-out automatically closes the charging circuit as soon as
+the dynamo voltage rises sufficiently above that of the battery.
+When the dynamo voltage falls below that of the battery the
+reverse action takes place, the cut-out opens, and thereby prevents
+the battery from discharging itself through the dynamo.
+The cut-out is accurately set before leaving the maker's works,
+and should not be tampered with or adjusted.
+Should the cut-out
+fail to close the circuit on accelerating the engine, the cause of the
+damage is likely to be found elsewhere in the system.
+The question is sometimes asked whether the operation of the
+cut-out in any way depends upon the state of charge of the battery.
+There is no such relation between the two; the sole function of the
+cut-out is to switch on the dynamo with rising engine speed, and
+to disconnect it when the engine slows down to below a certain
+speed.
+

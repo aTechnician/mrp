@@ -1,0 +1,92 @@
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20250514184604Z00&apos;00&apos;
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20250514184604Z00&apos;00&apos;
+InfoBegin
+InfoKey: Producer
+InfoValue: macOS Version 15.2 (Build 24C101) Quartz PDFContext
+PdfID0: 5d9721f3cca9285c6657c3d6211133ed
+PdfID1: 5d9721f3cca9285c6657c3d6211133ed
+NumberOfPages: 16
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 3,635 5,513
+PageMediaDimensions: 3,635 5,513
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 6,172 5,452
+PageMediaDimensions: 6,172 5,452
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,447 6,181
+PageMediaDimensions: 5,447 6,181
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,491 6,157
+PageMediaDimensions: 5,491 6,157
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,486 6,154
+PageMediaDimensions: 5,486 6,154
+PageMediaBegin
+PageMediaNumber: 6
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,481 6,109
+PageMediaDimensions: 5,481 6,109
+PageMediaBegin
+PageMediaNumber: 7
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,466 6,180
+PageMediaDimensions: 5,466 6,180
+PageMediaBegin
+PageMediaNumber: 8
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,457 6,191
+PageMediaDimensions: 5,457 6,191
+PageMediaBegin
+PageMediaNumber: 9
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,428 6,186
+PageMediaDimensions: 5,428 6,186
+PageMediaBegin
+PageMediaNumber: 10
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,437 6,181
+PageMediaDimensions: 5,437 6,181
+PageMediaBegin
+PageMediaNumber: 11
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,433 6,181
+PageMediaDimensions: 5,433 6,181
+PageMediaBegin
+PageMediaNumber: 12
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,433 6,181
+PageMediaDimensions: 5,433 6,181
+PageMediaBegin
+PageMediaNumber: 13
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,428 6,186
+PageMediaDimensions: 5,428 6,186
+PageMediaBegin
+PageMediaNumber: 14
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,433 6,181
+PageMediaDimensions: 5,433 6,181
+PageMediaBegin
+PageMediaNumber: 15
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,433 6,181
+PageMediaDimensions: 5,433 6,181
+PageMediaBegin
+PageMediaNumber: 16
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,441 6,174
+PageMediaDimensions: 5,441 6,174

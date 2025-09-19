@@ -1,0 +1,53 @@
+pg_0046.pdf:
+Lucas
+To adjust the output of the dynamo, loosen the two control
+brush gear securig screws
+"K"
+(Fig: 4), and move the control
+brush backwards (opposite to direction of rotation) to reduce the
+output, or forwards to increase it.
+It should be remembered that
+the adjustment is a sensitive one, a small movement of the control
+brush being sufficient to appreciably alter the output.
+In some
+models the control brush is arranged so that its position is altered
+by the turning of a nut (the magneto spanner can be used).
+This
+turns a pinion which engages with a rack in the brush carrier and
+so moves the whole of the control brush gear. The combined
+nut and pinion is situated just inside the slot in the end bracket
+and opposite the terminal block. In models where one of the screws
+"K"
+is replaced with a nut, it is only necessary to slacken this one
+nut before making the adjustment.
+The third of the brush gear
+securing screws should not be tampered with under any circum-
+stances during this operation.
+Care must be taken to tighten up
+the two screws or nut after the adjustment has been made. Before
+making further tests after the adjustment, always allow the machine
+to run for a short time so that the control brush becomes properly
+"bedded" on the surface of the commutator. It is also advisable
+after any adjustment to observe the condition of the battery and
+the lamps (see page 48) after running for a few days under normal
+working conditions.
+Starter Motor M45
+The armature spindles of these machines are fitted with a pinion
+which, on rotation, runs into engagement with the geared ring on
+the flywheel. Immediately the engine begins to fire, the pinion
+is automatically thrown out of mesh.
+If for any reason the pinion wheel on the motor does not engage
+with the flywheel teeth, examine the screwed sleeve on the arma-
+ture spindle to see that it is free from dirt; if necessary, wash
+over with
+parathn. Occasionally, give it a few drops of thin
+machine oil.
+As in the case of the dynamo, the surface of the commutator
+must be kept clean and free from oil, brush dust, etc.
+Warning
+The starter is designed for starting the engine under normal
+conditions, but any unnecessary or additional loading will con-
+siderably diminish the life of the machine and battery.
+In order to facilitate starting in cold weather, it is advisable
+to flood the carburetter, and make use of the mixture control or
+

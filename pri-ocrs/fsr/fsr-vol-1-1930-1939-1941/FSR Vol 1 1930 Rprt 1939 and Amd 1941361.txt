@@ -1,0 +1,34 @@
+pg_0361.pdf:
+V07795 (360) Digitised by the Vickers MG Collection & Research Association - www.vickersmg.org
+332
+[Appendix II.
+iii. As an analysis.
+Examples:— Casualty diagrams to show num-
+bers of killed, wounded, missing,
+sick, transfers, &c.
+Enemy strength in various
+theatres of war.
+The most common use of time and space graphs
+is to show the position of troops on the march at any
+time.
+II.-METHOD OF CONSTRUCTION
+1. Graphs are made on squared paper. The corner
+of a square, usually the left-hand bottom corner, is
+taken as origin, and from it two lines are drawn at
+right angles. The divisions on the horizontal line are
+taken to represent units of time (e.g., hours, days,
+months, &c.), which appear in every graph. The other
+factor to be shown (e.g., space, numbers, &c.) 1S
+represented by the divisions on the vertical line. On
+every graph it must be clearly indicated along each
+line what divisions actually represent.
+The figures supplied by the data, or derived from
+calculations, are then plotted on the graph in the form
+of a series of points, each representing the relation of a
+number on the horizontal line to one on the vertical
+line. These points are then joined together by a line
+or curve. Information required at any intermediate
+point can then be read off. An example will make this
+clear.
+V07795 (360) Digitised by the Vickers MG Collection & Research Association - www.vickersmg.org
+

@@ -1,0 +1,43 @@
+pg_0049.pdf:
+centre-zero instrument is provided, so that the driver can see
+at a glance whether the dynamo is giving suficient output to keep
+the battery charged in accordance with
+the load
+This type of
+meter shows the actual current flowing into or from the battery ;
+if, therefore, the lamps are switched on and take 6 amperes, and
+the dynamo is generating & amperes, the meter shows 2 amperes
+in the charge direction, this being the current in excess of that
+consumed by the lamps which is available for charging purposes.
+It should be noted that the current for the starter motor and
+for the internal lights is taken directly from the battery, and
+consequently this load is not indicated by the ammeter.
+H
+S
+ALPERES
+OISCHARCE
+CHARLE
+G
+B
+•F
+D
+Fig. 6.
+Switchbox with front cover removed.
+A-Spare fuse carton.
+B-Electro-magnetic cut-out.
+D-Dynamo switch.
+E- Inspection lamp plug adaptor.
+G-Fuse wire securing screws.
+H- Headlamp switch.
+C-Terminals.
+F-Fuse bolder.
+S-Sidelamp switch.
+Fuse
+A fuse is inserted in the dynamo shunt circuit to prevent damage
+to the dynamo windings if the battery becomes disconnected
+through any cause.
+Occasionally examine the switchbox in order
+to ascertain that the two fuse wire securing screws "G" (Fig. 6)
+are tight, and that the fuse holder is held firmly in position by the
+fuse posts.
+

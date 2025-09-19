@@ -1,0 +1,54 @@
+pg_0040.pdf:
+A driver is
+usually advised to keep mis timing lever auvancea
+retarding it only when necessary; eg. for starting and for hill
+chmbing:
+This is sound advice,
+for it not only enables more
+power to be developed and petrol economised, but the magneto is
+relieved of much strain.
+Lubrication
+Magnetos are fitted with ball bearings on the driving shaft; these
+bearings are packed with grease before leaving the Works, and do
+not require oiling.
+The distributor gear bearing should be lubri-
+cated every 1000 miles by adding about three drops of good quality
+thin machine oil at the lubricating cap.
+The reader is cautioned
+that far more trouble has been caused by excessive oiling than
+by too little.
+Provision is made for oiling the cam-ring in order to reduce
+fibre heel wear; in consequence the magneto is able to give longer
+periods of service without the need for altering the setting of the
+contact points.
+The oiling arrangement consists of a pocket in
+the contact breaker housing containing a length of felt soaked in
+oil.
+A small hole in the cam-ring tilled with wick is provided to
+enable the oil to find its way on to the surface of the ring. About
+every 5000 miles the cam-ring should be withdrawn and a few
+drops of thin machine oil placed on the felt.
+Fitting High-Tension Cables
+Concealed terminals are provided in
+the distributor
+for fitting the high-
+tension cables. To fit a cable it should
+not be bared, but cut off to the required
+length.
+Removing the distributor and un-
+screwing the pointed screws,
+shown
+at "B" (Fig. 3). push the cable "A"
+hard home.
+Replace and tighten up
+the screw, which will then pierce the
+insulation and make contact with the
+Fig. 3.
+The high-tension cable fixing.
+A - Cable.
+B Cable fixing screw.
+cable core, and the distributor can
+be finally replaced.
+NOTE.-Use only seven-millimetre diameter cable. Do not
+attempt to use a thicker cable pared down to fit.
+

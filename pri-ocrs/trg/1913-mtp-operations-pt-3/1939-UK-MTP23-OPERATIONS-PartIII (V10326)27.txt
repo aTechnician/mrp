@@ -1,0 +1,48 @@
+pg_0027.pdf:
+V10326 (26) Digitised by the Vickers MG Collection & Research Association - www.vickersmg.org
+20
+3. A.F. C.2128 should be used for all messages. Those for
+D.R.L.S. (see Sec. 13) will be placed in envelopes marked
+D.R.L.S., signed by an officer and handed to the signal office.
+To enable signals to trace the receipt and acknowledgment of
+the message, the originator should put a reference number on
+the envelope.
+4. Nothing must be written above the space provided for
+the address " To."
+5. Address " TO" and " FROM " :-
+Addressees and originators of messages will be designated
+by their code names (see Sec. 22) or, when these are not used,
+by their abbreviated titles, as indicated in Appendix IV.
+Officers' names and appointments will never appear in the
+address spaces "TO" or " FROM " unless it is essential for
+some special reason.
+6. Multiple address messages.-The following rules will
+apply to multiple address messages :—
+i. If a message is to be delivered by signals to more than
+one addressee, one copy of the message will
+normally be handed in to the signal office for each
+addressee.*
+The address will be written on each copy in a straight line
+or lines, without punctuation, thus :—
+LUDO SAGO NOPA FIDO BONO
+It will be signalled as written to all addressees.
+ii. " Repeated"-In order to distinguish between those
+to whom the message is addressed for action and
+those to whom it is repeated for information only,
+the originator will write the word "rptd"
+before the first address of the latter category,
+e.g. i—
+LUDO SAGO NOPA iptd FIDO BONO.
+Each recipient will then see to whom the message has been
+addressed and repeated.
+iii. " All informed." —In certain routine messages when it
+is of no importance for an addressee to know to
+what others the message has been sent, the
+expression " all informed " may be used at the end
+of the text. The use of this phrase will give signals
+the authority to omit irrelevant addressees when
+signalling the address "TO," thus reducing the
+time taken in transmitting the message.
+* When this is not necessary the signal officer will inform the originator concerned
+V10326 (26) Digitised by the Vickers MG Collection & Research Association - www.vickersmg.org
+

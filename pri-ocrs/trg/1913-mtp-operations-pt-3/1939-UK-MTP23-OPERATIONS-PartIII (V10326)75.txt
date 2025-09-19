@@ -1,0 +1,82 @@
+pg_0075.pdf:
+V10326 (74) Digitised by the Vickers MG Collection & Research Association - www.vickersmg.org
+APPENDIX V-continued.
+Example 3.—Specimen routine multiple address message for transmission
+by signals in front of divisional headquarters.
+ARMY FORM C.2128
+MESSAGE FORM
+CALL
+AND
+Serial No.
+OFFICE DATE STAMP
+INSTRUC-
+IN
+OUT
+No. of Groups
+GR.
+TIONS
+TO
+(ABOVE THIS LINE IS FOR SIGNALS USE ONLY)
+BOLO KALA SOLO ZUZU VIVA Q
+FROM
+MUNA
+ref
+1800
+Originator's Number
+Date
+In Reply to Number
+021
+....
+hrs
+send
+all
+rep.
+informed
+conference
+MUNA
+This message may be sent AS
+WRITTEN by any means
+Signed C. Brown, Major
+System
+Time
+in
+Reader
+Sender
+Originator's Instructions
+Degree of Priority
+this message must be sent
+IN CIPHER
+Signed
+(BELOW THIS LINE IS FOR SIGNALS USE ONLY)
+System
+Time
+out
+out
+Reader
+Sender
+System
+out
+Time
+out
+Reader
+Sender
+Time of Origin
+0915
+T.H.I.
+T.O.R.
+Note 1.—In the above example signals have authority to omit all irrelevant names when signalling the address " TO."
+Note 2.—Code names are considered to have been allotted as follows :—
+BOLO
+1 inf bde
+KALA
+SOLO
+2 inf bde
+3 inf bde
+ZUZU
+RA 1 div
+VIVA
+RE 1 div
+MUNA 1 div
+V10326 (74) Digitised by the Vickers MG
+Collection & Research Association - www.vickersmg.org
+

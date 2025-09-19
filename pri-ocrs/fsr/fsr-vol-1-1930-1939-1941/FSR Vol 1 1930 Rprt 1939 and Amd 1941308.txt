@@ -1,0 +1,38 @@
+pg_0308.pdf:
+V07795 (307) Digitised by the Vickers MG Collection & Research Association - www.vickersmg.org
+Chap. XVIII, Sec. 173•]
+279
+original. It is not used primarily for the purposes of
+secrecy but of brevity.
+A cipher message is one expressed in figures or letters
+having a secret meeting.
+2. The work of enciphering and deciphering is done by
+cipher personnel under the direction of the General Staff.
+3. It is forbidden to encode or encipher a portion of
+the text of a message leaving the remainder in clear,
+lest the portion in clear should provide a clue to that in
+code or cipher and thus lead to the discovery of the code
+or cipher in use.
+Words such as " addsd," " rptd," and "ack" which
+appear in the same position in the text of many messages
+should, however, be sent in clear as their continual
+translation into cipher would weaken its security.
+Code names indicating the recipients to whom a message
+is " addressed" or " repeated" should similarly not be
+translated into cipher.
+It is forbidden to refer in clear to a message in cipher
+except to make replies of a routine character such as
+"acknowledged,"
+'approved," " agree," and "No."
+Care must also be taken when it is necessary to refer to
+a clear message in a cipher message that the wording of
+the latter does not follow closely that of the former."
+In order that the recipient of a message may know
+that it has been transmitted in cipher, all copies of the
+decipher will be stamped with the word " CIPHER" by
+the cipher personnel.
+4. Code and cipher books, which are issued on
+mobilization to authorized persons, give the rules to
+be observed in their use.
+V07795 (307) Digitised by the Vickers MG Collection & Research Association - www.vickersmg.org
+

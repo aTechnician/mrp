@@ -1,0 +1,126 @@
+pg_0045.pdf:
+50
+The 10 km. squares are further subdivided into 100 squares
+of 1 km. side; the sides of the 10 km. squares are thickened
+and the grid lines are numbered as shown in Fig. 26 (c).
+The
+number appearing
+on
+any
+grid line denotes,
+this time in
+kilometre units,
+the distance of the grid line north or east of
+the point of reference.
+In the sheet margin every grid line
+- 9
+(v)H
+•9
+8
+7
+4
+5
+6
+-5
+(V H
+4
++3
+2
+T
+2
+4
+5
+6
+6
+7
++7
+8
+9
+6
+(NH
+4
+•P
+-3
+7
++2
+9
+- I-
+VIH
+FIG. 26 (b).-
+is so numbered and to every tenth number is added, in smaller
+print, the figure required to convert the shortened co-ordinate
+into the full co-ordinate referred to the (false) origin of the
+grid system.
+A pin
+point reference can be given to the
+nearest tenth of a kilometre.
+Thus, in Fig. 26 (c) the point Q is 53 and 3 tenths units
+east and 67 and 5 tenths units north of the point of reference.
+Its reference is therefore 533675.
+The appropriate square letter may be included before the
+reference, but this is not normally necessary. (See also Plate
+XII.)
+46. On References generally
+During training and at exercises or manœuvres at home
+stations,
+it is
+common to rely in orders or reports upon
+51
+familiar names of towns, villages, cross-roads, etc., and to
+omit references.
+In war, or in training overseas, the danger
+of this practice is at once apparent.
+Unfamiliar names and the mistakes which may have been
+made in spelling or transliterating them are likely to intro-
+duce doubt and confusion.
+When the name of a town,
+village, wood, stream,
+etc., is
+mentioned
+for the first time
+in an order or report a grid
+reference must be given.
+450 51
+52 53
+54 55
+56 57 58
+-70
+-70
+59 460
+270
+69
+68
+50
+67 -
+66
+65
+55
+60
+-65
+65
+64
+63
+62
+61
+260
+50
+55
+-60
+60
+FIG. 26 (c).
+The essential point is that references
+should be clear to
+the recipient.
+Within large squares (e.g. 1,000 metre sauares
+at 3 inches to the mile) full of names and close mapping
+detail full references should be given.
+Within small squares
+(e.g. 1,000 metre squares on the one inch) and with bold
+names and clear mapping the reference may be simplified.
+As long as it is clear and unmistakable the reference may
+be given by the co-ordinates of the S.W. corner of the square
+-e.g. 3207, or Q. 70, etc., according to scale.
+It is often necessary to refer to
+poses.
+areas for tactical pur-
+

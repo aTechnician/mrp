@@ -1,0 +1,670 @@
+InfoBegin
+InfoKey: Creator
+InfoValue: OmniPage CSDK 18
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20250521161756-05&apos;00&apos;
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20250521161756-05&apos;00&apos;
+InfoBegin
+InfoKey: Producer
+InfoValue: Tocosa
+NumberOfPages: 73
+BookmarkBegin
+BookmarkTitle: Page 1
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: Page 2
+BookmarkLevel: 1
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: Page 3
+BookmarkLevel: 1
+BookmarkPageNumber: 3
+BookmarkBegin
+BookmarkTitle: Page 4
+BookmarkLevel: 1
+BookmarkPageNumber: 4
+BookmarkBegin
+BookmarkTitle: Page 5
+BookmarkLevel: 1
+BookmarkPageNumber: 5
+BookmarkBegin
+BookmarkTitle: Page 6
+BookmarkLevel: 1
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: Page 7
+BookmarkLevel: 1
+BookmarkPageNumber: 7
+BookmarkBegin
+BookmarkTitle: Page 8
+BookmarkLevel: 1
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: Page 9
+BookmarkLevel: 1
+BookmarkPageNumber: 9
+BookmarkBegin
+BookmarkTitle: Page 10
+BookmarkLevel: 1
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: Page 11
+BookmarkLevel: 1
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: Page 12
+BookmarkLevel: 1
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: Page 13
+BookmarkLevel: 1
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: Page 14
+BookmarkLevel: 1
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: Page 15
+BookmarkLevel: 1
+BookmarkPageNumber: 15
+BookmarkBegin
+BookmarkTitle: Page 16
+BookmarkLevel: 1
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: Page 17
+BookmarkLevel: 1
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: Page 18
+BookmarkLevel: 1
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: Page 19
+BookmarkLevel: 1
+BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: Page 20
+BookmarkLevel: 1
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: Page 21
+BookmarkLevel: 1
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: Page 22
+BookmarkLevel: 1
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: Page 23
+BookmarkLevel: 1
+BookmarkPageNumber: 23
+BookmarkBegin
+BookmarkTitle: Page 24
+BookmarkLevel: 1
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: Page 25
+BookmarkLevel: 1
+BookmarkPageNumber: 25
+BookmarkBegin
+BookmarkTitle: Page 26
+BookmarkLevel: 1
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: Page 27
+BookmarkLevel: 1
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Page 28
+BookmarkLevel: 1
+BookmarkPageNumber: 28
+BookmarkBegin
+BookmarkTitle: Page 29
+BookmarkLevel: 1
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: Page 30
+BookmarkLevel: 1
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Page 31
+BookmarkLevel: 1
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle: Page 32
+BookmarkLevel: 1
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: Page 33
+BookmarkLevel: 1
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: Page 34
+BookmarkLevel: 1
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: Page 35
+BookmarkLevel: 1
+BookmarkPageNumber: 35
+BookmarkBegin
+BookmarkTitle: Page 36
+BookmarkLevel: 1
+BookmarkPageNumber: 36
+BookmarkBegin
+BookmarkTitle: Page 37
+BookmarkLevel: 1
+BookmarkPageNumber: 37
+BookmarkBegin
+BookmarkTitle: Page 38
+BookmarkLevel: 1
+BookmarkPageNumber: 38
+BookmarkBegin
+BookmarkTitle: Page 39
+BookmarkLevel: 1
+BookmarkPageNumber: 39
+BookmarkBegin
+BookmarkTitle: Page 40
+BookmarkLevel: 1
+BookmarkPageNumber: 40
+BookmarkBegin
+BookmarkTitle: Page 41
+BookmarkLevel: 1
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: Page 42
+BookmarkLevel: 1
+BookmarkPageNumber: 42
+BookmarkBegin
+BookmarkTitle: Page 43
+BookmarkLevel: 1
+BookmarkPageNumber: 43
+BookmarkBegin
+BookmarkTitle: Page 44
+BookmarkLevel: 1
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: Page 45
+BookmarkLevel: 1
+BookmarkPageNumber: 45
+BookmarkBegin
+BookmarkTitle: Page 46
+BookmarkLevel: 1
+BookmarkPageNumber: 46
+BookmarkBegin
+BookmarkTitle: Page 47
+BookmarkLevel: 1
+BookmarkPageNumber: 47
+BookmarkBegin
+BookmarkTitle: Page 48
+BookmarkLevel: 1
+BookmarkPageNumber: 48
+BookmarkBegin
+BookmarkTitle: Page 49
+BookmarkLevel: 1
+BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: Page 50
+BookmarkLevel: 1
+BookmarkPageNumber: 50
+BookmarkBegin
+BookmarkTitle: Page 51
+BookmarkLevel: 1
+BookmarkPageNumber: 51
+BookmarkBegin
+BookmarkTitle: Page 52
+BookmarkLevel: 1
+BookmarkPageNumber: 52
+BookmarkBegin
+BookmarkTitle: Page 53
+BookmarkLevel: 1
+BookmarkPageNumber: 53
+BookmarkBegin
+BookmarkTitle: Page 54
+BookmarkLevel: 1
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: Page 55
+BookmarkLevel: 1
+BookmarkPageNumber: 55
+BookmarkBegin
+BookmarkTitle: Page 56
+BookmarkLevel: 1
+BookmarkPageNumber: 56
+BookmarkBegin
+BookmarkTitle: Page 57
+BookmarkLevel: 1
+BookmarkPageNumber: 57
+BookmarkBegin
+BookmarkTitle: Page 58
+BookmarkLevel: 1
+BookmarkPageNumber: 58
+BookmarkBegin
+BookmarkTitle: Page 59
+BookmarkLevel: 1
+BookmarkPageNumber: 59
+BookmarkBegin
+BookmarkTitle: Page 60
+BookmarkLevel: 1
+BookmarkPageNumber: 60
+BookmarkBegin
+BookmarkTitle: Page 61
+BookmarkLevel: 1
+BookmarkPageNumber: 61
+BookmarkBegin
+BookmarkTitle: Page 62
+BookmarkLevel: 1
+BookmarkPageNumber: 62
+BookmarkBegin
+BookmarkTitle: Page 63
+BookmarkLevel: 1
+BookmarkPageNumber: 63
+BookmarkBegin
+BookmarkTitle: Page 64
+BookmarkLevel: 1
+BookmarkPageNumber: 64
+BookmarkBegin
+BookmarkTitle: Page 65
+BookmarkLevel: 1
+BookmarkPageNumber: 65
+BookmarkBegin
+BookmarkTitle: Page 66
+BookmarkLevel: 1
+BookmarkPageNumber: 66
+BookmarkBegin
+BookmarkTitle: Page 67
+BookmarkLevel: 1
+BookmarkPageNumber: 67
+BookmarkBegin
+BookmarkTitle: Page 68
+BookmarkLevel: 1
+BookmarkPageNumber: 68
+BookmarkBegin
+BookmarkTitle: Page 69
+BookmarkLevel: 1
+BookmarkPageNumber: 69
+BookmarkBegin
+BookmarkTitle: Page 70
+BookmarkLevel: 1
+BookmarkPageNumber: 70
+BookmarkBegin
+BookmarkTitle: Page 71
+BookmarkLevel: 1
+BookmarkPageNumber: 71
+BookmarkBegin
+BookmarkTitle: Page 72
+BookmarkLevel: 1
+BookmarkPageNumber: 72
+BookmarkBegin
+BookmarkTitle: Page 73
+BookmarkLevel: 1
+BookmarkPageNumber: 73
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 567 701
+PageMediaDimensions: 567 701
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 215 631
+PageMediaDimensions: 215 631
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 419 639
+PageMediaDimensions: 419 639
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 423 640
+PageMediaDimensions: 423 640
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 0
+PageMediaRect: 0 0 421 633
+PageMediaDimensions: 421 633
+PageMediaBegin
+PageMediaNumber: 6
+PageMediaRotation: 0
+PageMediaRect: 0 0 421 638
+PageMediaDimensions: 421 638
+PageMediaBegin
+PageMediaNumber: 7
+PageMediaRotation: 0
+PageMediaRect: 0 0 421 629
+PageMediaDimensions: 421 629
+PageMediaBegin
+PageMediaNumber: 8
+PageMediaRotation: 0
+PageMediaRect: 0 0 420 633
+PageMediaDimensions: 420 633
+PageMediaBegin
+PageMediaNumber: 9
+PageMediaRotation: 0
+PageMediaRect: 0 0 419 629
+PageMediaDimensions: 419 629
+PageMediaBegin
+PageMediaNumber: 10
+PageMediaRotation: 0
+PageMediaRect: 0 0 420 631
+PageMediaDimensions: 420 631
+PageMediaBegin
+PageMediaNumber: 11
+PageMediaRotation: 0
+PageMediaRect: 0 0 422 629
+PageMediaDimensions: 422 629
+PageMediaBegin
+PageMediaNumber: 12
+PageMediaRotation: 0
+PageMediaRect: 0 0 421 636
+PageMediaDimensions: 421 636
+PageMediaBegin
+PageMediaNumber: 13
+PageMediaRotation: 0
+PageMediaRect: 0 0 419 633
+PageMediaDimensions: 419 633
+PageMediaBegin
+PageMediaNumber: 14
+PageMediaRotation: 0
+PageMediaRect: 0 0 831 628
+PageMediaDimensions: 831 628
+PageMediaBegin
+PageMediaNumber: 15
+PageMediaRotation: 0
+PageMediaRect: 0 0 833 631
+PageMediaDimensions: 833 631
+PageMediaBegin
+PageMediaNumber: 16
+PageMediaRotation: 0
+PageMediaRect: 0 0 864 648
+PageMediaDimensions: 864 648
+PageMediaBegin
+PageMediaNumber: 17
+PageMediaRotation: 0
+PageMediaRect: 0 0 862 646
+PageMediaDimensions: 862 646
+PageMediaBegin
+PageMediaNumber: 18
+PageMediaRotation: 0
+PageMediaRect: 0 0 862 646
+PageMediaDimensions: 862 646
+PageMediaBegin
+PageMediaNumber: 19
+PageMediaRotation: 0
+PageMediaRect: 0 0 860 647
+PageMediaDimensions: 860 647
+PageMediaBegin
+PageMediaNumber: 20
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,601 620
+PageMediaDimensions: 1,601 620
+PageMediaBegin
+PageMediaNumber: 21
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,800 1,277
+PageMediaDimensions: 1,800 1,277
+PageMediaBegin
+PageMediaNumber: 22
+PageMediaRotation: 0
+PageMediaRect: 0 0 863 653
+PageMediaDimensions: 863 653
+PageMediaBegin
+PageMediaNumber: 23
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,800 1,277
+PageMediaDimensions: 1,800 1,277
+PageMediaBegin
+PageMediaNumber: 24
+PageMediaRotation: 0
+PageMediaRect: 0 0 436 653
+PageMediaDimensions: 436 653
+PageMediaBegin
+PageMediaNumber: 25
+PageMediaRotation: 0
+PageMediaRect: 0 0 438 656
+PageMediaDimensions: 438 656
+PageMediaBegin
+PageMediaNumber: 26
+PageMediaRotation: 0
+PageMediaRect: 0 0 436 654
+PageMediaDimensions: 436 654
+PageMediaBegin
+PageMediaNumber: 27
+PageMediaRotation: 0
+PageMediaRect: 0 0 437 649
+PageMediaDimensions: 437 649
+PageMediaBegin
+PageMediaNumber: 28
+PageMediaRotation: 0
+PageMediaRect: 0 0 437 651
+PageMediaDimensions: 437 651
+PageMediaBegin
+PageMediaNumber: 29
+PageMediaRotation: 0
+PageMediaRect: 0 0 436 654
+PageMediaDimensions: 436 654
+PageMediaBegin
+PageMediaNumber: 30
+PageMediaRotation: 0
+PageMediaRect: 0 0 432 656
+PageMediaDimensions: 432 656
+PageMediaBegin
+PageMediaNumber: 31
+PageMediaRotation: 0
+PageMediaRect: 0 0 432 660
+PageMediaDimensions: 432 660
+PageMediaBegin
+PageMediaNumber: 32
+PageMediaRotation: 0
+PageMediaRect: 0 0 432 660
+PageMediaDimensions: 432 660
+PageMediaBegin
+PageMediaNumber: 33
+PageMediaRotation: 0
+PageMediaRect: 0 0 432 660
+PageMediaDimensions: 432 660
+PageMediaBegin
+PageMediaNumber: 34
+PageMediaRotation: 0
+PageMediaRect: 0 0 433 660
+PageMediaDimensions: 433 660
+PageMediaBegin
+PageMediaNumber: 35
+PageMediaRotation: 0
+PageMediaRect: 0 0 900 1,277
+PageMediaDimensions: 900 1,277
+PageMediaBegin
+PageMediaNumber: 36
+PageMediaRotation: 0
+PageMediaRect: 0 0 433 660
+PageMediaDimensions: 433 660
+PageMediaBegin
+PageMediaNumber: 37
+PageMediaRotation: 0
+PageMediaRect: 0 0 432 662
+PageMediaDimensions: 432 662
+PageMediaBegin
+PageMediaNumber: 38
+PageMediaRotation: 0
+PageMediaRect: 0 0 434 663
+PageMediaDimensions: 434 663
+PageMediaBegin
+PageMediaNumber: 39
+PageMediaRotation: 0
+PageMediaRect: 0 0 900 1,277
+PageMediaDimensions: 900 1,277
+PageMediaBegin
+PageMediaNumber: 40
+PageMediaRotation: 0
+PageMediaRect: 0 0 419 639
+PageMediaDimensions: 419 639
+PageMediaBegin
+PageMediaNumber: 41
+PageMediaRotation: 0
+PageMediaRect: 0 0 900 1,277
+PageMediaDimensions: 900 1,277
+PageMediaBegin
+PageMediaNumber: 42
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,054 627
+PageMediaDimensions: 1,054 627
+PageMediaBegin
+PageMediaNumber: 43
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,058 619
+PageMediaDimensions: 1,058 619
+PageMediaBegin
+PageMediaNumber: 44
+PageMediaRotation: 0
+PageMediaRect: 0 0 864 662
+PageMediaDimensions: 864 662
+PageMediaBegin
+PageMediaNumber: 45
+PageMediaRotation: 0
+PageMediaRect: 0 0 867 661
+PageMediaDimensions: 867 661
+PageMediaBegin
+PageMediaNumber: 46
+PageMediaRotation: 0
+PageMediaRect: 0 0 869 663
+PageMediaDimensions: 869 663
+PageMediaBegin
+PageMediaNumber: 47
+PageMediaRotation: 0
+PageMediaRect: 0 0 867 660
+PageMediaDimensions: 867 660
+PageMediaBegin
+PageMediaNumber: 48
+PageMediaRotation: 0
+PageMediaRect: 0 0 836 644
+PageMediaDimensions: 836 644
+PageMediaBegin
+PageMediaNumber: 49
+PageMediaRotation: 0
+PageMediaRect: 0 0 844 638
+PageMediaDimensions: 844 638
+PageMediaBegin
+PageMediaNumber: 50
+PageMediaRotation: 0
+PageMediaRect: 0 0 846 637
+PageMediaDimensions: 846 637
+PageMediaBegin
+PageMediaNumber: 51
+PageMediaRotation: 0
+PageMediaRect: 0 0 886 660
+PageMediaDimensions: 886 660
+PageMediaBegin
+PageMediaNumber: 52
+PageMediaRotation: 0
+PageMediaRect: 0 0 853 705
+PageMediaDimensions: 853 705
+PageMediaBegin
+PageMediaNumber: 53
+PageMediaRotation: 0
+PageMediaRect: 0 0 847 640
+PageMediaDimensions: 847 640
+PageMediaBegin
+PageMediaNumber: 54
+PageMediaRotation: 0
+PageMediaRect: 0 0 848 642
+PageMediaDimensions: 848 642
+PageMediaBegin
+PageMediaNumber: 55
+PageMediaRotation: 0
+PageMediaRect: 0 0 844 648
+PageMediaDimensions: 844 648
+PageMediaBegin
+PageMediaNumber: 56
+PageMediaRotation: 0
+PageMediaRect: 0 0 857 644
+PageMediaDimensions: 857 644
+PageMediaBegin
+PageMediaNumber: 57
+PageMediaRotation: 0
+PageMediaRect: 0 0 864 644
+PageMediaDimensions: 864 644
+PageMediaBegin
+PageMediaNumber: 58
+PageMediaRotation: 0
+PageMediaRect: 0 0 875 644
+PageMediaDimensions: 875 644
+PageMediaBegin
+PageMediaNumber: 59
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,800 1,277
+PageMediaDimensions: 1,800 1,277
+PageMediaBegin
+PageMediaNumber: 60
+PageMediaRotation: 0
+PageMediaRect: 0 0 883 653
+PageMediaDimensions: 883 653
+PageMediaBegin
+PageMediaNumber: 61
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,466 651
+PageMediaDimensions: 1,466 651
+PageMediaBegin
+PageMediaNumber: 62
+PageMediaRotation: 0
+PageMediaRect: 0 0 1,483 667
+PageMediaDimensions: 1,483 667
+PageMediaBegin
+PageMediaNumber: 63
+PageMediaRotation: 0
+PageMediaRect: 0 0 894 637
+PageMediaDimensions: 894 637
+PageMediaBegin
+PageMediaNumber: 64
+PageMediaRotation: 0
+PageMediaRect: 0 0 894 637
+PageMediaDimensions: 894 637
+PageMediaBegin
+PageMediaNumber: 65
+PageMediaRotation: 0
+PageMediaRect: 0 0 835 642
+PageMediaDimensions: 835 642
+PageMediaBegin
+PageMediaNumber: 66
+PageMediaRotation: 0
+PageMediaRect: 0 0 835 648
+PageMediaDimensions: 835 648
+PageMediaBegin
+PageMediaNumber: 67
+PageMediaRotation: 0
+PageMediaRect: 0 0 836 646
+PageMediaDimensions: 836 646
+PageMediaBegin
+PageMediaNumber: 68
+PageMediaRotation: 0
+PageMediaRect: 0 0 838 640
+PageMediaDimensions: 838 640
+PageMediaBegin
+PageMediaNumber: 69
+PageMediaRotation: 0
+PageMediaRect: 0 0 835 638
+PageMediaDimensions: 835 638
+PageMediaBegin
+PageMediaNumber: 70
+PageMediaRotation: 0
+PageMediaRect: 0 0 836 640
+PageMediaDimensions: 836 640
+PageMediaBegin
+PageMediaNumber: 71
+PageMediaRotation: 0
+PageMediaRect: 0 0 839 654
+PageMediaDimensions: 839 654
+PageMediaBegin
+PageMediaNumber: 72
+PageMediaRotation: 0
+PageMediaRect: 0 0 838 637
+PageMediaDimensions: 838 637
+PageMediaBegin
+PageMediaNumber: 73
+PageMediaRotation: 0
+PageMediaRect: 0 0 840 631
+PageMediaDimensions: 840 631

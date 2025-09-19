@@ -1,0 +1,34 @@
+pg_0047.pdf:
+this will considerably diminish the load for starting
+In the event of the engine refusing to fire after being turned by
+the starter, make sure the ignition switch is
+"on.
+Starting Switch
+This switch is extremely simple in construction, and as there
+are no working parts liable to get out of order, the
+contacts
+are permanently enclosed. Operate the switch firmly and quickly,
+both when switching on and releasing.
+H
+PISCHARDE
+AMPERES
+CHARGE
+A
+LUCAS
+D
+A-Cover fixing screws.
+Fig. 5. Switchbox. Type CV.
+B-Inspection lamp plug adaptor.
+H-Headlamp switch.
+S-Sidelamp switch.
+D-Dynamo switch.
+Switchbox Type CV
+One of the most interesting features of the system is that all
+the parts necessary for controlling the various circuits are com-
+pactly housed in one central position, the switchbox situated on
+the instrument board; yet, at the same time, all the parts are
+readily accessible.
+All components of the switchbox are mounted on a single insulated
+base, which is secured to the back of the switchbox casing by means
+of three nuts.
+

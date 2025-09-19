@@ -1,0 +1,50 @@
+pg_0028.pdf:
+plunger-type oilpump is carried on the upper half of the
+crankcase, the plunger being operated from an eccentric on the
+camshaft.
+The oil is fed by pressure to the camshaft, big-end and
+main bearings, having to pass a filter before reaching the pump.
+An oil-pressure gauge is provided on the instrument board.
+The
+actual reading on the gauge may be found to vary considerably,
+not only on various trucks, but also on the same truck under vary-
+ing conditions.
+When the engine is first started up a fairly low
+pressure will be recorded, and when the engine is properly warm
+and running under normal conditions a pressure of 7 lb. approxi-
+mately will be shown.
+The action of the lubricating pump, which
+is driven automatically by the camshaft, is to keep all the bearings
+constantly supplied with oil.
+The filter should occasionally be dismantled and cleaned. To do
+this it will be necessary to first take off the flange at the bottom
+of the sump, after draining off the oil through the plate alongside
+the flange. The oil filter may now be withdrawn.
+The cylinder walls are oiled by splash. The pistons are slightly
+bevelled off below the bottom piston ring, and a number of small
+holes drilled through the piston.
+This causes any surplus oil to
+be scraped off the walls, letting only the exact amount of oil neces-
+soke tron the lubrication to st starting giving tha a faure bine
+experienced driver that "all's well" with pistons and cylinders.
+The gudgeon pin takes its bearing in the piston, and, therefore,
+gets ample lubrication from the cylinder walls.
+An observant driver will pay as much attention to his supply
+of lubricating oil as to his petrol supply.
+Neglect of this results
+in harsh running and an overheated engine, loss of power, and
+finally the "seizing-up" of pistons or connecting rods.
+To remove or drain the whole of the oil from the engine, it is
+only necessary to remove the large drain plate screwed in the
+bottom of the case, afterwards replacing and filling up through
+the filler.
+We recommend the following oils for summer and
+winter use respectively :-
+Summer - Double Shell, Adcol "N.P.2," or Gargoyle
+Mobiloil "A."
+Winter - Single
+Shell, Adcol "N.P.2," or Gargoyle
+Mobiloil "A."
+The magneto should have two drops of good quality thin oil in
+the oil filler every 1000 miles.
+

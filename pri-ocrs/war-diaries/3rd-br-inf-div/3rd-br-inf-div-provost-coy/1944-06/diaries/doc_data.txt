@@ -1,0 +1,77 @@
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20250514182021Z00&apos;00&apos;
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20250514182021Z00&apos;00&apos;
+InfoBegin
+InfoKey: Producer
+InfoValue: macOS Version 15.2 (Build 24C101) Quartz PDFContext
+PdfID0: f9a78ce5d0a2e0354ba9668c2e791f9b
+PdfID1: f9a78ce5d0a2e0354ba9668c2e791f9b
+NumberOfPages: 13
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,470 3,526
+PageMediaDimensions: 5,470 3,526
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,419 6,337
+PageMediaDimensions: 5,419 6,337
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,363 6,336
+PageMediaDimensions: 5,363 6,336
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,386 6,323
+PageMediaDimensions: 5,386 6,323
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,419 6,347
+PageMediaDimensions: 5,419 6,347
+PageMediaBegin
+PageMediaNumber: 6
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,403 6,340
+PageMediaDimensions: 5,403 6,340
+PageMediaBegin
+PageMediaNumber: 7
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,395 6,324
+PageMediaDimensions: 5,395 6,324
+PageMediaBegin
+PageMediaNumber: 8
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,419 6,347
+PageMediaDimensions: 5,419 6,347
+PageMediaBegin
+PageMediaNumber: 9
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,428 6,303
+PageMediaDimensions: 5,428 6,303
+PageMediaBegin
+PageMediaNumber: 10
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,428 6,303
+PageMediaDimensions: 5,428 6,303
+PageMediaBegin
+PageMediaNumber: 11
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,414 6,294
+PageMediaDimensions: 5,414 6,294
+PageMediaBegin
+PageMediaNumber: 12
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,428 6,365
+PageMediaDimensions: 5,428 6,365
+PageMediaBegin
+PageMediaNumber: 13
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,385 6,294
+PageMediaDimensions: 5,385 6,294

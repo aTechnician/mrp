@@ -1,0 +1,82 @@
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20250918004726Z00&apos;00&apos;
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20250918004726Z00&apos;00&apos;
+InfoBegin
+InfoKey: Producer
+InfoValue: macOS Version 15.6.1 (Build 24G90) Quartz PDFContext
+PdfID0: 1dd2736ae324004ab766b5de04540472
+PdfID1: 1dd2736ae324004ab766b5de04540472
+NumberOfPages: 14
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,617 3,733
+PageMediaDimensions: 5,617 3,733
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,651 6,853
+PageMediaDimensions: 5,651 6,853
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,666 6,878
+PageMediaDimensions: 5,666 6,878
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,656 6,863
+PageMediaDimensions: 5,656 6,863
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,656 6,863
+PageMediaDimensions: 5,656 6,863
+PageMediaBegin
+PageMediaNumber: 6
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,656 6,878
+PageMediaDimensions: 5,656 6,878
+PageMediaBegin
+PageMediaNumber: 7
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,656 6,873
+PageMediaDimensions: 5,656 6,873
+PageMediaBegin
+PageMediaNumber: 8
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,661 6,912
+PageMediaDimensions: 5,661 6,912
+PageMediaBegin
+PageMediaNumber: 9
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,651 6,922
+PageMediaDimensions: 5,651 6,922
+PageMediaBegin
+PageMediaNumber: 10
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,656 6,951
+PageMediaDimensions: 5,656 6,951
+PageMediaBegin
+PageMediaNumber: 11
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,651 6,951
+PageMediaDimensions: 5,651 6,951
+PageMediaBegin
+PageMediaNumber: 12
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,656 6,966
+PageMediaDimensions: 5,656 6,966
+PageMediaBegin
+PageMediaNumber: 13
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,653 6,974
+PageMediaDimensions: 5,653 6,974
+PageMediaBegin
+PageMediaNumber: 14
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,641 6,966
+PageMediaDimensions: 5,641 6,966

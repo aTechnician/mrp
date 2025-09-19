@@ -1,0 +1,46 @@
+pg_0051.pdf:
+the battery should be kept ciean and dry; care should be taken not
+to spill water or acid on it while adjusting the level of the electrolyte.
+The initial charge should be given in accordance with the printed
+instruction sheet supplied with every uncharged battery, and all
+subsequent charging should be at the correct rate and for a sufficient
+period of time to ensure the normal evolution of gas from all the
+plates. Only distilled water should be added to replace loss of the
+acid caused by the action of the charging current. If, however,
+acid solution is spilled it should be replaced by filling up the cells
+diluted sulphuric acid solution of 1.225 specific gravity at
+60° F.
+The porcelain vent plugs in the top of the battery can be removed
+for inspecting the level of the solution in the cells; it is important
+that naked lights should not be held near the vents when examining
+the cells in this way, on account of the possible danger of igniting
+the gas coming from the plates.
+When the battery is under
+examination it is as well to complete the inspection of the cells
+by checking the specific gravity of the acid, as the density of the
+solution gives a very good indication of the condition of the battery.
+An instrument known as a "hydrometer" is employed for this
+purpose, and should be of the syphon type, as illustrated on page
+Voltmeter readings of each cell do not provide a reliable indica-
+tion of the condition of the battery unless special precautions are
+taken, which make such tests unsuitable for the average owner,
+and on that account we do not recommend this test.
+If the equipment is laid by for several months the battery must
+be given a small charge from a separate source of electrical energy
+at least once a month, in order to obviate any permanent injury
+to the plates.
+Under no circumstances must the acid be removed
+from the battery and the plates allowed to dry, as certain changes
+take place which result in loss of efficiency. The battery lugs and
+the cable terminals, which are made in a non-corrosive lead alloy,
+should be periodically examined to ensure that the nuts holding
+the lugs in position are quite tight. It is advisable to keep the
+battery terminals and lugs smeared with vaseline.
+Instructions for Using the Lucas Syphon Hydrometer
+Before measuring the specific gravity of the acid solution by
+means of a hydrometer, see that the acid is at its correct level.
+Readings should be taken after a run on the vehicle, when the
+acid is thoroughly mixed.
+To assemble the hydrometer insert the float, thin end first,
+into the barrel, then wet the plug carrying the rubber tube, and push
+

@@ -1,0 +1,47 @@
+pg_0230.pdf:
+V07794 (229) Digitised by the Vickers MG Collection & Research Association - www.vickersmg.org
+Appendix IV.]
+201
+11. When it is desired to inform addressees that the message
+has been sent to other addressees, it will be ended thus:
+(Using code names) " Addsd BOLO NEPA KILU."
+(In clear) " Addsd 1 and 3 divs RA 2 div" or
+" Addsd List A."
+When action is required by some addressees only and the
+message is to be sent to others for information, the message
+will be ended thus :-
+(Using code names) " Addsd BOLO rept NEPA
+KILU."
+(In clear) " Addsd 1 div reptd 3 div RA 2 div."
+If an acknowledgment is required from those who have to
+take action on a message, ie. those to whom it is " addsdis
+"ack" will precede "addsd." If an acknowledg reptd,"
+also required trom those to whom the message is
+" all ack" will precede " addsd." But in order to reduce the
+volume of signal traffic to a minimum, an acknowledgment
+will be asked for only when it is urgently necessary for the
+sender to know that a particular message has been received.
+12. The time at which the message is signed by the
+originator will be entered in the " Time of Origin" space.
+13. The "THI" (Time handed in) space is for use in
+signal offices, and the time entered in it may be used for
+calculating the time of transmission.
+14. All reports and messages will be signed by the originator
+with his rank and appointment and the formation or unit to
+which he belongs.
+15. The originator is responsible for warning the inter-
+communication personnel of any precautions necessary in the
+method of transmission of a signal message. This he does
+normally by signing in the appropriate space at the foot of
+A.F. C 2128. When neither space meets requirements he
+will give his instructions as to method in the space marked
+"Degree of priority and instructions by originator."
+It is unnecessary for the originator to delete the space not
+signed.
+If a special degree of priority (see Sec. 18, 2) is required
+for a message, the words (e.g. emergency operations, etc.)
+will be written in full in the space marked " Degree of priority
+and instructions by originator."
+Abbreviations will not be used.
+V07794 (229) Digitised by the Vickers MG Collection & Research Association - www.vickersmg.org
+

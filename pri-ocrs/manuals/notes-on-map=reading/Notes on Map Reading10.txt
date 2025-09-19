@@ -1,0 +1,50 @@
+pg_0010.pdf:
+14
+I1. Methods of expressing Scale
+1. The scale may be described in two ways
+i. In words showing the relation between any unit on the
+map and any other on the ground.— As the inch is
+the unit by which the eye judges small distances,
+and distances are generally given in miles, English
+scales are generally made to show a certain number
+of "inches to the mile" or "miles to an inch."
+The statement is usually in miles to one inch for
+the one inch and smaller scales:
+whereas it is
+usually in inches to the mile at scales larger than
+the one inch. Maps of countries which use the
+"metre" are, however, generally made to show
+a certain number of centimetres to a kilometre.
+ii. By the Representative Fraction (commonly known as
+the R.F.), which expresses the same relation in
+the terms
+of a fraction with "one" as numerator,
+the denominator being expressed in the same unit,
+e.g. 1/100. It is obvious that the relation expressed
+by the fraction remains unaltered whatever the
+unit employed may be.
+The advantage of using the R.F. is that the relation in
+scale between maps which employ different units can be
+established at once (see example).
+Examples.-The following examples explain the two ways
+of expressing scales:—
+i. Scale 1/63,360 or 1 inch to 1 mile. Here 1 inch
+the map represents on the ground
+63,360
+inches, i.e. 1 mile.
+i1. Scale 1/100,000, or 1 centimetre to 1 kilometre. Here
+1 inch on
+the map represents on the ground
+100,000 inches=1•58 miles; or 1 centimetre on
+the map represents on the ground 100,000 cms.=
+1 kilometre.
+2. Supposing that the R.F. alone is given, the number of
+"miles to the inch" or "inches to the mile" can be found
+in the following ways:—
+i. To find the number of miles on the ground corre-
+sponding to 1 inch, on a map for which the R.F.
+is given, divide the denominator of the R.F. by
+li. To tind the rumber of inches on the map correspond.
+ing to 1 mile on the ground, divide 63,360 by the
+denominator of the R.F.
+

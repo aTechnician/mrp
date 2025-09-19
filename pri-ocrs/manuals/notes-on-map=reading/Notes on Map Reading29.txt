@@ -1,0 +1,52 @@
+pg_0029.pdf:
+34
+A convenient road goes up a hill on which the contours
+(V.I. of 50 feet) are, at the minimum, 100 yards (or 300 feet)
+apart. What is the gradient?
+The gradient=
+V.I.
+H.E.
+50
+= 300
+1
+6
+and the road is therefore passable.
+The problem might, however, be solved by answering the
+question: What is the distance in plan between contours at
+a gradient of 1/5?
+But
+V.P. - F. and by definition f
+•. H.E. =250 feet
+=84 yards
+and, as the contours are actually further apart than this, the
+road is passable.
+36. Visibility
+1. It is often of importance to discover from the map
+whether two points are mutually visible. On perfectly open
+ground, ve. without trees, hedges, buildings or other obstruc-
+tion, one point will be visible from another so long as the
+ground does not rise above the line joining them.
+Thus, if
+the country between two points is level, evenly sloping,
+concave, or lower than both of them (e.g. a valley), they will
+be intervisible. On the other hand, where a hill or a convex
+slope intervenes, one point will not be visible from the other
+(Plate VII and
+Fig. 13).
+2. Visibility problems can often be answered by
+simple
+inspection of a contoured map or sketch, but occasionally
+there may be doubt. For example, a hill between the two
+oints may be higher than one of them, but if it does not rise
+bove the line joining them they will still be intervisible
+It is not easy to decide this point by inspection, and a quick
+method of finding the right answer is required. Before describ-
+ing that method a word of caution is necessary.
+3. The extent to which visibility problems can be solved
+from the map depends upon the size of the V.I. If the V.I.
+1s small, e.g. 10 feet, the unrepresented ground features are
+small, and visibility can be determined with some accuracy,
+and yet, even so, features higher than a man's eye may cause
+the facts to disagree with a perfectly correct sum. But if he
+V.I. is large, e.g. 50 or 25 feet, the unrepresented ground
+

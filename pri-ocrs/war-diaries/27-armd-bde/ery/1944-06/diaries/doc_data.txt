@@ -1,0 +1,67 @@
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20250918005517Z00&apos;00&apos;
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20250917174834Z00&apos;00&apos;
+InfoBegin
+InfoKey: Producer
+InfoValue: iOS Version 18.6.2 (Build 22G100) Quartz PDFContext, AppendMode 1.1
+PdfID0: 382d346c6c5ba75a5a4d20371e8bfca3
+PdfID1: 2c14f28c826d806a3f38b98dc805a39c
+NumberOfPages: 11
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,715 3,776
+PageMediaDimensions: 5,715 3,776
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,697 7,053
+PageMediaDimensions: 5,697 7,053
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,676 7,096
+PageMediaDimensions: 5,676 7,096
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,702 7,063
+PageMediaDimensions: 5,702 7,063
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,702 7,048
+PageMediaDimensions: 5,702 7,048
+PageMediaBegin
+PageMediaNumber: 6
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,697 7,053
+PageMediaDimensions: 5,697 7,053
+PageMediaBegin
+PageMediaNumber: 7
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,692 7,053
+PageMediaDimensions: 5,692 7,053
+PageMediaBegin
+PageMediaNumber: 8
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,657 7,126
+PageMediaDimensions: 5,657 7,126
+PageMediaBegin
+PageMediaNumber: 9
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,706 7,058
+PageMediaDimensions: 5,706 7,058
+PageMediaBegin
+PageMediaNumber: 10
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,697 7,033
+PageMediaDimensions: 5,697 7,033
+PageMediaBegin
+PageMediaNumber: 11
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,692 7,033
+PageMediaDimensions: 5,692 7,033

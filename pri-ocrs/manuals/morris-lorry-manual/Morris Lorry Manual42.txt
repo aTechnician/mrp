@@ -1,0 +1,39 @@
+pg_0042.pdf:
+te the magneto has been recently replaced, it is possible that it
+may have been timed incorrectly. Instructions
+for timing
+are
+given on page 12, but unless the reader is used to it, retiming the
+magneto is by no means a simple matter, and he would be well
+advised to have this done for him by his nearest service depot or
+garage.
+If, after carrying out the above examination, there is
+still doubt or difficulty about the ignition system, it is little use
+continuing the examination,
+and he is strongly advised
+to
+consult the nearest Lucas Service Depot, the addresses of which
+are given on page 54.
+If the reader is able to call, this is the best course to adopt, as
+the engine, with its ignition equipment, can then be examined as
+a whole. If it is necessary, however, to write, the reader is reminded
+to be sure, in addition to describing his trouble, to state the type
+of the magneto and its serial number, both of which should
+found on the side of the magneto. The reader is cautioned against
+needlessly dismantling his magneto, as it is of intricate construc-
+tion and is easily damaged.
+Lucas Magneto Guarantee
+Every Lucas magneto manufactured after Ist August, 1926, bears
+" guarantee against all electrical and mechanical breakdowns
+any cause, including wear and tear and burning of the contact breaker
+points for a period of tro years.
+All that the owner need do to ensure that the magneto gives its
+best service is to carry out the foregoing instructions for cleaning,
+adjustment and lubrication.
+In the event of any fault developing in the first two years the
+defective magneto or part should be returned to any Lucas Service
+Depot, the addresses of which are given on page 54.
+It should be noted that Messrs. Lucas's liability consists of making
+good the defect in their own depots, and in no case can they hold
+themselves responsible for contingent expenses.
+

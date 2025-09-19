@@ -1,0 +1,67 @@
+pg_0015.pdf:
+engine.)
+this should be removed and a thin rod inserted which
+will
+indicate the piston movement
+Turn the
+engine
+slowly fill
+the inlet valve has closed ; the rod will now rise until the piston
+is at the top of its travel.
+Set the ignition lever on the steering
+column
+fully retard or right back.
+Remove the
+lever
+of the
+contact breaker and turn the armature of the magneto in an anti-
+clockwise direction till the fibre block rises on the inclined plane
+just enough to separate the platinum points.
+The carbon brush
+on the distributor must be immediately opposite terminal No.
+4
+The firing order is 1, 3, 4, 2.
+Lock the magneto coupling and
+check the timing again to see that no movement has taken place
+during the setting
+Valve Tappets
+The valve tappets should be adjusted to give a play of .004 in.
+for the inlet, and .oo5 in. for the exhaust valves, between the end
+of the valve stem and the head of the tappet adjusting screw,
+when the engine is hot.
+If the tappets are set with the engine
+cold an extra.oor in. must be allowed to compensate for the expan-
+sion inevitable with the rise in temperature.
+When the valves are ground in, the tappets must be reset. It
+is advisable when the truck has run 50 to 100 miles after resetting
+to again check the clearance, as valves have a tendener to "bed
+down" a little after having been disturbed.
+When checking clearances, turn the tappet through one com-
+plete revolution and make sure that the figure given above is the
+minimum in all positions.
+When tightening the adjusting screw
+lock nut it is not impossible sometimes to throw the adjusting
+screw slightly out of line, with the result that different positions
+of the tappet give slightly different clearances.
+Camshaft
+To adjust this for end play, first remove the fan pulley. Two
+holes will be found in this to enable an extractor to be used.
+Then
+remove camshaft front cover and take out a sufficient number of
+thin washers which will be found at the back of it, to allow an
+end play of .003 in. to .004 in. only.
+This adjustment is seldom,
+if ever, necessary, but occasionally a slight knock in the engine
+may be traced to this cause.
+Crankshaft
+It is strongly recommended that the work of adjusting the
+crankshaft bearings should be entrusted to a competent mechanic
+and preferably carried out at a Morris Service Depot.
+Should
+the owner, however, wish to carry out this work himself he should
+proceed as follows :—
+Drain the oil sump by means of the plug provided.
+Remove
+the oil filter through the manhole provided.
+Take down the oil
+

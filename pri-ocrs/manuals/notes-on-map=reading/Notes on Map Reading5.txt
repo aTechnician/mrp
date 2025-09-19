@@ -1,0 +1,76 @@
+pg_0005.pdf:
+4
+CHAPTER VI
+NORTH POINTS
+SEC.
+38. Cardinal Points.
+39. Bearings.
+40. Definitions of True, Grid and Magnetic North
+41. Conversion of Bearings.
+CHAPTER VII
+SYSTEMS OF REFERENCE
+42. The Principle of a Reference
+43. Systems in
+44.
+The British System
+45. The Modified British System.
+46. On References generally...
+47. On Cross
+Referencing between large and small scale maps
+(modified British).
+48. Instruction on the Grid System.
+49.
+"Romers" or Reference cards.
+50. Foreign Systems...
+51. Use of Foreign Systems..
+CHAPTER VIII
+SETTING THE MAP AND FINDING POSITION ON IT
+52. Setting & Map....
+by compass.
+54.
+by objects..
+55.
+Finding Position on a Map
+56. Resection.
+CHAPTER IX
+COPYING AND ENLARGING A MAP
+57. Copying a Map.
+58. Value and Use of an Enlargement
+59. The Method of Enlarging a Map.
+60. Examples. .
+CHAPTER X
+THE SERVICE PROTRACTOR AND THE PRISMATIC
+COMPASS
+61. The Service Protractor.
+62. Plotting Bearings with the Protractor.
+63. Reading Bearings with the Protractor
+64. Prismatic Compass..
+65. Observing with the Prismatic Compass, Mk. VIII
+66. Liquid Prismatic Compass.
+67.
+Lensatic Liquid Compass
+68. Compass Errors.
+PAGE
+40
+40
+41
+43
+50
+52
+52
+54
+54
+55
+58
+58
+59
+59
+59
+62
+63
+64
+65
+66
+66
+67
+

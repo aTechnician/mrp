@@ -1,0 +1,50 @@
+pg_0050.pdf:
+To replace a fuse wire proceed as follows: Remove the fuse
+holder from the switchbox, loosen the two screws "G,
+" and then
+remove any remaining pieces of fuse wire.
+Take the length of
+spare fuse wire from the carton "A," and wrap the end once round
+one of the screws "G," underneath the washer, taking care that
+the wire does not cross.
+Tighten this screw, then stretch the wire
+lightly across the holder and wind it round the second screw,
+taking the same precaution as before.
+When the second screw
+is tightened, the remaining length of wire may be cut off and the
+fuse holder replaced in the switchbox.
+NoTE.- Should it be found that the fuse is continually blowing,
+do not add two or three more strands to prevent this occurring, but
+have the equipment thoroughly overhauled to find out the cause
+of the trouble.
+Battery
+Important Points
+(I) Keep the acid well above the top of the plates.
+(2) Add only distilled water, never tap water.
+(3)
+Take frequent readings of the specific gravity by means of
+the hydrometer (see page 49).
+(4) Do not allow the battery to remain discharged; if run down,
+through whatever cause, recharge at once.
+(5) Keep the terminals spanner-tight and smeared with vaseline.
+We would impress upon the owner the importance of the battery
+in the electrical equipment, and the necessity for careful treatment
+and regular attention, if it is to be kept in good condition.
+The chemical nature of the battery must always be kept in mind
+when considering how much attention is necessary in order that it
+will function properly under all conditions of use.
+It is the chemical
+condition of the cell which determines its usefulness, and limits
+the work it can do, and only a much-restricted yield of electrical
+energy is possible unless the chemical condition of the plates is
+good.
+It is for this reason that manufacturers give detailed instruc-
+tions for the first charge and subsequent care of the battery. The
+sulphuric acid solution used in filling up the cells must be quite
+pure and of the correct density (1.225 at 60° F. for Lucas batteries),
+and it is important that the level of the acid should be kept well
+but just short of the bottom of the
+vent plugs.
+above the toReglect of this simple precaution will seriously impair
+the efficiency of the battery. Under ordinary conditions it will
+

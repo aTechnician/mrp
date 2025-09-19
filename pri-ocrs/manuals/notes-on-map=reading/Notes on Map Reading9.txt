@@ -1,0 +1,50 @@
+pg_0009.pdf:
+12
+as the plans of the lines at which a water surface (of
+the ocean, for instance) would intersect the surface of
+the earth were it raised successively by equal amounts.
+Contour Interval.-The difference in level between two
+adjacent contours (generally known as the Vertical
+Interval).
+Datum or Datum Levei.-The level to which altitudes are
+referred.
+Detail.-All minor natural or artificial features of the ground
+or on the ground.
+Fall of a River-Its slope,
+usually measured in inches (or
+feet) to the mile, thus: 9 inches to the mile.
+Fixed Point.—A point is fixed when its position is known and
+can be plotted on paper in correct relationship to other
+points.
+Form Line.-An approximate contour; a sketch contour.
+Gradient.—A slope
+expressed by a fraction.
+Thus 1/30
+represents a rise or fall of 1 foot in a distance of 30
+Graticule.—A system of four-sided figures formed by lines
+which represent portions of meridians and parallels.
+Grid.--A system of squares formed by lines which represent
+progressive distances east and north of a fixed origin.
+Grid North.-The lines of a grid point nearly, but not quite,
+west. Those which me ney toot quite, east ane
+Grid North lines.
+Hachures.—Vertical hachuring is a conventional method of
+representing hill features by shading in short discon-
+nected lines drawn directly down the slopes in the
+direction of the flow of water on the slopes.
+Horizontal Equivalent (usually written H.E.).—Is the dis-
+tance in plan between two adjacent contours.
+Latitude.-The latitude of a place is the arc of the meridian
+from the place to the equator, expressed in degrees
+at the centre of the earth.
+Local Magnetic Attraction.-Is the deviation of the magnetic
+needle of
+a compass from its mean position, owing
+to the presence of masses of magnetie iron ore or of
+iron in the neighbourhood.
+Longitude.-The longitude of a place is the angle at the
+pole between
+the meridian of that place and some
+standard meridian (generally the meridian of Green-
+wich).
+

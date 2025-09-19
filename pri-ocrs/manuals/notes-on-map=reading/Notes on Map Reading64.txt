@@ -1,0 +1,148 @@
+pg_0064.pdf:
+660
+ЧИ.
+yes X13=
+76
+regards width and by figures as regards surface and founda-
+tions, viz.:-
+" А "
+roads,
+those wide enough to take 2 streams of traffic
+"В"
+of the nature denoted by the subsequent figure.
+roads,
+those wide enough to take one stream of traffic
+of the nature denoted by the figure,
+but on which
+individual and occasional vehicles can pass the stream.
+"C"
+roads, those wide enough to take one stream of traffic
+of the nature denoted by the figure, but on which pass-
+ing is impossible except on
+certain definite passing
+places.
+No. 1 category
+roads capable of taking heavy M.T., viz.:
+3-ton lorries, heavy guns, etc.
+No. 2 category
+capable of taking light M.T. up to
+1-ton lorries.
+No. 3
+roads capable of taking H.T. only.
+No. 4 category roads capable of taking pack transport only,
+or bridle paths.
+The combination of these factors gives the following
+results:-
+Heavy
+M.T.
+1
+A 1
+Light
+M.T.
+2
+A 2
+Н.T.
+only
+3
+A 3
+Pack
+Trans-
+port
+4
+A 4
+Two streams.
+One stream with oc-
+casional passing....
+One stream only...
+C
+B 1
+C 1
+B 2
+C2
+B 3
+C 3
+B 4
+C 4
+Thus,
+for example, a road sufficiently wide to
+take one
+stream
+of heavy M.T. traffic only will be described as C. 1,
+and this classification will be written on the map or sketch,
+which
+illustrates
+the
+road report, alongside the road to
+which it refers.
+the surface of & road deteriorates in
+2. In adition, ts classification at that period will be shown
+in brackets.
+the wet season, or example,
+unmetalled road in a semi-
+tropical country, capable of taking 2 streams of light M.T.
+in the dry season, and only H.T. in the wet season, will be
+shown on the sketch as A2 (A3).
+3. It is also of value to write after the classification, the
+type of metalling employed, viz.: granite, laterite,
+etc.,
+thus
+giving an indication as to the wearing qualities of the road
+under continuous traffe.
+4. The reporter should use his common sense and put in
+illustrative form
+all the information possible, in order to
+save time for the officer who has to make use of the report
+77
+APPENDICES
+APPENDIX I
+FINDING TRUE NORTH FROM SUN OR STAR
+1. True North by Compass.—True north is readily obtained
+from magnetic north if the variation of the compass is known.
+The compass, magnetic
+variation and the
+finding of true
+north in this way have already been explanied in Chapter VI.
+2. True North by Watch and Sun.-Lay the watch flat with
+the hour hand pointing to the sun. In the northern hemi-
+sphere the direction of true south is then midway between the
+In the southern hemisphere point XII
+to the sun; then true north lies midway between XII and the
+Thus, in northern hemisphere, time 15•00 hrs. With watch
+set as descried
+above,
+south
+lies in the direction midway
+between
+the figures 1 and 2 and north in the opposite
+direction.
+This method is very rough. It is of no use in the tropics.
+The further away from the equator the more
+accurate it
+Replacing the watch by a 24-hour dial drawn on
+the sketch does not make for much greater accuracy in the
+absence of a special device.
+If summer time is in force
+correct the watch before taking the observation.
+3. True North by the Sun.—The method described below is
+one of "Equal Altitudes."
+Drop some sealing wax on a penny
+and press down thereon the flat end of a pencil, taking care
+that the latter is truly upright and central on the face of the
+"style"
+so formed on a table in the open,
+to which a square of white paper is pinned.
+Run a pencil
+point round the coin and find its centre O (Fig. 58).
+At about
+10•00 note that the shadow of the pencil's point is at A.
+Mark A and ioin it to O and with OA as radius draw the
+circle C around O.
+Note that as the sun moves the shadow
+at the same time traces an arc (dotted, Fig. 58)
+At about 13•45 examine the shadow again; note that it is
+again approaching the circle. At about 14•00 the apex of the
+shadow again crosses the circle; mark the point of crossing, B.
+Then ON, which bisects the angle AOB, is the direction of
+true north in the northern hemisphere, or true south in the
+southern hemisphere.
+

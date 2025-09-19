@@ -1,0 +1,37 @@
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20250917041838Z00&apos;00&apos;
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20250917041838Z00&apos;00&apos;
+InfoBegin
+InfoKey: Producer
+InfoValue: macOS Version 15.6.1 (Build 24G90) Quartz PDFContext
+PdfID0: c62c3b90793868989e92ca35997ee33e
+PdfID1: c62c3b90793868989e92ca35997ee33e
+NumberOfPages: 5
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,747 7,303
+PageMediaDimensions: 5,747 7,303
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,747 7,308
+PageMediaDimensions: 5,747 7,308
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 5,747 7,284
+PageMediaDimensions: 5,747 7,284
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,218 5,770
+PageMediaDimensions: 7,218 5,770
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 0
+PageMediaRect: 0 0 7,221 5,770
+PageMediaDimensions: 7,221 5,770

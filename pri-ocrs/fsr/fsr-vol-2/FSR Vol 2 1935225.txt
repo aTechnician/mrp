@@ -1,0 +1,51 @@
+pg_0225.pdf:
+V07794 (224) Digitised by the Vickers MG Collection & Research Association - www.vickersmg.org
+196
+[Appendix IV.
+5. Unless otherwise stated, the time and place of arrival of
+a body of troops refer to the head of the main body.
+II. Date
+1. All orders, instructions, reports and messages must be
+dated. Dates will be written in the form " 3 Sep 36," and
+not in the numeral form " 3/9/36."
+The names of months will be abbreviated by the use of the
+first three letters.
+In using the message form (A.F. C 2123) neither the
+month nor the year will be inserted in the date space, which
+is for the day of the month only.
+2. A night will be described by both dates over which the
+night extends, e.g. :
+" night 29/30 Sep"
+" night 30 Sep/1 Oct "
+Ill. Time
+1. Time will be described by reference to the 24-hour
+clock. Groups of four figures followed by " hrs" will be
+used.
+The first two figures represent the hour and the last
+two the minutes past the hour.
+Example (Date-3 Sep).
+" 0001 hrs" : one minute past midnight, night 2/3 Sep.
+" 0900 hrs"
+nine o'clock in the morning.
+" 1200 hrs"
+: nOOn.
+" 1635 hrs" : twenty-five minutes to five in the after-
+поод.
+" 2400 hrs" : midnight 3,4 Sep.
+The abbreviation " hrs" will not be used in the " Time of
+origin" space on the message form (A.F. C 2128).
+2. When plans are being drawn up which are to be carried
+out in accordance with a time-table, it will be usual to base
+the timings on a time known as " zero hour"; this enables
+arrangements to be made in detail without the necessity of
+fixing or disclosing, until it is convenient to do so, the actual
+moment when the operation will begin. It will be the
+responsibility of the commander who issues the orders for an
+operation to define what constitutes zero hour for that
+particular operation: in attack, it will normally be the hour
+at which the leading troops of the attack cross their starting
+line.
+Zero hour will be described in accordance with the
+rules in para. 1, above. Auy action to be taken before zero
+V07794 (224) Digitised by the Vickers MG Collection & Research Association - www.vickersmg.org
+
