@@ -11,31 +11,37 @@ args=("$1" "$2")
 #echo "${args[1]}" 
 
 # Reminder zsh 1 indexes
-mkdir "${args[1]}"
+mkdir "${args[1]}" 
 
-cp "${args[0]}" "${args[1]}"
+if cp "${args[0]}" "${args[1]}" then
 
-pwd=(`pwd`)
-output="${args[1]}"/"${args[0]}"
+	pwd=(`pwd`)
+	output="${args[1]}"/"${args[0]}"
 
-cd "${args[1]}"
+	cd "${args[1]}"
 
-pdftk "${args[0]}" burst
+	pdftk "${args[0]}" burst
 
-j=1 #for page counting
+	j=1 #for page counting
 
-for i in pg_*.pdf; do
+	for i in pg_*.pdf; do
 
-ocrit $i > "${args[1]}""/""${args[0]%????}"$j".txt"
+	ocrit $i > "${args[1]}""/""${args[0]%????}"$j".txt"
 
-echo "Page "$j" complete"
+	echo "Page "$j" complete"
 
-((j++))
+	((j++))
 
-rm $i
+	rm $i
 
-done
+	done
 
-rm "${args[0]}"
+	rm "${args[0]}"
 
-cd -
+	cd -
+
+else
+
+	echo "Error"
+
+fi
