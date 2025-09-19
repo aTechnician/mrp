@@ -26,7 +26,7 @@ j=1 #for page counting
 
 for i in pg_*.pdf; do
 
-ocrit $i > "${args[1]}"$j".txt"
+ocrit $i > "${args[1]}""/""${args[0]%????}"$j".txt"
 
 echo "Page "$j" complete"
 
