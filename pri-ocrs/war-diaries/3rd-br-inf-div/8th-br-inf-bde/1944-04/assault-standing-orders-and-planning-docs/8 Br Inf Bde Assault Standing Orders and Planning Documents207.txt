@@ -1,0 +1,103 @@
+pg_0207.pdf:
+EX LE PYAR
+SPERD
+DENSITY -
+HALTS
+25 1I2H
+30 VTM
+NORI AL
+Ser
+No
+Unit
+(a)
+1 1 SUFFOLK
+No of No of LOT Date of
+vehs pers
+No
+embarking
+132
+228
+28
+8 Fd nb
+246 Fa Coy
+Coy 2 Mx
+2 WARWICK
+1 NORFLK
+2 KSLI
+95
+229
+229
+230
+228
+228
+230
+230
+28
+28
+28
+28
+28
+Move Table for personnel
+embarking
+at FORT GEORGE On LCID)
+NAIRN
+(h)
+292789
+Tine past SP
+Tail
+(k)
+1230
+1232
+x rds
+388780
+BRACKLA
+WESTFIELD
+INCHYETTLE
+292789
+292789
+292789
+292789
+292789
+292789
+rd junc
+380793
+1232
+ROUTE
+(гг)
+Direct
+CA. DOR -
+ARDERSIER
+Direct
+Direct
+Direct
+Direct
+Direct
+Appx '4' to 8 Er Inf Bde Move
+Instr No 2.
+Dis Pt
+(n)
+292789
+Ha Past
+Renarks
+(p)
+1300 1302
+inols
+Bde Sigs 2
+Contact Det
+Padre - 1
+292789
+292789
+292789
+292739
+292789
+292789
+1310 1312
+1315
+1315
+1320
+1320
+1320
+ULO party
+ULO party
+ULO party
+

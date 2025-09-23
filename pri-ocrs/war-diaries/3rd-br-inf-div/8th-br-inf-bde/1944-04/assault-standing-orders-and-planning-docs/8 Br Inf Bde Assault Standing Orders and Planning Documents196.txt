@@ -1,0 +1,31 @@
+pg_0196.pdf:
+SECRET
+24 Mar 4)
+Apox 'C' to 8 Br Infantry Brigade Sig Instruction No 1
+Code Fords
+In order to conceal from the enemy the tactical disposition of the Force,
+the following code names for craft will be used in ALI, R/I conversations (and
+nessage traffic).
+LCA
+Whale
+ICS (M) Walrus
+ICT
+Swordfish
+LOT (R) Shark
+ICF
+Conger
+LCG (L) Herring
+ICT (4) HE Mackerel
+ML
+Shrimp
+ICH Prawn
+LCM
+Crab
+ICP
+Minnow
+LSI
+Salmon
+ICI (L) Lobster
+These code words will be destroyed by safe means on conclusion of the
+exercise.
+

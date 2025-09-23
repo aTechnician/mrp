@@ -1,0 +1,65 @@
+pg_0097.pdf:
+- 2 -
+Ada new Serial
+Add new Serial
+Add new Serial
+Unit Title
+71 Fa Coy less det
+Mob serial 29628
+Marching party 173
+Remarks colum - To land in IST
+Unit Title 16 COS
+Mob serial 18571
+Marching party 124
+Unit Fitle Div Sec 104 Corps Reception Camp
+Mob serial 37754
+Marching party 7
+Add new Serial
+Unit Title
+Br Rfts
+Marching party 500
+NUTS: A11 now sorials in Corps Overheads should be landed as late as possible.
+1 Overheads
+Delete Serial 151 complete
+Serial 174
+Delete Marching party 33
+Add Vehicle party 33
+Serial 173
+Delete Tractor Class II fitted dozers
+Add Tractor Crawler Cl II D 8 with Blade and
+Winch
+Measurements 22' by 11'8" by 7'6" and ....:.
+Winch about 1'6".
+4 tornal Overheada
+Amond 'R' RN Beach Commando to read
+Worching party 27, total 27 and no other
+detail'.
+Add new Serial
+Unit Title
+Nucleus BAN Sec
+Ada
+Marching party
+27
+Vohicle party
+4
+Total
+31
+Handcarts Wireless NOT carried on vehs 6
+Bioycles NOT carried on vehs
+2
+MCs NOT carried on vehs
+2
+Coneral Note: Corps, Army and External Overhead Tide Staff Tables held by PMIC only.
+1 нм 4001.
+fIt. Co2.,
+G.S.,
+3 Br Inf Div.
+- a-
+------
+Substitute AFA 16
+63 Br Inf Div Adv
+Tomation or Unit..
+Roceipt is acknowledgua of s/2155/1/G/213 dated 14 Mar 4 copy No.
+Signature
+Rank..
+

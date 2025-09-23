@@ -1,0 +1,125 @@
+pg_0205.pdf:
+L INFRAR
+Speed
+Density
+Halts
+Ser
+[a)
+1
+3
+5
+6
+: 25 mi2H
+: 30 VTH
+: Norm]
+Unit
+(b)
+246 Fa Coy
+8 Fa Amb
+13/18H
+Date
+of
+Move
+(c)
+26
+26
+26
+B Bonbardment 26
+tp
+76 Fa Regt SP 27
+33 Fl Regt SP 27
+No
+of
+Vehs
+(a)
+4
+2
+19
+74
+67
+MOVEMENT TABLE SIDWING PERSONNEL AND VEHS
+ENDARKI
+I CHANONRY
+From
+(e)
+WESTFIELD
+Bo
+BRACKLA
+FORT
+GEORGE
+MUIR
+OF
+ORD
+MUIR OF
+ORD
+To
+(1)
+124748
+124748
+102729
+102729
+208775
+A isseLbly
+Area
+208775
+SP
+Time Past
+на
+Tail
+(s)
+(h)
+Rd & Tr 1200
+junc
+300778
+1203
+X Rds
+0572
+214,8
+2200
+Ra. june 2250
+123749
+2301
+SECRET
+Appx B to 8 Br Inf Bde
+Mov Instr No 1
+dated 25 Mar 44+
+Route
+Dis Pt
+Hd
+Time Past
+Tail
+(5)
+(k)
+(1)
+(a)
+FORRES - NAIRN - 124748
+1100 -
+INVERNESS - MUIR
+OF ORD
+CAVDOR - X Rãs
+3375 - INVERNESS 124748 1105
+NUIR OF ORD
+INVERNESS
+102729
+1430 1432
+DIRECT
+102729
+1600
+208775
+2300
+2312
+DIRECT
+DIRECT
+208775
+2320
+2331
+Remarks
+(n)
+To load in LCTs
+406, 407, 408,
+409
+To Ioad into
+LOT 400
+Do load into
+LOT 337
+

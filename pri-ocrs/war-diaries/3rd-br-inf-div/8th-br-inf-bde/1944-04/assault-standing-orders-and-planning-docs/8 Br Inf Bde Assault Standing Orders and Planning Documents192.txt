@@ -1,0 +1,78 @@
+pg_0192.pdf:
+Ex, LEAPYEAR
+(Issued in confirmation of Sig Offrs conf 24 Mar 44)
+8 Br Infantry Brigade Signal Instruotion No.
+SECRET
+Copy No.
+24 Mar 41
+1. Bac A wave
+Bde HQ ship - Bde Standby HQ - 1 SUFFOLK - 2 E YORKS - 1 S LAN R - 13/18 H -
+5 ARRE - Bde Cond - A Ech.
+2. Bde B wave
+Bde HQ ship - Bde Standby HQ - 1 SUFFOLK - 2 E YORKS - 1 S LAN R - ULO 1 S
+LAN R - ULO 2 E YORKS - ABSS 1 S LAN R - ABSS 2 E YORKS - Bde Beach HQ - Beach Go
+3.
+3n" Coy nets
+Son 13/13 1 Son AVRE will be on 1 S LAN R Bn 46 sot net.
+Sqn 13/18 1 Sgn AVRE will be on 2 L YORKS Bn 46 set net.
+San 13/18 will be on 1 SUFFOLK Bn 46 got net.
+4 Coy-Pl nots
+Each assaulting Coy will have communication by 38 set from Coy HQ to vach
+Pl and to AVRE troops with which coopcrating.
+5. Netting
+As arrangod at conf.
+6.
+Wireless Silence
+(a) Wireless silence will be maintained on all nets from 1200 hrs D - 1 day
+until H - 120 mins.
+(b) At H - 120 mins control stations on all nets will break wireless silence
+using the appropriate code word, and will establish communications.
+(c) In the event of a control station failing to break wireless silence,
+the
+standby control station (where no standby HQ exists, this will be the senior out-
+station) will break the silence.
+7. Freguencies
+Bde A
+1 SUFFOLK
+Coy net
+38 set nets
+2 E YORKS
+Coy net
+38 sot nets
+1 S LAN R
+Coy net
+4295
+7960
+6500
+7400
+7700
+7900
+81.00
+8300
+8600
+8710
+7700
+8100
+74,00
+7600
+7800
+82.00
+8700
+8140
+8850
+84,00
+crystal)
+set
+(18
+set)
+(crystal)
+18
+set)
+18
+set)
+(crystal)
+crystal)
+(18
+set)
+........ /2
+
