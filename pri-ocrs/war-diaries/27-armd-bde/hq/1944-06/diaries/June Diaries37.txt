@@ -1,0 +1,68 @@
+pg_0037.pdf:
+Diapram1
+UNIT
+P/ LINKS
+R/L
+13/18
+LOCAL
+STATIONS
+Bde Coma
+Sc Car
+27 ARMOURED BRIGADE COND NET
+R/I.
+22 Dens
+R/L
+R/L
+27 Can A. Regte 141 RiC
+Spare
+Sc Car
+AA Tanks
+1st Prot Tp
+234
+218.
+284
+2,6
+27 ARMD BDE
+COND POST
+/ 25B
+25
+R/Link
+Tank
+Cond
+Tank
+Sp Cand
+Tank
+L.0.
+13618
+25B
+DIV A
+DIV C
+ORDER OF ANSWERING :
+(1) Unit R/Links in alphabetical order.
+(2) LOs in alphabetical order.
+(3) Local Stations in numerical order.
+FRE QUENCE:
+5227
+3'4
+DAAQNG
+A Ech
+MAIN
+BIE HQ
+DIV A
+L.0.
+Staffs.
+2nd Prot Tp.
+217-
+ABRIRLOUR
+L. 0.
+S.L.0.
+E.B.Y. (with 9 Cdn InfIe)
+2:2
+S.M.0.
+25C
+Sp R/Link
+Tank
+DIV B
+LOCAL STATIONS
+MAIN BDE HQ
+

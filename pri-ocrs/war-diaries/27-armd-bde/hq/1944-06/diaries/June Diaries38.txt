@@ -1,0 +1,50 @@
+pg_0038.pdf:
+Diagram 2
+FROM COMMAND POST
+Staffs
+ARY
+13/18
+(ocần Int
+Bde)
+8 Br
+Inf Bde K
+9 3540
+22 Dgs
+B Sgn
+141 RAC
+185 Bde
+An?
+DIV A
+DIV C
+Sp Cond
+Tank
+Sp R/Link
+Tank
+C.0. Staffs
+Yeo.
+C.O. 22 Dragoons
+- LEGEND
+Junction Remote Control
+Telephore
+Bde Cand
+B.M.
+S.O.
+I.O.
+ERY
+Cond Net
+Bde Comd
+Sc Car
+ABERLOUR
+27 CAR
+→ Cond Net
+LO 27 Can
+Tand Regt.
+2 Can
+#Arma Bde
+Cond Net
+- L0 2 Can
+Arma Bde
+B Sqn
+141 RAC
+: LO 141 RAC
+

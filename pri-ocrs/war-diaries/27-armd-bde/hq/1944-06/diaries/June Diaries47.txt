@@ -1,0 +1,53 @@
+pg_0047.pdf:
+Diagram 2
+Staffs
+KRY
+13/18
+Bde)
+8 Br
+Inf Bde K
+22 Dgs
+B Sqn
+141 RAC
+• C.0. Staffs
+Yeo.
+* C.0. 22 Dragoons
+-- ICEND -
+Junction Remote Control
+Telephor
+MUNICATIONS
+FROM COMMAND POST
+In 185 Bae
+Ang Cac
+DIV A
+DIV C
+DIV B
+R/Link
+Tank
+Sp R/Link
+Tank
+Bde Camd
+B.M.
+S.0.
+I.O.
+T
+T
+T
+ERY
+Cand Net
+Bde Cond
+Sc Car
+ABERLOUR
+27 CAR
+Cond Net
+LO 27 Can
+Tand Regt.
+2 Cdn
+→Armd Bde
+Cond Net
+LO 2 Can
+Arnd Bde
+> B Sqn
+141 RAC
+- TO 141 RAC
+
