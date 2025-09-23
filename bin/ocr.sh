@@ -13,7 +13,7 @@ args=("$1" "$2")
 # Reminder zsh 1 indexes
 mkdir "${args[1]}" 
 
-if cp "${args[0]}" "${args[1]}" then
+if cp "${args[0]}" "${args[1]}"; then
 
 	pwd=(`pwd`)
 	output="${args[1]}"/"${args[0]}"
