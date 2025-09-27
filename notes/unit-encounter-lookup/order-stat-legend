@@ -1,6 +1,7 @@
 Legend
 c	checked 
-a	ancestry
+a	ancestry found
+d	ancestry downloaded
 n	national archives
 s	skipped
 p	pending
