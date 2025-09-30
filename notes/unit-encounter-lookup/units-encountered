@@ -77,8 +77,7 @@
 		3 recce	[27-90]
 		3 Sector Stores Dump (Petrol and Amn)	[27-90]
 		3/4 Countty of London Yeo	[27-90]
-		33 Armd Bde	[27-90]
-		33 Armd Bde (90 Aug)	[27-90]
+		33 Armd Bde (90 Aug)	[27-90]	WO 171/640	Do I need this?
 		333 A Tk Bty (90 Aug)	[27-90]
 		34 RHU (90 Aug)	[27-90]
 		34 RHU Bayeux (90 Aug)	[27-90]
@@ -86,22 +85,20 @@
 		344 SL Bty (90 Aug)	[27-90]
 		361 LAA Bty (90 Aug)	[27-90]
 		3rd Br Inf Div provosts	[27-90]
-		4 Armd Bde  (90 Aug)	[27-90]
-		4 Armd Bde (90 Aug)	[27-90]
-		4 Armd Bde (90 Aug)	[27-90]
+		4 Armd Bde  (90 Aug)	[27-90]	WO 171/601	Do I need this?
 		4 Welsh (90 Aug)	[27-90]
-		43 Div  (90 Aug)	[27-90]
+		43 Div  (90 Aug)	[27-90]	WO 171/479 WO 171/480	Do I need this?
 		43 Div RA A Tk (90 Aug)	[27-90]
 		432 Coy (90 Aug)	[27-90]
 		432 Coy RASC (90 Aug)	[27-90]
 	n	47 Coy RASC (Inf Bde)	[27-90]
 	n	48 Coy RASC 
-		5 Black Watch	[13/18]
-		5 Camerons	[13/18]
+		5 Black Watch	[13/18]	WO 171/1266
+		5 Camerons	[13/18] WO 171/1270
 		5 DCLI (90 Aug)	[27-90]
 		5 Seaforths	[13/18]
 		506 Div Tps Coy RASC (90 Aug)	[27-90]
-		51 Highland Div	[27-90]
+		51 Highland Div	[27-90]	WO 171/527	Do I need this?
 	n	522 Coy (90 Aug)	[27-90]
 	n	524 Coy RASC (50 Div) (90 Aug)	[27-90]
 	n	53 Div (90 Aug)	[27-90]
@@ -117,7 +114,7 @@
 	a	69 Bde (90 Aug)	[27-90]
 		7 Armd Div	[13/18]
 		7 Armd Div	[27-90]
-		7 Green Howards (90 Aug)	[27-90]
+	a	7 Green Howards (90 Aug)	[27-90]
 		7 Norfolks	[13/18]
 		7 Royal Norfolk Rgmt	[13/18]
 		7 Royal Welsh Fusileirs  (90 Aug)	[27-90]
@@ -141,11 +138,12 @@
 		Beach Sector Stores	[27-90]
 		BRASCO 27 Armd Bde	[27-90]
 		Canadian Essex Scottish Bn (90 Aug)	[27-90]
-		CRA 3 Br Inf Div	[27-90]
-		CRASC 30 Corps Tps (90 Aug)	[27-90]
-		CRASC 46 Tpt Coln (90 Aug)	[27-90]
-		CRASC 50 Div (90 Aug)	[27-90]
-		CRASC 53 Div	[27-90]
+	n	CRA 3 Br Inf Div	[27-90]
+	n	CRASC 30 Corps Tps (90 Aug)	[27-90]
+	n	CRASC 46 Tpt Coln (90 Aug)	[27-90]
+	n	CRASC 50 Div (90 Aug)	[27-90]	WO 171/522
+	n	CRASC 53 Div	[27-90]	WO 171/566
+		BMA Moon
 		DDST 1 Corps 	[27-90]
 	d	ERY	[27-90]
 		KOSB	[27-90]
