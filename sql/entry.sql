@@ -1,0 +1,43 @@
+START TRANSACTION;
+-- ancestry requested scanned filed
+call ww2_log.new_tna_fond(148, 'WO', '171', '814', '1944-06-01', '1944-12-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(148, 'WO', '171', '813', '1944-01-01', '1944-05-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(8, 'WO', '171', '5998', '1944-04-01', '1944-08-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(55, 'WO', '171', '2356', '1944-01-01', '1944-12-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(149, 'WO', '171', '2363', '1944-01-01', '1944-12-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(83, 'WO', '171', '2364', '1944-01-01', '1944-12-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(38, 'WO', '171', '2402', '1944-01-01', '1944-12-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(150, 'WO', '171', '625', '1944-01-01', '1944-12-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(151, 'WO', '171', '422', '1944-01-01', '1944-12-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(152, 'WO', '171', '434', '1944-06-01', '1944-09-30', 0, 1, null, 0);
+call ww2_log.new_tna_fond(153, 'WO', '171', '636', '1944-01-01', '1944-12-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(154, 'WO', '171', '624', '1944-06-01', '1944-08-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(61, 'WO', '171', '623', '1944-01-01', '1944-07-31', 1, 1, null, 0);
+call ww2_log.new_tna_fond(155, 'WO', '171', '433', '1944-01-01', '1944-12-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(156, 'WO', '171', '430', '1944-05-01', '1944-07-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(157, 'WO', '171', '432', '1944-01-01', '1944-12-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(158, 'WO', '171', '419', '1944-01-01', '1944-12-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(66, 'WO', '171', '409', '1944-01-01', '1944-05-31', 1, 1, null, 0);
+call ww2_log.new_tna_fond(159, 'WO', '171', '423', '1944-01-01', '1944-12-31', 1, 1, null, 0);
+call ww2_log.new_tna_fond(39, 'WO', '171', '2362', '1944-01-01', '1944-12-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(9, 'WO', '171', '2381', '1944-01-01', '1944-12-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(39, 'WO', '171', '2506', '1944-01-01', '1944-12-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(11, 'WO', '171', '2380', '1944-01-01', '1944-12-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(160, 'WO', '171', '2117', '1944-01-01', '1944-12-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(161, 'WO', '171', '2143', '1944-01-01', '1944-12-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(53, 'WO', '171', '2288', '1944-01-01', '1944-12-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(54, 'WO', '171', '2289', '1944-01-01', '1944-12-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(162, 'WO', '171', '2736', '1944-01-01', '1944-12-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(163, 'WO', '171', '2707', '1944-01-01', '1944-08-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(164, 'WO', '171', '776', '1944-06-01', '1944-12-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(165, 'WO', '171', '2689', '1944-01-01', '1944-11-30', 0, 1, null, 0);
+call ww2_log.new_tna_fond(166, 'WO', '171', '2507', '1944-01-01', '1944-12-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(167, 'WO', '171', '2419', '1944-01-01', '1944-12-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(168, 'WO', '171', '3386', '1944-01-01', '1944-12-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(169, 'WO', '171', '895', '1944-01-01', '1944-12-31', 0, 1, null, 0);
+
+call ww2_log.new_tna_fond(170, 'WO', '171', '3734', '1944-01-01', '1944-12-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(51, 'WO', '171', '2233', '1944-01-01', '1944-12-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(66, 'WO', '171', '421', '1944-01-01', '1944-12-31', 0, 1, null, 0);
+call ww2_log.new_tna_fond(166, 'WO', '171', '2507', '1944-01-01', '1944-12-31', 0, 1, null, 0);
+-- ancestry requested scanned filed

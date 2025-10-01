@@ -68,3 +68,16 @@ FOREIGN KEY (uic) REFERENCES units(uic),
 FOREIGN KEY (fond) REFERENCES fonds_tna(fond)
 );
 
+CREATE TABLE tna_bookings (
+ref_no VARCHAR(16) NOT NULL,
+dte DATE,
+PRIMARY KEY (ref_no)
+);
+
+CREATE TABLE tna_fond_booking (
+	ref_no VARCHAR(16) NOT NULL,
+    fond VARCHAR(16) NOT NULL,
+    PRIMARY KEY (ref_no, fond),
+    FOREIGN KEY (ref_no) REFERENCES tna_bookings(ref_no),
+    FOREIGN KEY (fond) REFERENCES fonds_tna(fond)
+);
