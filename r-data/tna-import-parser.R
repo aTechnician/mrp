@@ -2,7 +2,7 @@
 # then pushes all of it to ww2_log.  
 #
 # Set psswd and file before use.  Massive gap for privacy.
-psswd <- 
+psswd <- ""
   
   
   
@@ -22,7 +22,7 @@ psswd <-
 ###### DELETE PASSWORD before saving !!!! ####################################
 
   
-reader <- "TNA_Search_Results_01-10-2025T20_13_40.csv" # Change me
+reader <- "TNA_Search_Results_03-10-2025T18_10_34.csv" # Change me
 
 ###### DELETE PASSWORD before saving !!!! ####################################
 # Don't forget to enter the passwd!!!
