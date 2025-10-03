@@ -5,9 +5,9 @@ USE ww2_log;
 -- link fond to unit
 -- UIC, WO, 171, [NUMBER], ANCESTRY, REQUESTED, SCANNED, FILED, PRI 
 call ww2_log.new_tna_fond(
-258, 
+104, 
 'WO', '171', 
-'524', 
+'1373', 
 NULL, 0, 0, 0, 3);
 
 -- insert unit

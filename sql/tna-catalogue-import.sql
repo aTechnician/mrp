@@ -37,6 +37,7 @@ id,
 score
 FROM tna_imp;
 
+SELECT fond FROM imp WHERE sdate = 0 OR edate = 0;
 -- Clean data ( must be run from the CLI)
 UPDATE imp SET sdate = NULL WHERE sdate = 0;
 UPDATE imp SET edate = NULL WHERE edate = 0;
@@ -58,7 +59,6 @@ WHERE c.fond IS NULL;
 DROP TEMPORARY TABLE imp;
 DROP TABLE tna_imp;
 SELECT count(fond) FROM cat_tna;
-
 /*
 select * from imp where sdate = 0 OR edate = 0;
 
