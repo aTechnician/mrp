@@ -22,7 +22,7 @@ psswd <- ""
 ###### DELETE PASSWORD before saving !!!! ####################################
 
   
-reader <- "TNA_Search_Results_03-10-2025T18_10_34.csv" # Change me
+reader <- "TNA_Search_Results_03-10-2025T21_06_19.csv" # Change me
 
 ###### DELETE PASSWORD before saving !!!! ####################################
 # Don't forget to enter the passwd!!!

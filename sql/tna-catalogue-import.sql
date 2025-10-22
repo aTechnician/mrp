@@ -1,4 +1,5 @@
 -- SELECT * FROM ww2_log.tna_imp;
+
 START TRANSACTION;
 /*
 -- DROP SURRIOUS COLUMNS
