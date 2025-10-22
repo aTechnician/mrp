@@ -1,0 +1,32 @@
+BURGHEAD
+ENEMY DEFS
+Ref Map
+125000
+LATE GUNS
+2 LT GUNS
+Z
+ONE PL INP
+Co Guntes
+1 Fo cuns
+3 ATA GUNS
+2-57
+2 ATX
+SECTOR
+TenG
+PLS 16:
+8>
+PHINES
+LEGEND
+-→ Fire posa
+0- MG in Pillbox
+8+ ATk Gun in Pilibox
+-- Single Wire
+- Mulriple Wire
+AnA Miner
+No. 11,
+14,09
+26/Records
+26/W.D
+HY/WO/NWY
+210/1
+DIVISION .0.

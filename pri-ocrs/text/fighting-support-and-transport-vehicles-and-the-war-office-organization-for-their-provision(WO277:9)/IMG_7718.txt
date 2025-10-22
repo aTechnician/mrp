@@ -1,0 +1,101 @@
+Should any owners desire to fit bodies weighing more than the amounts
+shown in the above tables, the matter would have to be reported, and if the
+weight was considered by the Mechanical Transport Committee to be excessive,
+owners would be obliged to keep in addition for mobilization purposes another
+body of lighter weight which has been approved by the War Department.
+Although it is anticipated that the majority of bodies obtained under the
+subsidy scheme will be at least some 7 or 8 cwt. lighter than the maximum
+figures shown, and although it is highly desirable that the body weights should be
+kept as low as possible, the total weights given above are those that may have to
+be carried by subsidized vehicles.
+It is therefore necessary that the vehicles
+should be capable of carrying them, and in the trials of type vehicles to be
+submitted as being suitable to earn the War Department subsidy, they are the
+figures that will be worked to.
+The weight of the chassis should also be kept as low as possible consistent
+with ample strength.
+Accessibility.—As the subsidized vehicles when used in the field will have
+to be repaired as rapidly as possible without such conveniences as inspection
+pits, etc., the greatest care must be taken in the design to ensure thorough
+accessibility to all parts.
+5. Protection from Dust and Wet.—As vehicles when used in the field will
+have to run considerable distances in convoy at close intervals over exceptionally
+dusty and muddy roads, and as time and opportunities will not often be available
+for cleaning them, all exposed moving parts must be protected as well as possible
+by dust shields, and attention must be paid in the design to admit of easy
+As full protection as possible must be provided against water splashed up
+from below or otherwise finding its way on to any portion of the ignition system
+which might be rendered temporarily useless thereby.
+Engine.—The engines in both classes are to be of the vertical four-cylinder
+internal combustion type, using ordinary commercial petroleum spirit (petrol)
+for fuel up to 760 specific gravity.
+Class " A"
+Minimum cylinder bore to be 110 mm. or 4z in.
+Minimum R.A.C. rating 30•0.
+Class " B"
+Minimum cylinder bore to be 100 mm. or 4 in.
+Minimum R.A.C. rating 24•8.
+Cylinders to be cast in pairs. All inlet and exhaust valves to be mechanically
+Valve stems to be enclosed by dust-tight covers which must be so
+designed that they are readily removable, and so that the accessibility of the
+valves and cylinder holding-down bolts is not affected.
+Inspection doors of
+ample size are to be provided in accessible positions at the sides of the crank
+chamber, so as to make the big end bearines potions ay accessible for examina-
+tion or for the tightening of big end boling thoroughly ag the engine from the
+possible to facilitate their removal.
+The inspection doors in all cases should be fastened by as few bolts a5
+undoing one bolt.
+Preferably they should be removable by
+The lower portion of the crank chamber to be capable of
+W0277/
+28
+removal without disturbing the main bearings, so as to facilitate examination
+of the latter.
+In the case of engines whose crank shafts run on ball bearings,
+this will not be insisted on so long as side doors are provided of sufficient size
+to enable the big end bearings to be examined.
+No. 101c.
+Engines must be under a bonnet which is entirely removable, vide Drawing
+Vehicles with engines under the driver's seat will not be accepted.
+7. Engine Control.—All connections for throttle, governor, ignition, etc.; to
+be by means of rods, not wire.
+8. Governor.—All engines are to be provided with governors, which are to
+be set in so as to prevent the engine speed from exceeding 1,000 revolutions per
+minute.
+9. Ignition.—Ignition to be by high tension magneto. In addition, a second
+similar magneto is to be provided as spare and carried suitably enclosed and in
+a protected place on the vehicle.
+Magnetos to be of waterproof pattern, failing
+which an effective cover of waterproof insulating material must be provided on
+the working magneto in such a way as not to interfere with its accessibility for
+adjustment or cleaning.
+To enable the timing of the ignition to be readily set, the flywheel is to be
+clearly marked to a fixed pointer with stamped directions, vide Drawing No. 109.
+All magnetos to be arranged to fit on to a standard base, vide Drawing No. 108a,
+and to have a standard drive so that they may be interchangeable.
+Leads to
+the different cylinders should be of different colours to facilitate correct con-
+nections being made, and to be coloured as follows :-
+Cylinder nearest radiator-red, next green, next yellow.
+Cylinder nearest dashboard-blue.
+Print No. 108a shows the universal type of drive to be used with magnetos.
+It will be noted that two types of fastening the magneto are provided for,
+namely, strap and set screws.
+If a type of magneto is fitted in which the height of the spindle above the base
+is less than the 50 mm. shown in the drawing, it must be used with a packing
+piece; and should the height be greater than 50 mm., a packing piece must be
+provided and carried, so as to enable the standard magneto to be fitted.
+If a magneto with automatic advance is fitted, the complete control must be
+provided for connecting up to the contact breaker of a standard magneto, should
+one have to be fitted as a replacement.
+10. Starting Handle.—Cranked portion to be interchangeable by having end
+made as per drawing to fit on to shaft 1 in. square.
+Length of handle, 9 in. centres. Vide Drawing No. 107.
+11. Radiators.—Vide Drawing No. 101c.
+Radiators to fit on to universal housing so that they will be interchangeable.
+This effected by fixing them by means of trunnions near the lower end, and by
+a connection at the top.
+In order to avoid fouling the starting handle and to
+avoid fixing the dimensions of the frame, radiator must fit entirely above the
+frame,

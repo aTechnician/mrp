@@ -1,0 +1,92 @@
+APPENDIX B
+DESCRIPTION AND BRIEF SPECIFICATION OF THE TRACLAT
+A three-quarter track field artillery tractor powered with two standard
+Bedford engines, modelled upon the similar German vehicles types Z-GK W3
+and Z-GKW5.
+The crew's compartment is at the rear and the centre portion
+of the body which is not subdivided is available for storage of ammunition, etc.
+Initial movement of the steering wheel brings into action steering by the
+front wheels.
+Further movement of the steering wheel also steers the tracks on
+the " Cletrac
+" principle.
+An essential of this method is that the load on the
+front axle must be light. The vehicle is not designed to carry armour.
+Engine
+Twin, 6-cylinder, Bedford engines (petrol). B.H.P. 140 at 3,000 г.p.m.
+(ungoverned).
+Performance
+Maximum speed
+30 m.p.h. (governed).
+Tractive effort
+Top (100 per cent.)
+Bottom (100 per cent.) ..
+Turning circle
+2,280 lb.
+16,000 lb.
+50 ft.
+Weights
+Unladen weight
+Payload (including driver) .
+Gross laden weight
+Crew accommodation
+6 tons 16 cwt. (15,232 lb.).
+1 ton 10 cwt. (3,360 lb.).
+8 tons 6 cwt. (18,592 lb.).
+7 men, including driver.
+Dimensions
+Overall length
+Overall width
+Overall height
+21 ft. 0 in.
+7 ft. 6 in.
+5 ft. 10 in. (top of hull).
+8 ft. 11 in. (top of hood).
+104
+WO 277726
+28
+APPENDIX C
+SCAMMEL, 30-TON SEMI-TRAILER RECOVERY VEHICLE
+6 × 4 - 8 Normal Control.
+Engine.—Make, Gardner, C.1. 6 cylinders.
+Stroke, 6-in.
+Capacity, 8,369 c.c., 8•4 litres.
+Maximum torque Ib./in. 4,164 at 1,100 r.p.m.
+B.H.P. 102 at governed speed, 1,700 r.p.m.
+Clutch.-Borg and Beck, 16-in. single dry plate.
+Gear Box.-Six speeds and reverse.
+Rear axle.—Double reduction.
+Spiral bivel and double helical spur gears.
+Final drive by Scammell gear train bogie by
+pinions on differential shafts
+meshing via idlers with gear wheels on road wheel shafts.
+Suspension.—Front and rear, semi-elliptic.
+Brakes.-Foot, compressed air servo on all wheels. Hand (1), Neate brake
+on driving wheels, (2), transmission brake.
+Steering. —Right-hand drive. Cam and roller.
+Fuel capacity.—54 gallons.
+Cooling system.—7 gallons.
+APPENDIX D
+ALBION, C X 24, 20-TON SEMI-TRAILER TANK TRANSPORTER
+6 × 4 - 4.
+Engine.—Make, Albion (petrol).
+6 cylinders.
+Bore, 43-in. Stroke, 6-in.
+Capacity,
+B.H.P. 140 at governed speed 2,100 r.p.m.
+torque lb./in. 5,500 at 900 r.p.m.
+Clutch.—Single dry plate.
+Gear box.-4-speed and reverse.
+Auxiliary box.-2-speed.
+Axles.—Full floating. Overhead worm drive.
+Suspension.—F. Semi-elliptic.
+R.2. Inverted semi-elliptic.
+Brakes.—Foot, compressed air servo on all wheels.
+Hand, mechanical on
+transmission.
+Steering. Right-hand drive.
+Worm and sector.
+Fuel capacity.—100 gallons-two tanks.
+Cooling capacity.—84 gallons.
+105
+(C31438)

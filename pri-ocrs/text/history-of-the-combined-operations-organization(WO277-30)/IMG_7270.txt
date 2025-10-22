@@ -1,0 +1,113 @@
+CHAPTER 17
+COMBINED OPERATIONS SIGNALS ORGANISATION
+The Inter-Services Communications Committee
+In October, 1941, when Commodore Lord Mountbatten was appointed Adviser on Combined
+Operations, there was no signal department at Combined Operations Headquarters.
+There was
+at this time an Inter-Services Committee sitting at the War Cabinet Office whose directive was to
+investigate and report to the Chiets of Staff Committee on " Communications in Combined Oper-
+This subject had in the past received little attention and, in view of the likely course of the
+war, was obviously one of great importance.
+This Committee was under the Chairmanship of a
+Captain R.N. with naval, military and air force members and was then at work on its first report.
+The naval member had, incidentally, been involved in the abortive Dakar operation and was
+acutely aware of the lack of up-to-date doctrine on this subject, and the absence of the necessary
+specialised ships, equipment and trained personnel.
+With the arrival of the new Adviser on Combined Operations, a naval signal officer was
+appointed to C.O.H.Q. as Signal Officer Combined Operations for inter-Service signal duties and,
+almost immediately, took over the Chairmanship of the above-mentioned Committee in addition
+to his duties at C.O.H.Q. It was soon realised, however, that the scope of the signal work at C.O.H.Q.,
+both in connection with the signals of the growing Combined Operations Organisation and the
+development of combined operations communications technique, then practically non-existent,
+It was therefore decided, in agreement with the Chiefs of Staff
+Committee and the Service Ministries, that the Committee should move to C.O.H.Q. to complete
+its work and that the naval, military and air force members of it should join C.C.O.'s staff under the
+Chairman who, as a Captain R.N., became Chief Signal Officer Combined Operations.
+In the course of their deliberations on the subject of " communications in combined operations,"
+the Inter-Services Communications Committee submitted six reports during the period from
+December, 1941, to May, 1942. The subjects of these reports were as follows :-
+(1) W/T equipment.
+(2) Support control.
+This included the H.Q. Ship requirement.
+(3) Cyphers, codes and code names.
+(4) Line communications.
+(5) Radar.
+(6) Anglo-American signals co-operation.
+The succeeding paragraphs cover these reports in greater detail.
+W/T Equipment required for Combined Operations
+By December, 1941, the report on WI equipment had been passed by the Combined Operations
+Committee and was forwarded to the Chiefs of Staff and Service Ministries for early action in view
+of the unsatisfactory state of affairs. All Services stressed the urgent need for specialised equipment,
+(1) Light, portable and waterproofed equipment for beach operation. Some of that
+recommended for combined operations purposes eventually passed into much wider
+use (e.g. Nos. 22 and 46 sets).
+(2) Additional equipment, especially R/T sets and VH/E sets, for rapid installation in ships
+of all kinds in order to increase their communications facilities at short notice.
+(3) Provision of transportable or mobile R/I equipment and Warning radar for ground-air use.
+The Headquarters Ship
+The Committee then continued its work at C.O.H.Q. and produced, in January, 1942, its second
+report which dealt with " Support Control in Combined Operations,"
+communications which had, in the past, been far from satisfactory.
+an aspect of amphibious
+It was during the preparation
+of this report that the idea of the H.Q. Ship was resurrected as a matter of urgency, and practical
+recommendations were made for its fulfilment; earlier concepts were rejected as too limited and
+slow of execution, and the Committee's opinion was that the signal communications in an amphibious
+operation could not reach the required standard of efficiency without the use of such ships.
+their opinion, also, the special amphibious ships and craft then being built, the army formations
+then undergoing or about to undergo amphibious training and the air force units which would
+eventually be used, could not be employed to the best advantage unless H.Q. Ships were provided,
+from which combined control and communications could be exercised.
+The Chiefs of Staff Committee noted the report and decided that this matter should be pursued,
+but this course was not without difficulties since various disadvantages
+There was the acute shortage of shipping which caused the Ministry of
+War Transport to be averse to providing any ships for the purpose.
+that it was desirable for the naval, military and air Commanders to be together during an operation,
+the naval Commander had in the past always been in a man-of-war, the military Commander was
+in the habit of landing at a very early stage with his troops, and the air Commander
+remaining at a shore headquarters where very full communication facilities were availab preferred
+It was realised that the full air communications and radar requirements could not be fitted in
+the H.Q. Ship and that the ideal would be one with an associated fighter direction (or perhaps
+air control) ship, but, with the shortage of shipping, this ideal was agreed to be unattainable at the
+After various meetings between the three Services to decide on communication requirements
+for such a ship, an armed merchant cruiser, H.M.S. Bulolo, was made available and was taken in
+hand in April, 1942, at Messrs. Green and Silley Weir, Royal Albert Docks, London, for conversion
+to a specification produced by C.O.H.Q.
+The communication requirements were briefly :—
+V/S-standard of cruiser flagship.
+W/T and R/T-
+-approximately 19 transmitting sets, 23 receiving sets.
+D/F-navigational only (H/F D/F was not a requirement).
+L/T-line terminals for both speech and telegraph circuits.
+The conversion of H.M.S. Bulolo was completed by mid-June, 1942. Later H.M.S. Largs was
+converted and she, with H.M.S. Bulolo, took part with success in the North African operation. It
+was by then recognised that the H.Q. Ship was an essential feature of an assault force and further
+ships were converted. There was still, however, great difficulty in obtaining suitable ships owing
+to the grave shortage of shipping and constant opposition was met from officers who disliked
+" putting all the eggs in one basket."
+The counter-argument that the eggs could not otherwise be
+carried, however, won the day and was justified by events.
+The American authorities had by now
+adopted the idea and produced several excellent H.Q. Ships built to
+specification, which was, nevertheless, based directly on that of H.M.S. Bulolo.
+the Continent, a large number of H.Q. Ships, both British and American,
+nec ring to CO H.Q. Specification.
+of H.Q. Ship and the Landing Craft Headquarters, both of which were built
+Cyphers, Codes and Code Names in Combined Operations
+Most of these requirements were covered by the programme for common
+systems which were then in hand for the three Services and later included the U.S. Army and Navy,
+but several special Combined Operations pamphlets were required and these were compiled at
+C.O.H.Q.
+They included the Combined Operations Signal Book, the Combined Operations Code
+and Landing Craft Signal pamphlet.
+Line Communications in Combined Operations
+The fourth report, which was also sent in by the Inter-Services Committee in February, 1942,
+coal it operation, Petity the question of cros cha pet alephone and tear reference to a
+were discussed and, secondly, the line requirements to serve the shore headquärters.
+Meetings were held with the G.P.O. and the earmarking of cable ships, the manufacture of
+submarine cable and the building of static and mobile terminals were put in hand. At a later date,
+after the range of V.H/F communication had been further investigated by C.O.H.Q. and tested in
+133
+WO 277/21
+27
+3ф

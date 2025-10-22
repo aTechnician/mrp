@@ -1,0 +1,102 @@
+18. Transmission.—The power must not be transmitted through the rear
+springs.
+Preferably an enclosed propeller shaft should be used with a combined
+radius and torque member ending in a universal joint.
+When the propeller shaft is not enclosed, guards are to be fixed in suitable
+positions round it, in order to prevent accidents occurring in case the shaft
+becomes detached or broken at either end.
+19. Front Axle.—The bearings of the front wheels are standardized so as to
+make the wheels interchangeable.
+The stub arm is to be of the dimensions shown.
+Steering arms, etc., must come inside the lines indicated, vide Drawing No. 100c.
+Design of front axle arms is the same for both classes of vehicle.
+20. Ground Clearance.—The minimum ground clearance using hind road
+wheels of 1,050 mm. and 1,020 mm. diameter respectively in the cases of
+Class "A" and Class "B" vehicles to be 12 in. measured with new tyres.
+A greater clearance than 12 in. would be preferred.
+21. Wheels and Tyres.—Wheels to be fitted with solid rubber tyres of the
+band type and of the following sizes :—
+Class "A"
+Hind wheels .
+Front wheels
+1,050 mm. by 120 mm. twin.
+900 mm. by 120 mm. single.
+Class " B"
+Hind wheels.
+1,020 mm. by 90 mm. twin.
+Front wheels
+860 mm. by 90 mm. single.
+Wheels are to be made entirely of steel and of the following diameters :—
+Diameter.
+Circumference.
+For 1,020 mm. and 1,050 mm. tyres
+9 ft. 11 in.
+For 860 mm. by 900 mm. tyres
+7 ft. 51 in.
+the object being to have two sizes only of wheel centres for the various sizes and
+sections of tyres.
+Should purchasers desire to have wider section tyres fitted, they may fit
+1,030 by 100 mm., or 870 by 100 mm. tyres on the smaller vehicles, and 1,070 by
+140 mm. or 910 by 140 mm. tyres on the larger vehicles, provided the diameter
+of the steel centres remains the same, but no increased subsidy can be given in
+chassis.
+Front wheel stops must be provided to prevent the tyres from fouling the
+In order to ensure that tyres can be easily removed from any wheel centres
+with presses that may be used on the field, the flanges on the steel centres must
+not exceed 3 • 32 in. in height.
+22. Non-skids for Use in Snow. - Supplies of these will be borne by the
+War Department.
+To allow of their being fitted, there must be a minimum
+clearance of 1z in., under all conditions, between the driving wheels and frame
+or body, to allow of chains or ropes being fitted over the tyres.
+WO 27 1/26
+28
+23. Control.—Shown on Prints Nos. 103d and 103g. Clutch pedal on left,
+brake pedal on right.
+Distance between centres, etc., shown on Print No. 103g.
+Pedals to be marked " C" and " B" respectively.
+Travel of pedals to be about 3z in.
+Accelerator pedal may be fitted if required.
+right of the brake pedal.
+If provided, it is to be on the
+An efficient clutch-stop to be provided.
+Clutch and brake pedals to be provided with flanges, 4 in. high, to prevent
+the foot from slipping off them.
+should be provided.
+Means of adjusting slope of the top of pedal
+Clutch and brake pedals are to work independently of
+each other, and to be fitted with springs of such a strength that the drivers can
+keep their feet on them continuously if desired.
+Other dimensions as per drawing.
+103d shows the position of the handle of change-speed lever in various gears.
+The maximum variation allowed from these is 1 in. neutral, first, second, third,
+and fourth speeds ; but in reverse position greater latitude will be allowed.
+(Note.—The above allows of considerable difference in the position of pivot
+of change-speed lever.)
+Brake lever to be well away from change-speed lever, and to the right of it.
+Change-speed lever to be 6 in. shorter than brake lever, and to be finished off
+Brake lever to have plain cylindrical handle, in order to
+prevent any confusion arising as to which is which of the two levers.
+of levers with reference to driver are shown in drawing referred to.
+Gate Change-speed.—Two slots and two selectors only are to be fitted, the
+reverse being a continuation of the first speed slot.
+change-speed lever to be fitted for reverse.
+24. Levers for Throttle and Ignition.—Both to have their movement inde-
+pendent of that of the steering column, and to be placed underneath and to the
+right of it, as shown in Print No. 103g.
+Both levers to move forward to increase speed of engine.
+move on a rack and to have plate marked so as to show what their movements
+Movement of each lever to be 90 degrees, the handles being at
+right angles to the main axis of the vehicle when in the centre of their travel.
+Throttle may be operated by hand lever only, or by hand lever combined
+with foot accelerator, in such a way that on releasing the foot accelerator the
+throttle returns to the position set by the hand lever.
+(Note.—Arrangements for control are illustrated by means of a working
+model, which is available for inspection by appointment, in the office of
+Secretary, Mechanical Transport Committee, War Office.)
+25. Steering. —To be so arranged as to give 76 degrees of movement to the
+front wheels, i.e., 38 degrees from normal position to maximum lock on
+either side.
+To give this lock, two complete turns of steering wheel are to be made.
+(Relative movement of hand wheel and road wheel will be as 9½: 1.)
+(C31438)

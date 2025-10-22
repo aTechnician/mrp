@@ -1,0 +1,119 @@
+Gear-Box
+The vehicle must climb a gradient of 1 in 44 on a hard surface with full load,
+and must stop and restart on a gradient of 1 in 5 in both forward and reverse
+The lower gear should be about 35 to 1, and the ratio between top and
+bottom gears :
+about 5 to 1, reverse gear preferably lower than bottom.
+Four
+speeds forward and a reverse with gate change to be employed.
+The gate
+preferably of the type illustrated, with diagram of arrangement exhibited on
+dashboard.
+Reverse safety catch to be fitted on change-speed lever.
+Gear-box
+should be fitted with test plug to indicate maximum oil level, and arrangements
+made for speedometer or mileometer drive from it.
+Final Transmission
+This is to be of the live axle type, preferably fully enclosed.
+Straight tooth,
+bevel or worm drive are permitted and a single helical or spiral type may be
+accepted after consideration.
+Road wheels should be readily detachable from
+driving shafts, or the latter capable of being withdrawn to free transmission for
+towing purposes.
+Laminated fabric or leather universal joints are preferred;
+mechanical universal joints must be adequately protected.
+Axles and Wheels
+The axles must have suitable platforms, preferably at the same height, near
+the ends to receive the head of a jack. It is desirable that no tie-rod be employed
+for the rear axle.
+Wheel bearings preferably of taper roller type.
+Plain floating
+bushes and ball bearings of approved design will be acceptable. Detachable
+steel disc wheels, or with approved detachable rims or flanges, must be provided,
+and provision must be made for fitting non-skid devices, which must not increase
+the overall dimensions by more than 2 in. in any direction.
+Short lengths of
+curb chain are preferred.
+Hooks to be attached to the wheel rims ; if latter of
+beaded edge type, to be as defined by B.E.S.A. Report No. 70, dated 1919.
+Tyres to be not less than 36 in. diameter and of same size front and rear.
+Large singles are preferred, but twins on the rear may be accepted.
+A tyre pump
+with efficient oil filter, pressure gauge, cooling and of adequate dimensions,
+capable of pumping one tyre to full pressure in 5 minutes, and driven from the
+gear box, must be provided.
+Speed
+Fully loaded and running on level road, it must be capable of 30 m.p.h. for
+one mile and 22 m.p.h. for two hours.
+1 in 10 at 8 m.p.h.
+It must climb an average gradient of
+if fitted with a governor, this may be removed for the trials.
+Steering
+All parts are to be of approved design and well protected from the effects of
+water, mud, sand, etc.
+The steering box is to be anchored to the
+off side of the frame, and front-wheel stops must be provided to prevent the tyres
+from fouling the chassis; these stops should be adjustable.
+Steering joints
+must be adequately protected, and the vehicle must be capable of turning
+completely on either lock in a space not exceeding 45 ft. wide.
+WO 27726
+28
+Brakes
+Two independent brakes are required, one hand and one foot, capable of
+stopping and holding vehicle either way on a 1 in 5 gradient.
+The design must
+permit of continuous application of one brake for a distance of half a mile on
+an average gradient of 1 in 12, and at a minimum speed of 8 m.p.h. with gear lever
+in neutral.
+The brake operating on drums fixed to the driving wheel must be
+compensated.
+Chassis Details
+Chassis weight must not exceed 29 cwt., exclusive of water, oil and fuel ; it
+must carry a useful load of 30 cwt. and a body weighing 10 cwt., in addition to
+driver and passenger, together with fuel, water, oil and equipment.
+Engine and gear box to be mounted on three-point suspension system.
+Fitted and driven bolts are preferred to rivets throughout the chassis ; all
+holes should be drilled.
+No holes to be drilled in frame flanges at positions
+subjected to severe stresses.
+Minimum road clearance, 10} in. ; more is desired, particularly under centre.
+Maximum overall width, 7 ft.; maximum wheelbase, 12 ft. ; maximum
+track, 6 ft. 6 in.; minimum track, 4 ft. 6 in. ; approximate track desired,
+The vehicle should be capable of travelling at slow speed through still water
+18 in. deep.
+Springing to provide normal range of 4 in. up and 3 in. down from
+the fully loaded standing position.
+Clearance must include non-skid device.
+All road springs must stand a repeated deflection of 3 in. beyond the normal
+when loaded.
+A choice of 12 sections of leaves is permitted, rising by & in.
+width from 2z in. to 4 in., and by i6 thickness from ½ to i& in.
+Substantial towing hooks must be provided at the front and rear, and pro-
+vision made for the fitting of an improved central rear towing eye of the spring
+buffer type.
+The chassis frame must be braced against horizontal distortion due to a
+direct or diagonal pull in any direction up to 20 degrees with the longitudinal
+axis of the vehicle.
+Bodywork
+The driver's seat and canopy to be separate from body, leaving space of at
+least 1 in. clear between body and canopy.
+Seat to carry two men comfortably
+at left of driver.
+Minimum width to centre line through steering column,
+4 ft. 2 in.
+Back to be suitably padded and cushion detachable. The latter to be
+leather-covered and fitted with springs.
+Dashboard and footboards approxi-
+mately same width as driver's seat. Curved dash or extension of same to protect
+occupants, and to allow use of apron without fouling steering wheel.
+Hood to
+be of Cape cart type.
+Weight of body and driver's canopy not to exceed 10 cwt.
+A locker to carry tools and equipment to be fitted under driver's seat, and
+accessible from left side.
+Provision must be made for the fitting of a locker,
+with bar and padlock, under body, large enough to carry three 2-gallon petrol
+tins on each side.
+37

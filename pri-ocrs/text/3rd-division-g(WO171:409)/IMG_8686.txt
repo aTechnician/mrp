@@ -1,0 +1,90 @@
+TIDE 3
+Amendments to
+Staff Tablos
+DE 1 QUEEN
+SECTOR
+Add new serial 121
+DIV GP
+Amend Serial 75
+Amend Serial 100
+Amend Serial 117
+Amend Serial 73
+Amend Serial 20
+Amend Serial 34
+Amena Serials 9,
+12 and 15
+Amend Serials 25
+and 32
+TOP SECRET
+5/ 2155/1/G/342
+26 Man: 44
+Copy NC 22
+Unit
+Coln
+titlo"Tot pl 27 Arma Bãe Goy RASC
+add "98"
+ad₫ " 1"
+add " 1"
+add "33"
+add "
+Total
+vohicles "36"
+Coln
+read "50"
+read "84"
+road " 5"
+to read " 4":
+to read " 2"!
+Total
+vehicles to read 14
+Coln
+to read "32"
+to road "80"
+Total
+to read " j"
+vehicles to road "11"
+to read " 2"
+to read " 3"
+to road " 1"
+on (8)
+to road " 4"
+to read "20"
+to read " 2"
+and reduce
+TIDE 2
+accordingly
+0oln
+to read "57"
+to read "74"
+to read "
+(ab)
+to read " 8"
+to read " 4"
+Total
+vehicles to read "16"
+Coln (d)
+to read "26"
+road "85"
+to read "111"
+to read "10"
+to read "
+read "13"
+am) to read " 8"
+Total vehicles to read "26"
+Boln (e) to read "16"
+to read "16"
+read "
+road " 1"
+to read " 1"
+Total
+vehicles
+to read 3
+Coln
+to road "31"
+read "31"
+to read "
+to read " 3"
+(v)
+to road "
+Total
+vehicles to read "5"

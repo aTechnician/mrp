@@ -1,0 +1,59 @@
+8>
+Diapersal
+BURGHEAD BAY
+ENEMY DEFS
+Ref Map
+1:25000
+G SECTOR
+35/88 Sw.
+FLACSTAFF
+W
+кроев.
+C CD
+2 co
+? 100
+Лор
+100 MEN
+Misula
+SECESS
+INDEX
+3
+Trace
+3
+COY IMF
+4 ATK GUNS
+2 LT GUNS
+PLS INF
+4 ATK GUNS
+Treate
+2 LT GUNS
+ONE PL INF
+? 8 GUNNERS
+4 FD GUNS
+3 ATK GUNS
+Z
+PL INP
+2 - 5 GUNS
+2 ATK
+GUNS
+MINES
+2 GUNS ? 5"
+6ạ
+8>
+LEGEND
+→ Fire posn
+? LMG
+0→> MG in Pillbox
+›→ ATk Gun in Pillbox
+- Single Wre
+- Multiple Wire
+AnA Mines
+26/Records
+No. 171/4,09
+26/W.D
+HS/WD/NWE/
+210/1
+26/W.D./A.
+3RD
+DIVISION
+• G.

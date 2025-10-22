@@ -1,0 +1,116 @@
+A dumb barge has, as its name implies, no means of propulsion and, further, the goods which
+it carries are, in the normal course of events, hoisted in and out by cranes.
+Designs were produced in C.O.H.Q. whereby doors could be fitted at the stern of a barge to
+allow vehicles to be driven in and out.
+to fit a proportion with large outboard self-contained units.
+-Contained me the Prose had to Couty, in as deaded
+The work of conversion was undertaken in small yards on the banks of the Thames and in
+Southampton Water; it was both quickly and efficiently done.
+By the target date, 30th June,
+1942, 925 had been converted to carry vehicles and guns, 25 as fuel carriers and 15 were under
+conversion as repair barges.
+When, early in 1943, the date for the invasion of France had to be postponed, it was decided
+to convert a proportion of these to fulfil special tasks, some for carrying anti-aircraft support weapons,
+some for landing craft repair facilities, whilst others were equipped as water, petrol or oil barges
+and a few were even converted into floating kitchens.
+About 200 of the barges were powered by Ford engines, and others had outboard motors, but
+the remainder had to be towed, generally by trawlers.
+At Normandy, the Landing Barge Force, which was split between the British and U.S. Forces,
+did invaluable work in providing an essential feature of the ferry service after they had discharged
+their initial cargoes.
+They were also used at Le Havre and later in the Scheldt Estuary.
+Neverthe-
+less, barges can only provide a makeshift contribution to short range amphibious warfare.
+They
+are useless for assault purposes; very dependent on good weather, both for the crossing and
+beaching ; and, finally, cannot operate efficiently in non-tidal waters.
+SECTION (iji)
+THE DEVELOPMENT OF MINOR LANDING CRAFT
+Landing Craft Mechanised. (L.C.M.)
+The original L.C.M. was built in 1920 as a result of requirements put forward in 1918.
+Requirements then were :—
+To land a light tank, or a platoon, on moderately shelving beaches.
+To have good power of retraction.
+Protection against small arms fire.
+To be capable of being hoisted by the derricks of existing merchant ships.
+The first boat built in 1920 differed little in dimension from the L.C.M. (1) of World War II. She had
+a very low freeboard, carrying the load on a deck above the waterline and discharging it by a
+bow door with a double folding action. She had 10-lb. bullet-proof bulwarks and a protected
+conning position. Her light weight was just under 20 tons.
+Because of the retractability require-
+ment, she had water jet propulsion (Hotchkiss). This system of propulsion, though sound in
+theory, was ineffective.
+The design was repeated with minor improvements in 1930 and again during the Abyssinian
+crisis when several craft were built. They still had jet propulsion, but a different type (Gill).
+One of their defects was the way in which the deck, if flooded, drained into a sump and, if
+the sump was not pumped out, it overflowed back on to the deck and the craft lost stability and
+Another defect was the very poor speed, which was not more than 5 knots despite two 60-h.p.
+petrol engines.
+In 1938 the L.C.M. was redesigned (by Thornycroft) on the instructions of the Inter-Services
+Training and Development Centre.
+but with propeller drive and a single ramp.
+The new craft was designed to meet the same requirements,
+She then had a much longer clear deck within the
+same overall dimensions and no sump. A speed of just over 7 knots was obtained with the same
+not be driven on steel.
+This craft, like its predecessor, had a wooden deck as it was thought that tanks couid
+180
+A number of vessels of this design with minor improvements were built in the U.K. under the
+name of L.C.M. (1) and used in every European operation during the war. Their chief duty was
+the discharge of stores during the build-up phase, but a limited number were used for assault
+purposes to carry high priority stores and small vehicles.
+and higher speed.
+During the war the gudio desi in as to aris disper caryag apacity, eate stability
+of being able to hoist such vessels from davits; this requirement was therefore dropped.
+An intermediate type, L.C.M. (3), was designed and produced in the U.S.A. by Messrs. Higgins
+of New Orleans in 1941.
+This L.C.M. was modified, in November 1941, as a result of British sugges-
+tions and a large number of these craft were subsequently used by both British and U.S. Forces in
+all theatres as ship to shore ferries.
+The L.C.M. (3) was capable of lifting 30 tons of stores or small
+When supplies of L.C.M.s (3) from America became difficult, production in the U.K. was
+switched to the L.C.M. (7), which was a slightly larger version of the L.C.M. (3). It was designed
+to be large enough to carry a bulldozer without being too large to be hoisted and carried in a
+merchant ship.
+Staff requirements were :—
+To carry a 30-ton tank or vehicles.
+To be capable of being hoisted out of a merchant ship fitted with a 25-ton derrick.
+Speed 11 knots.
+To land vehicles on moderate beach slopes.
+No protection.
+Reliable compass.
+The design was worked out by Messrs. Thornycroft, who also built the prototype. The builder's
+trials were successful but later experience showed that, the ramp, as fitted, was too short, and the
+hand winch, used for the kedge and for hoisting the doors as in the L.C.M. (1), was not reliable.
+The later deliveries had separate winches for the kedge and doors and a surf breakwater
+The L.C.M.s (7) were not completed in time for use in World War II operations, but they
+remained, after the war, the standard L.C.M. in the U.K. It seems certain that this type of vessel
+cannot be entirely satisfactory unless it is also capable of carrying armour into the assault or across
+In these circumstances the L.C.M. (7) has proved too small and there is little doubt that
+future designs will have to be much larger.
+Landing Craft Assault. (L.C.A.)
+In 1939, two prototype L.C.A. were completed to meet requirements laid down by I.S.T.D.C.
+One was designed and built by Fleming Propulsion, Ltd. and the other by Thornycroft.
+The two boats were similar in that the engines and conning position were aft, and the troops
+were carried in a hold compartment forward.
+They sat on low benches, fitted a few inches above
+the keel and disembarked over a bow ramp.
+Protection was fitted on the sides of the boat on the
+half-deck and on the deck abaft the engine room.
+The Fleming boat was built of a metal called Birmabright, the Thornycroft of wood. The
+Thornycroft boat was a better sea-boat and much better silenced, which for raiding purposes was
+a very important consideration.
+This boat was adopted and formed the basis of the staff require-
+ments, which then became :-
+Total loaded weight not to exceed 10 tons so as to enable boats to be lifted at merchant
+ships' davits.
+Speed 10 knots.
+Low silhouette and silent running.
+To carry thirty-five men, plus a crew of five.
+To have bullet-proof protection to the sides and deck.
+Draft not to exceed 1 ft. 9 in.
+Endurance, 90 miles.
+From 1941 onwards various slight modifications and improvements were made, but the design
+remained substantially the same throughout the war.
+WO 277/21.
+27

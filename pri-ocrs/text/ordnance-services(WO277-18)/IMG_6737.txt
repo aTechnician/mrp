@@ -1,0 +1,96 @@
+As stated above the aim of all provision action is to bring stores required
+military use into military possession and to so distribute them that when
+uired for use they are immediately available to the user.
+To achieve this aim it is first necessary to calculate requirements for
+future, i.e. to ascertain the liabilities for a specific period termed the
+ility period.
+In calculating liabilities the following factors must be taken into
+sideration: —
+(a) New commitments i.e, the quantities required for the initial equip-
+ping of new units, increases in scales of equipment for existing
+units, and the introduction of new types of equipment.
+(b) Maintenance i.e. quantities required to replace stores which would
+become worn out or used up during the period under review.
+(c) Earmarks i.e. quantities ordered to be set aside for a specific purpose
+such as a war reserve.
+(d) Dues out i.e. quantities already due to users whose demands had
+not been met because of shortage of stock or other reason.
+e) Interim period i.e. the time likely to elapse between the placing of an
+order and the receipt of stores.
+) Store margin i.e. the quantity required to be held in store to meet
+unexpected contingencies or delays in replenishment of stocks.
+ter the liabilities have been calculated they are compared with the
+Assets comprise the stock already in possession plus the quantities
+on order but not received i.e. dues in.
+If the liabilities exceed the
+action is necessary to increase stocks.
+e process by which liabilities and assets are compared is termed a
+vision reviews should be carried out at regular intervals, the period
+n reviews being termed the " maintenance period".
+le of the factors taken into consideration when making a provision
+are factual and others need to be assessed. The factual ones are
+nable from records maintained in ordnance depots e.g. stocks, dues in,
+intities required for maintenance, for the interim period and for the
+argin must be estimated.
+n making the estimate the first factor to be considered is the
+rate. This is found from ordnance depot records in which all
+Broadly speaking normal issues
+e of a recurring nature i.e. for normal upkeep, but those which are
+ormal upkeep such as the first issue of equipment to a newly formed
+special issues. Maintenance is based on the normal issues.
+normal monthly issues for a reasonable period preceding the date of
+w must be calculated, due regard being paid to any distinct upward
+The resultant figure is called the
+ince Figure. Adjustments to the maintenance figure are made in
+of known factors such as alterations in strength, types of equip-
+rate of consumption for seasonal reasons.
+The maintenance figure
+esents the estimated requirements of the troops for one month.
+W927e7/14
+WO 277/21
+1 8
+The liability period in each theatre must vary according to its distance
+rom its supply base and the necessity for holding a large or small store
+The War Office lays down in terms of months (i.e., multiples of the
+maintenance figure) the quantities to be held in each theatre for the main-
+tenance period, interim period and store margin; for example, a theatre
+would be ordered to hold stocks for a liability period of 12 months com-
+prising six months maintenance, three months interim period and three
+months store margin.
+In order to ensure that a provision review of an item is carried out in
+suficient time to allow replenishment before stocks
+are exhausted, each
+item of stock is given a provision action figure (P.A.F.) which is inserted
+on the stock record so that attention may be directed to the item when
+stock falls to a predetermined level-usually the quantity required for
+the interim period plus the store margin.
+Provision reviews are also carried out on a time basis, i.e., at fixed intervals.
+When circumstances justify such a course special provision reviews may
+On 31st March each year before the war, every ordnance depot
+submitted to the C.O.D. provision branches a "balance sheet"
+only the quantities of stores in possession on 31st March but also giving a
+complete provision review of each item held or required by the depot.
+consolidation of these balance sheets therefore gave the global position of
+assets and liabilities calculated on local data.
+At the C.O.D. provision branches an estimate was then made of the
+quantities of stores required, in addition to those already held or due in,
+to meet one year's requirement for the Army, due regard being paid to
+information given by the War Office General Staff and other
+regarding the future composition and equipment of the Army.
+estimates were then priced and converted into a cash estimate for inclusion
+Until the M. of S. was fully established, contracts for the supply of
+ordnance stores were placed by the Director of Army Contracts (D.Ä.C.) or
+by ordnance officers to whom limited powers of purchase were delegated;
+for example, the Principal Ordnance Officer (P.O.O.), whose functions are
+described in Chapter I, was empowered to place orders for stores up to the
+The amount of money which the D.A.C. was authorized to spend in any
+one financial year was limited to the amount sanctioned by Parliament when
+approving the Army Estimates.
+After the estimates had been approved the supply of the stores was arranged.
+Actual requirements were notified to the D.A.C. by C.O.D. provision branches
+in the form of lists showing requirements of specific items; these lists were
+The D.A.C. then arranged supply, normally
+by placing contracts with civilian firms but certain items were obtained from
+Ordnance Factories, The Admiralty, Air Ministry and Postmaster-General.
+Deliveries of stores were usually arranged in bulk to C.O.Ds., but they
+could be (and often were) diverted to command depots or other consignees

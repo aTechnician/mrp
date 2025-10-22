@@ -1,0 +1,87 @@
+APPENDIX VIIIG
+(See Vol. II, pages 239 and 245)
+COMMAND SUPPLY DEPOT ACCOUNTING: FORMS USED
+IN SIMPLIFIED SYSTEM
+In this system, the following forms were used: —
+1. Army Form F 757—Indent for Rations
+It included spaces for: —
+(a) Indication of ration scale concerned.
+(b) Consumption dates for which rations were required.
+(c) Ration demand for those dates, allowing for percentage additions and
+(d) R.A.S.C. and N.A.A.F.I. supplies not required (underdrawals).
+(e) Actual numbers in mess one week prior to each consumption date.
+(A) Number of rations of each type (standard, A.T.S., special).
+(g) Quantity of each item issued.
+(h) Signature of O.C. unit, and of unit representative receiving the
+supplies.
+2. Army Form F 758-Ration Issue Voucher
+(a) One copy of the form was prepared for each unit drawing from the
+C.S.D., for each ration period of 28 or 35 days.
+(b) It included columns for the
+following information, extracted from,
+or calculated from, that contained in the indent: —
+(i) Estimated and actual numbers in mess, each day.
+(ii) Number of rations, including percentage allowance for small units
+where applicable.
+(iii) Extra issues.
+(iv) Cutting up allowance for meat.
+(v) Quantity of each commodity issued, each day of issue.
+(c) It had spaces for the signature of the District Supply Officer, certi-
+fying correctness; for the unit to record the remains of rations at the end of
+the period, and of reserve rations held on inventory; and for the signature
+of the O.C. unit, certifying correctness, and constituting a formal receipt for
+the supplies issued during the period.
+(d) The form was ruled horizontally in 35 lines, a line for each day of the
+The side of the sheet had a series of perforations, one for each
+fin, in diameter, to enable the form to be exactly superimposed on
+A.F. F 759, as described below.
+Each unit was allotted a code number. for each ration scale on which it
+3. Army Form F 759-Summary of Depot Issues
+were made.
+(a) One of these was prepared for every day of a period on which issues
+F 758.
+The columns in this form were identical with those in AF.
+numbers.
+Each line was numbered serially. to correspond with unit code
+430
+(b) The sheet was perforated in the same manner as the Ration Issue
+Voucher, and was of the same size.
+When an entry of issue of supplies had
+to be made, the Summary was placed on a metal sheet which had a series of
+projections corresponding to, and engaging in, the perforations in the sheets.
+The Ration Issue Voucher was then superimposed on the Summary, with a
+carbon sheet between; and, by means of the perforations and projections, the
+line for the day on the A.F. F 758 was brought exactly over that of the unit
+code number on the A.F. F 759.
+The Ration Issue Voucher was then com-
+pleted with the particulars described in 2 (b) above, a duplicate entry being
+made as a carbon copy on the Summary (A.F. F 759).
+(c) When completed and totalled, the Summary thus contained a record
+of all supplies issued from the C.S.D. on that day.
+The total amount of each
+commodity issued was then transferred to the Provision Supply Account
+(A.F. F 754), and the remaining stock ascertained, which could then be verified
+by physical check.
+4. Army Form F 754-Provision Supply Account
+This
+was a simple account of receipts and issues by the C.S.D., and
+was compiled at the end of the month.
+Receipts were entered on the left-hand
+page, and issues on the right-hand page,
+and there was a column on both
+receipt and issue side for each item issued.
+Each entry was supported by a voucher.
+For receipts, this might be the
+voucher for supplies received from S.R.D. or M.S.D., a contractor's bill, etc.;
+for issues, the Summaries of Depot Issues (A.F. F 759), receipts for supplies
+otherwise issued, debit vouchers for recovery of sums due for issues on re-
+payment, deficiencies, etc., authorities for the write-off of supplies condemned.
+The remains shown in the account must agree with the actual ground
+stocks at the end of the period, and this was certified by the officer i/c supplies
+on the account, all surpluses found on stocktaking being brought on charge.
+7777
+WO 277/21
+27
+431
+FF 2
+(37477)

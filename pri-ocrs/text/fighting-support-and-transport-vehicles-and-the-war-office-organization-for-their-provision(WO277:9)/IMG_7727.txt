@@ -1,0 +1,98 @@
+Control
+Clutch pedal at left, throttle pedal preferably in centre, and brake pedal at
+right.
+Clutch and brake pedal to be marked "C" and "B"
+respectively.
+Means of adjusting slope of top of pedals to be provided.
+Provision to be
+made so that feet can be kept continuously on pedals if desired.
+The pressure
+and range of travel to permit of easy control by average driver.
+Pull-on brake
+lever to be at right, and well clear of change-speed lever.
+Levers for throttle
+and ignition must have movement independent of steering wheel.
+Both should
+move forward on a rack to increase speed and have index plates.
+On releasing
+throttle pedal, throttle should return to position set by lever.
+All control
+connections are to be by rods and not by wires or chains.
+Lubrication
+Oil lubrication is desired so far as possible, combined with wick-feed,
+, lubricators without loose caps.
+Capacity of engine lubrication system sufficient
+for 200 miles loaded running.
+All lubricators for engine and gear-box must
+work efficiently with W.D. standard lubricant.
+This has a specific gravity of
+• 895 at 60 degrees Fahrenheit, a flash temperature not lower than 204•4 degrees
+Centigrade (400 degrees Fahrenheit), viscosity for 50 cu. cms., minimum 260 secs.
+at 60 degrees Centigrade or 70 secs. at 99 degrees Centigrade.
+Cold test, to
+be wholly liquid at 10 degrees Centigrade (50 degrees Fahrenheit).
+A legible lubrication diagram, also one of the order of ignition, preferably
+engraved on metal, should be attached to the inside of dashboard.
+Ball and Roller Bearings
+These should conform to B.E.S.A. standards : (A) single row ball journal
+bearings-Interim Report C.L. 2582, April, 1919 ; (B) ball and roller bearings-
+A.8, February, 1919.
+Screw Threads
+British standard fine screw threads are desired so far as possible, but the
+following will be accepted in addition: British Standard Whitworth screw
+threads for bolts and nuts, British Standard screw threads for brass and copper
+tubes.
+Acceptance of any other thread will have to be considered.
+It is desired that materials employed should be in accordance with those
+specifications of the B.E.S.A. which apply, and that, where high-tensile steels
+are employed, parts should be stamped with the letter " T," followed by the
+ultimate tensile strength. Manufacturers must satisfy the War Department
+that, where materials are not obtained in the country, no appreciable delay in
+obtaining exactly suitable materials from British firms will result in case of war.
+Repairs and Maintenance
+Due consideration to be given to accessibility for inspection, adjustment,
+lubrication, replacement and repair.
+It is desirable for provision to be made
+for second and third replacement standards for parts subject to heavy wear.
+Engine, frame, gear-box and back axle must be clearly marked with an assembly
+WO 277/26
+7-8
+part number.
+Full sets of cloth or process tracings of dimensioned working
+drawings are to be supplied with every type of vehicle.
+They must give informa-
+ton on such points as number, width and thickness of spring leaves; number,
+depth, pitch and shape of pinion teeth, size and threads of screwed parts.
+Details of the equipment and standard tool kit are given in appendices to
+the schedule.
+General Notes
+Where the term " approved" is mentioned, full details of the design of the
+actual part, if necessary, must be submitted to the Board.
+Vehicles are to be reasonably quiet on all gears.
+The following tests will be applied to the vehicle, loaded except where
+Weights will be ascertained for front and rear axles separately
+in respect of the bare chassis without equipment and batteries and of the
+complete vehicle empty and fully loaded.
+As regards speed, this will be tested from a flying start for a distance of at
+least one mile on a level road; next will be the average speed maintained for
+two hours on a selected route, which will include gradients of 1 in 15.
+hill-climbing the vehicle will be tried for average speed up a gradient of 1 in 10.
+Foot and hand brakes will be tested separately, with the gear lever in neutral
+position, on a gradient of 1 in 5, from a minimum initial speed of 5 m.p.h. The
+distance required to bring the vehicle to rest from the point of application of the
+brake, and without assistance from the other brake, will be noted.
+continuous application test has already been described.
+The fuel consumption tests will be taken during the average road-speed test,
+and then on a level road.
+Tests over rough ground will be conducted mainly to try the non-skids and
+their attachments, overheating of water, and springing.
+They will include trials
+on soft sand up to 10 in. deep, on an unmetalled lane with soft surface and on
+Frame distortion will be tried by jacking up one front wheel until the other
+is off the ground.
+In this condition it must be possible to operate the steering
+wheel, clutch, brakes, change-speed lever, starting handle, etc.
+The vehicle will be driven through slow-running water 18 in. deep. This
+must not affect the running of the engine.
+During the final examination of the chassis it will be liable to any additional
+minor tests as may be deemed expedient in the circumstances.

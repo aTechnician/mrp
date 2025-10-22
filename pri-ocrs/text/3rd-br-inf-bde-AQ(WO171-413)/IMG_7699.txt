@@ -1,0 +1,15 @@
+MAPS
+40/18 Sw
+40/16 in W
+SCALE 1/25, 000
+APPX
+DO 5821E PLY ADM ORDER N°16
+SHEET
+3 BR INF DIV
+WO 171/413
+strative Orders or Instructions issued
+H Administrative Orders or Instructions received
+I Strength States, Field Returns, etc
+espondence, etc
+Z. Top Secret Supplementary War Diary
+Instructions for compiling the war diary are given ins

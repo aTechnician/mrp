@@ -1,0 +1,27 @@
+SECRET
+Sheet No
+Frequencies (Mc/s)
+Aerial Adjustments
+WIRELESS
+LOG
+PSX
+3/10/44
+Army Form C2137
+Diagram of Net (with Link-Signs)
+UGP GRQ WEB DTM PSX OAZ
+29410
+trol station and the names of Units or Formations
+Event, Text of Unregistered Message or Identity of Formal Message
+ON w
+Ack
+Time To
+22.5 ca
+que!
+230 ca Que
+2310| BSx DTM
+2001
+AR DUAN
+1685
+doris spl-203°
+status: Open
+09/10/2025 07:00

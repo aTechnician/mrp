@@ -1,0 +1,86 @@
+APPENDIX E
+REVISED G.S. SPECIFICATION FOR TRACKED AMPHIBIAN
+(NEPTUNE)
+1. This specification is for a tracked unarmoured amphibian to be produced
+in U.K.
+The vehicle is intended for use in rough terrain of all types, swamp
+land, inland waters and exposed waters.
+It must be capable of propelling
+itself in the open sea, landing on a beach through surf and across coral or rock
+surfaces and crossing beach or marshes to firm ground.
+It must also be capable
+of carrying a full load for extended distances inland across country and to return
+to exposed waters through surf.
+Also to be capable of operating in extremes of
+temperature.
+It is primarily required for operations in the Far East and in salt
+water, for the transportation of stores from ship to shore dump, but the vehicle
+must be suitable for use in any of the following secondary roles :—
+(a)
+Bulk Petrol Vehicle.—For this purpose the bulk petrol tank is not
+required as vehicle equipment, but will be designed under War Office
+arrangements as a separate demountable item, to conform to the
+vehicle.
+(b) Recovery of Casualties.—The hold is to be capable of accommodating
+the standard 6-stretcher frame.
+(c) It is desirable that it shall be capable of accommodating 6-pr.
+and
+17-pr. anti-tank guns, 25-pr. field artillery equipment, 3•7 howitzer,
+95-mm. infantry howitzer, if possible without major redesigning of
+Overall dimensions not to exceed :
+(a) Length : 30 ft. max.
+(b) Height : 8 ft. 6 in. " local " height of 9 ft. 6 in. over driver's cab.
+(c) Breadth : 11 ft. 6 in. max.
+2. Unladen weight (with full fuel tanks and in all respects ready for service
+less payload. —Not to exceed 13} tons including local protection against small
+arms fire in the driver's compartment.
+3. Payload.4 tons minimum.
+4. Cargo Space.—A cargo space of not less than 19 ft. x 8 ft. X 3 ft. 9 in.
+including the rear curved portion of the hold floor unobstructed at ramp end
+and the floor to be strong enough to carry any of the specified loads.
+necessary a " local" concession not exceeding 1} in. will be accepted if essential
+for satisfactory sealing of the rear door.
+Heat insulation of the engine com-
+partment is required to be such that no damage will be caused to the cargo, or
+discomfort to passengers.
+5. Performance.-(a) On Sea :
+(i) Seaworthiness to be equal or superior to that of the DUKW.
+(ii) Maximum speed (laden) not less than 5 knots. Importance of speed is
+(iii) Special attention to he Daid in desien for operating in surf un to 8 f
+W027
+Преа
+(b) On Land :
+(i) Speed (laden) max. 25 m.p.h. on firm sand.
+(il) Special attention to be given to track loading in order that vehicle shall
+have the optimum performance in swamp.
+(ii) To be capable of climbing a short gradient of 30° fully laden.
+(c) Fuel capacity 175 gallons giving approximately 12 hours mixed operation.
+6. Unloading Facilities. — The stern of the vehicle to be in the form of a ramp.
+The ramp to be raised or lowered by means of a rapidly operating winch and
+equipment.
+giving free entrance and exit to the flour of the hold for vehicles and arilery
+Sealing clips to be quick acting.
+7. Aids to Navigation.-(a) Vehicle to be provided with a compass, the
+details of which are to be agreed with D.C.D., Admiralty.
+(b) In addition to W.D. head, side and tail lights, the vehicle is required to
+have navigation lights and subdued bulkhead lighting for unloading at night.
+8. Special Equipment.—(a) The vehicle must be fitted with lifting eyes and
+capable of being hoisted by ship's derrick or L.C.A. davits in an unladen
+condition.
+(b) Power driven bilge pumps to be fitted with either alternative hand pumps
+or the power pumps capable of being operated manually by one man.
+(c) Vehicle kit shall include an auxiliary power driven bilge pump of the
+"Homelite" type.
+(d) A power driven winch is required for loading and unloading heavy
+equipments, for self-recovery and recovering artillery equipments, etc.
+(e) Bow and stern fenders to be provided.
+(f) Normal deck fittings including towing eyes to be supplied.
+(g) Vehicle to be screened and suppressed for wireless equipment.
+(h) Slings to be supplied with the vehicle.
+(i) Arrangements to be made for fitting of armoured kits at the expense of
+9. Crew.—To consist of driver and one hand, but the vehicle is to be con-
+trollable by one man, either on land or water, without change of position.
+10. Life.—To give 60 days working at 12 hours per day before major over-
+haul is necessary.
+11. General.-Particular attention to be paid to ease of maintenance,
+accessibility and standardisation of parts.

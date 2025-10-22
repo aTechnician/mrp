@@ -1,0 +1,125 @@
+Three steps were necessary before the ideal could hope to be achieved.
+First, the Army had to make a clear statement of its requirements.
+Secondly,
+some form of research and design establishment had to be created to put these
+requirements into a practical shape.
+Thirdly, the problems of manufacture of
+the
+" finalized" designs in peace and war had to be solved.
+Section 2.—The Statement of Requirement
+The general principle underlying the Army's statement of vehicle require-
+ment has remained constant since it was first expressed as General Staff Policy
+in September,
+1944,
+although inevitably time and experience have brought
+changes in detail.
+That principle was standardization, interpreted as the
+employment
+of the smallest possible
+number
+of types of vehicle.
+advantages and difficulties of standardization have already been discussed, but
+it is worth while to repeat that its primary object was to reduce the problems
+of maintenance and provision.
+During war, standardization of British vehicles,
+could for many reasons be no more than a pipe dream, but the Army was now
+thinking of future peace-time equipment,
+and had before it the war-time
+achievement of standardization in the U.S. Army.
+An outstanding example
+was the design of the 2}-ton, 6 x 6 vehicle, which was on the drawing board in
+August,
+1939.
+Although constructed by the motor trade for commercial
+purposes, it had become the United States W.D. standard medium load-carrying
+and towing vehicle, and it had also formed the basis of the amphibious DUKW.
+In the same way, the British Army was now contemplating employment of the
+fewest possible types of engines and transmissions, and one make only of each
+type-not, for example, Morris or Bedford or Austin, but British W.D. pattern.
+The selection of the basic types of engines and transmission for the post-war
+army was to be governed by the needs of divisional, corps, army and G.H.Q.
+troops, and it was a guiding principle that any special requirement as to chassis
+frame or body design arising from within
+the
+various arms of the Service
+was to be capable of utilizing one of the basic engines and transmissions as a
+power unit.
+It was accepted that cross-country
+standards would necessarily
+be highest within divisions and corps troops, and that certain types of army,
+G.H.Q., and L. of C. units could accept a lower standard.
+Even the lower
+standard, however, would necessitate all wheel drive, special tyre equipment,
+good clearance, special braking systems and a large reserve of power to deal
+with difficult terrain and towed loads.
+Consideration was also given to the wheels versus tracks controversy.! The
+arguments for and against each type at that time were:
+wheeled vehicles were
+more economical for use on roads and good cross-country going.
+They were
+easier and cheaper to construct and maintain than vehicles
+with tracked
+suspension, but, on the other hand, on account of the high clearance required
+for cross-country work, it was not possible to obtain a really low silhouette on
+wheeled vehicles, while the provision of armour was not only difficult technically,
+but detracted considerably from the payload.
+Half and three-quarter-tracked
+vehicles, by reason of their suspension and tracks, had a more satisfactory cross:
+country performance hoth as personnel and weapons carriers or as tractors, but
+(*) See Chapter XI, Section 2.
+110
+78
+road performance was inferior to that of wheeled vehicles. They could more
+easily attain a low silhouette and accept armour, but initial costs and difficulties
+of maintenance were greater.
+Track life was also limited.
+Three-quarter-
+tracks had a better cross-country and road performance than half-tracks, but
+were much heavier, more bulky and more expensive to produce.
+of importance, tracks were noisier than wheels.
+Finally, and
+Single rear-axle drive (4 x 2) was ruled out as impracticable from the start,
+and it was recommended that only 4 x 4 and 6 x 6 wheeled vehicles should be
+employed in addition to half-tracks-these latter to be replaced by three-quarter-
+tracks if and when research and development made it possible to produce a
+simpler and less expensive type.
+War experience had proved that considerations
+of weight and payload made it impracticable to design " B" vehicles to carry
+heavy armour or for extensive use of light armour, but it was considered possible
+to apply light armour to vehicle bodies and vital parts of engines and trans-
+missions to enable personnel and vehicle to traverse forward areas under small
+arms fire with a reasonable degree of safety and to give some protection from
+bomb splinters.
+Apart from the transporting of tanks and similar special duties, the require-
+ments of gun-towers for use in the field place the heaviest strain on "B" vehicles
+and the performance required of field, medium and heavy artillery towers was
+therefore taken as the yardstick in their respective vehicle classes on the assump-
+tion that if these exacting requirements could be met, the resulting vehicles
+would be capable of meeting all other demands.
+These requirements include
+the best possible cross country performance, a good average of speed on the
+road, ease of manœuvring, low silhouette and adequate stowage room.
+anti-tank equipments, it was thought that a fully tracked towing vehicle would
+be essential for reasons of performance, low silhouette and armour; that the
+half-tracked vehicle would be satisfactory as a field and possibly as a 17-pr.
+gun-tower, and would be able to cover the requirements of battery staff; the
+heavier natures of artillery were to be broken down to enable them to be towed
+by standard heavy tractors.
+To meet these exacting requirements, employing a limited number of engine
+and transmission types with different chassis and bodies where necessary, it was
+proposed to reduce the classes of vehicles required to four, namely :—
+(a) Light.—Based on a 60 B.H.P. engine on the lines of the 4 x 4 Jeep with
+possibly one type of chassis and body ;
+(b) Car.—Based on a 90 B.H.P. engine with four-wheel drive for staff cars ;
+(c) Medium.—Based on a 180 B.H.P. engine.
+This was to be the pre-
+dominant class for the Army with two main wheeled and one half-
+tracked chassis :—
+(i) 6 x 6 for 3-ton and heavy load-carriers, light tractors and heavy
+ambulances for forward area work ;
+(ii) 4 x 4, as in (i), for vehicles mainly not operating in forward
+areas or in difficult terrain.
+It was hoped that this type might
+appeal to some commercial users, especially overseas, and that
+a subsidy scheme might be arranged ;
+111

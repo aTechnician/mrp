@@ -1,0 +1,141 @@
+From this generalization emerged a demand for two distinct sizes of amphibian ;
+one with a capacity of 3 tons or over, for which the quantity required was
+estimated at 200, and the other, a smaller vehicle, with a capacity of 3 tons or
+ess.
+The latter was intended for use in combined operations at the end of a
+long sea voyage, and the quantity required was at that time unknown.
+The
+reason for the double requirement was chiefly a consideration of stowage.
+The
+larger vehicle was clearly the more economical and was suitable for a short sea
+voyage,
+but shipping difficulties were anticipated on landing in a strange
+country after a long voyage.
+Normal ship's derricks were designed for a lift of
+5 tons and could in fact achieve a lift of 6z-7 tons.
+It was therefore impossible,
+without the aid of dock cranes, to hoist any vehicle of over 7 tons unladen weight
+out of the hold.
+The distinction would have been clearer if it had been expressed
+in terms of unladen weight rather than of pay load.
+General Staff specifications
+of both vehicles are shown at Appendices B and C to this chapter.
+Soon after the appearance of this statement of policy, A.C.I.G.S. discussed
+the possibilities of two types of amphibian, tracked and wheeled, with the
+Ministry of Supply, which at once declared its inability to undertake develop-
+ment of a tracked vehicle on account of the overriding priority of tanks.
+It may
+be pertinent to point out here that in spite of the urgency of tank production it
+was possible to spare time for the development of a tracked amphibian as a
+private venture.
+Two prototypes of this vehicle, the Argosy, were constructed
+by Morris-Commercial Cars, Ltd., but were unfortunately not acceptable to the
+General Staff, largely through their lack of cargo space.
+The Ministry did,
+however, agree to design and develop a wheeled amphibian, and ultimately,
+after many pangs, was produced the still-born infant known as the Terrapin.
+The wheeled amphibious vehicle produced in the United States was con-
+sidered by the General Staff to be extremely satisfactory.
+It was, however,
+based on a standard 2}-ton 6 x 6 chassis, and there was no similar suitable
+chassis in production in the United Kingdom in sufficient quantity to provide for
+more than existing demands? for normal wheeled vehicles.
+It was therefore
+necessary to prepare a completely new design for the Terrapin, and its failings
+certainly did not include lack of originality.
+The prototype Terrapin, Mark I,
+was an 8 x 8 vehicle, shod with 12 • 75-in. x 24-in. agricultural tyres, and driven
+by two Ford V-8 engines with standard Ford 3-speed gearboxes.
+The engines
+were arranged each to drive one side of the vehicle through a line of worm-
+shafts mounted directly on the wheel bearings.
+In addition, each engine was
+coupled to one propeller shaft with a two-bladed propeller.
+The wheels were
+constantly driven on land or in water, but the drive to the propellers could be
+disconnected.
+Steering on land was achieved by manipulation of twin throttle-
+levers, and at sea by a tiller and rudder.
+central engine room.
+Cargo was carried fore and aft of the
+Trials of the prototype were carried out by the Ministry of Supply at Hayling
+Island and by the Combined Operations Experimental Establishment (C.O.X.E)
+at Westward Ho.
+alterations were recommended.3
+The results were satisfactory and no material structural
+There was nevertheless some reluctance
+"at a
+high level conference in Scotland "4 to authorize production, on the grounds that
+(4) 57/Vehs A/1366.
+(3) 57/Vehs A/1366.
+(3) C.O.X.E. Preliminary Report, 25 June, 1943.
+(*) D.D.V. to D. of M., 2 July, 1943.
+57/Vehs A/1366.
+57/Vehs A/1366.
+70
+WO277
+28
+9
+a suitable vehicle already existed in the DUKW and that it was a mistake to
+adopt an additional type.
+It was admitted by the War Office that the DUKW
+was probably a better vehicle than the Terrapin, but there were other tangible
+and intangible considerations. Tangible facts were that the Terrapin carried a
+greater load than the DUKW, and could be accommodated in the lift of an
+upon which it was unsafe to rely.
+Intangible were such problems as the allocation of U.S. equipment,
+The War Office had to consider the possibility,
+which in the past had proved to be fact, that if the United States undertook
+some new project involving the extensive use of DUKWs, assignments to this
+country might cease.
+It was therefore as an insurance, if nothing else, that it
+was essential to place the British type in production, and an order for 500 was
+accordingly given to the Ministry of Supply.
+From the moment that production began Terrapin was in continuous trouble,
+and the promise of the prototype was belied.
+In January, 1944, after a visit to
+the Birmingham factory? in which they were manufactured, D.S.W.V. criticized
+the production facilities allotted by the Ministry of Supply and the small amount
+of labour being employed on the project, neither of which appeared sufficient to
+ensure delivery in a reasonable time.3
+Soon afterwards, serious defects in pro-
+duction models were reported by C.O.X.E. as the result of early trials.
+Defects
+in carburettors, wheel hubs and bearings appeared which made it necessary for
+all early models to be withdrawn for examination by the Ministry of Supply.
+Damage to wheel hubs and bearings was found to be a result of insufficient
+greasing during assembly, and for a time sabotage was suspected.
+In May,
+1944, D. of M. was obliged to inform the War Office that a weakness in the gear-
+boxes had appeared which required attention before the vehicles were used
+operationally.
+This weakness was owing to faulty materials in the reverse idler
+wheels, which were losing their teeth and wrecking the gearbox.
+In the same
+month it was reported that cooling difficulties on the first 200 could not be
+rectified and that the vehicles were therefore only fit for service in temperate
+climates.
+Finally, grave doubts were expressed by the Director of Naval Con-
+struction on the stability of the design.
+In his opinion loads could only be
+carried safely by exercising the greatest care and utilizing quiet waters.* Although
+this criticism was disputed by Messrs. Thornycroft's chief naval designer, the
+suspicion of weakness remained.
+The C.O.X.E. report on the production model, unlike reports on the proto-
+types, was largely based on comparison with the DUKW, already admitted to
+be a superior vehicle, and contained criticisms of defects in performance and load
+capacity which were grossly unfair to the designers, who had not been charged
+with the production of a vehicle fulfilling such requirements.
+However, in the
+light of these new requirements, and the suggestions of instability, the Terrapin,
+Mark I, was not considered satisfactory.
+A summary of the report which finally condemned the vehicle is of interest
+in that it shows how the demand changed from one for the simple transport of
+normal stores from ship to shore to that of the complicated transport of special
+including artillery, through comparatively rough water and across
+(*) D.S.W.V. to D.S.T. 22 July, 1943. 57/Vehs A/1366.
+(3) Terrapin was manufactured by Thornycroft and the Nufield Organization.
+(3) D.S.W.V. to D. of M., 13 Jan., 1944.
+57/Vehs A/1366.
+(*) C.O.X.E. Report 10 Aug., 1944.
+57/Vehs A/1366.

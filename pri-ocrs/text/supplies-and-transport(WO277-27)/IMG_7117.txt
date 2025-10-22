@@ -1,0 +1,119 @@
+APPENDIX VID
+(See Vol. I, page 364)
+MAINTENANCE FACTOR SYSTEM
+The Maintenance Factor System was designed to show mathematically
+the standard of driver maintenance in a unit.
+It formed the basis of the
+assessment by the M.T. Inspectorate of the mechanical condition of the unit
+vehicles,
+and the efficiency of application of maintenance and inspection
+routine.
+When inspecting vehicles, the M.T. Inspection Branch vehicle examiners
+recorded their findings on Army Form G 932, which was very similar to the
+form in Army Book 406, that used for platoon and workshop inspections in
+M.T. companies.
+There were spaces in each for the various parts of the
+vehicle, e.g., engine, brakes, electrical equipment, etc.
+In A.F. G 932, there were 20 headings.
+For the purposes of the system,
+each of these carried five points, making a total of 100 points for each vehicle.
+When the I.M.T. discovered a fault attributable to lack of driver maintenance
+or to lack of supervision of driver maintenance, he marked the appropriate
+space to indicate this, and the five points for that section were deducted.
+There was no sliding scale, as it was considered that the inspector's individual
+opinion of the gravity of the fault must not govern the amounts deducted:
+on the other hand, if there were several faults in a section, only
+five points
+were lost.
+The remainder after deductions gave the maintenance factor for
+the vehicle.
+When all the vehicles had been assessed, a master card was prepared.
+This consisted of columns for the 20 sections of A.F. G 932, and a line for
+each vehicle inspected.
+Against each vehicle, an "X" was marked in each
+column where a fault had been found, and at the end the vehicle main-
+tenance factor was entered.
+At the bottom of the card, the number of
+faults in each section was totalled, and the average maintenance factor of
+the unit was arrived at, i.e., the percentage of vehicles inspected that had
+faults under each of the 20 sections of A.F. G 932.
+This master card, showing
+the make-up of individual maintenance factors, revealed very clearly the
+common weaknesses in a unit, and the direction in which remedial action
+should be taken.
+The maintenance factor of a vehicle reflected only the degree of driver
+maintenance on that vehicle, and mechanical and other faults beyond the
+actual scope of the driver had no bearing on the result.
+In judging the
+standard of driver maintenance, it had to be borne in mind that every de-
+duction of five points from 100 indicated that the maintenance of that pari-
+cular item had not been properly carried out.
+The total deductions indicated
+the degree of omission of driver maintenance on the entire vehicle.
+A vehicle
+maintenance factor of 80 per cent. did not show a satisfactory state of affairs
+as would be the case in a school examination.
+On the contrary, it showed
+on all vehicles inspected an average of four items of maintenance not properly
+Any maintenance factor of less than 100 per cent. indicated
+that the standard of maintenance was capable of improvement.
+398
+APPENDIX VIE
+(See Vol. I, page 353)
+THE " RED BALL" SYSTEM
+The essence of the "Red Ball" system operated by the American Army
+on its road L. of C. was that maintenance traffic had a cleared route, which
+was policed to ensure that only privileged traffic was permitted to use the
+route, and subjected to centralized movement control when the traffic offered
+was likely to exceed the capacity of the roads used.
+This permitted an increase in the average speed maintained by convoys,
+which allowed quicker turnround and therefore greater load-carrying value
+from a given number of lorries over a given period.
+The system was normally associated with the system of transport opera-
+tion known as " Continuous Running", i.e., that by which a vehicle is kept
+running the maximum number of hours during the day without reference to
+vehicle maintenance, and drivers are provided on a scale which enables this
+maximum number of hours to be attained.
+The contrast to this is the normal R.A.S.C. system, under which a vehicle
+is allotted to a driver and is always driven by that driver; the number of
+hours in the day which the lorry can operate is limited by the endurance of
+the driver, who is also primarily responsible for the maintenance of the
+vehicle.
+Provided that a high enough average speed can be maintained, it follows
+that the more hours a day a lorry travels, the more ton-miles a day will be
+attained by a given number of lorries in a given period.
+Continuous running
+could be shown to give an increase in lift of as much as 30 per cent. over
+the R.A.S.C. system.
+The use of continuous running system has, however, a number of pre-
+requisites, e.g.,
+A minimum number of two drivers for each vehicle.
+The organization of the transport of the Army to meet the system.
+Suitable tasks on which
+to employ the transport, the expensive
+organization of which would be wasted when employed on miscellaneous
+details for which the higher ratio of drivers to vehicles is not required.
+Alternative routes and bridges,
+on to which
+all other
+traffic is
+ruthlessly diverted.
+Suitable tasks presuppose a long haul of a regular lift between
+fixed
+terminals.
+In 21 Army Group, out of a total lift available to G.H.Q. of
+34,000 tons in general transport companies, 7,800 tons, or 23 per cent. was
+employed on the lift from Bayeux to Brussels, which was the task most
+nearly satisfying the pre-requisites; nine per cent. and 12 per cent. in varying
+proportions, were employed on the runs from Dieppe to Brussels, and from
+the Seine roadheads to Brussels, which would have been partly suitable, but
+less so, because of the daily varying proportions between the two runs.
+Only on 45 per cent. of the transport in 21 Army Group at most, there-
+fore, would it have been anything but wasteful to apply the continuous running
+system, involving a complete reorganization of the transport system of the
+British Army.
+DD 2
+37477)
+92947
+WO 277/21
+27
