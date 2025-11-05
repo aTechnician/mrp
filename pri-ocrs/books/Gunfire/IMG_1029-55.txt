@@ -1,0 +1,194 @@
+GUNFIRE
+When observing the nature of gunfire dis-
+persion it is realised that fire from a large
+number of guns towards the same geographic
+point would be dispersed over a fairly large area,
+the shape of which was affected by the deploy-
+ment of the guns and the difference between
+them in terms of range and line. Artillery of the
+time was not a precision weapon but a wide-area
+hitting weapon. This was both an advantage and
+a disadvantage depending
+on the
+tactical
+situation and thus had to be taken into account
+when the best battle technique had to be applied.
+The following data illustrate in approximate
+numbers the size of the area within which
+planners had to expect the fire to be effective: 12€
+Troop 100x100 yards
+Battery 150x150 yards
+Regiment 250x250 vard
+Divisional artillery 350x350 vards
+Divisional artillery + an AGRA 400x400
+yards
+As we will see later it was not always a matter of
+having all the guns aiming at the same spot. Battle
+techniques and the tactical situation could make
+it more appropriate to take advantage of the
+system characteristics and spread the fire, from
+for instance a number of batteries or regiments,
+over a larger area or along a line target by having
+the guns to aim at different points/coordinates in
+a controlled manner. Instead of the normal
+practice to have the guns of troops or batteries to
+fire with parallel barrels the fire from them could
+be more concentrated or spread out by means of
+individual aiming data. There were indeed many
+options! Skilled and innovative gunners did not
+want to get into a rut
+Tactical advantages of different charges
+and fuzes
+As if it was not enough with options for variation
+of the location and area of the fire impact,
+opportunities for changing the trajectory profile
+were also included in the tactical 'tool box'. This
+could be done by firing with different charges
+Most guns with a calibre less than 105mm
+were in Britain called Quick Firing Guns (QF),
+a term introduced already in the last vears of the
+nineteenth
+century
+implied
+that
+gunpowder (propellant) was contained in a brass
+cartridoe
+case.
+Before
+firing a number
+propellant filled bags were placed inside the
+cartridge case. Each 'Charge' had its number of
+bags. In order to reduce the risk for mistakes the
+bags had different colour. The projectile was first
+rammed into the barrel and then the cartridge
+case was inserted before the breech was closed.
+For certain guns such as the modern anti-tank
+guns the projectile and the cartridge case was
+loaded as one entity.
+When rammed into the barrel the driving
+band of the projectile fitted into the rifling of the
+barrel by which it would rotate upon ignition of
+the propellant. Another purpose was to prevent
+any gas leakage between the barrel and the
+projectile. Besides being a container for the
+propellant bags, the primary role of the cartridge
+case was to prevent gas leakage backwards
+through the breech, which for the QF 25-
+pounder was of the sliding block type. For
+ignition the case was fitted with a base primer.
+The first versions of the QF 25-pounder
+had as we have seen three different charges and
+a fourth came later, the Super Charge. The latter
+became available for the first versions once these
+guns had been equipped with a muzzle brake
+and was used for extension of the range, but
+could also be used when the gun was in an anti-
+tank role firing directly towards enemy tanks
+with armour-piercing projectiles. The need for
+firing in elevations above 45° (upper register) in
+mountainous terrain as in Burma and Italy,
+made it necessary to introduce not only a revised
+carriage but also additional charges, intermediate
+charges, often called just incremental bag®
+which were added to the base increme Wal bags,
+25-pounder
+could use
+seven atteren
+charges, i.e. it was a real gun-howitzer'. This was
+typical for howitzers and gun-howitzers. The old
+QF 3.7-inch mountain howitzer could use up to
+six charges. Several versions with different types
+of breech existed during the war.
+The medium and heavy guns were classified
+as Breech Loading Guns (BL) the propellant
+cloth bags were not contained in a brass case but
+were inserted directly into the barrel once the
+projectile first had been rammed into position
+and obturation forwards had been secured. To
+prevent leakage backwards the breech was of the
+screw type with interrupted threads. A special
+primer was used for ignition of the propellant.
+the BI
+Charged
+5.5-inch gun-howitzer
+used four
+During the war many different types of pro-
+pellant were devised. Various types were tested in
+HOW TO HIT THE TARGET - TECHNICAL GUN CHARACTERISTICS
+Elevation 25-pounder
+Fig. 8-5 When planning firing one has to select an
+adequate charge so that the shell does not hit any
+hindrance in the upward part of the trajectory, neither
+in the downward part of it. Such a hindrance could be
+buildings or some trees behind which a concealed
+deployment has been made (Author)
+order to find optimum relations between the
+chemical composition and released chemical
+energy per weight unit, rate of burn, etc. Different
+additions to the propellant for reduced barrel
+wearing and muzzle flame were tested as well.
+The reasons for using different charges in
+the field were twofold. First, it made it easier to
+conceal the guns after deployment behind trees,
+hills, and buildings etc., thus preventing direct
+observation from the enemy side. It was then
+necessary to select a charge that made the tra-
+jectory pass over the obstacles taking
+into
+account the distance between the guns and the
+obstacles. Similarly a steeper trajectory with
+higher descent angle could make it easier to
+avoid obstacles near the target (Fig. 8-5). A
+steeper trajectory required higher
+elevation,
+which in its turn required a lower charge. This
+meant a shorter range, which could be a trouble
+tactically.
+The other reason for using different charges
+was related to the impact of the projectile. A tra-
+jectory with higher descent angle could be an
+advantage if the enemy was dug down in
+trenches or the like. Again, this called for a low
+charge number. In other situations a flat trajec-
+tory was preferred, even if the range was
+reduced, for instance when the gun was used in
+an anti-tank role or when fire against bunkers or
+other types of fortification was required. The
+former situation was quite common in North
+Africa before replacement of obsolete anti-tank
+guns had taken place. The latter situation was not
+an unusual task for the gunners in Burma.
+Fig. 8-6 illustrates the elevation of a 25-
+pounder as a function of the range. As can be
+seen various charges can be selected if the range
+to the target is, say, less than 7,000 yards, but
+above 10,000 yards only Charge 3 and 'Super
+Charge could be used, the latter giving the
+maximum possible range. It should be noted that
+Fig. 8-6 Elevation for different charges of a 25-pdr
+Gun as a function of the range to the target (Author,
+data from Range Tables Part 1 for QF 25-pdr Guns,
+Mark | and II, 1944)
+normally only some 20-25% of the projectiles
+supplied in the field could be fired with the
+highest charge, 'the Super Charge'. This was a
+factor not to be overlooked when planning for
+an operation and deciding where to deploy the
+guns, particularly not in mobile battles. Artillery
+out of range due to lack of appropriate stock of
+charges when needed is useless!
+Now turning to types of bursts and how
+these were accomplished by means of various
+tuzes. See Fig. 8-7
+When the war broke out there were not
+different types of fuze to consider
+Shrapnel shells with their type of fuzes had been
+removed from service in
+the middle of the
+1930s. They were replaced by 'High-Explosive'
+shells that, upon bursting, gave a large number
+Fig. 8-7 By means of different fuzes and the setting of
+these the shells can be brought to burst as is best in
+respect of the tactical situation. Percussion fuze
+which implies direct impact burst when the shell hits
+the ground, were most commonly used (Author)

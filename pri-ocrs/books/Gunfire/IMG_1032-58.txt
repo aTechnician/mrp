@@ -1,0 +1,153 @@
+GUNFIRE
+The surveyors
+preferred
+locations
+heights, ridges etc., which were visible over large
+areas. The 'trig points' were marked with a piece
+of an iron pipe or a concrete pole in the ground
+In the field trig points could be marked also with
+a special beacon tissue to increase its visibilty
+from long distances. An example is shown in
+Fig. 9-1, although it is post-war photograph
+If good maps were available and objects that
+easily could be identified such as road junctions
+bridges, churches etc., 'trigs' could be fixed
+without triangulations. An example when this
+was possible was the Normandy invasion. In
+preparation of this a cluster of trig points was
+printed on maps for the whole area (see
+Kirkman papers, RAHT)
+These 'trigs' supplied by the RE surveyors
+formed the
+starting point for the artillery
+surveyors for their own schemes. As mentioned
+above, one Survey Regiment RA was attached
+to each Corps. These regiments also hac
+qualified survey personnel and the necessary in-
+struments, including theodolites. The latter cai
+be seen in use in Fig- 9-1
+The task of the surveyors was the establish
+ment of a common grid for the artillery units lo
+be engaged. They
+were to provide correct
+bearings when such were not available otherwise,
+called Orientation, and, which was the most
+common task, to survey the Battery/Troop
+positions as accurately as available time and
+enemy actions made possible. Determination of
+coordinates was called Fixation
+The resources were not sufficient enough to
+survey every single troop or battery, not to say
+the single gun. What they could do was to fix a
+single point near the guns, a Bearing Picket,
+Where the artillery regiment's own survey groups
+could themselves proceed by traverse and fix co-
+ordinates for a Bearing Picket near their guns
+and also bring forward to this a true bearing to
+be used in gunnery calculations. The surveyors
+would leave a card at the Bearing Picket giving
+the true bearing to one or several easily identifi
+able points, such as buildings, church towers, a
+single tree, a power line pole etc. The correct co-
+Fig. 9-1 When artillery units were surveyed into the
+same coordinate grid the surveyors from a Survey
+Regiment started from a so-called trig-point with well-
+defined and accurate coordinates. Bearings to
+reference objects, which were well identifiable, could
+here also be provided. The data were brought to
+regiments and batteries, observation posts etc. by
+means of different survey techniques. A beacon was
+placed at the final control point called Bearing Picket
+(BP). A BP Card gave the coordinates and reference
+bearings. From this accurate data were brought to the
+unit through survey by the unit's own staff. This post-
+war image illustrates the procedure, which was used
+also during the war (RAHT)
+Fig. 9-2 Battery staff used a'director' for surveying
+the location of troop deployments. This instrument
+was also used when the guns were to be aimed into
+the zero line with parallel barrels. The procedure was
+illustrated in Royal Artillery Museum (Author's
+collection)
+110|
+HOW TO HIT THE TARGET - GEODETIC REQUIREMENTS
+Fig. 9-3 The distance of the legs of traverse were
+preterably measured by means of a measuring string
+or wire (AWM No. 0944306)
+ordinates were also given on the card.
+In the regimental headquarters and in the
+battery headquarters too, survey groups were
+attached who could undertake the final survey
+as indicated. These groups were normally using
+directors and not theodolites. The former was a
+less complex survey instrument with lesser
+accuracy than the latter, but it was sufficient for
+survey close to the guns. A version of this instru-
+closed polygor
+Fig. 9-4 Known coordinates and bearings presented
+at the control point (BP) by the Survey Regiment were
+carried forward by means of a traverse using a
+Theodolite or Director. The instrument was used for
+measurements of angles by the regimental or battery
+survey resources to batteries, observation posts etc
+where accurate survey data were needed. In order to
+get the results of measurements checked anc
+mistakes avoided, the traverse was often closed as
+the picture also illustrates. The distance between the
+points where the instruments were placed had also to
+be measured as accurately as possible (Author)
+ment, a Director No. 7, used by a Gunner was
+shown at the Roval Artillery Museum, (Fig. 9-
+2). The method to carry a bearing from one
+place to another within a regimental or battery
+deployment area was traverse by means of
+airectors'
+Traverse in this context means that angles
+are recorded at various positions in the terrain
+and bearings calculated starting with the bearing
+at the first pont of the traverse polygon. The
+distance between measuring points is measured
+also, using either a measuring tape or line or by
+pacing, 1.e. counting walking steps. Fig. 9-3
+gives an example
+When applying an open traverse, bearings
+are recorded for each leg of a polygon. An alter-
+native is a closed traverse measuring also the way
+back to the starting point, which is undertaken
+as a control of the traverse. These principles are
+lustrated in Fig. 9-4
+In view of the importance of correct orien-
+tation the data from the survey scheme to the BP
+needed to be self-checking. This could be ac-
+complished using a second team working on a
+line close to the first team, this was known as
+Parallel Traverse. It could also be done by
+combining the polygons of two close, but inde-
+pendent, schemes to produce the BP data bv
+having the two polygons to cross each other a
+couple of times. The number of small closed
+polygons thus accomplished gave further check
+points. This method was known as Diamond
+Traverse. In both cases the location and orienta-
+tion data for the BP card had to agree within fine
+tolerances, if so the scheme was then 'closed' 130
+Sometimes coordinates could be fixed also
+by means of Resection or Intersection. The
+former method implied measuring the bearings
+to three or four obiects with known coordinates
+from the position with unknown coordinates
+The crossing of the measured lines on a map or
+an evaluation board gave the unknown coordi
+nates. This method was often used in the deplov-
+ment area of own units.
+The latter
+method, "intersection'. imnlied
+measuring the bearings from a few of position.
+with known coordinates to the position to be fixed
+Again, the intersection of the bearinas gave the
+unknown coordinates. This was the natural method
+to be used when positions outside own deploument
+areas were to be fixed, for instance targets.
+Finally analvsis of air-photographs was
+another method to determine exact location of
+11 11

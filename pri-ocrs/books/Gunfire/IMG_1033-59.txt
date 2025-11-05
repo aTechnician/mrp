@@ -1,0 +1,191 @@
+GUNFIRE
+targets beyond the front line such as enemy gun
+positions.
+Target acquisition - the most difficult
+Task
+Each infantry or armoured commander would
+be accompanied by an officer and an observa-
+tion party from the supporting artillery unit. On
+contact with the enemy, the Gunner officer's
+task was to identify and locate the enemy
+position in order to bring down immediate pro-
+tective fire. Maybe the enemy fire was coming
+from several positions, or from a cluster of farm
+buildings, or from a section of the woods, or
+anything else. The Gunner officer must quickly
+relate the enemy's ground location to his map
+and pass that data to his guns in preparation for
+providing the supporting fire for the ensuing
+attack, but how? The coordinates must be fixed
+and communicated to the gun position. It was
+not a good idea to ask the infantry commander.
+He rarely could tell. If anybody could, it was the
+Gunner. He had followed the advance on the
+map and had a brief knowledge where the
+advance had been stopped, but a more detailed
+'map reading was necessary to find the exact
+coordinates. In most cases he only had his
+compass and binoculars as help, but he could
+also be assisted. Occasionally his observation
+party had an optical instrument for measure-
+ment of distances, a rangefinder, which could be
+used as a complement.
+Map reading was one of the fundamental
+skills that the Gunner officer had to learn and
+master. This involved determining the correct
+coordinates of targets quickly and frequently
+when exposed to enemy fire and foul weather
+conditions. Tohnny Walker told me that, during
+his first service as 2nd Lieutenant, he was drilled
+in this art by his battery commander. At any time
+during an exercise he could get the question
+from the commander: 'Can you see the big oak
+over there? What are the coordinates? If one
+could not provide the correct answer an extra
+exercise in map reading after the normal work
+on Saturdays was imposed.'13
+Map reading in North Africa was particu-
+larly difficult because of the lack of distinguish-
+able terrain formations and similarly in Burma's
+close jungles. It is easy to understand that the
+impact of artillery fire could be completely
+wrong under such conditions
+Under more stationary conditions map
+reading could be complemented by other means
+for fixing targets or potential targets. First of all
+it was a matter of getting a good overview of tho
+coming fighting area.
+Besides the personal
+binoculars and hand compass instruments like a
+director, observation binoculars, a rangefinder
+or a theodolite could be helpful. With these the
+Observation Officer could fix coordinates for
+important terrain objects and potential targets
+etc., and document the data on a panorama
+sketch. Intersection from cooperating observa-
+tion posts was another method, often used.
+These could be manned by the Observation
+Officers of the batteries but could also be posts
+manned by the Flash Spotting Troops of Survey
+Regiments
+Targets were of course also to be located
+deep into the battlefield bevond the reach of
+human eyes. This required observation from
+RAF aircraft or by
+gunner
+Officers in Air
+Observation Posts (e.g. Auster aircraft); but also
+by means of such methods as sound ranging
+and, during the final phase of the war, radar
+Despite all instruments and elaborated
+methods accurate target acquisition was nou
+always possible to accomplish. In such cases only
+one additional method remained: ranging of
+artillery fire to fix the exact target location. We
+will come back to this later in the book.
+How to deal with geodetic relations at the
+gun positions?
+As discussed above, the geodetic relationship
+between the guns and target had to be estab-
+lished correctly in order to hit the target but the
+coordinates for these two locations had to be
+from the same grid system. But how to get pro-
+Jectiles fly between the two but how to get pr
+At first the firing bearing from the Troop oi
+Battery position must be determined and then
+the range to cover. This could be done trigon-
+metrically when the coordinates were known. At
+the troop and battery command posts forms,
+logarithm tables etc., were amand posts forml
+culations. Slide rules were avalable for such care
+calculations.
+Graphic methods were more commonl
+used. For these the command posts had one or
+two artillery boards. Two sizes were available
+one 21.5 x 21 inches, the other was larger, about
+31 x 31 inches. The board was overlaid with a
+tracing paper with a grid in scale 1:25,000 ol
+1:50,000 and numbered such that the planned
+11
+HOW TO HIT THE TARGET - GEODETIC REQUIREMENTS
+shooting zone was well covered. On the board a
+metallic bearing arc was attached with the zero
+line in the centre. Sometimes limiting boundaries
+in line and range for potential fire beyond which
+no fire was permissible could be drawn.
+On the board the position of the deployed
+Troop was
+marked with a drawing pin.
+metallic range arm was attached from this pin
+The pin was placed exactly where the right
+fourth gun of the Troop is positioned, the pilot
+gun as it was called. The coordinates of this gun
+were thus representing the location of the Iroop.
+Similarly the 'pilot gun' of the left Troop in a
+battery represented the location of the battery.
+The arm was graduated in vards up to 12,000 or
+16,000 yards depending on type selected. A
+plotting protractor could be of help
+when
+plotung on the artillery board.
+When arranged as presented, the artillery
+board could be used for graphic solutions of any
+problem involving map references, coordinates,
+bearings, ranges, switches from the zero line etc
+Normally, it was used for determination of
+switches and ranges for targets with reported
+map coordinates. It could also be used the other
+way around, i.e. to deduce coordinates of targets
+to which switch of line and range have been
+recorded after firing
+An artillery board could be used for survey
+purposes as well, for instance by plotting a
+traverse from a trig point to a bearing picket near
+the guns. Targets from gridded oblique air pho-
+tographs could also be transferred to the artillery
+board
+When the coordinates of a target had been
+communicated from the OPO/FOO to the
+command post, the exact location of the target
+was plotted on the board. By means of the range
+arm and the bearing arc the firing line (bearing)
+to it could be easily read. As the range arm had
+a graduated range scale the distance to the target
+could also quickly be fixed
+As every Troop command post had its own
+artillery board and the Battery command post
+also its own, it was easy by means of the latter to
+get a double check of the data the troops had
+found from their artillery boards.
+It was also important as seen to determine
+the height difference between the target and the
+guns, as this had an impact on gun laving
+The line and range determined at the
+artillery board had to be corrected for factors
+influencing the projectile trajectory as discussed
+in the previous Chapter 8. Of particular impor-
+tance were corrections due to deviating weather
+conditions. The summary of corrections calcu-
+lated was the Correction of the Moment
+(CoM). When 'CoM' had been calculated and
+added to the data from the artillery board, laying
+data to the guns could be ordered from the
+command post
+An 'Artillery Board' is seen in Fig. 9-5. The
+board shown has data from the battle of El
+Alamein in October 1942 and was on display at
+the Koyal Artillery Museum
+Fig. 9-5 An Artillery Board was used at Troop and
+Battery Command Posts for establishing the geodetic
+relation between guns and target. The Board is
+prepared with a reference coordinate grid on a paper
+in scale 1:25 000 or 1:50 000 on which the aun de-
+ployment is represented by the pivot marker at the
+coordinates of the battery or troop pilot gun. From
+this a steel range arm was placed towards a bearing
+arc. Ine range and bearing from the auns to the
+target could easily be determined when the target
+had been plotted on the Board by means of its coor-
+dinates. This example was seen at Royal Artillery
+Museum (Mark Smith RAHT)
+1131

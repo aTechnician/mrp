@@ -1,0 +1,236 @@
+After ranging - fire for effect
+When ranging a target to be engaged had been
+completed fire for effect was ordered by the
+OPO/FOO. As long as this was to include only
+his own troop, a few standardised order alterna-
+tives were available: 145
+Gun fire
+Section fire
+Troop fire
+Troop salvo
+The first one meant that guns engaged fired
+independently as soon as they had been laid. As
+an example: 5 rounds gunfire required the
+guns) to fire the five rounds as quickly as
+possible. This was often used when a target had
+been ranged, or been registered earlier, and
+observed fire was to come. If the OPO/FOO
+wanted to start the engagement with onlv two
+guns he could order: 'Right Section, 2 rounds
+gun fire', which meant that Guns Nos. 1 and 2
+each should fire two rounds as quickly
+possible. But an interval between the rounds
+could alternatively be ordered.
+'Section fire'
+was ordered when
+That
+OPO/FOO wanted each section of the troop to
+take part. The guns were then fired in succession
+from right of each section. It could be like: '4
+rounds section fire, 20 seconds', by which order
+No. 1 and No. 3 guns opened and were then
+followed 20 seconds later by No. 2 and No.4,
+and then another 20 seconds later No. 1 and No.
+3 fired again etcetera, until all guns had fired
+four rounds.
+The order "Troop fire, 15 seconds' implied
+that the four guns fired, starting from right, with
+a time lap of 15 seconds between them.
+If surprise was required the OPO/FOO
+could order a 'Salvo'. Following the order all
+guns were loaded and reported "ready' to the
+command post. They all then fired simultane-
+ously upon a signal or order from the latter.
+The OPO/FOO could if necessary stop
+firing or change the ordered interval between
+rounds
+It was often the 'quick-firing' method, i.e.
+'gun fire' that was applied when concentration
+of fire from one or
+several regiments
+Was
+required. In order to obtain surprise the final
+order for effect could be given when all were
+ranged and the target registered. This had been
+prepared by the order 'fire by order' from the
+GUNFIRE
+OPO/FOO. A more refined order could be:
+'Target Uncle seven, scale four, all engage at
+1400 hours'. An even more refined version was
+to take into account the time of flight from re-
+spective gun position to the target and giving the
+time when all shells were to hit the target. The
+order for this alternative was 'time on target
+This alternative required more of preparations
+at the command posts and thus often delayed the
+fire for effect. It was not applied very often in
+connection with observed fire as speed often had
+highest priority.
+An important factor indicated by the above
+orders for concentrations from several units was
+that in the British Army an OPO/FOO could
+give order to all units that he wanted to engage
+without first requesting permission to do so. A
+troop commander always was authorised to
+engage his own troop, a battery commander his
+battery and sometimes also the whole regiment
+etcetera upwards in the hierarchy.
+Even if not authorised to engage the whole
+regiment,
+troop
+commander
+aching as
+OPO/FOO could order Mike Target'. His order
+was then communicated via his own command
+post to the regimental headquarters, where the
+final decision was made as to whether the
+regiment was to fire. Before accepting the order
+the commanding officer or his representative
+had to ask a few additional questions about the
+tactical situation in order to get convinced that
+the order was justified. If this was the case, it
+might still happen that not all batteries could
+participate due to other tasks. This could then be
+compensated by an additional order to the two
+battery by
+other batteries to make up for the missing third
+firing
+additional rounds. If for
+instance the OPO/FOO had ordered scale four,
+this implied that all guns were to fire four rounds
+if all of them in the regiment would participate,
+i.e. 4x24 rounds in total, i.e. 96 rounds. If, as in
+our example, only two batteries were available
+they had to each fire six rounds per gun (6x16
+= 96 rounds). The command 'scale' could also
+imply immediate compensation for guns not
+available due to damage or crew rest, etc. Hence,
+this command gave excellent flexibility and was
+normally used by OPO/FOOs wanting to fire
+with more than his own guns as he/they rarely
+could know
+available.
+exactly
+the
+number
+of guns
+A method to bring authorisation closer to
+the OPO/FOOs, or a subordinate
+artillery
+130
+ARTILLERY BATTLE TECHNIQUES AND TACTICS
+commander's tactical headquarters, and thus to
+Artillery was best suited for area targets
+speed up execution of larger engagements, was
+It was easy to vary the size of the area to be
+delegation of authorization from, say a divisional
+covered with fire
+artillery commander to an officer acting as his
+Comparatively long ranges made effect
+representative, a
+CRA Representative.
+This
+possible over a large area with redeploy-
+could for instance be worthwhile when the whole
+ment of the guns
+divisional artillery was made available for the
+Artillery fire could be concentrated and
+support of a brigade attack. The 'CRA Rep' went
+moved over a large area within a few
+to the brigade commander for direct liaison. In
+minutes
+the same way a regimental commander could
+Artillery fire concentration was a means to
+authorise a battery commander to act as his
+accomplish local tactical superiority
+representative.
+Artillery fire was an effective means to
+When engaging enemy targets the fire in
+react on a crisis and thereby protecting
+most cases was directed to a single point. The
+own forces
+natural dispersion still made the artillery fire to • Remote engagement without own troops
+cover an area, the size of which was dependent
+was possible
+on the number
+of guns engaged. A troop •
+"The system indirect fire' offered a
+normally covered a 100x100 yards area, a
+complete intelligence system with wide-
+regiment maybe 250x250 yards.
+Sometimes a
+spread coverage
+bigger area covered was required. Two methods
+Although indirect fire was the prime task,
+to accomplish this were at hand. One was to have
+this did not exclude direct fire over open
+the engaged troop or battery to increase the
+sights, e.g. against attacking enemy tanks
+impact area by increasing the width of the fire
+Contrary to air forces, artillery could be
+by ordering a switch of line by the command
+used day and night under all weather con-
+'Sweep'
+and/or a change of range by
+the
+allions
+command 'Search'. The switch of the line was
+given in degrees and minutes relative the target
+centre line. And the change of range was given
+in yards. Thus the coverage area could be
+extended to fit the tactical requirements
+The second method was to order the various
+batteries apart such that, as an example, one
+battery was aimed at a point 200 yards northwest
+of the ranging point,
+and
+another
+over a
+dangerous area
+some 100 yards east of the
+ranging point. A large area to be covered with
+artillery fire could be covered by dispersing a
+number of 'Mike' targets (regimental targets)
+over it.
+An important question to raise is: How
+much ammunition shall be used? The answer
+depends on the tactical situation and battle
+techniques to be employed by the artillery. I will
+discuss this later, but first a few general aspects
+regarding battle techniques.
+Battle techniques - general factors and
+dilemmas
+The battle techniques applied by the British
+artillery were influenced by technical factors
+discussed above, but were also based on the
+general nature of artillery fire of the time. Some
+of these were:
+The technical constraint most affecting the battle
+techniques was lack of precision, which was the
+reason for the first observation in the list above.
+The effect over an area was reinforced by the use
+of high explosive shells spreading a large number
+of lethal splinters over the area where the impact
+came. Thus its characteristics as a weapon for
+area coverage could be turned into tactical an
+advantage in many situations, often a decisive
+one
+The battle technique to be applied must take
+into account the fact that it often was very
+difficult, not to sav impossible, to fix the target
+exactly in relation to the guns. Furthermore one
+had to take into account that the exact location
+of the enemy positions might be unknown. Nor
+was it alwavs obvious where the enemy would
+emerge and what his intentions were.
+A classic dilemma on the part of the gunners
+therefore was whether the best method to engage
+the enemy was with predicted fire without
+having first ranged the potential target. This
+meant taking advantage of surprise.
+But it could
+be argued that ranging was to take place first in
+order to become certain that the fire for effect
+went down exactly where its effect could be
+maximised. Hence, what is best from a tactical
+1311

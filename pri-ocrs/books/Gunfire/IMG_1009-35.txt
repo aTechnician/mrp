@@ -1,0 +1,208 @@
+5. Artillery Grouping, Organisation and Equipment
+'Indirect fire system'
+Yes, indeed, the guns are the main equipment of
+artillery and the projectiles delivered can thus be
+regarded as the principal weapon. Furthermore,
+they can be delivered by means of both direct
+and indirect fire
+In the former case, guns acted independ-
+ently as the target can be seen by the detach-
+ment, and aiming can be done even if the target
+is moving. In the latter case, indirect fire, the
+target cannot be seen from the guns. Hence these
+must be complemented with other devices and
+functions into a complete system. Without this
+working as it should, no fire can be brought onto
+the target. The indirect fire method meant a
+paradigm shift for the artillery in early twentieth
+century
+Before proceeding and discussing the organ-
+isation and equipment of British artillery in the
+Second World War, a few words about the
+'indirect fire system' and its components. In its
+simplest form the following main components
+can be identified, all of which were found in
+every regiment and battery
+Intelligence function - for target
+acquisition and sometimes fire control
+Fire observation and control function
+- for target acquisition and fire control
+Communication function - for
+transmission of information and orders
+Calculation function - for calculation of
+gun aiming data and various corrections of
+shell trajector
+Fire unit - one or numerous guns for
+execution of fire orders
+Administrative, supply function - for
+supply of ammunition, fuel, food etc.
+order to
+improve
+strengthen
+the
+effectiveness of the 'system' resources could be
+provided from
+outside
+the
+regiments,
+particular the following:
+Survey resources
+Special intelligence resources such as
+sound ranging troops, flash spotters, radar
+(in the latter years of the war) for location
+of enemy artillery and mortars
+Air Observation Squadrons for target ac-
+quisition and fire control
+Army Cooperation Squadrons RAF for
+target acquisition in depth and sometimes
+fire control
+As is the case for all systems, the 'indirect fire
+system' also had a command and control
+function, which included tactical coordination
+with commanders of infantry and armoured
+units to be supported and overall control of fire.
+We will now have a closer look into the
+various functions and will start with the Intelli-
+gence function
+Intelligence function
+Indirect fire with artillery guns requires detailed
+identification, classification and location of
+potential targets. The character of these can vary
+substantially. It can be attacking infantry or
+armoured
+units
+lacking protection
+from
+fortifications or terrain features. Or, on the
+contrary, it could be just that! Artillery might be
+required to fire against an enemy well dug in and
+who maybe has had the time for construction of
+fortifications and shelters as protection for
+machine guns, anti-tank guns etc. Enemy units
+might have
+deployed behind mountainous
+slopes, or
+in close woods, or in more or less
+impenetrable jungle. In such situations it might
+be a matter of concealed mortars or infantry
+reserves
+The target can also be the enemy's
+artillery, headquarters or supply bases i.e. targets
+in depth far from the front lines. It might also be
+a matter of disrupting his transport and supply
+or troop concentrations with artillery fire.
+The intelligence resources available were in
+the first place the batteries' own observation
+Parties
+that accompanied forward infantry
+companies in defence or offence, but they could
+be assisted by such units that could look' far
+beyond the front line, i.e. by support resources
+as those mentioned above.
+ARTILLERY GROUPING, ORGANISATION AND EQUIPMENT
+Fire control function
+This function with its observation parties was
+the primary function for intelligence and fire
+control at the front line with the infantry and
+armoured units that were to be supported. Troop
+Commanders and, less frequently, Battery Com-
+manders served as Fire Observation Officers;
+this as the first alternative. When losses struck
+the units, subalterns could be called forward
+from gun positions as replacements.
+Besides acquisition of targets and determin-
+ing their characters and location, the primary
+task was to order and control the artillery fire.
+All officers were trained for this, and they could
+therefore replace each other. Another important
+task was to send tactical reports about the
+general battle situation, a very important source
+of information for commanders and headquar-
+ters at higher levels.
+Each battery had two observation parties
+and as a regiment normally comprised three
+batteries there were six observation parties per
+regiment
+No other rank suffered as high losses as the
+observation officers. They were always at the
+front line, not far back as most of the other
+gunners were.
+The observer had to be supported by assis-
+tants for various duties at the observation post in
+the front line; one could be to measure distances
+to targets or terrain features important as
+reference objects. The signallers, one or two per
+observation party, were another very important
+group of assistants. And this will carry us on to
+next function in the system for indirect fire.
+Telephone lines were often cut by enemy
+artillery fire, tracked vehicles, etc. Of course.
+resources must also be available for retrieval of
+the cables in connection with redeployment.
+More about communication later in the book.
+The terminal function at the firing unit was
+also to be seen as part of the 'indirect fire system'.
+All received information should be taken care of
+by those who were to undertake calculations of
+gun data. This leads us to the Calculation function.
+Calculation function
+The information regarding target classification
+and location, purpose of fire etc was to be trans-
+formed into aiming data for the guns, and for
+making ammunition of the right type ready for
+fire including setting of fuzes when so required.
+Time schedules for firing should also be given to
+the guns in an appropriate way depending on the
+tactical situation. Hence, a calculation function
+was a must, and normally one was available at
+each troop, Troop Command Post, but also
+another for the whole battery, Battery Command
+Post, which acted as coordinator and controller
+of the calculations made by the former.
+Fire unit
+The fire unit, which was ordered to deliver fire of
+some kind and intensity, could be a single gur
+(rarely), a section of guns (two), a troop (four
+guns normally) or more often a battery (eight
+guns, four if a heavy battery). But a whole
+regiment (24 field guns. 16 if a medium or heavy
+regiment) or numerous regiments could also con-
+stitute a 'fire unit', which required an extensive
+radio or telephone communication svstem
+Communication function
+Information
+anal
+orders from
+observation
+officers should be transmitted to the guns, and
+often also to various headquarters. This was
+accomplished by means of telephone lines or
+radio communication. In mobile battles the latter
+was the only option
+Signallers were detached to take care of this
+at the observation posts and the firing units, the
+guns, under overall command of signal officers.
+Wavs of oral
+communication was strictly
+regulated and signal discipline was always
+enforced in the Roval Artillery. Resources must
+be available not only for radio communication
+but also for laying telephone lines and for
+repairing them when required, which could be
+quite frequent during the course of a battle.
+Administrative, supply function
+Without ammunition, no artillery fire! Obviously.
+but how was ammunition supplied to the guns?
+A first-hand stock was brought by the guns them-
+selves, or more specifically by gun trailers and
+tractors. The Battery Ammunition Detachment
+could provide more and also fetch more at am-
+munition depots organised by the Royal Army
+Service Corps (RASC). Companies of the latter
+were a joint resource at the division level and they
+could fetch ammunition at railway stations or
+harbours. When larger operations were planned,
+these companies could transport large amounts
+of ammunition and stockpile it just where the
+guns were deployed, up to 600 shells per field
+gun was not an unusual requirement.

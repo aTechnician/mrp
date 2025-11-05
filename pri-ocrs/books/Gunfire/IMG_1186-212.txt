@@ -1,0 +1,234 @@
+78
+NOTES
+observed that data are valid for certain
+types of shell and nominal weather data
+etc. as given in Range Tables
+Quoted in Woollacott (1994), p. 5.
+Pemberton (1950), p. 15 and Hughes
+(1992), pp. 183 and 185.
+Falvey (2002), p. 59.
+Evans, op cit Note 56, Chapter The Guns,
+Data Sheets.
+Based on data from The Production
+History of the 4.5"/5.5" Field Equipment.
+Ministry of Supply. The Directorate of
+Weapons Production. July 1946 (RAHT
+MD/1599.
+Evans op cit Note 56, Chapter The Guns.
+Ibid., Chapter The Guns, 25-pdr, p. 2.
+Manufacture continued after the war and
+Hogg, p. 256, informs that in total 2150
+pieces were manufactured.
+The presentation here is based on
+Pemberton (1950), pp. 249-250 and
+Napier: Royal Artillery Fournal. Vol.
+LXIII, No. 1, p. 11-20.
+See e.g. Farndale (1996), The Years of
+Defeat, Annex A, p. 241
+Fransson (1996), p. 127.
+Farndale (1996), The Years of Defeat, Fig.
+13, illustrates the gun without its original
+shield. It is said that a number of guns
+with this shield were captured in Sudan
+In 1941
+Hogg (2002), p. 141.
+Ibid. p. 147.
+Steckzén (1946), p. 527. Regarding the
+enormous American manufacture of
+more than 100 000 pieces, partly in
+conflict with the license agreement, see
+Fransson (1996), pp. 160-162.
+Farndale (2002), The Far East Theatre
+1941-46. Annex F, pp. 342-343.
+CHAPTER 5 - ARTILLERY GROUPING,
+86
+ORGANISATION AND EQUIPMENT
+The organization of formations at higher
+levels, Corps and Divisions, changed
+during the war, in particular this was the
+case as regards armoured divisions. The
+presentation here reflects the organization
+applied during the last years of the war.
+More about this in Forty (2002).
+The presentation is based on data from
+Evans, op. cit. Note 56, Chapter
+Organization for Manoeuvre.
+Henry (2002), p. 20.
+Data from Table 5-2 have been retrieved
+and summarized from Evans, op. cit.
+Note 56, Organisation for Manouevre as
+representing 1944.
+Goddard (2002), p. 61.
+Woollacott (1994), p. 65.
+Robertson (1986), p. 165.
+Evans, op. cit. Note 56, Chapter Artillery
+Commumcations.
+94
+Forty (2002), Appendix 5, pp. 350-351
+and other sources.
+The Gunner 1944, p. 43.
+Woollacott, p. 34
+The Slidex system is described and
+illustrated in Forty (2002), pp. 91-93.
+CHAPTER 6 - LOOKING FAR INTO THE
+BATTLEFIELD
+98
+War Diary March 1945 HQRA 17 Ind.
+Div; C.B. Intelligence Summary (WO
+172/6988)
+99
+Parham presented his proposal in an
+article in RUSI Journal, August 1933, see
+Farndale: The Years of Defeat, p. 11. In the
+latter book all the complicated arguing
+rounds which eventually resulted in the
+establishment of the Air Observation
+Squadrons with artillery officers as pilots
+are recorded, pp. 11-12.
+100 Farndale (1996): The Years of Defeat, p. 32.
+101
+Ibid. p. 33.
+102
+See 'Unpublished Sources - Miscellaneous,
+Gibson, p. 10.
+103
+Ibid. p. 14.
+104
+Forty (2002) gives slightly different data
+for the first squadrons, see p. 78.
+105 One statement of this kind is given in
+Gibson, op cit Note 102, p. 11.
+106 Farndale (2002), The Far East Theatre
+1941-1946, Annex N and Robertson
+(1986), pp. 271-273.
+107 Farndale (2002), op. cit. Note 106, p.
+378.
+108
+RA Notes 1944, Para 836.
+100 |
+5 Survey Regiment RA. Its formation,
+training and operational roles in the United
+Kingdom, p. 6. (RAHT MD/ 3376)
+110 Lewis, T.W., 'Long Traverse from Juno.
+Recollection of the Campaign in North West
+Europe by members of 7 Survey Regiment
+RA June 1944 to May 1945. (RAHT
+MD/2664)
+111 A hyperbola is a plane curve, such that
+the difference of the distances from any
+4161
+NOTES
+point on it to two fixed points, the foci, is
+constant. In sound ranging a pair of
+microphones represents the foci and the
+time difference between arrivals of the
+sound wave to the pair gives the
+hyperbola. At long distances from the foci
+the hyperbola can be approximated by its
+asymptote. In practical sound ranging
+this was the case, hence, the asymptote
+gave the direction to the gun from which
+the sound wave originated. An alternative
+plotting method was the 'Circle Method',
+which however was not normally used by
+the British during the war.
+112 Lewis, op. cit. Note 110.
+113 Evans, op. cit. Note 56, Chapter Target
+Acquisition and Counter Battery, p. 9-10.
+114 It is not clear as to whether this number is
+correct. Some sources are giving the
+number to be twelve, but this might
+include an Indian Survey Regiment. Here
+the number is taken from data in Farndale
+(1996), The years of Defeat, Annex M.
+CHAPTER 7 - AIRBORNE ARTILLERY
+115 Captain Peter Wilkinson MC in letter to
+the author on 4 April 2004.
+116
+The presentation of the Regiment and its
+equipment is based on an article in Royal
+Artillery Fournal, Vol. LXXIV, p. 36-54
+authored by Lt Col W.F.K. Thompson,
+who commanded the Regiment from July
+1943 to September 1944.
+1171
+Pemberton (1950), p. 207.
+118 Ross, Walter J.M., Major: The
+Airtransportable Role - A Diversion.
+Chapter VIII in his unpublished war
+account on 80 (Lowland) Field Regiment
+RA. (RAHT).
+CHAPTER 8 - HOw TO HIT THE TARGET -
+TECHNICAL GUN CHARACTERISTICS
+119 Evans, Op cit Note 56, Chapter Fire
+Control Meteor, pp. 11-12.
+120 Letter to the author from Douglas
+Goddard on 6 March 2007.
+121
+War Diary 69 Medium Regiment RA,
+October 1942 (WO 169/4654).
+122 Kirkman: RA Notes on the Offensive by
+Eighth Army from 23 Oct-4 Nov on the El
+Alamein Position, 24 November 1942.
+Para 8 (iv) , p. 9. (WO 201/431).
+123 See Range Tables (Part 1) OF 25-pr, Mark I
+and II, 1944, Pp. 100-101.
+1241
+Evans, op. cit. Note 56, Chapter Errors
+and Mistakes, p. 3.
+125 Op. cit. Note 123, p. 48 and 50.
+1L6.
+Evans, op. cit. Note 56. Chapter Methods.
+p. 29.
+127
+Pemberton (1950), p. 101.
+128
+This is comprehensively discussed by
+Evans, op. cit. note 56. See his Chapter
+Ammumtion.
+129 Ibid. p. 16.
+CHAPTER 9 - How TO HIT THE TARGET -
+GEODETIC REQUIREMENTS
+130
+AT Volume III, Pamphlet No. 14 A,
+Regimental Survey. August 1944.
+131 Conversation with Captain Johnny Walker
+on 6 December 2004.
+CHAPTER 10 - How To HIT THE TARGET -
+GUN LAYING
+132 Firing with increasing elevation in the
+Upper Register implies reduced range.
+CHAPTER 11 - PREPARATIONS FOR OPENING
+OF GUNFIRE
+133 Robertson (1986), p. 216.
+134 Goddard el al (1997-2002), pp. 188-
+1351
+Robertson (1986), p. 253.
+136 From Gunner, 1944, August, p. 88.
+137 Also quoted in Mead (1982), p. 35.
+138
+See e.g. AT, Volume III, Pamphlet No. 13, p.
+9 and further.
+139 Artillery Notes 1944, Para 1331, p. 17.
+140 Ibid, No. 19, Appendix 'A'.
+CHAPTER 12 - ARTILLERY BATTLE
+TECHNIQUES AND TACTICS
+141 Royal Artillery Fournal, Vol. LXXV, No.3,
+0.1161
+142 More details about ranging are to be
+found in AT Volume III, Pamphlet. No. 3,
+Part I.
+143 AT Volume III, Pamphlet No. 3 gives details
+on the communication between the OPO
+and the gun positions for various ranging
+alternatives.
+144
+Op. cit. Note 142, p. 41.
+145 Ibid. n. g
+1461
+See e.g. Pemberton (1950), pp. 229-230.
+Evans, op. cit. Note 56, Chapter Effects
+and Weight of Fire, p. 5-6.
+Ibid. p. 5.
+149 Robertson (1986), p. 216 (in a newsletter
+417

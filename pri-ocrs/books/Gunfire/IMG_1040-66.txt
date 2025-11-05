@@ -1,0 +1,182 @@
+12. Artillery Battle Technique and Tactics
+When everything that could be calculated
+had been done - ranging complements
+As seen one of the preparations to be done
+before firing could commence was calculation of
+adjustments to gun laving in order to take into
+account all known factors influencing the shell
+trajectorv. the
+Correction of the Moment
+(CoM). Despite all calculations made, however,
+a remaining uncertainty as to the possibilities to
+hit the target could not be avoided. Not least
+quickly changing weather conditions added to
+this uncertainty. Hence, a control by fire had to
+be done. This could be aimed at checking the
+definite value of 'CoM'. In such a case firing
+could be done against a point ahead with well-
+fixed coordinates, a 'Datum Point', provided it
+was easy to observe the fire against it. When the
+fire had been gradually corrected, so as to get the
+impact right at the 'Datum Point', it was easy to
+calculate backwards getting the corrections to be
+used when all guns were to fire in the vicinity.
+provided they were all surveyed into the same
+grid. Targets to be engaged should not be too far
+away from the 'Datum Point', say maximum
+1,000 yards. Otherwise the CoM might be
+different
+Another prerequisite for a direct hit upon
+the target was that its exact locations, i.e. its co-
+ordinates, had been fixed. The
+conditions
+discussed were not always at hand. Then (fire)
+ranging had to be applied. Once this had been
+completed the target had been fixed and trajec-
+tory corrections had been determined. All that
+was needed for hitting the target by all partici-
+pating guns had been done. The resulting 'CoM'
+could be used for fire for effect upon other
+nearby targets fixed in relation to the former.
+Before looking further into
+the ranging
+technique, we will notice a reflection made by
+Major W.P. Lunn-Rochliffe. Ranging should not
+be just a routine. He presented in the Royal
+Artillery Journal his view on this based on his ex-
+perience from Tunisia and Italy:
+The gunner is a 'rep' in direct support of another
+arm must not only interpret his commander's re-
+quirements for fire, but be capable of discussing
+plans and suggesting solutions whenever called
+upon for advice. Then, of course, the gunner
+must be thoroughly proficient in all technical
+matters: the O.P. officer who does no more that
+follow the rules of ranging is no better than 'a
+good plain cook'. A thoroughly proficient O.P
+officer, with his better knowledge and wider ex-
+perience, will have all kinds of tricks up his sleeve
+with which to solve his problems. 141
+Well, certainly a relevant comment. Ranging was
+the primary method for compensation of poor
+ballistic and geodetic data. However, it could be
+tactically counter-productive and in such situa-
+tions other methods from the palette of different
+techniques had to be selected.
+If surprise was the priority, it might be better
+to cover a larger area with fire, which was not
+accurate enough, rather than trying to obtain
+maximum precision. Of course this required
+good availability of ammunition. Surprising fire
+without ranging was called Predicted Fire.
+Ranging on to the target was always the first
+choice for achieving a target round and had to
+be mastered by all OPOs, not only the skilled
+professionals but also the lesnot only hanging
+or more normally Registration, was done in au
+cordance with standard procedures, something
+like this to follow.
+The OPO decided which gun or guns in his
+Troop that he wanted to be engaged for ranging:
+Normally he selected a 'Section', i.e. two guns,
+of the troop.
+or only one or as a third Section, ie. wu gun,
+When the first alternative was considered 10
+be the best, he normally selected the right section
+of his troop, as the richtmost gun, the 'pivol
+gun, was one of the grishimost scion. the mo
+guns were furthermore in the middle of the
+battery position if they belonged to the left troop.
+When the ranging commenced the OPO gave
+the order troop lage rimenced the 0P0. Far
+If only one gun was to be used he gave the order
+troop target, Nas to be used he save thire o
+126
+ARTILLERY BATTLE TECHNIQUES AND TACTICS
+likewise for other guns. We may now recall that
+the dial sights had a line scale graduated in
+degrees and minutes. The elevation scales for
+different charges were graduated in distance to
+target (range) and not degrees. It was an
+ambition that switches, i.e. correction of line and
+range, should be applied directly at the sight
+obviating further recalculations.
+Before the firing could commence the OPO
+had to give the line to the target from the guns.
+One method was map references (coordinates),
+another method was ordering the line relative to
+"zero line', for instance zero, six degrees, 20
+minutes, angle of sight 25 minutes elevation'.
+The OPO rarely was positioned just under
+the line from guns to target, his observation
+direction formed an angle against the firing
+direction. See Fig. 12-1.
+& Target (T)
+Guns (G
+Fig. 12-1 An example of ranging with two guns (a
+Section). After each pair of rounds, as here are given
+a number, the Observation Officer had to order
+changes to the guns relative the guns -target bearing
+(GT) and not relative his observation direction (OT).
+This was not easy when the angle between these two
+bearings was large. In order to facilitate the impact
+location he has here changed in such a way that the
+impact of the second pair of rounds is close to the
+ine GT. After this he has changed along this line with
+a pair of rounds on each side of the target, gradually
+decreasing the width of the 'fork' around the target
+until target impact has been accomplished (Author)
+Despite this angle he had to give his correc-
+tion of the fall of shot relative the latter direction,
+i.e. the 'GT' line. As an example: 'zero, more two
+degrees, add 200. The first was the change of line
+and the latter change of range.
+A target's coordinates and height to be
+ranged were passed to the 'troop command post'
+by means of its coordinates and height. Its
+position was there marked at the 'Artillery
+Board', from which line and range were
+extracted. To these data the 'CoM' corrections
+were added and laving data were then passed to
+the guns. When ready the gun, or the guns
+ordered, fired a first round. If the target had been
+correctly fixed (coordinates) and 'CoM' also was
+correct the shell impacts) would take place right
+at the target apart from a deviation due to the
+unavoidable dispersion. If a direct hit took place,
+the ranging could be suspended and fire for
+effect by all guns needed could be ordered. In
+such a case the target data could be recorded and
+a number given. This was called registration.
+As discussed, the ideal situation was rarely
+at hand. Some uncertainties in laying data
+normally could not be avoided. This caused a
+deviation of the impact from the correct
+position. In difficult terrain such as woods or. in
+particular, the jungle, it could happen that
+nothing could be seen of the ground impact (fall
+of shot) of the first round(s). The method then
+to be applied was 'bracketing' along the 'GT" line
+or across of it. In order to obtain the bracket the
+OPO had to correct line and range one or a few
+times till a bracket around the target had been
+established, i.e. he had observed rounds on both
+sides of the target This was then made shorter,
+for instance halved. By such changes the OPO
+ended with having the target in the middle of a
+short bracket, which meant that he had fixed the
+target. It the angle between his observation line
+and the gun line was small it might be necessary
+to 'bracket' both along this line and across it, or
+making brackets along the direction of observa
+tion, i.e. 'OT' in Fig. 12-1. The figure illustrates
+ranging ov means of such a 'bracketing with a
+section of two guns along the 'GT' line. The
+number of the afterent rounds indientes how the
+impacts gradually were brought closer to the
+target. Rounds "4' and '5' were so close to the
+target that the ranging was sufficient. It was now
+bossible to tire for ettect or lust to record the
+Target for use later
+Unon comoletion of the
+ranging. the

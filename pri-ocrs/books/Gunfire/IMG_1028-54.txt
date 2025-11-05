@@ -1,0 +1,179 @@
+GUNFIRE
+Regiment RA, Douglas Goddard, related that his
+25-pounders fired around 15,000 rounds per
+gun from landing in Normandy 1944 to the end
+of the war in May 1945 and yet calibration was
+undertaken only once in this period. It took place
+just after the breakout from the Normand
+bridgehead and the advance northwards was
+halted at river Seine at the end of August
+1944.120 Other batteries it must be said were cal-
+ibrated more often
+As the deviation of muzzle velocity from the
+nominal values of the 'Range Table' was one of
+the most critical factors affecting the trajectory
+of a gun it was always a matter of constant ob-
+servation. Calbration was never neglected in
+battle pauses or when units were withdrawn for
+recovery, if needed. We get an example in the
+War Diary of 69 Medium Regiment RA for 29
+October 1942 at 17.45 hrs when the battle at El
+Alamein still was raging:
+From 1400 hours when not firing at targets Regt
+fired calibrations shoot from pivot gun of each
+troop in conjunction with 4th Survey Regt. Data
+from this shoot proved that the average loss of
+M.V. since the offensive started was 55 f/s. The
+necessary adjustment to the sights was made. 21
+Several factors
+of influence could be
+determined at the gun position, but not all of
+them. The difference between chemical energy
+of different batches of propellant was unknown
+at the gun positions. It was also difficult to get a
+grip of the impact of extreme air humidity,
+which for instance was a big problem during the
+monsoon periods in
+Burma. To
+'keep the
+gunpowder dry', this good old rule was not
+always easy.
+Range Tables provide information on tra-
+jectory physics
+As mentioned the 'Range Tables' are rich sources
+of data on the physics of the trajectory of guns
+firing various types of ammunition. With the 25-
+pounder as an example we will have a look at the
+magnitude of the impact caused by variations in
+nominal data. First, a list of the latter given for
+Charge 3:
+Muzzle velocity: 1,450ft/s (442m/s)
+Air pressure: 30 inch Hg (762mm)
+Air temperature: 60°F (15.6°C)
+Wind velocity: O ft/s (all directions relative
+Propellant (Cordite) temperature: 60°F
+From this example we can see that the barrel
+(15.6°C)
+wearing of a medium gun could be considerable
+after one week of continuous fighting only. It has
+Now, if other values were applied what did it
+mean to the change of the point of ground
+been stated that calibration shoots were to take
+place every three days for these guns. 122
+impact, or in other words: what will the range be
+The problem occupied central authorities
+as compared with the one
+achieved under
+throughout the war and various policies were im-
+nominal conditions? Fig. 8-2 illustrates the
+plemented. The voluminous shooting during the
+deviation as a function of nominal range for the
+following variations of nominal values: 123
+war resulted in empirical data on the relation
+between
+measured barrel wearing and the
+decline of muzzle velocity, which were added to
+the 'Range Tables' as valuable pieces of informa-
+tion in the field. By means of this data it was
+possible to make adjustments to the gun sights
+also between formal calibration shoots
+As a policy it was later decided that every
+regiment was to have at least one gun, called the
+standard gun, which should be well calibrated all
+the time. The other guns of the regiment could
+use this one for comparative shootings. It was
+furthermore made clear that the commanding
+officer of the regiment was responsible for this
+arrangement, and he was also to make sure that
+battery
+commanders
+really
+calibration shootings regularly.
+undertook
+Muzzle velocity: - 100 ft/s (-30.5m/s)
+Air pressure: -3.0 inch Hg (-76.20mm Hg)
+Air temperature: -20°F (-11.1°C, i.e. 4.4 °C
+absolute)
+Wind straight against the shell: +30 ft/s
+(+9.1m/s, i.e. 9.1m/s absolute)
+The graph clearly indicates the importance of
+checking the degrading of the muzzle velocity.
+Weather data should also be recorded as up-to-
+date as possible; otherwise the shells might
+descend far away from the target, in particular
+When the range is long. The wind was often
+hitting the shell from an acute direction, or across
+it. Such wind directions required correction not
+only of the range but also the firing bearing.
+HoW TO HIT THE TARGET - TECHNICAL
+GUN CHARACTERISTICS
+Fig. 8-2 An illustration of various factors influencing
+the shell trajectory of a 25-pdr firing high explosive
+shells with Charge 3. As an example, if the range to
+target is 10 000 yards the gun must be aimed for the
+range 10 600 yard if the muzzle velocity has declined
+by 100 ft/s through wearing (Author, data from Range
+Tables Part 1 for QF 25-pdr Guns, Mark | and II, 1944)
+In the first place corrections to meet adverse
+conditions were calculated. The combined result
+of all corrections was called Correction of the
+Moment (CoM) and could as seen in Fig. 8-2
+have a high impact, in particular along the firing
+bearing. Even if the calculations have used the
+best possible data there was often a remaining
+uncertainty. This could be determined only by
+means of shooting and correcting the ground
+impact of the shells towards the target; this was
+called ranging, which we will come back to later
+in the book.
+It is understandable that the staff working in
+Troop and Battery Command Posts had to cope
+with a hectic situation when they had to make
+lots of calculations of corrections, in particular
+when the situation changed dramatically or when
+huge fire plans for numerous targets had to be
+prepared. In order to make it a bit easier
+calculation procedures had been standardised
+and appropriate data forms provided.
+Fire dispersion unavoidable
+Even if extensive calculations had been made it
+did not imply hole-in-hole ground impact of the
+rounds fired. If one single gun fired a large
+number of projectiles without change of the gun's
+elevation and fire direction a dispersion pattern
+would be observed. Normal probability rules
+gave the shape of the area within which the pro-
+jectiles hit the ground. The distribution within
+this area followed standard statistical models. To
+make it easier the Royal Artillery gave the disper-
+sion length for 50%. 82%. 96% and 100% of the
+projectiles, Fig. 8-3124
+and Fig. 8-4. Similar
+Fig. 8-3 If a number of shells are fired against the
+same aiming point they will on hitting ground be
+dispersed over an area as illustrated. Range Tables
+provide information on the size of the area within
+which the shells will fall with 50% probability. This is
+given along the firing direction as well as the size
+straight across this. As indicated, the latter is normally
+much smaller (Author, data from Range Tables Part 1
+for QF 25-pdr Guns, Mark | and II, 1944)
+50% range dispersion, yards
+harge 1
+2000 3000 4000 5000
+Fig. 8-4 The size of dispersion at various ranges for a
+25-pdr Gun for different Charges. For Charge 3 the
+dispersion across the firing direction is indicatec
+Observe that Super Charge implies bigger dispersion
+than Charge 3 due to its less elevated trajectory
+(Author, data from Range Tables Part 1 for QF 25-pdr
+Guns, Mark I and II, 1944)
+errors also occurred in the line of fire and the
+two patterns were called Probable Error Range
+and Probable Error Line respectively. If doubled
+these measures gave the whole dispersion area
+and they
+are given in the Range Tables. The
+graphs of Fig. 8-4 have been prepared by using
+data for different charges. 12s
+102

@@ -1,0 +1,209 @@
+GUNFIRE
+was considered appropriate, and for tank forma-
+tions 200 yards every second minute.
+The term 'barrage' is in literature often used
+incorrectly as a term for heavy artillery fire in
+general, either in defensive or offensive opera-
+tions, but the term had a well-stipulated meaning
+implying a stationary or moving belt of fire
+providing a protective screen behind which the
+attackers advanced 158
+The method (principle) was not new, it had
+been practiced already in the Great War, but it
+was refined during the Second World War. In its
+simplest form it was designed as illustrated in
+Fig. 12-2.
+This figure illustrates how a regiment fired
+a 'barrage'. As seen, the fire from two batteries
+was arranged beside each other. It was calculated
+that the width of the fire of a troop was 140
+yards, i.e. a battery covered a front of 270 yards
+and the two 560 vards. The fire of the third
+battery was superimposed over the two other
+batteries. If the 'barrage' was to cover the
+advance of tank formations, the regimental bel
+could be reduced to around 400 yards. Several
+regiments, engaged in parallel, might support a
+Attack objective
+B Troop
+C Troop D Troop
+° T 0 yards
+280 yards
+Start lin,
+Fig. 12-2 Standard barrage to be fired by one field
+regiment. The fire from two of the batteries are
+beside each other along the first line, the third
+battery is imposed over the two. The fire was moved
+forward to subsequent lines with a speed adapted to
+the advancing speed of the attacking infantry or
+armoured units, for infantry normally 100 yards every
+2-3 minutes, for armoured units a bit faster, say 200
+yards every 2-3 minutes (Author)
+larger formation's attack. As we will see some
+large operations would require a front of simul-
+taneous fire covering several kilometres.
+Referring to Fig. 12-2 with its illustration of
+the basic design of a regimental 'barrage', the
+opening fire was on line a-a and when the
+attackers commenced their advance the fire was
+shifted to line b-b and then to c-c after 2-4
+minutes etcetera, until the last line had been
+reached. If deemed advantageous, pause lines
+could be included in the fire plan, for instance
+when the first objectives had been captured and
+redeployment of the attackers was necessary
+before continuing the advance. In Part 3 of the
+book we will see several examples of 'barrages
+with many regiments participating. A "barrage'
+over a front of 4km and a depth of 4km or even
+more became quite common in large operations.
+In such cases pause lines were necessary and
+they could imply a break in the advance for an
+hour or more.
+The advantage of the 'barrage' was that it
+was not necessary to know exactly where the
+enemy had his positions, which in particular
+often would be difficult towards the depth of the
+battle area. Another advantage it offered the
+attackers was the psychological support they ex-
+perienced from the continuous fire close ahead
+of them but also further back. The disadvantages
+were several. One was that the fire not always fell
+on top of the enemy positions, which could
+imply less efficient neutralisation when this was
+most needed. Another was, as mentioned, the
+waste of ammunition.
+The preparations for a covering fire of this
+type were simple. Regimental headquarters and
+battery command posts received the corner co-
+ordinates, for instance 'B' in Fig. 12-2, and the
+main direction of the 'barrage'. They also had to
+know the moving speed of the advance. With this
+information it was easy for command posts to
+prepare a 'gun programme' for every gun. This
+was possible, as all calculations in relative terms
+had been calculated beforehand. It was then easy
+to recalculate from the real coordinates, adding
+when needed also Correl cos odinates, anding
+(CoM).
+One problem was that the enemy's position
+might be non-linear. hence they would not
+conform to the linear barrage format. Positions
+were placed with regard to the terrain and
+tactical considerations. This meant that neutral-
+isation was effective where the fire belt coincided
+138
+ARTILLERY BATTLE TECHNIQUES AND TACTICS
+with the enemy positions whereas the fire was a
+failure when not. The remedy, at least partially,
+was to adapt the 'barrage layout in such a way
+that fire belts better overlapped positions, at least
+when the fire was to commence and where it was
+to cease. Two variants existed.
+One of them was called the 'wheel method.
+Adaptations of the fire belts to the enemy
+positions were made such that the distance
+between belts were made shorter at one flank
+while it was retained at 100 yards on the other
+side. One never increased the distance above 100
+yards. This design implied that the attackers had
+to advance with different speed when it was
+wanted to get them into all enemy positions sl-
+multaneously. It could work if the speed differ-
+ence was not too big
+The other method was called the 'echelon
+method. As with the
+previous method the
+opening line and the last were designed to
+overlap enemy positions as well as it was
+possible. The fire belts between these were
+located with equal distance between them.
+Hence, the advancing speed was expected to be
+the same. The disadvantage was that attackers
+had to cover different distances before breaking
+in with their bayonets. Which method to choose
+had to be carefully considered in respect of the
+overall plan for the attack. This is an example
+Where
+close
+cooperation
+between
+commander of the attackers and his artillery
+commander was necessary in order to maximise
+the effect of the artillery support. In large oper-
+ations the two methods had to be applied in
+parallel on different sectors.
+The 'barrage method' worked well when the
+terrain was fairly unobstructed and the attacker's
+rate of advance easily predicted. In a very hilly
+terrain this was not possible, in particular when
+the slopes were covered with dense jungle as in
+Burma. The speed of an attack in deep snow
+could also be very difficult to estimate in
+advance. Under these circumstances it was better
+to plan the covering fire with 'timed concentra-
+tions' with appropriate pause lines. Preparations
+for changing of the timings and switches of fire,
+as well as shifts to other targets, must also be
+done, i.e. flexibility was required.
+If medium guns
+were
+available normal
+practice was to have them firing on a belt or
+target beyond that of the 25-pounders, i.e. a bit
+further away from the attackers in respect of
+their larger safety distance. If the area to capture
+was deep and availability of artillery permitted
+it, several belts/lines behind each other could be
+fired at simultaneously and with the fire from
+medium guns superimposed over the fire from
+25-pounders.
+Taking as an example a 'barrage' designed
+as in Fig. 12-2. One field regiment could fire at
+the line a-a and another at b-b and a third one
+at c-c with a medium regiment also firing at c-
+c. If a Creeping Barrage was planned all the units
+moved one line ahead simultaneously, say every
+second minute, without changing the positions
+between. An alternative was the Rolling Barrage
+implying that the regiment firing on a-a, after
+say, two minutes, 'jumped' over the two nearest.
+which regiments continued their bombardment,
+to line d-d. After another say, two minutes, it was
+followed by a 'jump' by the second field regiment
+from b-b to line e-e. Two minutes later this was
+followed by the third field regiment and the
+medium regiment which both jumped' from c-
+c to f-f and so on. Hence, the barrage 'rolled'
+forwards further into the area to be captured by
+the attackers. A distinct advantage with this
+method was that a regiment could 'stay' firing at
+every line engaged longer than in the 'creeping
+barrage alternative, hence the need for re-laying
+the guns was reduced. This method was often
+preferred when attack by tank units were
+supported. Further examples will be presented
+in Part 3 of the book.
+The standard-pattern type of barrage was
+easy to implement at command posts. The dis.
+advantage was that the line targets not always
+covered the terrain where enemy positions were
+to be engaged. In order to get a better coverage
+two alternative methods were used as indicated
+in Fig. 12-3.
+To the left of the middle section, which is the
+simple standard version, the pattern called wheel
+method' is shown. As seen the line targets have
+been adjusted to cover the enemy
+nositiond
+better, but they are therefore not parallel. In the
+left part the attackers had to slow down while
+those on the right side had to cover a longer
+distance before they all broke in on the defenders
+simultaneously. The method required more of
+calculations at command posts.
+To the right of the middle section all line
+targets still are parallel but the first one is placed
+over the enemy position, and possible the first
+objective, the so-called echelon method. As seen
+the final lines do not cover the final objective.

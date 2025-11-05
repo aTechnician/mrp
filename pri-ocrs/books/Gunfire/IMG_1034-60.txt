@@ -1,0 +1,118 @@
+10. How to Hit the Target - Gun Laying
+Indirect fire, i.e. when the target cannot be seen
+from the gun, is achieved using an auxiliary
+aiming mark, but as this mark can be any well-
+defined object around the gun, a specialised sight
+is needed. Such sights were introduced by the
+Royal Artillery at the beginning of the twentieth
+century. One of these was Dial Sight No. 7 used
+for the 18-pounders in the Great War 1914-
+1918. This had one scale for line
+laying
+(direction to target). Later, during the 1930s, a
+second scale was applied in order to make it
+easier to apply corrections for the individual gun.
+Fig 10-1 Most British guns had up to 1943 a dial sight
+of the type Dial Sight No.7 B. A similar improved
+version, 'Dial Sight No. 9', was introduced 1943.
+1944. This was used long after the war and is shown
+here. (RAHT)
+This was a 'slipping scale'. The revised version
+was called Dial Sight No. 7A, others were Dial
+Sight No. 7B and Dial Sight No.
+7C. These
+were the most commonly used sights for all types
+of gun during the Second World War. They were
+in 1944 followed by an improved version, the
+Dial Sight No. 9. We can see a sight with double
+scales for line laying in Fig. 10-1. One of the line
+scales was marked (engraved) clockwise and the
+other anti-clockwise. The top of the sight could
+be released and turned easily towards an aiming
+point before locked again, when it was to be
+moved/turned by means of graduated scale mi-
+crometers, one for each one of the line scales.
+The sight top, the upper prism, could be
+revolved horizontally 360° and thus directed to any
+aiming point around the gun while the layer looked
+through the lower telescope part, which always was
+directed straight forward. When looking into the
+sight the layer could see two engraved cross lines,
+which should be laid against the aiming points)
+once the ordered direction towards the target had
+been applied. This was done by means of the tra-
+versing hand wheel. Upon arrival at a new position
+all the guns were to have their barrels in parallel in
+the ordered direction, the zero line. More about this
+in Chapter 11.
+The range, i.e. the distance to the target, was
+a function of barrel elevation, which in its turn
+was dependent on the projectile muzzle velocity
+and applied corrections for factors like weather
+Conditions, projectile weight etc. Britike uns had
+Calibrating Sights, which meant that the range
+could be set directly by the lasant that the range
+was engraved, as far as the 25-pounder Was
+concerned, on a cone being part of the sight
+carrier. A fixed reader arm with markers for
+different charges was used. These could also be
+adjusted to make allowance for decreasing
+muzzle velocity. By means of the range indicator
+wheel the cone was moved till the ordered range
+was set against the marker. Then the barrel wa:
+brought into the correct position by means of the
+elevation hand wheel and a Sight Clinometer
+water bubble, which and a Sight Clino level
+position (Fig. 10-2).
+1141
+HOW TO HIT THE TARGET - GUN LAYING
+Fig. 10-2 On the 25-pdr, range was set by means of
+wheels affecting the unique range cone/drum seen
+here. The cone has engraved lines for different
+ranges. Markers for each Charge were on the ruler
+beyond the cone. Lower ruler is engraved with muzzle
+velocity scale (Author's collection)
+If there was a difference in height between
+the gun and the target, an angle of sight corre-
+sponding to this difference must be taking into
+account when laying the gun (Fig. 10-3).
+Fig. 10-4 Sight Clinometer with spirit (bubble) level
+for adjusting the elevation with the angle of sight to
+be set by means of a separate scale (Author's
+collection)
+For other guns such as the modern medium
+guns, the same types of dial sight were used but
+the range laying was made by means of readers
+set against engraved range scales on a vertical
+plate. The readers, one for each charge could be
+moved to compensate for changes in muzzle
+velocity. Once the reader had been set against the
+range scale the barrel was brought into right
+elevation by means of the clinometer's water
+bubble, which was to be level when the laying
+had been completed. See the arrangement for a
+5.5-inch gun-howitzer in Fig. 10-6.
+Fig. 10-3 The geodetic relation between firing units
+and targets must be determined in three dimensions.
+This implied that the gun elevation must be corrected
+with the angle of sight if the height difference is sig-
+nificant. If not, the shell will fall short of the target as
+illustrated here (Author)
+The Sight Clinometer is shown in Fig. 10-4.
+We can see that the trajectory must be raised
+a little in order to get projectile impact at the
+correct place. This was called a non-rigidity cor-
+rection. The magnitude was found in the 'Range
+Tables and the correction was set on the Sight
+Clinometer' by which the elevation, and thus the
+range, was adjusted to bring the projectile to
+touch ground at the right place.
+We may in this context observe that the layer
+of a 25-pounder operated both the traversing hand
+wheel and the elevation hand wheel (Fig. 10-5).
+Fig. 10-5 Laying of a 25-pdr. This was done by the
+layer who operated both the traversing hand wheel
+and the range (elevating) wheel. The dial siaht is set
+on the line bearing and the range on the cone/drum
+usina the charae marker (AWM No 041054)
+115

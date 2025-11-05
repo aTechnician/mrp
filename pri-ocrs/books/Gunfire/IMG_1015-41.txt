@@ -1,0 +1,219 @@
+When Tudor [Troop Commander] first set up
+his O.P., he decided to lay a telephone line for
+better communication to the guns. He and his
+party with the Battery commander set out, laying
+line as they went. When they reached the O.P.
+however the line was dead, so Dennis [Batterv
+Commander left Tudor there and went back
+down the line with a signaller to find out what
+was wrong. When they reached the village, they
+discovered that a two hundred yard length of the
+line had been removed. Walking into the village.
+they noticed some washing hanging on a clothes.
+line of wire. Dennis saw red at this and stormed
+into the cottage, making it quite clear to the
+occupants that if they did not produce the rest of
+the wire they would be in serious trouble. The
+signaller fortunately spotted the missing length
+coiled beneath a pile of logs. So, after further
+threats of what might happen, they repaired the
+telephone line and all was well. A case
+sabotage, probably unwitting."
+If the telephone lines worked, they were the best
+and most reliable communication alternative
+Bur this was not always the case. The cables were
+normally laid direct on the ground, only occa-
+sionally hung up in trees and bushes or dug
+down. Hence they were regularly damaged by
+enemy artillery fire or own vehicles, to the regret
+no doubt of many tank commanders
+Those tasked with repairing the lines were
+also at high risk of being
+attacked. G.W
+Robertson relates an example of this
+For the first fortnight these repair parties were
+being sent out several times a day | ... l. It was
+hoped that the breaks were caused by animals, but
+there was no proof. Consequently the line main-
+tenance men would have to follow the line with
+caution - one eye on the cable and the other
+watching out for a Jap ambush. It was a very
+nerve-wracking business and although none of
+our parties were trapped at this time, those from
+other units in the area did suffer casualties from
+either lap ambush or their fighting patrols. It was
+certainly the signallers who had the toughest time
+during the first weeks in action and they rose to
+the occasion and did a magnificent job."
+It was normal practice to double the lines if
+enough cable was available. Arranging a kind of
+meshed network was another alternative for es
+tablishing back-up
+communication. A Field
+GUNFIRE
+Regiment normally brought some 25km of
+cable, to which came a large stock also from
+attached units from Royal Corps of Signals.93
+Hence, there was room for improvisation!
+At command posts and headquarters the
+lines were connected to manual exchanges, the
+smallest for 20 lines and the largest for severa,
+hundreds.
+An
+example of a regimental telephone
+network is illustrated in Fig. 5-4
+Radio was the principal artillery communi-
+cation alternative when battle was imminent
+This technology
+meant a revolution when
+compared with earlier wars. Thanks to this
+means fire concentrations could quickly be
+executed over a large area, even in mobile battles.
+The Royal Artillery took on the opportunities
+offered by the wireless technology early and was
+fairly well equipped when the war broke out.
+This was not the case as regards other arms.
+Battle methods and procedures required the
+radio system to make communication all over the
+artillery hierarchy possible, but communication
+directly with units to be supported must also be
+established
+as a FOO
+Artillery
+Battery A
+Fig. 5-4 It was always an ambition to establish a
+telephone network for the regiment. It was to be
+used for orders as well as for other purposes such as
+fire control. Seen here is a network for a field
+regiment, which is supporting an infantry brigade
+The Commander of the regiment is Commander
+Royal Artillery in support of the Commander of the
+brigade. The three battery commanders are acting as
+artillery commanders for the brigade's battalions
+(Author)
+ARTILLERY GROUPING, ORGANISATION AND EQUIPMENT
+commander could not always be on speaking
+distance to the commander of the supported
+unit. The gunner officer was keen to establish
+himself where the best opportunities for obser-
+vation of potential targets were offered. If he
+supported an armoured unit he and his counter-
+varu
+were
+moving
+different
+fighting
+vehicles/tanks he also required to be in radio
+communication with the supporting unit.
+the
+communication
+systems!
+required
+wireless sets with different capacity and other
+characteristics. Radio technology was fairly new
+and many practical constraints were typical of
+the time (long before introduction of transistors
+and modern circuit technologies). The High
+Frequency
+(HF)
+band was
+almost totally
+dominant until the last year of the war when also
+Ultra High Frequency (UHF) sets were intro-
+duced on a small scale based primarily on
+American and German technologies. But there
+were exceptions to the general HF picture. As far
+as the artillery was concerned, one exception was
+communication
+with Army
+Cooperation
+Squadrons of RAF, which used the UHF
+frequency band for artillery reconnaissance and
+air support
+Observation Post Officers needed small and
+light devices, which could be easily carried when
+they were accompanying the infantry or armour.
+But this was at the expense of communication
+range. Longer ranges required heavier wireless
+sets with accompanying larger battery loads.
+This made installation in vehicles necessary; if
+not left at headquarters and gun positions. If the
+sets were needed where motor vehicles were not
+available for transport, it was necessary either to
+use mules or by manhandling of the device dis-
+mantled into several loads.
+1he
+general system of classification of
+wireless sets in the British Army had ten
+principal classes depending on where the sets
+were used. When two digits were applied, the
+first digit represented wireless type and the
+second the class. The digit 1 showed that the use
+primarily was within a brigade, digit 2 use at the
+divisional level or higher when the range was
+fairly short. For longer ranges the digit 3 was
+used. Lighter sets to be carried by one man was
+the class 8. Sets to be installed primarily in tanks
+and other fighting armoured vehicles were in
+class 9
+The Roval Artillery had two sets, WS No. 8
+and WS No. 11. when the war broke out. The
+first one was planned to be a set to be man-
+carried also by infantry. The latter was too heavy
+for that and was intended for vehicle installation
+or a more stationary emplacement. Both were
+soon replaced
+bv
+types of equipment.
+although the No. 11 was retained by some
+artillery formations through the war. After 1942
+the WS No. 18 became the standard set for Ob-
+servation Officers' communication with com-
+manders of units to be supported. For the
+communication within the artillery regiment and
+with higher formations the WS No. 22 became
+the standard set thanks to its longer range. It was
+however heavy and therefore it was installed in
+carriers or in static positions. When necessary, it
+could however be transported dismantled in
+several loads by three to four men. The No. 18
+set could of course also be used by the regiment
+when its smaller range was sufficient.
+For use in AFVs
+[Armoured Fighting
+Vehicles] the WS No. 19 was introduced during
+the war. It had capacity for longer ranges than
+the No. 22 and was therefore also used by some
+high level headquarters.
+The No. 18 set was further developed
+during the war, for instance in Canada. Australia
+and United States with the objective to reduce
+weight or increase the communication range
+British artillery was therefore to use also the No.
+38, No. 48 and No. 68 sets. The latter was, for
+instance, used by the air-landing regiments
+Table 5-3. Key technical data for some wireless sets used by
+the artillery
+TvDe No
+Transmission
+Power
+Range
+Aeria
+Mc/cl
+42-751
+15-30
+Rod 2ml
+h-9|
+Rod 2m
+15-30
+Rod 2.4m
+15-30
+Rod 4m
+7.3-8.8
+3_52
+Rod 1.3m
+Rod 2m
+Rod 2 2m
+*) Data for the strongest versions are presented here. Earlier versions had
+about half the power and half the range.
+**) A more powerful version had 30 W of power and a range of 40-80km.

@@ -1,0 +1,178 @@
+8. How to Hit the Target - Technical Gun Characteristics
+To hit the target, gunners must master:
+The internal ballistics of the gun
+The external ballistics of the shell
+The geodetic relation between the gun and
+the target
+First, we will now have a look at the two first-
+mentioned aspects.
+Internal ballistics
+When discussing the movement of the shell
+through the barrel and the velocity of it when
+leaving the muzzle we are talking about the
+internal ballistics, often also called the interior bal-
+listics. The most important factors affecting this
+ballistics are:
+Weight of projectile and fuze
+The rotation of the projectile imposed by
+the rifling in the barrel
+Length of barrel
+Wearing of barrel
+Size and composition of cartridges (pro-
+pellant) and thus the chemical energy
+released
+The temperature of the propellant, which
+also affects the energy
+Vibrations of the barrel
+Loading force when the shell is inserted
+into the barrel
+As seen, some of the factors are unique for each
+gun, whereas others are the same for several
+guns, for instance of a battery to which certain
+batches (consignments) of shells and propellant
+had been supplied. It would then be natural to
+assume the
+same weight of shells from such a
+batch for all guns of the battery and, similarly,
+the same temperature for charges taken from the
+same batch.
+Upon ignition of the propellant a rapidly
+increasing gas pressure is built up which pushes
+the projectile through the barrel accelerating it
+up to its maximum speed. Once the projectile
+leaves the muzzle
+the driving
+gas pressure
+instantaneously drops to zero. Part of the gas
+pressure is sometimes used to dampen the recoil
+by means of a 'muzzle brake'
+External ballistics
+The trajectory of the projectile would be close to
+the parabola if no air was present and the
+elevation of the barrel would then determine the
+range. Maximum range would be reached at 45°
+elevation. Reality is, however, more complicated.
+A number of factors have an impact on the tra-
+jectory, such as:
+• Shape and weight of the projectile
+including the fuze
+Rotation of the projectile
+The earth's rotation
+Air pressure
+Air temperature
+Wind direction and strength along the tra-
+Jectorv
+Range Tables were available for all types of gun
+and the different types of ammunition to be used
+by those guns. Basic data such as muzzle velocity,
+elevation, trajectory peak, range, impact angle,
+flying time and much more of nominal data could
+be retrieved from the tables. But the gunners also
+needed to know the magnitude oh in unes abo
+the trajectory due to deviations from nominal
+data, for instance various weather data, in order
+to calculate necessary corrections of aiming data
+needed for hitting the target. When it comes to
+wind speed the nominal value was Oft/s, but if the
+wind was 30ft/s obliquely from left or right against
+the projectile, it would be necessary to know
+exactly how to make corrections for that. This
+could be done by means of information from the
+'Range Tables'. The projectile is affected by
+meteorological deviations at all heights through-
+out its trajectory and the problem is to determine
+the significant deviation and its level. Ideally this
+should be determined just when the projectile was
+to fly towards its target.
+Weather data could be collected at various
+heights by means of a small balloon, the route of
+100
+HOW TO HIT THE TARGET - TECHNICAL GUN CHARACTERISTICS
+which was monitored by means of a theodolite,
+(Fig. 8-1). This function was performed during
+the war for the Royal Artillery by Mobile Met
+Units of the Royal Air Force. This was developed
+and improved initially by attaching such a unit
+to HQRA at Corps and one each to the Survey
+Regiments and AGRAs. Later improvements
+saw units attached down at divisional levels. "9
+The weather data was collected for the
+various heights every four hours using a theodo-
+lite to record the bearing and angular height to a
+met balloon after a set time. From 1943 and
+onwards also radar could be used for tracking
+the balloon. Recorded data were presented in a
+met telegram, which was distributed to all
+artillery regiments and headquarters in the
+relevant
+battle
+area.
+When
+particularly
+important ranging was to take place a special
+'met telegram' could be provided as near as
+possible to this in order to get up-to-date and
+accurate weather data. When the battle at El
+Alamein was prepared 'met telegrams' were
+provided every 30 minutes. Yet, sudden and local
+changes of weather conditions often remained
+unrecorded.
+Weather data were also collected by aircraft,
+which often was a very valuable complement to
+sround data
+Fig. 8-1 Acquisition of best possible weather data
+along the trajectory of the shells was always
+important. Recording the route and speed of a
+balloon by means of a thedolite was the principal
+method to get wind data needed. The method
+applied during the war remained also after the war as
+this image illustrates (RAHT)
+Declining muzzle velocity a scourge
+The projectile's range was affected bv muzzle
+velocity, which in turn is very dependent on the
+degree of the wear to the bore of the barrel. A
+decline of the velocity was inevitable when the
+numerous rounds had caused barrel wear. If this
+reduction was, for instance, 5% this implied a
+significant reduction of the range that must be
+compensated. A problem to be encountered was
+the lack of instruments for measuring the decline
+in the muzzle velocity. The wear as such could
+be measured, but what it meant in reduced
+muzzle velocity was not obvious. The method
+adopted was to undertake calibration shoots.
+These were made against a target well defined
+geodeticallv. i.e. well-known coordinates were at
+hand. Other factors influencing the trajectory
+were also to be recorded as
+accurately
+possible, leaving the muzzle velocity as the
+remaining unknown variable. Such calibration
+shoots could be done for one gun only or for
+many, for instance all of a regiment. In order to
+make it easier special 'calibration troops' were
+organised by the Royal Artillery. They had guns
+with well-defined muzzle velocity for compar-
+isons. The guns to be 'calibrated' fired at the
+well-defined target as did the gun(s) of a 'cali-
+oration troon'
+and impact differences were
+measured and used for velocity corrections
+which were done on the range marker of the gun
+Hence, the calibrated velocity could be used as
+a known, fixed quantity, in the target data calcu-
+lations leaving fewer factors to be corrected for
+the calculation of the gun laying data. See Fig.
+10-1 and 10-3
+peacetime calibration was
+seldom
+necessary due to the limited number of rounds
+fired in exercises. No significant barrel wearing
+took place. In war the situation was completely
+different, which if not dealt with correctly, could
+imply serious deviations from the planned point
+of impact. The 25-pounders were the guns
+suffering least from the problem, more critical it
+was for medium and heavy guns. One of the
+Gun Position Officers of 112 (Wessex) Field
+101|

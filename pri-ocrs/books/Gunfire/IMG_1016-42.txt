@@ -1,0 +1,150 @@
+GUNFIRE
+Fig. 5-5 The most common wireless sets used
+by the artillery, all operating in the frequency
+band 2 - 8 MHz. Range depended on type of
+derial used
+WS No. 38 - Observation officers supporting armoured
+units and moving in a tank, normally used WS No. 38.
+Here is one version of this set shown (Louis Meulstee)
+WS No. 18 - Standard radio for communication
+between fire observation officers and the com-
+manders of infantry units to be supported.
+Observe the morse key. Another alternative was
+WS No. 68, which was used by airborne units in
+particular. With telegraphy the range was up to
+10 - 15 km, with radiotelephone communication
+about half this range (Louis Meulstee)
+Some technical data for the sets used by the
+Royal Artillery are presented in Table 5-3.4
+'R/T means
+radio-telephony
+communication
+and 'W/T' wireless telegraphy. Range data are
+approximate as they depended much on terrain
+conditions.
+dependent on
+whether communication took
+place during the day or during the night. Night
+communication was
+almost
+impossible
+ropical areas particularly; this is due to lack of
+sky wave reflection. Another factor with great
+impact on communication range was the type
+and length of the antenna/aerial that was used
+WS No. 22 - This set was standard within artillery
+regiments due to its fairly favourable range, 15-20 km
+with radiotelephone communication and 30-35 km with
+telegraphy. It was generally fixed into vehicles, but an ob
+servation party could act from a post 500-700 yards from
+the vehicle by means of a remote control devise. WS No.
+19 set was a version that was the first hand alternative for
+AFVs (Armoured Fighting Vehicles). It was used by
+artillery formations equipped with self-propelled guns. It
+was also used for other purposes when its long range was
+needed, e.g. by airborne units (Louis Meulstee)
+which was different for ground wave and
+reflected sky wave communication.
+The portable smaller sets had a weight
+slightly under 20kg, the larger much more. A:
+mentioned, the No. 22 set required 3-4 men to
+carry
+dismantled.
+Extra
+batteries
+and
+sometimes a battery charger were needed when
+an Observation Post Party was to be away from
+the gun position for a couple of days. In such
+cases 8-10 men would be needed; besides the set
+and the batteries they also had to carry their
+personal weapons
+and belongings and in
+addition to that also food and water. Under
+ARTILLERY GROUPING, ORGANISATION AND EQUIPMENT
+difficult terrain and weather conditions such as
+those prevailing in Burma and Italy, the sig-
+nallers indeed had a really tough job. If mules
+were at hand, the situation became much easier.
+Fig. 5-5 illustrates some of the wireless sets
+most frequently used by the Royal Artillery.
+Normal practice in an artillery regiment was
+to establish two types of radio communication
+net. One was the Battery net, which gave com-
+munication between the OPOs and the Troop
+Command Posts and the Battery Command
+Post. The Wagon Line could also be connected
+to this net. The No. 22 set was used; the No. 19
+set if the regiment was equipped with self-
+propelled guns.
+The Troop Commanders in the regiments
+of an infantry
+division were transported as
+mentioned in Universal Carriers in which the
+No. 22 set was permanently installed. As this
+vehicle often could not be taken close to the ob-
+servation post, a remote control unit could be
+used. By means of this device, radio communi-
+cation could take place 500-600 yards from the
+carrier.
+The FOO used a No. 18 set or a No.38 set
+for the
+communication with the infantry
+commander to be supported. Although the
+equipment was there, it was still often difficult to
+establish good communication from the obser-
+vation post due to enemy fire and other means
+of interference.
+From an observation post established by 2
+Field Regiment RA during the battle in the
+Anzio bridgehead in Italy in January 1944, the
+following story is related:
+orders and firing was established (Fig. 5-6). As
+we can see, the three Battery Command Posts on
+this net were linked to the Regimental Head-
+quarters. Sometimes a separate net for Admin-
+istration and Supply could be established, this
+when equipment and frequencies were available.
+"This was a good arrangement in larger mobile
+battles to secure supply of ammunition, fuel and
+other stores.
+Skilled signallers often got the communica-
+tion lines to work well despite technical con-
+straints. One method was to use a number of
+extra sets as relay stations to bridge gaps in com-
+munication ranges. This could be accomplished
+automatically by connecting two No. 22 sets to
+each other, but oral transfer from one signaller
+to one or several others serving other sets was
+another method often used.
+• Sometimes this
+required several steps. Lieutenant I-W. Widdi-
+combe has the story of such an event:
+Battery A
+Battery d
+On January 30th, one of the infantry battalions
+which the regiment were supporting, came under
+extremely heavy artillery fire. The remote control
+cable from the artillery observation post to the
+wireless set was repeatedly cut. Bombardier
+Charles Ranks carried fire orders from the O.P.
+to the wireless truck. Several times as he crawled
+backwards and forwards shells landed within a
+few feet of him: several times he had narrow
+escapes from machinegun bullets. Twice he lay
+out in the open, mending the cable as shells and
+mortar bombs made the air hideous with noise
+and flying, whirling fragments. When, at length,
+the cable could no longer be
+mended he
+continued his message carrying.
+Besides the Battery Nets a Regimental Net for
+- Criment,
+Fig. 5-6 Example of a regimental radio network.
+Normally, there was a unique battery network for
+each one of the three batteries and a regimental
+network for battery headquarters and the regimental
+headquarters, which could include a connection to
+the artillery commander of the division as well. Other
+artillery formations could also connect to this reai-
+mental network (Author)

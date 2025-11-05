@@ -1,0 +1,213 @@
+GUNFIRE
+Table 5-1. Artillery Command Structure
+Formation
+Theatre/Regional Command
+Army Group/Army (>500,000 men)
+Artillery Group Royal Artillery (AGRA)
+Artillery Commander
+Commander Royal Artillery
+Commander Royal Artillery
+Commander AGPA
+Corps (50,000-100,000 men)
+Corps Commander Royal Artillery
+Infantry Division (15,000-20,000 men)
+Commander Royal Artillery
+Armoured Division (14,000-15,000 men) Commander Roval Artillery
+Airborne Division (10,000-13,000 men) Commander Royal Artillery
+Brigade
+(3.000-5.000 men)
+Battalion (700-1,000 men)
+Company (100 - 150 men)
+Brigade Artillery Commander
+(assigned for a specific operation)
+Battalion Artillery Commander
+(assigned for a specific operation)
+Company Artillery Commander
+(assigned for a specific operation)
+1943 to the end of the war. A few comments
+might be worthwhile.
+The artillery commanders at the highest
+levels, i.e. theatre of war, army group or army,
+were not normally engaged as commanders of
+operations. They can be seen as responsible for
+provision of adequate resources
+and generol
+support. They had ranks such as Major General
+Royal Artillery Middle East, Major General
+Roval Artillery 21st Army Group etc.
+An army artillery commander could have a
+similar role, but often also had an operative role as
+we will see examples of later in the book, Part 3.
+It should also be noted that there were two
+commanders at the Corps level during the first
+years of the war. The one with the principal role
+was
+the Commander Corps Royal Artillery
+(CCRA). He had the rank of Brigadier. But a
+second Brigadier was the Commander Corps
+Medium Artillery. The role of the latter was to
+counter-battery commander, but the
+medium guns were also to reinforce divisional
+artillery and thus the risk for 'twin-command'
+was obvious. Hence, after a couple of years this
+position was changed when the AGRA was in-
+stituted (see above). The commander of such an
+army artillery group was automatically subordi-
+nated the CCRA as an AGRA normally was
+Kank
+Acronym Number of regiments (number of guns)
+Major General
+Brigadier
+Brigadier
+MGRA
+CAGRA
+Brigadier
+Brigadier
+Brigadier
+Great variation (1,000-2,000)
+txamnle.
+2 Army Field Regiments,
+4 Medium Regiments
+1 Heavy Regiment
+112811
+Great variation (300-600)
+3 Field Regiments (72)
+1 Field Regiment, towed guns,
+1 Field Regiment, self-propelled guns
+Lt. Colonel
+Brigadier (from 1944)
+Lt. Colonel
+(a Regimental Commander)
+Major la Battery Commander) -
+1 Light Airlanding
+Regiment (24)
+Temporary allotment, normally one of
+the divisional Field Regiments (24)
+Temporary allotment,
+normally a Battery (8)
+Captain (a Troop Commander) -
+lemporary allotmen
+normally a Troop (4)
+attached in support of a Corps.
+Finally, it is again stressed that the British
+doctrine was that artillery fire was to be concen-
+trated from as many guns as possible irrespective
+of normal organisational affiliation, temporary
+grouping or boundaries between formations
+Hence, when looking at Table 5-1, an artillery
+commander in the lower part of the Table could
+often take advantage of all artillery as of the
+upper part of the Table. We will now have a
+closer look at the details of regiments' organisa-
+tion and equipment.
+Organisation of the Field Regiment
+As mentioned above, the 'Regiment' was re-in
+troduced as a substitute for [Artillery] 'Brigade
+in 1938, which had been used historically. At the
+same time the 'Regiment' took over most of the
+tactical and administrative role that the 'Battery
+traditionally had had for long. The "Battery' had
+been introduced in the middle of the nineteenth
+century as a substitute for 'Company' and had
+since then had a very important role in the
+British Army in respect of the frequent need for
+'policing' around the outskirts of the Empire.
+The enormous expansion of the artillery during
+the Great War can be seen as a special exception
+from the traditional role of British artillery.
+ARTILLERY GROUPING, ORGANISATION AND EQUIPMENT
+I have in this book consequently stuck to the
+denomination
+'Regiment
+andi
+not
+used
+'Battalion' or 'Artillery Battalion'
+which are
+normally used in most armies. Their tactical role
+was about the same, but the British formation
+had more guns than its international counter-
+parts, still grouped in a number of batteries as
+the latter.
+Until 1938 the Field Regiments (former
+Brigades), i.e. the divisional artillery, had four
+six-gun Batteries. Now this was changed to two
+twelve-gun
+Batteries, which
+their
+lurn
+comprised three four-gun Troops. The change
+took time to implement and was not completed
+when the war broke out in September 1939
+However, most of the regiments sent to battle in
+France with the British Expeditionary Force
+(BEF) had this organisational structure. The
+artillery sent to Norway in April 1940 also had
+been re-organised the same wav. Later, as we will
+see, this regimental organisation did not meet the
+requirements of a modern, large-scale war.
+The infantry divisions normally had three
+brigades. The usual allocation of artillery 'in
+support' was one field regiment for each one.
+For cooperation at the battalion level with three
+intantry battalions in the brigade, and only two
+batteries available in an artillery regiment, one
+infantry battalion therefore lacked an artillery
+support unit; this was the consequence of the
+1938 organisation. It was also to be clearly seen
+in France that a twelve-gun battery was too com-
+plicated to manage and supply, in particular
+when the battle was very mobile. It was therefore
+decided in the autumn 1940, after Dunkirk, that
+the 24 guns of the Field Regiment should be
+divided into three Batteries instead, each one of
+these comprising two four-gun Troops. This
+change could not be implemented quickly
+however. Shortage of equipment and trained
+staff delayed the process. Towards the end of
+1942, the new organisation was fully imple-
+mented, and it proved to be adequate throughout
+the war. Only minor adaptations were sometimes
+needed. Under the very specific conditions pre-
+vailing in the Burma theatre of war, a few
+variants of the normal structure had to be intro-
+duced, however, not in large numbers.
+When now turning to the details of the or-
+ganisation of a Field Regiment and its three
+Batteries, we will refer to the one prevailing from
+1943 and onwards. The starting point is the
+official specifications
+of
+organisation
+and
+equipment given by the [Unit] War Establish-
+ment (WE) and the Unit Equipment Table.
+These
+documents
+illustrate
+the
+resources
+available, but as we will see, the organisation
+applied in the field was different from the official
+organisation specified in the WE. The former
+was called Organisation for Manoeuvre.
+It must also be observed that the Field
+Regiment had a fixed allocation of resources
+from other arms and corps. lo regimental head-
+quarters and headquarters at higher levels.
+signallers with commanding officers from Roval
+Corps of Signals were provided. Signallers in
+batteries were, however, Royal Artillery staff
+Technical staff for maintenance and repair of
+equipment came from Royal Army Ordnance
+Corps. In 1942 a new Corps was formed - the
+Corps of Royal Electrical and Mechanical
+Engineers, to fulfil this role. Cooks came from
+the Army Catering Corps when this entity was
+established in 1941. The Regimental Medical
+Officer was allocated from Royal Army Medical
+Corps.
+The main parts of the regimental organisa-
+tion are summarised in Fig. 5-1
+Fig. 5-1 The principal organisation of a Field
+Regiment (Author)

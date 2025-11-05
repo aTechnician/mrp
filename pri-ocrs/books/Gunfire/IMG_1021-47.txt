@@ -1,0 +1,204 @@
+GUNFIRE
+as the photographic film must be developed and
+fixed before becoming avallable for plotting. The
+sound wave was affected by weather conditions
+(temperature, wind, air pressure) and also the
+terrain characteristics. This made it necessary to
+correct the time difference recorded in order to
+determine the direction to the firing gun with ac-
+ceptable accuracy.
+The evaluation/plotting centre was normally
+located several kilometres behind the micro-
+phones, Connecting the APs and the micro-
+phones with the centre thus required extensive
+cable laying before
+anv
+measuring could
+commence. Another time consuming prepara-
+tory activity was survey of the microphone
+locations to get these accurately fixed in the co-
+ordinate grid system used by own guns to be
+employed in the counter-battery fire. Taking all
+activities together the establishment of a working
+sound ranging base normally took 10-12 hours
+If good topographical maps (Scale 1:25 000)
+were available one could start measuring a bit
+earlier subject to completion of line laying. But
+the accuracy was not always up to required
+standard in such cases. Final survey was essential
+in order to get accurate coordinates for all mi-
+crophones
+An ever-lasting problem was to keep all the
+telephone cables in order. They were frequently
+damaged by enemy
+fire and tracked vehicles
+Signallers must always, day and night irrespec-
+tive of weather conditions, be prepared to go out
+and find line breaks and get them repaired as
+soon as possible. The risks for meeting enemy
+patrols was very trying and imminent. Tack
+Tobbit writes:
+Here my most uncomfortable experience was
+looking for a break in the line in no-man's-land
+during the night (the party comprised Capt
+Small, Sam Kemp and myself). We got to the
+forward infantry and told them of our intentions
+Then we went ahead of them between the
+exchange of spasmodic bursts of small arms fire
+- very quietly toe-tipping along the grass verge of
+the road between ominous looking thick woods
+on each side. We found the line and fixed the
+telephone on. Now came the awkward moment
+I'd got to give a buzz on that telephone when ever
+breathing seemed to create too much noise. I
+waited for a burst of machine gun fire...it came -
+and I buzzed. Another wait for a burst of fire
+before I could speak. No answer! I breathed a sigh
+of relief, for that meant the break in the line must
+be further back nearer home. 112
+When a gun fired, three different types of sound
+could be registered. The first one was the
+signature when the shell left the gun, which was
+a fairly low-frequency dull noise. This was what
+the sound rangers wanted to record. The second
+type was the sound from the flying shell, which
+if it travelled in supersonic speed, produced a
+sharp, high-frequency sound, - the bow-wave
+sound. The third type was the sound of the
+bursting shell. Guns of different type and
+calibres produced different marks/'clicks' on the
+recorder's film. An experienced person at the
+plotting board could distinguish these differ-
+ences from each other and thus determine what
+type of enemy gun that had been recorded; a
+valuable piece of information for the counter-
+battery office besides the location of the gun.
+The Germans had not as much artillery as
+the Allies, but they had many mortars. The
+ordinary sound ranging equipment was not ver
+effective in locating enemy mortars, although it
+was not impossible altogether. In the summer
+1944 a new lighter
+type of sound ranging
+equipment was provided which was much more
+adapted to the task of locating mortars. It was
+the 4-pen recorder. Recording was made on a
+strip of paper and not on a photographic film.
+An electrical signal initiated by a mortar firing
+burned an oscillating strip on the moving paper.
+Without the need for developing and fixing a
+photographic film the paper strip could imme-
+diately be taken care of by the plotter. Evaluation
+thus could be speeded up. As mortars produced
+a sound with different frequency as compared
+with artillery, the microphones were equipped
+with filters adapted to this frequency, which
+prevented other battle noises to disturb the
+recording
+A microphone base for the '4-nen recorder
+was shorter, around 1.500m and comprised only
+3-4 microphones, which were located fairly close
+to the evaluation/plotting centre. This meant tha
+a sound ranging base of this type could be ready
+for measuring within a couple of hours.
+The
+Army was provided with this lighter equipmen
+during the autumn 1944 and into early 1943.
+Experience was very favourable, and it became
+a very good tactical complement to the tradi-
+tional 'heavier' equipment. Further on in thi
+book, I will call a base with the '4-pen recorder
+LOOKING FAR INTO THE BATTLEFIELD
+a light' sound ranging base when not using the
+term '4-pen recorder
+The accuracy in sound ranging was, as
+mentioned, affected by many factors. Correct
+survey for determination of microphone coord-
+inates was one factor; another was the influence
+from terrain and its dispersing effects on sound
+waves. The weather conditions were of utmost
+importance also to have a firm grip on, as these
+affected the speed of sound waves and disper-
+sion of waves. The sound
+rangers
+needed
+weather data to correct for deviations from
+nominal conditions. Data was delivered by a
+RAF metrological section attached to the head-
+quarters of the Survey Regiment
+The enemy gun to be located must not be too
+far away from the microphone base. As a rule of
+thumb the British used to state that the maximum
+distance for location should preferably not be
+more than 0.6-0.8 times the length of the micro-
+phone base, i.e. 6-8km (the 'heavy equipment).
+When all conditions were favourable this could,
+however, be extended.
+A difficulty for all sound ranging programs
+was that the fire from own artillery could make
+measurement impossible. To avoid such problems
+a pause was sometimes included in the fire plan
+for a short period. This could be an option, for
+instance, when the firing of an extensive barrage
+took place.
+In order to give those concerned with
+counter-battery fire planning a better idea of the
+accuracy of the locations submitted, a classifica-
+tion system was applied by which the expected
+maximum deviations from correct location was
+given. The likely maximum deviation was
+10 vards
+25 varde
+50 vardo
+100 vards
+200 vards
+300 yards
+400 yard
+It seems that 'Z' was regarded as a kind of
+acceptable quality standard when using the
+traditional ('heavy') equipment. 113
+Radar - a new intelligence resource
+An almost unfailing method for mortar location
+is radar by which the trajectory of the mortar
+shell from the firing place to ground impact is
+measured. The trajectory is near to a parabola
+curve and fixing it by recording one point in the
+upward part of it and one point in
+the
+descending part gives the mortar location with
+good accuracy.
+*I'his technology was to become available for
+the artillery intelligence in the last vear of the
+war. Some trials had been undertaken already in
+1943 with the anti-aircraft radar GLIII but
+without success. Towards the end of 1944 a new
+version had been provided by which the mortar
+location could be determined with an accuract
+of 25-50 meters. The type classification was AA
+No. 3 Mik 2 (F), which is shown in Fie, 6-7
+Towards the summer 1945 it was finally
+concluded that radar was the technology of the
+future for mortar location. Work was thus
+continued on developing equipment specially
+designed for this role. Besides being a device for
+the field artillery, a version specially adapted
+for air-landing was contemplated to meet
+requirements of airborne formations. Experience
+from Normandy landings gave inspiration also
+for implementing radar on landing crafts. Radar
+could there, it was thought, be used for mortai
+location in the beach defence posiuvus. However,
+none of these ideas materialised during the war
+Flash spotting' - artillery observation
+bases
+Firing guns and other heavy weapons had in all
+times been at risks of being revealed due to
+muzzle flash and smoke. In open terrain, as in
+the deserts in North Africa, this
+Was a
+particularly serious problem. It was reduced to
+some extent when flashless propellant was
+Fig. 6-7 During the final months of the war radar
+equipment was provided for location of enemy
+mortars. This is a GLIll radar originally developed for
+anti-aircraft purposes (RAHT)

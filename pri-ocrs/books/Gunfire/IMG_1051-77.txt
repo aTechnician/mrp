@@ -1,0 +1,197 @@
+Number or hits
+1000
+Fig. 12-10 The number of rounds hitting an area of
+100x100 yards as a function of the number of rounds
+fired as 'Predicted Fire' in connection with the
+counter-battery programs of Operation Veritable in
+March 1945 (Source: Data have been compiled by the
+Author from Report No.21: Accuracy of Predicted Fire
+- Operation Veritable. Operational Research Sections
+with 21 Army Group, June 1944-July 1945. RAHT
+Collection MD/1479)
+the centre of the target area. 65 In Fig. 12-10 the
+result of the investigation is shown graphically.
+From this it can be seen the number of hits
+within 100 x 100 yards as a function of the
+ordered number of rounds. 166
+Efforts were made to find the reasons for the
+poor accuracy
+and
+several factors
+Were
+discovered.
+This
+included
+erroneous
+trigonometric
+calculations,
+wrong
+sraphic
+interpolations and other errors related to human
+behaviour, but also in-built system deficiencies
+and natural
+dispersion of shells.
+But the
+dominating factor by far was seen to be incorrect
+'Corrections
+of the Moment' (CoM), i.e
+basically weather data. Wind data for various
+trajectory heights that was not up to date did not
+help, but also, it was found, there was much
+stereotyped use of wind data. Resulting errors of
+up to 700 vards were confirmed, but most of
+them were in the order of 200-250 yards. The
+fact that acceptable effect of the fire vet was
+accomplished,
+despite
+the
+bombardmen
+systematic errors, seems to be due to the large
+amount of ammunition spent
+defence,
+counter-bombardment
+Was
+equally important when pre-planned, but also
+when Opportunity Targets were to be engaged.
+As mentioned, the aim was to open fire on such
+targets within ten minutes
+War experience showed that the increasing
+threat from mortars and Nebelwerfer required
+GUNFIRE
+better resources and methods for counter-
+bombardment against such pieces. On the
+intelligence side better resources were provided
+in 1944 when the 4-pen recorder came. Towards
+the final months of the war radar for location of
+mortars was also provided, albeit at a small scale.
+Combating mortars and Nebelwerfers was done
+with the 25-pounders and 4.2-inch mortars.
+Sometime heavy anti-aircraft guns could also be
+used with great effect on account of the steep
+angle of descent of their shells.
+But improved coordination and control was
+a must. It was found that this ought to be
+decentralised to the brigade level. Hence the
+position Counter Mortar Officer (CMO) was
+introduced at brigade headquarters. The CMO
+was assisted bv
+an Assistant CMO.
+Intelligence Officer and a few staff assistants. An
+additional advantage with this reorganisation was
+that a closer cooperation between the artillery
+and the mortars of the infantry units emerged.
+By this the latter learned to apply artillery
+methods more effectively, 167 The arrangement
+also meant that combating mortars at the
+brigade level could be implemented much
+quicker, as compared with the previous practice
+when planning and control had first to be done
+at a higher level. This did not exclude intelligence
+and planning resources also athlude intelligence
+for all kinds of counter-bombardment.
+Furthermore, it was the responsibility of the
+artillery also to plan engagement of light bombers
+and fighter-bombers
+as parts of counter
+bombardment programmes. The methods for
+this were refined towards the end of 1943.168
+This review of some of the artillery battle
+techniques is far from complete. For much more
+of detailed information the reader is referred in
+the first place to all Artillery Training Manuals.
+some of which are listed in 'Sources'. It should
+be observed that there was a large 'palette' of
+techniques available for skilled gunners to use
+depending
+situation.
+the
+tactical
+and operative
+Needless to say, this required well-
+trained gunners at all levels as well as numerous
+adequate exercises, otherwise the potential of th
+system indirect fire' would be to no avail. I
+must, however, be said that despite all good
+ambitions and good training things could go
+wrong, terribly wrong. Before proceeding to the
+next Chapter, it is worthwhile with a few words
+about the human fachwhile with a few words
+-149
+ARTILLERY BATTLE TECHNIQUES AND TACTICS
+The human factor
+It might be well understood that good training,
+adequate methods and well-conceived proce-
+dures plus the right equipment, were necessary
+in order to use the artillery efficiently. The
+gunners were expected always to perform
+perfectly, even when exposed to enemy fire or
+just were exhausted from lack of sleep. And they
+were also expected to take good care of their
+equipment, never failing to maintain it properly.
+Good ambitions to do what was required
+were generally demonstrated, but, for instance, a
+signaller could fail to read correctly a written
+message to be transmitted, a GPO could record
+the coordinates of a target at the wrong place on
+the artillery board, a gun layer could forget to
+check the laying in line after having set a correc-
+tion on the scales of his dial sight, the gun crew
+may insert Charge 2 instead of Charge 3 into the
+cartridge case before firing and an OPO/FOO
+may read the wrong bearing to a target etcetera,
+etcetera. It was impossible to completely avoid
+such mistakes; human wrong handling could
+take place. The 'human factor' could turn around
+the system indirect fire' and get it to fail. Of
+course, many control procedures existed to
+minimise such risks. When it still went wrong, a
+simple human action could result in fatal conse-
+quences.
+Burma:
+Major Robin Powell recalls an example from
+HQ RA at once and he sanctioned five rounds
+gunfire from all available guns by predicted
+shooting on the target indicated. This was the
+signal for one of those accidents of War, which are
+inescapable and probably more frequent than is
+sometimes supposed. The first round of the five
+from one of the 5.5-inch guns landed in the com-
+pressed area of Battalion HQ. To experience and
+survive one and to know that there will be four
+more shells to follow without having the time or
+chance to stop them, counts as one of least
+pleasant experiences of my life. When the dust
+had settled after the salvo ceased and the
+remaining four medium shells had done their
+worst, the toll of casualties was headed by the
+instant loss of Colonel Mattingley and a number
+of Jocks who received a direct hit in the
+temporary dressing station where they lay. In
+addition, the KOSB Signals and Intelligence
+officers, and many other HW staff, were
+wounded, [.. I have always hoped that the rest
+of the artillery strike found its mark on the
+Japanese and justified poor Mattingley's last
+request of his Gunners. 169
+Unfortunately this was not unique a mishap. At
+responsible quarters all were well aware of the
+risks. In an evaluation report after the fighting in
+Italy 1943-1945 it was expressed:
+Unless CRA [Commanders Royal Artillery] and
+Cos [Commanding Officers] make constant
+[...I but at some point during the afternoon the
+checks, the necessary standard of accuracy of all
+observation pos
+t saw a number of lapanese
+types of supporting fire will not be maintained 170
+infantry marching westwards from Buthidaung,
+and Colonel Mattingley, judging these to be part
+of a force about to form up for the counterattack
+we expected, asked for a salvo from the Divisional
+artillery on the area in which the enemy appeared
+Without good training and frequent exercises
+artillery would not be the battle winning resource
+as it could and should be. We will now take on
+this subject.
+to be concentrating. I consulted Dick McCaig at
+149

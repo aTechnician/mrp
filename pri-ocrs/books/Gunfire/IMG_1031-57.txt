@@ -1,0 +1,211 @@
+9. How to Hit the Target - Geodetic Requirements
+Good maps a must
+A first question is related to maps, grid systems
+and bearings etc., i.e. what for hundreds of years
+has been the profession of surveyors. In the
+British Army the responsibility for this rested
+with the Corps of Engineers [RE]. Their
+primary task was to provide good maps for the
+fighting units wherever in the world they had to
+fight. Either own maps were produced, as was
+the case in the British Empire, or maps were
+acquired from authorities in other countries and
+adapted to meet British requirements. The latter
+was applicable for Italy and France who had
+modern national maps of their own
+Britain standardised map scales for the
+Army around 1936 as follows:
+1:250,000 for planning and high-level
+command of operations and transports
+•
+1:100,000 for tactical planning and
+command of mobile operations, in particu-
+lar for armoured units
+• 1:50,000 for ordinary planning and
+command of operations
+• 1:25,000 for artillery fire planning and
+controll
+The classic British map scales, ¼ inch to the mile
+and one inch to the mile were much used as well,
+in particular within the British Isles.
+The Gunners had chosen the 1:25,000 scale
+as standard as it was sufficient for giving gun
+deployments and target locations with sufficient
+accuracy
+firing without
+rangine
+requirement for this was a maximum radial
+deviation of 15 yards.
+The maps should preferably be in four-
+colour print with elevation curves inserted. As it
+was to be shown this was quite often a problem.
+Another problem that sometimes occurred was
+that heights could be given either in feet or in
+metres, which could be confusing if not properly
+observed. Aerial mapping could give reliable
+data but was a scarce resource during the first
+years of the war
+Maps as such were not enough. All military
+activities, not least those of the artillery, required
+fixing of locations by means of grid coordinates.
+No universal grid (reference) systems existed at
+the time. A
+grid system covering a large
+operational area, a theatre grid, was always
+preferred. The RE's ambition was to introduce
+such grids on all maps, but it was not always
+possible. In particular during the first years of
+the war it was often necessary to use local grids,
+sometimes without any. In Egypt, for instance,
+before the final battle at El Alamein in 1942 two
+different grid systems existed, and far to the
+west none existed. Fortunately the boundary
+between the two systems was east of El Alamein,
+but some mistakes occurred from time to time
+when two different systems had to be used for
+location data.
+If no grid system existed, or was not
+available for any reason, when the Gunners were
+to fire their guns, it was necessary to establish a
+grid as soon as possible for the establishment of
+correct geodetic relations between gun deploy-
+ments and targets. This was built from the lowest
+levels, for troops or batteries, and was then
+gradually extended to become a regimental grid.
+And from this level it was always important to
+extend this to be used by all artillery units within
+the divisional area, a divisional grid. Sometimes,
+even a corps grid could be devised.
+The Gunners had methods and procedures
+to change from one preliminary grid system to
+a permanent one, once this had been made
+avallable. Locations for the guns and targels
+could be corrected using these coordinates.
+Sometimes this also included a slight correction
+of the 'North' direction.
+Which 'North' to use?
+A correct grip on geodetic relations also required
+that bearings could be correctly determined.
+This in turn required that the difference between
+various
+'North' were known and correctly
+observed. These normally were the following:
+Meridian North, i.e. the circle through the
+terrestrial poles, True North
+109|
+HOW TO HIT THE TARGET - GEODETIC REQUIREMENTS
+Magnetic North, i.e. the magnetic northern
+pole
+Grid North, i.e. the northern direction of
+the grid system
+As is well known the 'Magnetic North' is
+changing all the times. The deviation (m) from
+the 'Meridian North' is normally given in maps
+and is not only changing by time but is also
+different depending on where on the earth you
+are located. During the war 'm' was quite big on
+the British Isles, around 10°, whereas in Burma
+it was not more than around 1.5°. In the fire plan
+for the large allied Rhine Crossing in March
+1945 the 'm' was given as 5°.
+When devising new grids for operative use
+it was an endeavour to make the difference
+between 'Meridian North' and 'Grid North' as
+small as possible, normally 0°-1.5°.
+Deviation from 'Meridian North', 'True
+North', was given as 'western' or 'eastern'. In
+calculations it was important to know whether
+the deviation was positive or negative. But was
+it important to observe the deviation? Certainly
+it was!
+If the Gunners at the Rhine Crossing had
+not observed the deviation the fire would have
+hit ground some 400 yards from the intended
+impact point (target) when the firing range was
+as moderate as 5km. The fire of the medium and
+heavy guns with their range of 10-20km would
+show an even more destructive dislocation. This
+illustrates the
+need for
+good
+procedures,
+including control functions, when it comes to the
+technical gunnery requirements.
+If you had the 'correct' north somewhere,
+how to get others to get it too? Well, there were
+several methods. Most important was the tradi-
+tional survey methods.
+Traditional survey again honoured
+The most important methods for establishing
+correct geodetic relations between two locations
+were
+Triangulation
+Traverse
+Astronomic bearing fixing
+Simultaneous measuring towards a
+celestial object
+Astronomic determination of a bearing was
+normally done by means of a theodolite or a
+sextant, which could be done in daytime towards
+the sun or during night towards a star such as
+the North (Pole) Star. Calculations were quite
+demanding but were a routine for experienced
+surveyors.
+Simultaneous measuring towards a celestial
+object could be done by Gunners, as well as by
+survevors. Where directors (an instrument like a
+theodolite) were available, as was the case at the
+gun deployment areas and often at observation
+DOSTS. thie
+was a practicable method. When
+applied, for instance the course of North Stai
+across the sky was followed by those taking part
+in the process. The director that had the correct
+bearing, which was to be transferred to the others,
+was leading. Once all, who were in connection
+with each other by means of telephone or radio,
+followed the star they were at a certamn exact
+moment ordered to stop following the movement
+of the star. The leader then informed the others
+in which bearing their director now was fixed. To
+be sure the measurement could be repeated a
+couple of times.
+Good maps with grid systems inserted gave
+a good picture of geodetic relations between
+guns and targets by using coordinates, but it was
+not always possible to determine the coordinates
+with sufficient accuracy. Fixing the grid relations
+between different gun deployment areas from
+the maps only was not always possible either.
+Other methods were necessary.
+Fixing more exact coordinates for the gun
+deployment required survey. The first question
+was where to commence the survey, the starting
+point. It was normally the responsibility of RE
+to provide exact coordinates and a sample of
+bearings at a number of trig points, sometimes
+called just trigs. from which
+the
+arullery
+surveyors could start transferring data to the gun
+deployments by means of the survey methods
+mentioned above.
+"Trig points' were often
+presented as a network of many such points
+which had been fixed by Ordnance Survey or
+RE
+through
+the classic
+survey
+method,
+triangulation.
+The principle of 'triangulation' is based on
+the fact that if one side and two angles of a
+triangle are known, the two other sides of the
+trianole
+can be calculated b
+means
+elementary trigonometrv. When this has beer
+done a new 'trig point' has been fixed. and the
+process can continue with an adjacent triangle
+for fixing of another "trig noint' ete

@@ -1,0 +1,235 @@
+GUnFIRE
+point of view: Surprise or precision? The
+problem has existed since indirect fire was intro-
+duced at the beginning of the twentieth century.
+And indeed it was a matter of much controversy
+in Britain
+throughout the war with many
+opinions in the air 146
+Those in favour of predicted fire stressed
+the importance
+surprise,
+Often
+with
+arguments that the enemy should be exposed to
+the artillery fire when most vulnerable, which
+was before taking shelter in trenches and other
+fortified positions. One should furthermore not
+reveal own intentions, for instance a planned
+attack, by first ranging. Tactically this was of
+course correct, but onlv if the fire hit the right
+place at the right time. However, bad prepara-
+tions might lead to missing the target and all
+would be wasted
+The opponents against
+'predicted fire'
+argued that, almost every time, it was a waste of
+valuable artillery resources. Hence, alwavs give
+priority to ranging and other good preparations
+using a limited number of guns before the giant
+knockout blow was struck.
+Superior effect
+required artillery fire at the right place, was the
+message! And furthermore, it was not always
+necessary to do the ranging against the ultimate
+target. A nearby point could be chosen, if its
+geodetic relation (bearing, distance) to the real
+target was known, i.e. go for a Witness Point!
+The reader might wonder how this delicate
+choice of alternative was made in daily situations
+The answer is that the experienced and skilled
+OPO/FOOs and artillery commanders, who were
+well familiar with the artillery characteristics.
+shifted between the two strategies with the
+objective to suit the tactical requirements; quite
+Often
+also
+combining the
+two.
+The
+less
+experienced and more cautious, and those less
+spirited, used to stick to a more routine-like
+action. Of course this could imply that the most
+forceful option was overlooked
+In this discussion we should, however, not
+forget that ranging required good observation
+opportunities, not least that the target itself could
+be observed, and observed fire control being
+possible to pursue. If this was not possible
+"predicted fire was the only option. As we have
+seen, sometimes help with fire control could be
+given by the 'sound rangers', a sort of middle-
+alternative. We will touch on these problems
+again when counter-bombardment is discussed.
+Another problem often encountered by
+OPO/FOOs was whether the artillery fire was
+intended for destruction or neutralisation. The
+former meant annihilation of the enemy soldiers
+and their equipment, fortifications, etc. The latter
+method implied making the enemy unable to
+fight during the course of the bombardment, for
+instance when the own infantry was attacking his
+positions. During the Great War the first method
+had been extensively used, but it was often found
+to be uneconomic, as enormous amounts of
+ammunition could be spent without resulting in
+destruction of an enemy well dug in and protected
+by strong fortifications. In this stationary war they
+had had plenty of time to construct and improve
+fortifications continuously. Besides the cost of
+wasted ammunition all the craters from exploding
+shells completely destroyed the terrain and made
+it much more difficult for advancing troops and
+vehicles. In other words, it meant a counter-
+productive use of artillery.
+Hence, it was better to use the artillery to
+force the enemy soldiers to keep their heads
+(and weapons) down while own infantry
+attacked, unprotected as they were. This
+became the leading doctrine during the Second
+World War, as far as the British were concerned,
+but still a matter at issue all the time. It worked
+well in Europe, but in Burma the British met
+the Japanese, who were masters of digging
+shelters and building strong, deep fortifications.
+As they also were opponents who fough
+fanatically without
+respect for their own
+security, the British found the need for strong
+artillery fire that could lead to destruction,
+much stronger in this theatre than in Europe.
+This was a problem, as the projectiles of the
+lighter
+guns
+(25-pounders
+and 3.7-inch
+mountain howitzers) rarelv could penetrate the
+ground sufficiently. More medium and heavy
+guns than allotted to this theatre were thus
+needed desperately. The few available could,
+however, often be efficiently used as 'bunker-
+busters' by means of direct fire against enemy
+fortifications.
+The relation between effect and ammunition
+spent was a matter for marfect and arcanalyses
+during the war. Tiny fot many systematic anaires
+the result of a known ammunition spending
+could be studied in a ammunition spediers.
+destroyed equipment and fortifications etc, gave
+00dd answers as to the physical citests. It was
+much more difficult to analyse psychological
+effects of the fire. How to analyse perh eded
+132
+ARTILLERY BATTLE TECHNIQUES AND TACTICS
+for neutralisation of a battle-experienced group
+of soldiers as compared with neutralisation of
+un-experienced soldiers? What did fire intensity
+mean? And would a fewer number of large-
+calibre shells be better than a larger number of
+smaller? Such questions were many, and finding
+definite answers was difficult.
+Anyway, an
+illustration of the relation
+between ammunition consumption and effect is
+given in Table 12-1, which is made from data
+presented by Nigel
+Evans. 147
+In this
+table
+'Neutralisation' has the
+meaning
+discussed
+above, i.e. the enemy soldiers cannot observe
+and use their weapons as long as the artillery
+firing is going on. 'Demoralisation' means that
+there is a lasting effect long after the fire has
+ceased. Reduced ability or will on the part of the
+enemy to continue fighting is noticed. Finally,
+'Partial Destruction' means that about 2% of the
+soldiers in trenches are killed or wounded, 20%
+if they lack this kind of protection. In the table,
+the area covered by fire is assumed to be
+100x100 yards.
+Table 12-1. Ammunition required for effect
+as soon as possible whenever this was possible.
+It became routine for British gunners to dig
+themselves in as they always were at risk for
+being exposed to enemy counter-bombardment
+when near the guns or at observation posts
+'Sweat saves blood!' was an undisputed lesson
+from the war. 149
+Neutralisation
+Partial destruction
+of unit equipments
+25-pounder
+5.5-inch Gun
+8-32 rounds/min
+3-12 rounds/min
+40 rds/hr during 4 hours
+16 rds/hr during 4 hours
+100 rds/min during 15 min
+30 rds/min during 15 min
+40rds
+16 rds
+Note. For more precise definition of effects see Evans 'British Artillery in
+World War 2, Effects and Weights of Fire
+The effect of protection on ammunition
+consumption is illustrated in Table 12-2 by
+means of data from Evans. 148
+Table 12-2. Relative risks of becoming casualty
+Protection level/position
+Relative probability
+Standing
+Firing from open trench
+Crouching in open trench
+The doctrine was there, but battle
+techniques were to be gradually
+developed
+Lieutenant P. Boyle of 17 Field Regiment RA
+acted as FOO in the attack by the 38th (Irish)
+Brigade at Centuripe (Sicily) in July 1943. He
+tells that he sent thousands of shells over the
+enemy positions. On one occasion he and the
+commander of the unit he was supporting
+observed large enemy formations moving at the
+opposite side of a ravine and the commander felt
+that the enemy was preparing a counter-attack
+Boyle judged the character of the target to justify
+a few rounds with the entire regiment, so he gave
+the order 'Monkey [Mike] target' (code word for
+engagement by regiment) and the map refer-
+ences for it. He first fired a few ranging rounds,
+and when the fire was close enough he ordered
+'10 rounds gunfire'. Within 60 seconds 240
+shells landed within an area less than a football
+ground.
+The
+company commander at his side
+obviouslv was very impressed, to such a degree
+that he excused himself and asked for another
+round. As Bovle saw it, it was not necessary as
+the risk for an enemy attack had been eliminated,
+but he used to follow the principle that if his
+infantry commanders requested something, he
+gave them what they wanted. Without further
+discussion he therefore turned to his signaller
+Corbet and said, 'Repeat' and another 240 shells
+whistled above them and landed right upon the
+target 150
+The account tells us of some aspects of
+British artillery doctrine during the war. These
+and a few others are
+1/15 - 1/50
+1/25 - 1/100
+The figures show the relative likelihood for being
+hit by shell splinters. Not least the final line illus
+trates very clearly how important it was to dig in
+A commander (infantry/armour) to be
+supported should have the FOO or the
+artillery commander with him for close
+liaison
+The artillery plan should always be well
+integrated with the plan of the supported
+commanden
+A FOO could always order' fire and did

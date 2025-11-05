@@ -1,0 +1,222 @@
+command posts could analvse the result and trv
+to find out whether deviations from initial laying
+data were due to incorrect target data than had
+been assumed, or deviations were due to change
+of ballistic influences from new weather condi
+tions, in particular wind direction and strength.
+Of course it could be a combination. Whatever
+the reasons were, it did not matter if fire for
+effect was to take place immediately once the
+ranging had been completed. In such cases the
+target could be recorded uncorrected. If other
+targets were to be engaged the same "CoM'
+could be used provided a new target could be
+fixed relative to the one used for the initial
+ranging. If this could be done the latter used to
+be called "Witness Point'
+If, on the other hand, firing was to take place
+later, when
+a new weather
+situation
+emerged, the target location could be recorded
+without the 'COM' used, the target was then
+recorded corrected
+Ranging along the 'OT' line would of course
+be the best method from an observation point of
+view. The problem was, however, that the OPO
+still had to give the changes relative the 'GT' line
+so as to save recalculations at the command post.
+Some graphical and numerical means of assis-
+tance to be used when ranging along the OT line
+were often available, 142
+In order to speed up the ranging a few alter-
+native methods existed. One was to visualise the
+firing line, i.e. 'GT' line, by ordering two
+different ranges, one to be used by one of the
+guns in a section, the other by another gun:
+'Right ranging 65-58. Fire'. This implied a
+round from the No. 1 gun at the range 6,500 and
+five seconds later a shot from No.2 at the shorter
+range, 5,800. The OPO could repeat with other
+ranges if necessary. Once he had found out
+where the 'GT' line was in the observation zone,
+he could either continue ranging with the two
+guns at the same elevation/range or he could
+proceed with one gun only.
+Another, even more effective, method to
+visualise the 'GT' line was to use all four guns of
+the troops and order 'Ladder ranging,
+15
+seconds, 6000, up 300', this as an example. The
+method had been learnt from the Royal Navy
+and was suitable, in particular, when ranging at
+long distances with long time of flight should
+take place. Time could be spared, by having
+several projectiles in the air simultaneously. In
+this example No. 1 fired at the range of 6,000
+GUNFIRE
+[yards] and 15 seconds later the No. 2 followed
+at the range of 6,300, followed another 15
+seconds later by a round from No.3 at 6,600, and
+finally the No.4 completed the 'ladder' after
+another 15 seconds with its elevation at 6,900.
+Again, this could be repeated, for instance after
+a switch of line. When the OPO was certain
+about the line in the terrain, he could proceed
+with an ordinary type of ranging with one or two
+guns
+The purpose of ranging was, as discussed,
+to prepare fire for effect such that the shells
+would fall on the right spot, the target to be
+engaged. If there was a risk at hand that the fire
+would not land there, ranging was a must. On
+the other hand if the OPO during ranging found
+that he could accomplish a direct hit he could
+immediately stop the ranging and go to fire for
+effect, or just get the target registered.
+The procedures briefly
+described were
+applied when ranging of the OPO's own troop
+or battery was to take place. But the overruling
+doctrine was to concentrate fire from many more
+guns when the tactical situation called for this. If
+for instance the OPO wanted to concentrate fire
+from all the three batteries of his regiment,
+not to say all the batteries of the divisionall
+artillery, how to undertake the ranging in such a
+case? Obviously he could not keep track of the
+'zero lines' of all these troops/batteries and
+communicate switches relative to these. If fire for
+effect was required before alve to thess had been
+surveyed into the same grid, the situation was
+even more complicated.
+The
+solution
+far as ranging
+concerned was the introduction in 1941 of the
+cardinal point method. Quite simply this implied
+that the OPO undertook ranging as usual with
+one section or a single gun, but now gave the
+switches to all participating units by giving them
+an order for correction of the fire such as 'all 300
+northeast' (example). The cardinal points were
+eight directions around tardina ps North,
+Northeast, East, Southea the compaen the fre
+correction was received, the command posts had
+to mark it on their artillery Comma trom which
+they could determine the switch in line and
+elevation applicable for their own guns. If all
+units to be used in target her oment were on
+the same grid, ranging was, as mentioned, done
+oy means of a section of two as meor iust one. Al
+other troops just had to follow the corrections on
+the artillery board and rolen the cor the target
+ARTILLERY BATTLE TECHNIQUES AND TACTICS
+position. On the other hand, if they were not on
+the same grid all units had to be ranged before
+against them with a specified number of units.
+1 hey were.
+fire for effect. 143
+It was important for artillery commanders
+A target ordered as 'Troop Target' implied
+and observation officers alike to understand the
+engagement by the four guns of the troop
+constraints but also technical options that could
+A 'Battery Target' was to be engaged by the
+make the fire support as efficient as possible,
+eight guns of the battery
+given the specific tactical situation and fighting
+A 'Mike Target' was to be engaged by the
+techniques to be applied by the infantry and
+24 guns of a regiment (3 batteries)
+armoured units supported. Ranging or not, was
+• An 'Uncle Target' was to be engaged by all
+one question to raise amongst many. What were
+the divisional artillery, normally 72 guns
+the requirements as regards accuracy? And how • A 'Victor Target' was ordered when the
+far should ranging be pursued in order to obtain
+best accuracy?
+artillery of a Corps was required. It could
+The AT Volume III advised:
+imply engagement of 300-400 guns,
+sometime even more
+Since the time available will almost always be
+An Army Group Royal Artillery (AGRA) was
+limited, speed is vital. This speed in ranging will
+engaged by the order Yoke Target'. Such a
+not be achieved by slavish adherence to rigid
+concentration could involve 80-140 guns of
+rules, but only by a proper grasp of the principles
+different type, mainly medium and heavy guns
+set out (...]. Except when a target is close to one
+If a particular target was expected to be
+which has already been engaged, any attempt to
+engaged several times, or was included in a
+save time by opening fire for effect, without
+written fire plan, it was given a number, which
+carrying ranging to the degree appropriate to the
+was preceded by a letter. A regimental target,
+nature of target, is a gamble which is almost
+'Mike', was allotted the letter 'M' and a number,
+certain to result in waste of time as well as am-
+for instance 'M 678'. A second letter could be
+munition. Conversely, to carry ranging beyond
+added if there was a need to distinguish it from
+the appropriate degree may result in loss of what
+other regiments' targets, for instance it could be
+may be only a fleeting opportunity of inflicting
+'ML 678' and MK 678'.
+loss on the enemy. 144
+In fire plans it was a normal practice to
+Ranging by means of high airbursts, 30-50
+group a number of targets under a common
+metres above ground, was a special type of
+name. A large fire plan could comprise several
+such groups of targets given for instance names
+ranging. It could be used just for determining
+COM data. Another purpose could be to bring
+of cities, 'Aberdeen', 'Glasgow', 'Edinburgh'
+etcetera. Prepared targets for defensive fire
+many units on to the same grid when time was
+not available for ordinary survey. The batteries
+(more about
+that below)
+normally
+were
+denominated 'DF 456', 'DF 457' etcetera. DF)
+taking part fixed their positions through
+intersection to a couple of air bursts fired against
+was the acronym for Defensive Fire.
+two or more points with coordinates calculated
+It should finally be observed that whenever
+fire was to be opened. either it was a matter of
+by the leading unit/battery. This method was
+ranging or fire for effect; the OPO/FOO was
+successfully used as the only possible during the
+expected to convev tactical information beside.
+rapid pursuit westwards in November and
+December 1942 of Rommel's army after the
+the more technical data. It could be what type of
+battle at El Alamein. A third optional use of high
+target he intended to engage, what he could see
+of enemy actions, transport etcetera. Command
+airburst was when directing fire against targets
+deep beyond the front line, for instance enemy
+posts and headauarters were then in 2 hetter
+batteries. Ranging then took place with the help
+position to understand what kind of fire that was
+of sound rangers.
+expected from them and whether, for instance.
+In order
+ume was a critical factor.
+The more of
+• to facilitate
+concentration
+artillery fire from many units a standardised set
+information ahout enemy activities and hattli
+progress that could be conveyed also to
+of terms was introduced for classification of
+commandere and headauarters of units to he
+targets, and at the same time ordering fire
+supported, the better it was.
+120
