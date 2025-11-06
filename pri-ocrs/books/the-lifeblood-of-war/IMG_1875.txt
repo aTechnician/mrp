@@ -1,0 +1,135 @@
+374
+The Lifeblood of War
+120 WESSEX Sorties
+20 x CHINOOK sorties
+One pallet of 105 mm light gun ammo contains 24 complete rounds
+SEA KING will carry 2 x pallets =48 rounds
+WESSEX will carry 1 x pallet = 24 rounds
+CHINOOK will carry 6 x pallets = 144 rounds
+Some example time and distance figures:
+1. Distance San Carlos to Mount Kent gun positions flying tactically = 50 miles
+(40 miles in a straight line).
+2. Turn-round time with underslung loads, including refuelling from one-spot
+decks in San Carlos Water = 1.5 hours.
+3. First light 06.30 hours, last light 16.15 hrs.
+4. Therefore, maximum number of sorties per day per hel = 7(1).
+5. 6 SEA KINGS x 7 sorties =42 lifts per day.
+6. Therefore to lift one battery plus ammunition takes all available SEA KINGS
+two days.
+Notes:
+(1) Unlikely because of weather. Also, return trip of last sortie will be after last
+light see below:
+7 Sorties
+(1)
+(2)
+(3)
+(4)
+(5)
+14.00
+(6)
+(7)
+15.30
+17.00
+06.30
+08.00
+09.30
+11.00
+12.30
+6 Sorties
+(6)
+(2)
+(4)
+06.30
+(1)
+08.00
+09.30
+(3)
+11.00
+12.30
+14.00
+15.30
+22. The 30 days stocks for Sth Infantry Brigade were put together by Headquarters
+United Kingdom Land Forces, and placed in a variety of ships. Although the
+Commanding Officer of the Commando Logistic Regiment was sent a signal telling
+him what had been loaded where, the Navy had busily cross-loaded much of it in
+and around South Georgia, and were never able to tell him where anything wss,
+rom then on.
+Implementing the Lessons of the Falklands Campaign, para 184.
+The Falklands Campaign: The Lessons, pp. 25-26.
+25. Implementing the Lessons of the Falklands Campaign, paragraphs 100 and 105.
+Chapter 9: Supplying the War That Never Was-Yet
+(To reduce the length of these notes, SSRC and TDRC papers have been given their full
+title the first time they appear only, thereafter only the page number is given thus: SRC
+C58, or TDRC 4567.)
+1. Donnelly, The Sustainability of the Soviet Army in Battle, SSRC C53, p. 198.
+Van Creveld
+, Supplying War, p. 231.
+Van Creveld, Supplying War, p. 236.
+4. Donnelly. Rear
+Support for Soviet Ground Forces, TDRC 4567, p. 28.
+Donnelly, TDRC 4567, p. 20.
+Van Creveld, Supplying War, p. 163.
+7. Dup protec 45 21
+Donnelly, TDRC 4567, p. 23
+13/19/4X
+Army Group and AEF 1944, Liddell Hart Archives, file
+9. Alstead, Ten in Ten, a Study of the Central Region Transport Capability in Crisis
+and War.
+375
+Chapter Notes and Bibliography
+10. Skinner, NORTHAG, a Study of Organizational Structure.
+11. NATO Logistics Handbook.
+12. Skinner quoting Eccles, Military Concepts and Philosophy, p. 69.
+13. Compare this with the situation of a Soviet general commanding a front—
+the
+equivalent of a NATO army group. Although the example is taken from the
+Second World War, those who have made a close study of Soviet methods believe
+that they would operate in the same way now, with the necessary adaptations to fit
+the situation. (See Map XIII-taken from Operationaya Maskirovka Voysk by
+Matsulenko, translated by Lieutenant Colonel Blandy).
+As part of the Soviet exploitation of their victory at Kursk (July 1943), the
+commander of the Voronezh Front (Vatutin), was ordered to attack in a south-
+westerly direction to break into the salient round Kharkov held by German Army
+Group South. Although there was plenty of railway track (some 856 km), in the
+sector allocated to Vatutin, all the lines ran laterally. There was not one railway
+track or road running direct to where Vatutin's Front, consisting of eight armies,
+was to mount the attack. The only line that ran in the right direction (Kastornaya-
+Kursk-L'gov) was outside his sector and belonged to Rokossosyky's Central
+Front. However, by a prodigious effort of rail and road construction, the most
+important being the linking of the lateral rail system between Stariy Oskol and
+Rzdava, the distance from army bases was reduced by 184 km.
+This cut the
+movement times of trains from about two to three days to between 10 and 15 hours;
+doubling the supply capacity to the Front. As the Front advanced over terrain
+devastated by the Germans, six roads were built behind the advancing armies, to
+ensure that supply could keep pace
+More remarkable, Vatutin took advantage of the lateral layout of the railway, to
+mount an elaborate deception plan. For several days before the operation began,
+trains steamed north-west on the line running to Sudzha and Lokinskaya loaded
+with troops, dummy stores and equipment, including tanks. Every night the trains
+returned with the troops, leaving the equipment and stores. This led the Germans
+into believing that a Guards Tank Army and a Tank Army were concentrating to
+mount the Front's main blow in a westerly and north-westerly direction. In fact,
+the main blow was actually on the south-westerly Belgorod-Kharkov axis.
+Deception (Maskirovka) is an important ingredient in any Soviet planning at
+operational level, and considerable pains are taken to make the bait more
+palatable.
+The switching of a NATO army group axis, let alone a deception plan based on a
+logistic dumping programme, would be beyond the capability of the layer-cake of
+national corps, each tied to their own line of communication carrying their largely
+non-interoperable range of ammunition and equipment.
+14. Skinner, p. 81, quoting Burrows and Irwin, The Security of Western Europe, p. 92.
+15. Skinner, p. 81, quoting Mulley, The Politics of Western Defence, p. 191.
+16. The principal differences in the national systems for ammunition supply are:
+(a) Demanding procedures for ammunition, i.e., automatic or demand.
+(b) Methods of supply, i.e., 'PUSH' or 'PULL' or a combination.
+(c) The chain used for ammunition supply is often separate from other classes of
+SUDULY.
+Methods of determining initial and replenishment stocks.
+(e) Structure, organisation and manpower of ammunition units.
+(f) Responsibilities and tasks of units in the ammunition supply system.
+Differences in the supply of the various natures of ammunition, e.g., artillery,
+Mines and Explosives.
+(h) Alternative systems for urgent resupply
+(i) Extent of the use of Automatic Data
+Processing

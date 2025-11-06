@@ -1,0 +1,100 @@
+16
+Montgomery and "Colossal Cracks"
+resources.
+The most effective analysis of these issues to date is the work by
+John English.
+He not only uses detailed operational analysis to expose the
+weaknesses of the Canadian army in Normandy, especially its senior command,
+but weaves into this an explanation of these failings based on the neglect of the
+interwar period.?3
+This work continues in a parallel vein; rather than dwell on the failings of
+the 21st Army Group, this work demonstrates that given both British war aims
+and the weaknesses of its resources relative to those of the enemy, this forma-
+tion adopted appropriate techniques. Montgomery's handling of the 21st Army
+Group remained hampered by the limited tactical abilities and mercurial morale
+of his "basically unmilitary" soldiers, the weaknesses of his staff officers, and
+the poor performance of Allied matériel?4 "Colossal Cracks" involved getting
+the best out of what resources were available, however unpromising these
+military assets were.
+CHAPTER OVERVIEW
+The first section of this analysis, chapters 2 to 5, examines Montgomery's
+methods. Chapters 2 and 3 analyze the paramount influences on Montgomery's
+operational approach —the maintenance of morale and casualty conservation.
+Chapter 2 demonstrates the following three assertions: that serious morale
+problems existed within the 21st Army Group during the campaign; that despite
+this, Montgomery's forces occupied Germany with its morale fabric still intact
+through using his operational methods; and last, that Montgomery's concern to
+nurture the fragile morale of his troops affected significantly his conduct of the
+campaign.
+Chapter 3 examines the factors behind Montgomery's desire to
+achieve victory with tolerable casualties; the nurture of troop morale, the
+manpower shortage, the legacy of the slaughter in the 1914-18 Western Front
+trenches, and the British war aims arising from the campaign's politico-Imperial
+dimension. Chapters 4 and 5 examine the main characteristics of Montgomery's
+"Colossal Cracks" operational technique. Chapter 4 investigates the fundamen-
+tal facets of this approach-the master plan, concentration, attrition-based
+firepower, caution, and alternate thrusts. Chapter 5 examines the other charac-
+teristics of Montgomery's approach. This completes a comprehensive examina-
+tion of his operational techniques in Northwest Europe.
+The second part of the work, chapters 6 and 7, extends the analysis of the
+21st Army Group beyond Montgomery to the army level of command. These
+chapters analyze the role and contributions of Dempsey and the Second (British)
+Army, and Cretar and the First Canadian Army, respectively. They explore the
+techniques and abilities of these two commanders, their relationships with
+Montgomery, and how these factors impacted on the conduct of the campaign.
+Both chapters demonstrate the extent to which Montgomery's army commanders
+shared his operational approach. These chapters also examine two subsidiary
+issues: first, the frictions inherent in Anglo-Canadian military relations; second,
+the tendency for higher commands to "overcontrol" —to impinge on the freedom
+of activity -of subordinates.
+Introduction
+17
+Having outlined what this analysis covers, something ought to be said on
+what is omitted. Considerations of space have precluded analysis of six other
+valid aspects of this vast subject. First, this work does not examine the period
+1919-43, during which time emerged the factors that engendered the structural
+weaknesses of the Second World War British army, weaknesses that led to the
+development of "Colossal Cracks." Second, this study omits detailed discussion
+of the 1944-45 inter-Allied theater strategic debates-scholars already have
+lavished attention on this.
+Third, though this work has extended analysis
+beyond Montgomery to the army level, an exhaustive operational analysis also
+needs to explore the corps, divisional, and even brigade levels.
+Fourth, though
+this study focuses on senior command echelons, on operations, and on large-unit
+tactics, it scarcely touches the minor tactical level.?5
+Fifth, although this work
+demonstrates the impact of the manpower problem, it has not been possible here
+to examine fully this issue. Last, this study does not compare the British and
+Canadian armies with the American or German ones—a recent work that
+compares tactical innovation within these four armies during Normandy ably
+covers this issue. 76
+Scholars, therefore, should regard this study as an island of knowledge that
+should be related both to existing and future works.
+For despite the enormous
+extant literature on the Second World War, historians "have only begun to
+understand an event of such magnitude."?? With this thought in mind, it is to a
+fuller understanding of the manner in which Montgomery and the 21st Army
+Group conducted the 1944 45 Northwest Europe campaign that this analysis
+now turns.
+NOTES
+1. This study focuses only modestly on events after the March 1945 Allied crossing
+of the Rhine, when the German army ceased to oppose effectively Montgomery's forces.
+2. For convenience, this work refers to Montgomery in the text as "the Field Mar-
+shal," even though he only attained this rank on 1 Sept 44, and as BLM in notes.
+3. Generals Omar N. Bradley and Jacob L. Devers respectively commanded the Ist
+(later retitled 12th) and 6th U.S. Army Groups.
+4. Public Record Office Thenceforth PRO1, WO205/174, Conference Minutes
+[henceforth Conf Mins], 24 May
+44; WO171/103, (War Diary, General Staff
+(Operations) Branch, HQ, 21st Army Group, May 1944) (WD G(Ops) 21AG May 44)1,
+Memorandum [Memo), de Guingand to Supreme Headquarters, Allied Expeditionary
+Forces [SHAEF], 30 May 44.
+5. On the linked issues of command and theater strategy, see (for example) G. E.
+Patrick Murray, "Eisenhower and Montgomery, Broad Front versus Single Thrust: The
+Historiography of the Debate Over Strategy and Command, Aug 44 to April 45," Ph.D.
+Diss, Temple Univ., 1991 henceforth "Historiography"); this has now been published as
+Eisenhower versus Montgomer The Costonogs Debate (New York: Praeger, 1996).
+See also N. Gelb, Tke and Monry: GeneColininar (london: Constable, 1994), 345-53,
+374-77.
+6. J. J. B. Mackenzie and Brian Holden Reid, eds., The British Army and the
