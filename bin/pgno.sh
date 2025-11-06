@@ -1,3 +1,8 @@
+# Numbers PDF OCRed pages
+# place in parent directory to the things to be numbered 
+# (i.e. placehere/document-name-dir/document.txt)
+# script will number everything in the subdirectories
+
 for folder in *; do
 	if [[ -d "$folder" ]]; then
 		cd $folder
