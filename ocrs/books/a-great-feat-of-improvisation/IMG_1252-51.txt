@@ -1,0 +1,128 @@
+92 A Great Feat of Improvisation
+Generic Type
+Truck 15-cwt 4x2
+GS
+Truck 30-cwt 4x2
+GS
+Truck 30-cwt 6x4
+GS
+Lorry 3-ton 4x2
+GS
+Lorry 3-ton 4x4
+GS
+Lorry 3-ton 6x4
+GS
+Lorry 6-ton 4x2
+GS
+Lorry 10-ton 6x4
+GS
+Ibid.
+Table 2.3
+BEF - WMT Military Marques: 1-10 tons82
+Manufacturer &
+Nomenclature
+Austin BYD
+Bedford MW
+Commer Beetle
+Ford WOT2
+Guy Ant
+Morris Commercial CS8
+Bedford OX
+Morris Commercial
+CS11/30
+Thornycroft GF/TC4
+Thornycroft HF/TC4
+Crossley
+Morris Commercial CD &
+FW
+Thornycroft
+Valiant
+Austin K3
+Bedford OY
+Commer Q4
+Leyland Lynx
+AEC Matador
+Albion FT11
+Bedford QL
+Thornycroft Nubian
+AEC Marshal
+Karrier CK6
+Leyland Retriever
+Thornycroft Tartar
+Dennis Max Mk 1
+ERF
+Foden DG4/6
+Foden DG6/10
+Leyland Hippo Mk 1
+Remarks
+350 made in 1940
+Wide range of body types
+400 ordered in 1935
+4x4 also produced
+Production commenced in 1934
+Production started mid-1939
+Produced 1935-1939
+50 delivered to RASC in 1939
+150 delivered to RASC in 1939
+Produced 1933-1939
+500 GS Open Cab built in 1940
+Based on civilian OL
+Based on Superpoise
+1,497 produced 1939-1940
+Medium Artillery Tractor
+500 GS ordered in 1940
+3 prototypes built in 1940
+Production from June 1940
+1,000 built 1935-1940
+December 1939 onwards
+Production commenced 1933
+500 built 1940-1941
+423 built 1939-1941
+150 built 1940-1941
+Production 1939-1941
+330 supplied to RASC 1939-1940
+Everybody's Trucking
+93
+One interesting major omission, given its long history, was the 4x4 load carrier. In 1903 Austro-
+Daimler built a 4x4 armoured car, whilst in the United States, FWD and Jeffery had produced
+nearly 55,000 vehicles during the Great War, with the FWD Corporation continuing the
+process with 4x4 and 6x6 in the 1920s and 1930s. Commer, Guy and Morris-Commercial
+produced experimental 4x4 Field Artillery Tractors to the specifications issued by the
+Mechanization Board, and the Guy and Morris vehicles were approved in late 1938, for Army
+service, thereby confirming a position for the 4x4 vehicle in the military environment, although
+not in the load-carrying role.®3 In Britain, the 6x484 was preferred to the 4x4 for this task
+and although several prototypes were built, by Commer, Garner, Guy and Karrier, there were
+no commercial manufacturers producing the 4x4 load-carrying chassis until 1938 when the
+Associated Equipment Company (AEC) introduced the Matador, the first heavy 4x4 lorry86
+to be made in quantity in the United Kingdom, approximately 8,600 being produced by 1945,
+with small additional runs until 1953.87 Purchased as a Medium Artillery Tractor rather than a
+load-carrier, the Matador® was based on an AEC commercial 4x4, the 4 ton Hardy, which was
+produced in small numbers, mainly for the export market. Also purchased as a FAT but fitted
+with a GS body was a small buy of 23 Garner 4x4 G3 lorries. 8º Designed by Nicholas Straussler
+and prototyped in 1937-38, it was manufactured by Garner mainly from Ford parts. The War
+Office ordered 45 in November 1939 but apparently only purchased 23, although there is no
+record of the G3 serving with the BEF?' The Thornycroft Nubian? was too late into service
+to serve with the BEF, entering production in June 1940, and the RAF took most of the 4,000
+plus output.?3
+At a meeting on 23 December 1938, Vauxhall suggested to the War Office that the company
+could produce a 4x4 vehicle but it was not until 12 September 1939 that they were requested to
+proceed with a prototype, this being completed on 1 February 1940; two more were ready for
+es, p.10 and Tank Museum
+84 The 3-ton 6x4 provided 11% of the BEF's transport.
+85 The first models had ST engines of 7.41 litres
+producing 92 bhp but later variants had a 6-cylinder
+Cl engine of 95 bhp. The focus on the Matador as an artillery tractor almost certainly delayed its
+introduction as a load-carrier. Tank Museum, Data Book of Wheeled Vehicles, Army Transport, pp.76 (86)
+86 Gross Vehicle Weight was 10 tons 17-cwt. Ibid, p.77 (87).
+87 The Marador remained in British military service until the 1960s, being replaced by the AEC Martian
+and Militant Mk lorries, vehicles, which remained in the inventory until the mid 1980s.
+88 The abbreviation MAT may have infuenced its renaming from Forward Model 0853 to Matador. The
+Matador was famous for its pulling capability, which endeared it to forestry operators, show-grounds,
+g ban day on i on in hit it ge long air the war.
+'Straussler Trucks and Tractors', Wheels & Tracks Magazine No 37 (Plaistow: Battle of Britain Prints
+International Ltd, 1991).
+91 The Garner G3 is not recorded in the Data Book of Wheeled Vehicles. The total build is believed to have
+been 53, with 30 being exported to Turkey.
+3) That hit a the oly we time it 4 to be in oritely in production post war and elements
+of the design lasted into the early 1970s, mainly for fire tenders. Vanderveen, Historic Military Vehicles
+Directory, p.172.

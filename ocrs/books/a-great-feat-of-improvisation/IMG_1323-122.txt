@@ -1,0 +1,106 @@
+232
+A Great Feat of Improvisation
+Artillery
+Piece
+18 pdr
+25 pdr
+60 pdr
+4.5-inch
+howitzer
+o-inchi
+howitzer
+6-inch
+gun
+8-inch
+howitzer
+9.2-inch
+nowitzer
+12-inch
+howitzer
+12
+AP
+CP
+CP
+44
+Smk
+HE
+HE
+Fuze
+12
+16
+44
+80
+101B
+101E
+106
+1064
+117
+188
+203
+Type
+Percussion
+Percussion
+Percuscion
+Percussion
+Percussion
+Percussion
+Percussion
+Percussion
+Percussion
+Percussion
+Time
+Time
+Time
+Table 7A.3
+Land Service Artillery Ammunition - Fuze Matrix
+Shrap
+Fuzes
+101 K
+101E
+HE
+106
+106E
+Shrap
+Shrap
+HE
+HE
+HE
+HE
+HE
+Shrap
+Shrap
+HE
+HE/Smk
+Shrap
+Shrap
+HE
+HE
+lable IA.4
+Land Service Artillery Ammunition - Fuze Types
+Sub-Type
+Graze Action Base
+Graze Action Base
+Direct Action
+Time
+Time
+Graze Action
+Graze Action
+Direct Action
+Direct Action
+Direct Action
+Combustion
+Combustion
+Mechanical
+HE
+Star
+Star
+Star
+Abbreviations:
+AP - Armour Piercing
+CP - Common Pointed
+HE - High Explosive
+HE SL - High Explosive Stream
+Shrap - Shrapnel
+Smk - Smoke
+Part III
+AQ Interlude

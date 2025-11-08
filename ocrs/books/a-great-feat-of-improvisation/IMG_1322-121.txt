@@ -1,0 +1,143 @@
+Chapter 7 Appendix
+Artillery Ammunition and Fuze
+Weapon
+2-inch
+mortar
+3-inch
+mortar
+2 pdr A/T
+25 mm A/T
+18 pdr
+25 pdr
+4.5-inch
+howitzer
+4.5-inch gun
+60 pdr
+Table 7A.1
+BEF Key Ammunition Stocks and Weapon Populations
+31 March 1940187
+Pop
+1,149
+194
+432
+282
+216
+656
+96
+16
+Nature
+HE
+Smoke
+HE
+Smoke
+AP
+Smoke
+Shrapnel
+AP
+HE
+Smoke
+AP
+HE
+Smoke
+HE
+HE
+Shrapnel
+Stock
+DAER
+rpgpd 88
+Authorized
+rpgpdisg
+Nil
+Remarks
+14,062
+247,515
+92,412
+53,724
+Minimum use
+16
+Nil
+Minimum use
+440 490
+276,000
+243,070
+31.984
+187,778
+Nil
+1,551,318
+206,193
+2,400
+59,686
+39,580
+18,000
+Ni1*
+30
+Nil
+28
+Nil
+22.5
+7.5
+Nil
+25
+Nil
+19
+Minimum use
+Minimum use
+Special use
+*Expected April
+1940
+28,800
+26,300
+12.5
+12.5
+12.5
+12.5
+87 Table created from information in TNA CAB 106/235: BEF Ammunition Supply (Gibson Report
+188 The A val Weapons and Types Warfare, Val a rese fare, and The Nar on the Wester Front
+NOOH, Special Weapons and Types of Warfare, Vol I, Gas Warfare, and Thurlow, Building the Gor Lin
+matched ta an analucic of the requirement for defensive and offensive onerations over a set perio
+ncluding high intensity combat
+1 including high intensity combat. to arrive by 30 April 1940, which expan
+for example, why the 12-inch howitzer stocks are Nil but there is an authorized rpgpd.
+230
+HE
+Gas
+12 HE
+Shrapnel
+12 HE
+24 HE
+2 HE
+4 HE
+Can Piece Projectile
+Weight
+18.5
+200.0
+- d orter 290.0
+toniter 750.0
+199,600
+28,000
+9,996
+2,994
+16,120
+28,310
+890
+Nil
+Artillery Ammunition and Fuze 231
+Nil
+24
+20
+7.5
+Nil
+Nil
+3.5
+Table 7A.2
+BEF Tube Artillery Ammunition Types
+Minimum use
+Special use
+1,000 rounds
+April 1940
+CP
+HE
+Ammunition
+HE SL Shot Shrapnel
+Smoke
+Starshell
