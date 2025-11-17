@@ -1,0 +1,142 @@
+The Armoured Campaign in Normandy, June-August 1944
+82
+(I0mm) that gave the drivers little protection from land mines compared with the
+maximum 25mm belly armour of the Sherman. Like the Sherman, the Cromwell
+was relatively thinly armoured and the 75mm gun had a significantly lower muzzie
+velocity and hence armour-penetrating ability than German guns. A close support
+version, the Cromwell VI, mounted a 95mm howitzer and these were issued to
+regiments on the basis of two per squadron.
+Combat experience in other theatres had demonstrated the need to up-gun the
+Cromwell before it was even issued and early in 1944 a version with a 17-pounder
+gun called the Challenger was developed with a new turret on a lengthened
+Cromwell hull. These were introduced into the Cromwell-equipped armourc
+reconnaissance regiments from August 1944, but the War Office only ordered 200
+Challengers as other tanks were being developed.
+By 1944 the Allied armoured units had universally adopted the light American
+tank the M3 (Stuart) and later the Ms (Honey) as their reconnaissance tanks. Only
+armed with a 37mm gun and a maximum of simm of amour, the Stuart was
+declared obsolete in July 1943 by the US Army but still saw widespread service in
+north-west Europe in British units along with the Ms, which had twin V8 engines
+fitted. The Stuart and Honey were no match for German tank and anti-tank guns
+and after significant losses early in the campaign, they were only deployed in te-
+stricted roles. Some British regiments even removed the turret altogether to make
+the tank less visible while on reconnaissance patrols.
+As per their early war tank doctrine, te. British developed the Churchill tans
+for infantry support. Again there were a number of different variants, mainly
+based on armament. The first Churchills were equipped With the 0-pounder g
+that had a poor HE shell performance, which was at odds with its purpose of sup-
+porting intantry and destroying strong enemy defences. By the time of Overlor
+Armour thickness of main tanks in Normandy
+Turret
+front
+(mm)
+Turret
+side
+Hull
+front
+Hull
+side
+Belly
+Speed
+on road
+(mph)
+Speed
+Height
+cross-country
+(mph)
+(m)
+Cromwell
+Sherman
+Churchill
+76
+75
+89
+64
+50
+76
+64
+102
+44
+37
+76*
+10
+25
+19
+32
+21
+18
+12
+2.49
+2.74
+3.25
+15
+Mark IV H
+Panther
+Tiger
+50
+2.68
+3.1
+100
+30
+45
+80
+80
+80
+100
+35
+40
+80
+10
+30
+25
+16
+30
+22
+13
+19
+13
+" max!
+Fighting the Tank
+83
+the main version used in Normandy was the Churchill VI, which had been modi-
+fied to take the 75mm American gun with its better HE shell performance. As
+the Churchill was heavily armoured, it was naturally slow on the battlefield. The
+turret ring of the Churchill tank was too small to permit the 17-pounder gun to
+be installed.
+Having developed a potent anti-tank gun in the 17-pounder, enterprising
+British officers began trying to fit the gun into the Sherman turret even though
+the Americans said it could not be done. Room was found by turning the gun on
+its side, cutting out the back of the turret and adding an armoured compartment
+to the rear of the turret so as to accommodate the recoil of the gun and the
+wireless set. This higher velocity weapon fired a larger shell and to accommodate
+these, the tank crew was reduced from five to four by not using a co-driver. As
+the anti-tank gun was designed to be fired in the open air, when the gun was fired
+in an enclosed turret there was not quite enough oxygen inside the tank for the
+propellant charge, which burned at a fractionally slower rate. The propellant was
+still burning when the breech opened to eject the cartridge and a sheet of flame
+would erupt from the breech, singeing the hair and skin of any of the turret crew
+in the way. This was investigated by the RAC but found to be 'inconsequential'.
+A large sheet of flame also came out of the muzzle of the gun when fired and
+a muzzle brake installed to reduce recoil threw up a lot of dust immediately in
+tront of the tank. The gunner very often could not see whether he had hit the
+target, so the tank commander had to leave the tank and observe the fall of shot
+trom a few yards away. This was undesirable and not always possible when in
+action. The dust and flame from the muzzle blast also gave away the position
+of the tank to the Germans, requiring the tank to either make sure of its first
+shot or immediately move to a different firing position if possible for subsequent
+shots. This up-gunned Sherman was known initially as the Ve and then later as
+the Firefly. The Germans quickly realised the potency of the Firefly and learnt
+to concentrate all their fire on them first. A further limitation was the gunner's
+telescopic sights, which initially were the standard three power M7o telescopic
+sights and only accurate to 1,0ooyds." These were later improved with the instal-
+lation of Mk 43 telescopes, but some Fireflies continued to arrive in Normandy
+with the standard sights.!2
+The Firefly standard AP ammunition APC and APCBC could penetrate a Tiger
+at 1,20oyds and the rare discarding SABOT at more than 2,00oyds, but the SABOT
+ammunition introduced in August unweed in short supply and was notoriously
+inaccurate over a range of sooyds. As the HE round was not as effective as the or-
+dinary 75mm HE ammunition, the Firefly was used primary in an ant tans role.
+On 30 Dec 1944, 2,100 Sherman Ves were ordered and enough were produced in
+time for D-Day to equip one tank in every troop of three tanks with the new gun.
+Thus, only by accident and not official design or policy, did the british get a tank
+with a gun able to engage German tanks on anything like equal terms.
