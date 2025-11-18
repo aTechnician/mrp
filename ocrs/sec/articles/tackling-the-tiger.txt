@@ -1,0 +1,1173 @@
+Tackling the Tiger: The Development
+of British Armoured Doctrine for
+Normandy 1944
+I
+
+John Buckley
+Abstract
+The British Army of the Second World War does not retain a positive reputation in the field of operational and tactical battle doctrine,
+particularly so in armoured warfare. Many historians argue that in
+Normandy in the summer of 1944, British armoured forces had still
+failed to grasp many essential elements of modern combat. This article demonstrates that in reality the British Army’s loose approach to
+developing and imposing doctrine, despite inherent shortcomings, actually facilitated a flexible attitude that allowed the armoured forces
+in Normandy to adapt and modify their battle doctrines in the heat of
+battle quickly and effectively.
+
+T
+
+he ability of an army to learn from its campaigns, operations, and actions,
+and then adapt practices and methods in light of such experience, is crucial
+in explaining success and failure in war. To a greater or lesser degree all armed
+forces have been and are guided by standardised approaches to battle and war,
+now often defined as doctrine. Such doctrine could be the best ideas for dealing
+with particular situations passed between old hands by word of mouth, through
+to the formal writing of best practice based on experience and official thinking
+at institutional level, its dissemination across a vast soldiery, and its inculcation
+through rigorous training. However, whilst all would accept the necessity of
+similar operating methods for tactical and operational action, the degree to
+John Buckley is Professor of Military History in the Department of History, Politics and
+War Studies at the University of Wolverhampton, United Kingdom. He has written on many
+aspects of military history and air power, most notably British Armour in Normandy 1944
+(2004) and The Normandy Campaign 1944: Sixty Years On (2006). He is currently working
+on Monty’s Men: The British Army and the Liberation of Northwest Europe 1944–5 for Yale
+University Press.
+The Journal of Military History 74 (October 2010): 1161-1184.
+Copyright © 2010 by The Society for Military History, all rights reserved. No part of this publication may be reproduced, stored, or transmitted in any form or by any means without the prior permission in writing from the Editor, Journal of Military History, George C.
+Marshall Library, Virginia Military Institute, P.O. Drawer 1600, Lexington, VA 24450. Authorization to photocopy items for internal
+and personal use is granted by the copyright holder for libraries and other users registered with the Copyright Clearance Center (CCC),
+121 Rosewood Drive, Danvers, MA 01923 USA (www.copyright.com), provided the appropriate fee is paid to the CCC.
+
+★
+
+1161
+
+JOHN BUCKLEY
+
+which such methods need to be adhered to and enforced, and the importance
+of flexibility, are matters of debate, often informed by strategic imperatives and
+martial culture. Quite clearly, the definition of doctrine and the need to conform
+uniformly vary greatly between a disparate and relatively small army facing a
+plethora of threats across a host of geographical regions, climates, and cultures,
+and a national conscript force preparing for a vast, industrialised confrontation in
+a single theatre.
+Moreover, it is the ability of an army to adapt its operating methods that can
+determine success and failure. Indeed, the process by which a military institution
+constantly examines, refines, modifies, and codifies its doctrine is fundamental
+to its developing the ability to achieve operational objectives on the battlefield.
+Failure to embrace this practice can lead to increased vulnerability, precipitating
+higher battlefield casualties, courting possible disaster. However, this process is
+complicated no end by the varying attitudes and approaches to the meaning and
+utility of doctrine: few modern armed forces, let alone those derived from the
+extent of history, would conform to any single definition of precisely what it is
+and the degree to which it should dictate an army’s actions. The pressures playing
+on armies to adapt and refine doctrine are particularly acute in times of war, for
+the pace and nature of change necessarily need to be both sufficiently rapid and
+responsive in order to avoid heavy casualties or ultimately defeat.
+An oft-cited case of an institution that did not meet this challenge as
+completely as it might have done is that of the British Army in the Second World
+War. It has been claimed by some historians—Williamson Murray, Max Hastings,
+Carlo D’Este, John Ellis, Robert Citino, and Russell Hart, for example—that the
+British Army signally failed to develop and rigorously impose a coherent battle
+doctrine between 1939 and 1945, and that consequently its fighting power was
+correspondingly low in comparison with its contemporaries. Furthermore, it is
+contended that, despite the experience gained from over four years of conflict,
+serious flaws in battle doctrine had still not been resolved by the time of Overlord
+(6 June–22 August 1944), the operation intended to liberate Normandy from
+German occupation.1
+As Britain’s armoured forces began to tackle the Germans in Northwest
+Europe, these failings were supposedly most apparent. Britain had supplied a
+variety of armoured forces for operations in Northwest Europe in 1944: three
+armoured divisions for exploitation, one division for special assault and infantry
+support actions, and seven independent brigades for duties in conjunction with
+1. Williamson Murray, “British Military Effectiveness,” in Military Effectiveness, vol. 3, The
+Second World War, ed. Allan Millett and Williamson Murray (London: Routledge, 1988); Max
+Hastings, Overlord (London: Michael Joseph, 1984); Carlo D’Este, Decision in Normandy (London: HarperCollins, 1983); John Ellis, Brute Force: Allied Strategy and Tactics in the Second World
+War (London: Andre Deutsch, 1990); Robert Citino, Blitzkrieg to Desert Storm: The Evolution
+of Operational Warfare (Lawrence: University Press of Kansas, 2004); and Russell Hart, Clash of
+Arms: How the Allies Won in Normandy (Boulder, Colo.: Rienner, 2001).
+
+1162
+
+★
+
+THE JOURNAL OF
+
+
+
+British Armoured Doctrine, Normandy 1944
+
+infantry divisions. All of these armoured forces endured some form of doctrinal
+difficulties in the campaign, particularly in Normandy, both in infantry-armour
+cooperation and in the employment of tanks in the thrusting and exploiting role.
+Indeed, despite almost five years of war and considerable contact with the enemy,
+contemporaries such as Basil Liddell Hart and Michael Carver claimed that in
+the summer of 1944, British and indeed Canadian and Polish armoured units
+demonstrated a confused and flawed approach to the employment of tanks in battle,
+resulting in heavy casualties, frustration, and operational failure.2 Armoured units
+were therefore unable to impose themselves as fully as they might have done in
+operations such as Epsom (26 June–1 July), Goodwood (18–20 July), and Bluecoat
+(30 July–6 August) in large part because of these doctrinal deficiencies. Indeed, the
+initial concept of how armour would operate in Northwest Europe was exposed
+in the heat of battle as problematic at best, deeply flawed at worst. Ultimately,
+because of this and the much-discussed technical shortcomings of Allied armour,
+it has even been argued that British tanks contributed almost nothing to the
+eventual Allied victory in Normandy, which, it is claimed, was a campaign won by
+artillery, air power, and overwhelming superiority in resources.3
+The wider interpretation, that the Allied armies in Northwest Europe in
+1944–45 suffered from poor operational capability and relatively weak fighting
+power, and were victorious largely because of their crushing superiority in resources
+and firepower, has however, recently been directly challenged by historians such as
+Stephen Hart, David French, and Terry Copp.4 The corollary, namely that British
+armour somehow “failed” in Normandy, has similarly been questioned; it is clear
+that Allied tank forces did in fact contribute significantly to the defeat of the
+Germans in the summer of 1944, overcoming in the process many technical and
+operational difficulties.5
+However, serious questions remain. David French, although acknowledging
+that the British Army in the Second World War has been harshly treated by
+historians and analysts, points to the army’s failure to develop and impose
+appropriate doctrine in the years leading up to D-Day as a considerable failing,
+with serious implications for operations in Normandy. This interpretation is
+underpinned by Timothy Harrison Place in his critical assessment of training and
+2. Correspondence with C. S. Forrester, 18 February 1952, and correspondence with Michael Carver, 8 May 1952, Liddell Hart 9/28/84, Liddell Hart Centre for Military Archives
+(LHCMA), London.
+3. For example, John English, The Canadian Army and the Normandy Campaign: A Study in
+the Failure of High Command (Westport, Conn.: Praeger, 1991), 312; Hart, Clash of Arms, 309.
+4. Stephen Hart, Montgomery and Colossal Cracks: The 21st Army Group in Northwest Europe,
+1944–45 (Westport, Conn.: Praeger, 2000); David French, Raising Churchill’s Army: The British
+Army and the War Against Germany 1919–1945 (Oxford: Oxford University Press, 2000); and
+Terry Copp, Fields of Fire: The Canadians in Normandy (Toronto: University of Toronto Press,
+2003) and Copp, Cinderella Army: The Canadians in Northwest Europe 1944–45 (Toronto: University of Toronto Press, 2006).
+5. John Buckley, British Armour in the Normandy Campaign 1944 (London: Cass, 2004).
+MILITARY HISTORY
+
+★
+
+1163
+
+JOHN BUCKLEY
+
+doctrinal development in the British Army in the 1940–44 period.6 In essence, it
+is argued that the British Army failed to learn from its experiences and develop
+new doctrine; failed to impose doctrine uniformly, or perhaps even at all, across
+its formations; and failed to adapt its practices once in theatre, leading to repeated
+battlefield errors and mistakes.
+Yet, paradoxically British armoured forces did impose themselves on the
+campaign in Normandy, achieving battlefield successes, increasingly so as the
+campaign went on. Moreover, initial armoured doctrine was neither universally
+redundant nor entirely jettisoned, and many units either quickly adapted their
+operating practices or merely refined their methods in light of experience. All
+the armoured forces, the independent armoured and tank brigades in particular,
+were able to thrash out in the heat of the campaign more effective methods of
+infantry-armour cooperation and exploitation. As the fighting progressed, units
+clearly demonstrated doctrinal dynamism and considerable flexibility resulting
+in greatly enhanced battlefield effectiveness.7 It was apparent that the armoured
+forces that hit difficulties in tactics, organisation, and operational technique in
+June in operations such as Epsom were for the most part considerably improved
+and more tactically adept by the time of Bluecoat at the end of July. For an army
+of largely inexperienced troops, apparently encumbered with flawed doctrine and
+inadequate doctrinal development processes, thrust into an unexpected operating
+environment, this was no mean achievement.
+It therefore seems unsatisfying to dismiss the British Army’s approach
+to doctrine and innovation in its armoured forces as being as universally poor.
+Consequently, it is the aim of this article to explore more fully the relationship
+between doctrinal development, dissemination, and refinement within British
+armoured forces in the period leading up to and during Operation Overlord, and
+to explain why the British Army was able to cope with its apparent doctrinal
+deficit during the Normandy campaign.
+The Failure to Learn: Doctrinal Development 1940–44
+As British armoured units in Normandy certainly encountered tactical
+problems, resulting in part from doctrinal deficiencies, it would appear that the
+process through which armour doctrine was formulated in the British Army had
+in some way fallen short of all that might have been expected, and additionally
+that the British Army had failed to learn from its previous campaigns against the
+Axis forces. Yet this appraisal is misleading and incomplete. It would be wrong
+to believe that this doctrine deficit was merely a consequence of stagnation or
+antediluvian thinking, or that experience from active theatres had simply been
+ignored: quite the reverse was true. Evidence from the campaigns in France in
+1940 and in the Mediterranean between 1940 and 1943 had all been incorporated
+6. French, Raising Churchill’s Army, 201–11, in particular; and Timothy Harrison Place,
+Military Training in the British Army 1940–44 (London: Cass, 2000).
+7. Buckley, British Armour in the Normandy Campaign, chap. 4.
+
+1164
+
+★
+
+THE JOURNAL OF
+
+
+
+British Armoured Doctrine, Normandy 1944
+
+into the process of doctrinal development, but it was not always understood or
+interpreted clearly. Additionally, inferences drawn from such evidence were then
+distorted through the dominance of the successful British 8th Army’s view of
+operations and doctrine in North Africa and Italy, 1941–43.8
+The most dynamic aspect of armoured warfare, and that which has gathered
+most attention in the literature, was the thrusting and exploiting role which was to
+be performed by the armoured division. At the operational level, it was posited in
+official doctrine that fast-moving armour would push through a breach resulting
+from an initial break into or possibly through a German position to exploit the
+opportunity as fully as possible. Precisely how armoured units should be constituted
+and how they should be deployed to achieve this, however, remained a matter of
+some debate, debate that was fuelled by the experience of war.9
+Following the disaster in France and the Low Countries in 1940, the British
+had deemed it crucial that the number of armoured divisions be significantly
+expanded.10 However, denied the greater experience enjoyed by the Germans,
+they partially misread the situation; the effectiveness of the tank in the German
+army in 1940 was based not solely upon numbers but also on the organisation of
+the panzer division, which fielded a balanced combination of armour, mechanised
+infantry, and fire support. Moreover, the British also intended that their tanks be
+deployed predominantly against enemy armour in an effort to win command of the
+battlefield, again a misreading of events as this was never central to the doctrinal
+approach of the German army. Consequently, when Britain began raising six new
+armoured divisions, they were tank heavy, each division fielding two armoured
+brigades with just one infantry motor battalion attached to each and one lorried
+battalion in support.11
+However, campaigns in the Western Desert soon disabused the British of
+this structure. It became apparent that the tank’s primary targets were “soft”—
+infantry, dug-in guns, and so on—not enemy tanks.12 Alas, as British tanks were
+predominantly equipped with 2-pounder guns, poorly suited to attacking soft
+targets, and because armoured divisions had little attached infantry to aid them
+8. Director of Staff Duties to Auchinleck, 2 April 1940, WO 260/41, The National Archives (TNA), Kew, United Kingdom; McCreery to 8, 9, and 10 Armies, 20 August 1942, WO
+201/538.
+9. ATI (Army Training Instruction) No. 3, Handling of an Armoured Division (May 1941);
+and MTP (Military Training Pamphlet) No. 41, The Tactical Handling of the Armoured Division
+and its Components—part 1 ( July 1943), Imperial War Museum (IWM), London.
+10. Report of the Bartholomew Committee, 2 July 1940, WO 106/1775, TNA; minutes
+of War Office meeting chaired by Director of Armoured Fighting Vehicles, 3 September 1940,
+WO 199/3186.
+11. For armoured division structural changes, see H. F. Joslen, Orders of Battle: Second World
+War, 1939–45 (London: HMSO, 1960), 3–10.
+12. G. P. B. Roberts, From the Desert to the Baltic (London: Kimber, 1987), 51; see also Michael Carver, Dilemmas of the Desert War: A New Look at the Libyan Campaign (London: Batsford,
+1986).
+MILITARY HISTORY
+
+★
+
+1165
+
+JOHN BUCKLEY
+
+in this task, British armour soon began to struggle. Lessons were learnt, however,
+and following the arrival of American tanks from 1941 onwards, sporting 75mm
+guns capable of delivering decent levels of high-explosive (HE) firepower, and
+after armoured divisions were restructured into two brigades, one infantry and
+one armour, effectiveness improved, at least as far as operations in open terrain
+were concerned.13 The new structure also offered greater flexibility, allowing the
+infantry brigade to be deployed more easily in support of the armour, though the
+infantry still lacked sufficient mobility to keep up with faster-moving armour in
+most circumstances.14
+Immediate infantry support in the armoured brigade was to be provided by
+the single motor battalion, though the unit would not operate directly with the
+armour, partly because until 1944 there were not enough half-tracked transports
+available to achieve this. Therefore, the motor battalion operated behind the armour,
+being brought up only when required to deal with enemy positions resistant to
+independently operating armour; this manoeuvre obviously created delays as it
+took time for the motor battalion to deploy, even if operating at company level.15
+The motor battalion was therefore an overused and stretched resource within an
+armoured division, even after British armour began employing more 75mm guns
+with better HE capability.
+Nevertheless, experience gained in some three years of campaigning in
+North Africa indicated that the separate infantry and armour brigade system was
+workable. Initially British tanks had operated quite independently searching for the
+enemy’s armour, while the infantry and artillery remained in defensive boxes. This
+proved ineffective, but once British units began taking delivery of American tanks,
+armour acting in open terrain with only limited infantry support seemed viable.
+With the capacity to deliver decent HE firepower, tanks could, in relatively open
+terrain at least, look after themselves thanks to their speed and manoeuvrability.
+The pressure on the attached motor battalion was thus eased. Across the expanses
+of the desert the disadvantages of operating armour without the encumbrance
+of slow-moving infantry were not sufficient to outweigh the weaknesses of the
+doctrine.16 Moreover, some units did deploy flexibly, depending on the situation,
+and mixed infantry and armour brigade groupings were not unknown.17
+The structure of armoured divisions in both the Mediterranean and the United
+Kingdom had clearly been shaped by the experience of combat between 1940 and
+1942; the failure came in not taking into account in advance how appropriate such
+13. H. F. Joslen, Orders of Battle, vol. 1, UK and Colonial Formations and Units in the Second
+World War 1939–45 (London: HMSO, 1960), 5–6.
+14. MTP No. 41, The Tactical Handling of the Armoured Division and its Components—part
+1 ( July 1943), IWM.
+15. Maj.-Gen. Roy Dixon, interview with author, November 2002.
+16. Notes from Theatres of War (NTW) No. 10, Cyrenaica and the Western Desert, Jan–Jun
+1942 (October 1942), section 3, IWM.
+17. G. L. Verney, The Desert Rats: The 7th Armoured Division in World War Two (London:
+Greenhill, 1996); see chap. 6 in particular.
+
+1166
+
+★
+
+THE JOURNAL OF
+
+
+
+British Armoured Doctrine, Normandy 1944
+
+doctrine was to armoured divisions operating in Northwest Europe, particularly
+in the dense terrain of Normandy. In part this was a reflection of the Overlord
+planning process, which estimated that Allied forces would spend little time
+fighting in closed-down terrain, as they erroneously expected the Germans to
+beat a fighting retreat to the Seine after failing to defeat the landings. In the
+more open terrain to the south and east of Normandy, the separate brigade system
+would probably have fared better; in the bocage and similar close terrain, however,
+it was to prove a liability.18
+A significant problem remained, however, in how an armoured formation,
+perhaps acting with only limited infantry support, could manoeuvre across a
+battlefield when confronted with enemy artillery and infantry, even if opposition
+was limited. Doctrine in the early part of the war called for armoured units to
+provide their own suppressing fire support. Tanks shooting whilst on the move were
+expected to be able to engage enemy targets at close range and overwhelm them. It
+was soon identified, and later formally accepted, however, that firing on the move
+was so inaccurate as to be pointless, and formations switched to static shooting.19
+However, the poor HE performance of the 2-pounder gun created problems, as did
+the propensity of the Royal Armoured Corps (RAC) to employ charging tactics
+rather than coordinate successfully with infantry and artillery. Too often in the Desert
+War in 1940–42, impetuous and frustrated armour charged enemy gun positions in
+order to tackle them with machine-guns or, in extreme circumstances, simply drive
+over them, because suppressing fire support was inadequate.20 In Britain, training
+units developed a mixed approach of static firing at squadron level with massed
+2-pounder guns to suppress the target, followed by a frantic charge by the other two
+squadrons. This amounted to employing a whole squadron as self-propelled artillery,
+but it was the only way that tanks with 2-pounder guns could supply the density of
+fire support necessary to get “onto target.”21
+This divergence in approach was based upon battle experience and terrain. The
+static squadron-level “shoot” was criticised by experienced Mediterranean hands as
+being too “set-piece” in approach and contrary to the basic principles of armoured
+warfare. Time would be lost in preparation, allowing the enemy to strengthen
+defences and prepare to repel the armoured assault. With the new 75mm gun tanks,
+greater flexibility was possible, but units training in Britain in 1943 were still using
+tanks equipped with 2-pounders; the tactics seemed entirely legitimate in Britain,
+especially as the units had little opportunity for the flanking manoeuvres or rapid
+18. Montgomery, Some Army Problems, 20 March 1944; Montgomery to Brooke, 3 April
+1944; Montgomery to Dempsey and Bradley, 15 April 1944, Alanbrooke 6/2/24, LHCMA.
+19. Army Training Memoranda (ATM) No. 43 (23 May 1942); and ATM No. 45 (29 May
+1943), IWM.
+20. Notes on lessons learnt from the recent employment of an armoured division and a tank battalion in the Western Desert, 8 January 1941, WO 193/25, TNA; Report on the lessons of the operations in the Western Desert, 31 December 1940, WO 201/352.
+21. This was ratified in MTP No. 41, The Tactical Handling of the Armoured Division and its
+Components (issued February to July 1943).
+MILITARY HISTORY
+
+★
+
+1167
+
+JOHN BUCKLEY
+
+assaults over open ground employed in the desert. However, in late 1943 when
+Major-General G. P. B. “Pip” Roberts arrived back in the United Kingdom from the
+Mediterranean theatre to take command of 11th Armoured Division, he quickly
+sought to stamp out set piece “shoots” and tried to enforce troop-level “fire and move”
+tactics supported by artillery as practised in North Africa.22 Units in Britain were,
+however, only just adapting to their new tanks equipped with 75mm guns, which in
+theory supported such tactics, and the transition to “fire and move” at the troop level
+was to prove difficult in the few months prior to Overlord. Clearly, this was a case
+where limitations in available equipment drove doctrinal development and training
+in the United Kingdom, which in turn conflicted with battle experience, even if such
+experience was limited to the open terrain of the desert.
+In response to the problems that forced the adoption of squadron-level
+“shoots,” the War Office published new doctrine in May 1943 that supported these
+tactics. This was clearly a reaction to feedback from units training in Britain.23
+Unfortunately, the new officially sanctioned doctrine merely closed a stable door
+on a horse that had long since bolted. Just as the new doctrine was published,
+home-based armoured units began being issued with M4 Shermans, followed later
+by A27M Cromwells, and A22/42 Churchills, nearly all carrying 75mm guns,
+weapons which allowed the kind of troop-level “fire and move” tactics originally
+desired by the War Office and practised, to a degree, in North Africa. The 1943
+doctrine unfortunately merely reinforced the static shoot tactics already being
+employed by many units in Britain; the Guards Armoured Division, never averse
+to a good “charge,” took even more enthusiastically to employing a squadron-level
+shoot followed by a dramatic full thrust armoured assault.24
+Realising their potential error, and in response to feedback from commanders
+returning from the Mediterranean, the War Office backtracked and issued yet
+further instruction which strongly emphasised troop-level fire and manoeuvre
+tank tactics. The self-propelled artillery approach, however, was to be allowed
+in certain circumstances, particularly for units equipped with the less robust
+Sherman, a concession that was driven by concerns about equipment and questions
+of operating in the terrain of parts of Northwest Europe. In any case, the new
+doctrine was largely academic for the Normandy campaign as it was not issued
+until May 1944, much too late to have a significant effect on the fighting.25 Units
+would therefore have to solve the puzzle for themselves in theatre. Nevertheless,
+the British Army had learned a great deal from its battle experiences and had
+responded, eventually anyway, to the lessons being learnt from units training in
+Britain; matters had been unfortunately complicated by inadequate equipment,
+limited time, and some confusion on the part of the War Office.
+22. Maj.-Gen. Roberts, Notes on Armoured Divisional Tactics, December 1943, War Diary
+11th Armoured Division, WO 166/10521, TNA.
+23. See note 18.
+24. War Diary 5th Guards Armoured Brigade, 17 July 1943, WO 166/10733, TNA.
+25. ATM No. 48 (May 1944), IWM.
+
+1168
+
+★
+
+THE JOURNAL OF
+
+
+
+British Armoured Doctrine, Normandy 1944
+
+Equipment was to create further pressure on doctrine within armoured
+regiments in the weeks leading up to D-Day when the new Sherman Firefly
+began to arrive in units. This was an upgunned M4 Sherman equipped with a
+hard-hitting 17-pounder gun intended to stiffen the anti-armour capability of
+Allied formations. However, although the Firefly was welcomed in the late spring
+of 1944, its numbers were few and there had been no time to devise doctrine for
+its tactical employment. Troop tactics had hitherto been based on three tanks to
+a troop; now, with the addition of the Firefly, they had to accommodate a fourth
+vehicle. Troop commanders found this task demanding; it was difficult enough
+coordinating three tanks, let alone four. As the Firefly carried no HE ammunition
+and had been stripped of its hull machine-guns to boost ammunition capacity, it
+could play little part in the usual tasks performed by armour against soft targets;
+troop leaders tended to hold the Firefly at the back of their formations and bring it
+forward only when required to duel with enemy armour. Such tactical conundrums
+had to be thought through in the field and provided a further doctrinal headache
+for British tank commanders as they embarked upon the liberation of Northwest
+Europe.26 However, as it was very unclear in the spring of 1944 whether any
+Fireflys would be available by D-Day, it is less surprising that a radical rethink of
+doctrine was not undertaken.
+Despite the difficulties confronting the armoured divisions in the deployment
+of different types of tank, it was in the field of infantry-armour cooperation that
+British armoured forces endured their greatest doctrinal difficulties. Linking
+infantry with tanks in battle proved to be one of the most difficult tasks to
+accomplish successfully in World War Two, and it was an issue that even as late
+as 1944 plagued the British Army as much as any other, but although there was
+still uncertainty over doctrine in armoured regiments prior to D-Day, within the
+formations designated for infantry support—the independent tank and armoured
+brigades—the lack of clarity was even more pronounced.
+In the first two years of the war, tactics for close support armour rested on
+the assumption that heavily armoured infantry tanks—Matilda IIs usually—could
+resist enemy antitank guns in most situations. This allowed them to lead attacks
+against prepared enemy positions, covered by a rolling artillery barrage, with
+supporting infantry and further tanks following on, around 1,000 yards behind.27
+However, when heavier antitank guns, most notably the German 88mm, began
+to appear in larger numbers in 1941, the survivability of the Matilda fell away,
+and the official War Office doctrine of leading assaults with tanks began to be
+questioned. It was clear by mid-1941 that the doctrine, only recently reissued
+after early successes against the Italians, was no longer viable. A more flexible
+26. 2nd British Army correspondence on the organisation of armoured regiments, squadrons and troops, March–April 1944, WO 285/1, TNA; Maj.-Gen. Roy Dixon (5RTR), Maj. Bill
+Close (3RTR), and Maj. Johnny Langdon (3RTR), interviews with author, 2002.
+27. MTP No. 22, Tactical Handling of Army Tank Battalions (August/September 1939); and
+ATI No. 2 (March 1941), The Employment of Army Tanks in Co-operation with Infantry, IWM.
+MILITARY HISTORY
+
+★
+
+1169
+
+JOHN BUCKLEY
+
+tactical approach was required. As the War Office began to work towards issuing
+new infantry-armour cooperation doctrine, albeit very lethargically, a variety of
+influences began to shape the process.
+For those units training in Britain, the period subsequent to the issuing of the
+1941 doctrine was one of some confusion and experimentation. As no new official
+replacement thinking had been issued, individual units had begun to formulate their
+own solutions. Guards Armoured Division persisted with the big shoot followed by
+a charge; 6th Guards Tank Brigade believed that a leading artillery barrage would
+suppress an enemy sufficiently for their tanks to get forward; while 34th Tank
+Brigade, training with the 43rd and then 59th Infantry Divisions, arrived at the
+conclusion that leading with infantry, closely followed by armour, was best.28
+By 1942 there is evidence that armoured units in 1st Army training in
+the United Kingdom generally employed a modified version of the War Office
+doctrine. In essence tanks were to be more closely supported by infantry, though
+the tanks were still to lead. However, the leading tanks were not to charge ahead
+too far so as to lose touch with other units; cooperation was to be the motto.29
+Following the deployment of 1st Army to North Africa as part of Operation Torch
+in November 1942, battle experience indicated that some further modification
+was required. It became apparent, in part because of the closer and more rugged
+terrain of Northwest Africa, that leading with tanks on most occasions proved
+unduly problematic. Evidence seemed to indicate that in some situations leading
+with infantry was preferable, closely followed by tanks advancing from one hulldown position to another, which could be directed from the rear towards key areas.
+This tactic was less than popular with the infantry, however, as they preferred the
+comforting sight of armour situated closely around them.30
+Such developments contrasted, in some ways at least, with that of 8th Army
+in Libya and Egypt. Here, usually in more open terrain, leading with tanks in a
+manner not dissimilar to the revised 1941 doctrine was considered appropriate,
+other than when tackling minefields; in such circumstances infantry and sappers
+would breach the defence prior to the armour once again taking the lead.31 Units
+did not rigidly conform to this approach, however, and leading with infantry in
+other situations was not unknown.32
+28. Exercise Catterick, 6th Guards Tank Brigade War Diary, July 1943, WO 166/10741,
+TNA; 34th Tank Brigade, War Diary, September to November 1943, WO 166/10747.
+29. “Lessons of the Tunisian Campaign 1942–3,” undated but prior to July 1943, WO
+231/10, TNA.
+30. Current Reports from Overseas (CRO) No. 17 (September 1943), IWM; Response to
+British Military Training Directorate (North Africa) questionnaire, autumn 1943, WO 231/10,
+TNA.
+31. NTW No. 14 ( June 1943), Western Desert and Cyrenaica, August–December 1942; “Report on visit to Mediterranean theatres by Director of Military Training,” 24 November 1943,
+WO 260/50, TNA.
+32. NTW No. 20, Italy 1943–44 (May 1945), de Guingand 4/1-2, LHCMA.
+
+1170
+
+★
+
+THE JOURNAL OF
+
+
+
+British Armoured Doctrine, Normandy 1944
+
+By 1943 the War Office had taken on board the evidence of actions in the
+Mediterranean in the previous two years and at last issued new instructions.
+Rather than issuing doctrine that called for infantry or armour to lead, the
+new approach encouraged flexibility. Operations were to be broken down into
+phases—penetration, development, and exploitation—and the phase of the battle
+would dictate which tactics were to be employed. During penetration, engineers
+and other infantry assets were to be pushed forward behind artillery support to
+open up the enemy line and identify areas of resistance. Tanks could then stand off
+providing fire support where possible. Subsequently tanks were to push forward
+closely supported by infantry. There were thus few hard-and-fast rules, but
+nevertheless the instruction heavily underscored the view that mutual cooperation
+was best. It could be argued that the new doctrine risked breeding confusion, as
+the mix of infantry and armour on the battlefield, and their relative deployments,
+would vary at different stages of an operation. Timing the changes and identifying
+what was happening in action and when to change tack were not insurmountable
+difficulties, but it would take time in training to instil and embed such tactics, and
+experience of the doctrine operating in combat to refine it fully.33
+As in the armoured divisions, the implementation of doctrine in the
+independent brigades was also complicated by equipment. The War Office had
+initially planned that all the independent brigades taking part in Overlord would
+be equipped with Churchill tanks specifically designed for infantry support:
+heavily armoured, though slow moving, with good HE firepower. Indeed, the
+latest versions of the Churchill, the marks VII and VIII, carried more armour
+than German Tiger I tanks. However, by 1943 it was clear that, due to a variety
+of factors, British production of Churchills would be sufficient to supply only
+three of the independent brigades and the specialist formations of 79th Armoured
+Division. Consequently, the other five independent brigades in 21st Army Group
+(comprising 1st Canadian and 2nd British Armies in Normandy) would have to
+be equipped with M4 Shermans, despite the reservations of armoured warfare
+specialists.34 These tanks, though effective enough in the cruiser role, were too
+thinly armoured to be employed easily in close support of infantry, as actions in
+Italy had demonstrated. Brigadier Harold “Peter” Pyman (Brigadier General Staff,
+21st Army Group) and a team of senior 21st Army Group officers, some with
+recent battle experience, reviewed this situation and in late 1943 issued a pamphlet
+on infantry-armour cooperation, which included a set of tactical notes on the
+employment of Shermans in the close support role.35 Because of the Shermans’
+relatively weak armour, it was suggested that they should stand off and shoot
+33. ATI No. 2, The Co-operation of Infantry and Tanks (May 1943), IWM.
+34. Maj.-Gen. C. W. M. Norrie, RAC advisor to 21st Army Group, memoranda and correspondence, 29 October and 4 November 1943, WO 205/57, TNA.
+35. 21st Army Group pamphlet, The co-operation of tanks with infantry divisions in offensive
+operations (November 1943), IWM; H. E. Pyman, Call to Arms (London: Leo Cooper, 1971),
+62–63; also see Nye to Montgomery, 21 December 1943, Alanbrooke 6/2/23, LHCMA.
+MILITARY HISTORY
+
+★
+
+1171
+
+JOHN BUCKLEY
+
+General Bernard Montgomery, in Plymouth, England, looks across the
+English Channel toward France, during the preparations for Operation
+Overlord, 14 April 1944. [U.S. Army Signal Corps, photograph
+3481-C, Mel Ryder Collection, George C. Marshall Research Library,
+Lexington, Virginia]
+
+the infantry onto their targets, in the manner of self-propelled artillery, a tactic
+already employed in some armoured regiments. There were some clear drawbacks
+to this, most notably that the armour was not in a position to provide flexible,
+close support when required, but the alternative was thought worse. Leading with
+armour such as the Sherman, other than on odd occasions, was discouraged.
+For General Bernard Montgomery, the victorious commander of 8th Army
+and now newly appointed to command 21st Army Group, and his staff returning
+from the Mediterranean in the autumn of 1943, the risks of confusion in the May
+1943 doctrine as refined in the pamphlet issued by Pyman’s team were too great.
+The new leadership therefore endeavoured to simplify matters. Montgomery had
+already voiced his opinion that the best approach for the British Army was to
+adopt a single type of tank—“capital tank”—and employ it for all main tasks:
+he was most decidedly opposed to the continuation of two types of tanks in
+two distinct roles, infantry support and cruiser.36 Montgomery and his staff also
+rejected Pyman’s pamphlet regarding different tactics for infantry and cruiser tanks
+in the infantry support role.37 His barbed comments about the doctrine developed
+36. Montgomery’s notes on the 21AG armour-infantry co-operation pamphlet, BLM
+52/18, IWM.
+37. 21st Army Group notes on the employment of tanks in support of infantry in battle (February
+1944), de Guingand 4/1-2, LHCMA.
+
+1172
+
+★
+
+THE JOURNAL OF
+
+
+
+British Armoured Doctrine, Normandy 1944
+
+Allied front in Normandy, 2 July 1944 [“The Bocage Country” in Martin
+Blumenson, Breakout and Pursuit, U.S. Army in World War II (Washington:
+Center of Military History, 1993), 12.]
+
+in Britain prior to his arrival certainly ruffled a few feathers as he stated that
+Lieutenant-General Bernard Paget, the previous 21st Army Group Commander
+in Chief, had been “seriously misled” by the Pyman pamphlet.38
+In February 1944 21st Army Group, now under Montgomery’s leadership,
+issued a reprise of a previously published 8th Army pamphlet on infantryarmour cooperation. The intent was to encourage a straightforward and easily
+implemented doctrine that could be carried out by all types of formation whether
+equipped with Churchills, Cromwells, or Shermans, and to which all formations
+could conform. The experience of 8th Army had been that their methods worked
+to an acceptable degree and that changing a winning formula, especially with
+predominantly non-battle experienced formations, was unwise.39 This 8th Army
+38. Nye’s notes to Brooke concerning the Pyman pamphlet, 17 December 1943, Alanbrooke 6/2/23, LHCMA.
+39. Notes from Theatres of War, No. 20, Italy 1943/44 (May 1945), de Guingand, LHCMA.
+MILITARY HISTORY
+
+★
+
+1173
+
+JOHN BUCKLEY
+
+document was not too far removed from the approach of the War Office’s May
+1943 doctrine, though the two differed in emphasis in one important aspect in
+that for 8th Army, leading with tanks was the desired norm. It was in the initial
+break-in or penetration phase that infantry and engineers should lead through
+obstacles and minefields, after which, and in most other circumstances, the tanks
+would move ahead covered by artillery, to be followed by the infantry. There was
+less flexibility in the 8th Army approach, but it did not rule out the methods being
+advised by the War Office. Both doctrinal approaches accepted that the days in
+which heavily armoured infantry tanks could advance largely unsupported deep
+into enemy lines were over.40
+However, there were shortcomings to this approach. The doctrine of leading
+with tanks, other than against minefields and prepared obstacles, was sustainable
+to a degree in open terrain, such as the desert, but it was less valid in closer
+operating conditions; this had been indicated in Tunisia, and also in Italy when
+the campaign began to bog down in the autumn of 1943.41 This is not to argue, as
+some have, that the approach was unworkable in Northwest Europe in 1944, but
+it was certainly the case that leading with tanks would prove much less effective,
+particularly in the bocage and in the claustrophobic terrain to the south and west
+of Caen, the pivotal and largest city in Normandy.
+Failure to Impose: The Dissemination of Armoured Doctrine in the
+British Army
+Formulating and codifying official doctrine was of course only a part of the
+process by which new ideas became embedded in the army’s actual operating
+practices. In order to analyse the effectiveness of the dissemination and inculcation
+process, it is first necessary to understand how the system functioned. The British
+Army sought to impose doctrine through written documents issued by the War
+Office, which would then be used to inform commanders in training units under
+their command. However, these pamphlets and documents, although effectively
+laying down the army’s thinking on certain issues, were not considered sacrosanct;
+they were the starting point for commanders, especially senior army commanders,
+who were expected to adapt ideas and thinking in order to formulate doctrine
+appropriate for the theatre in which their command operated.
+The main fount of army doctrine was contained in the Military Training
+Pamphlet (MTP) series, written during the Second World War by specially
+appointed officers from the Directorate of Military Training and produced after
+a long period of thought and rumination. More immediate doctrinal thinking
+on specific issues was issued to units through Army Training Instruction (ATI)
+and Army Training Memoranda (ATM) leaflets. The former reflected new and
+40. Eighth Army Notes on the Employment of Tanks in Support of Infantry in Battle (November
+1943), de Guingand 4/1-2, LHCMA.
+41. “Infantry and tank co-operation: Training memorandum and notes on recent fighting,”
+AFV branch, 8th Army HQ, 10 July 1944, WO 204/7957, TNA.
+
+1174
+
+★
+
+THE JOURNAL OF
+
+
+
+British Armoured Doctrine, Normandy 1944
+
+provisional thinking on aspects of military activity, whilst the latter contained
+modifications to existing doctrine. Experience from active theatres was also fed
+into the process from the mid-war onwards via Notes from Theatres of War (NTW)
+and Current Reports from Overseas (CRO). NTW publications presented semiofficial findings on specific operations from the front, whilst the CRO series
+offered more tentative findings and lacked the considered official sanction of
+NTW publications.42 Further publications were issued by specific headquarters
+during the war, some of which related to armoured doctrine. For example, in 1943
+and 1944 both the 8th Army and 21st Army Group issued documents which
+focused upon infantry-armour cooperation. That some of these many official and
+semi-official documents were at times contradictory serves to illustrate one of the
+problems in embedding doctrine, even as late as early 1944.
+Three caveats must be placed alongside the emphasis on the importance and
+relevance of officially published doctrine and supporting literature of the type
+given above. First, it should be noted that in wartime official doctrine can lag
+some way behind what is actually happening at the front, especially if the army has
+to revise and refine its operating practices seriously in light of direct experience
+of contact with the enemy. If an army is losing, it is more likely still to have to
+contemplate its failings and weaknesses and strive to adapt, and in the first years
+of World War Two the British Army was precisely in this type of quandary.
+Moreover, the process by which new thinking was integrated into publications and
+ultimately into official doctrine had to be responsive enough to the experiences of
+those at the frontline or in active theatres. In the case of armoured warfare, which
+was particularly dynamic and fluid, the need to keep pace with changes on the
+battlefield was felt even more acutely. Unsurprisingly, with the constant ebb and
+flow of ideas in armoured warfare as the British sought to discover the secret of
+German success, this was not always possible.
+Second, just because doctrine was devised, printed, and disseminated, there
+was no guarantee that soldiers would read it, even if it was modern and potentially
+relevant and workable. This issue had been noted earlier in the war by senior officers
+but continued into 1944.43 Many veterans attest that they were aware of pamphlets
+but did not recall them being widely read. This was especially so in veteran units
+who had seen action in North Africa. These troops regarded battle experience
+as the key to fighting capability and were sceptical about relying too heavily, if
+indeed at all, on printed sources issued by the War Office. Moreover, experienced
+soldiers believed that they had been forced to learn how to fight the Germans
+the hard way, in action, and that prewar doctrine had been of limited value in
+preparing them effectively. They viewed official printed sources, particularly those
+from the War Office, most sceptically, especially when the published doctrine
+42. See Timothy Harrison Place, Military Training in the British Army, 1940–44: From
+Dunkirk to D-Day (London: Cass, 2000) for an in-depth discussion of these publications.
+43. ATM No. 42 (1942), IWM; Anderson to Alexander and Director General of Training,
+20 October 1941, WO 199/1654, TNA.
+MILITARY HISTORY
+
+★
+
+1175
+
+JOHN BUCKLEY
+
+deviated from what the soldiers had already been doing in action; where doctrine
+did not deviate, the soldiers regarded it as merely telling them to do what they
+were already doing.44
+Printed sources were obviously of more value to fresh troops training in
+Britain, but here confusion was caused by the uncertain nature of official doctrine,
+which was all too often in a state of flux. It was difficult enough to embed any kind
+of tactical doctrine, but when official sources varied too often, faith in the process
+began to wane. Green troops much preferred to learn by word of mouth from
+experienced troops, or even better by doing it themselves, rather than from written
+sources. Unfortunately there were too few opportunities to do this.
+Finally, and arguably most importantly, it must be noted that within the
+British Army there existed a culture of doctrinal flexibility, bordering at times
+on indiscipline. Commanders from senior army level down to small units were
+expected to be non-dogmatic in their thinking and to adapt and refine official
+doctrine as they saw fit around the circumstances in which they found themselves;
+they were not to be slaves to doctrine. Prewar thinking had encouraged commanders
+to interpret doctrine in accordance with their operating conditions, though they
+were not to contradict official teaching, and this philosophy was sustained into
+World War Two.45 Ultimately, officers were the sole arbiters of how to deploy their
+resources. Historically this had precipitated a flexible approach to the conduct of
+operations around the globe but had simultaneously weakened any consistency or
+standardisation in operating practices and methods.
+Clearly the British Army was culturally less able to inculcate and less inclined to
+rigorously enforce a standardised doctrine when it had alighted upon one, but it was
+better able to deal with difficulties when they appeared in theatre, especially as army
+commanders were expected to issue their own guidance and notes on doctrine and
+how to conduct operations. This allowed a forceful commander such as Montgomery
+to impose his attitude towards doctrine upon his units, effectively ensuring that all
+his officers sang from the same hymn sheet. For example, under Montgomery’s
+direction, 8th Army issued a variety of pamphlets and documents intended to
+disseminate good practice from within the army to all units.46 Moreover, on arriving
+in North Africa in 1942, Monty spent a great deal of time instilling his approach
+to operations into his senior commanders.47 By 1943 there was undoubtedly an
+“Eighth Army” way of doing things, underpinned by the success it had enjoyed
+since September 1942, and in essence it was an approach based upon Montgomery’s
+broad but strictly enforced principles, and strengthened by combat experience.
+When Montgomery took charge of 21st Army Group, he naturally insisted upon
+transferring many senior commanders from the Mediterranean to Northwest
+44. Interviews with veterans from 11th and 7th Armoured Divisions illustrate these points,
+as do personal memoirs.
+45. Director of Military Training to VCIGS, 6 November 1940, WO 32/9834, TNA.
+46. Nye to Brooke, 12 December 1943, Alanbrooke 6/2/23, LHCMA.
+47. Montgomery to Brooke, 2 July 1943, Alanbrooke 6/2/23, LHCMA; and Montgomery
+to Nye, 11 September 1943, Alanbrooke 14/24.
+
+1176
+
+★
+
+THE JOURNAL OF
+
+
+
+British Armoured Doctrine, Normandy 1944
+
+Europe.48 This was not necessarily a reflection on the commanders already in 21st
+Army Group, but Montgomery did not have the time to train up a whole new batch
+of officers. Thus, in the period before D-Day he was able to impose his view on how
+operations should be conducted on the upper echelons of his new command.49
+However, imposing the 8th Army’s approach to armoured doctrine at the
+tactical level proved much more difficult because of the limited amount of time
+available and because of the culture of doctrinal flexibility. Unlike the officers from
+8th Army now moving back to Britain to prepare for Overlord, commanders in
+the United Kingdom had worked up their own solutions to tactical problems,
+influenced partly by the plethora of pamphlets and literature, partly by listening
+to veterans from North Africa, and partly by their own experiences in training. It
+proved remarkably difficult to impose any consistent form of armoured doctrine on
+the units preparing for D-Day because the commanders in the United Kingdom
+were still expected to interpret what the newly arrived 21st Army Group staff
+were telling them, even though Monty was more insistent than his predecessors;
+because the commanders had yet to see Monty’s methods in action; and because
+there was still some disagreement about doctrine. Consequently, units began the
+Normandy campaign trained in a variety of different doctrinal approaches, most
+particularly in the area of infantry-armour cooperation.
+Place and French are therefore correct in asserting that the British Army
+largely failed to impose a single doctrine on its armoured forces, at least as far as
+infantry-armour cooperation was concerned. However, it must also be recognised
+that the failure actually proved to be a blessing because, if any tactical doctrine
+had been rigorously imposed, it would have the wrong one: the 8th Army’s.
+Although the 8th Army doctrine had proved workable in North Africa, and less
+so in Italy, it proved much less suitable in Northwest Europe and particularly
+Normandy. In short, much closer cooperation between armour and other arms,
+particularly infantry, was required in Northwest Europe than the 8th Army had
+deemed necessary based on its experiences in the Mediterranean. Paradoxically,
+the price to pay for a single embedded doctrine would have been the sacrifice of
+the very flexibility that would eventually aid the British Army considerably in
+the summer of 1944. Indeed, it was to be the British Army’s capacity to evade
+imposed doctrine and then to fall back on its ability to develop answers in theatre
+that was to provide workable solutions in Normandy.
+Failure to Adapt: The Doctrine in Practice—Normandy 1944
+On landing in Normandy, British armoured forces therefore faced a number of
+uncertainties regarding doctrine. There was little uniformity in approach to various
+tactical situations, and the ability of the formations to refine and disseminate
+doctrine in light of experience would be fundamental to any success in theatre.
+48. F. De Guingand, Operation Victory (London: Hutchinson 1947), 347–48.
+49. Montgomery to Nye, 11 September 1943, Alanbrooke 14/24, LHCMA; Notes on a
+Staff Conference, 13 January 1944, CAB 106/1037, TNA.
+MILITARY HISTORY
+
+★
+
+1177
+
+JOHN BUCKLEY
+
+Moreover, in addition to this test of the army’s ability to adapt, the manner in
+which the campaign unfolded imposed still further tactical conundrums and served
+to place a still greater strain on the operating practices of the British armoured
+formations. The German strategy of digging in as close to the coast as possible
+and fighting for every scrap of land forced the Allies to prosecute a campaign for
+which they had not fully prepared: they had expected the Germans to fall back
+inland, once the initial invasion had proved successful.50 For the armoured forces
+the effects of this policy on operations were considerable, as the denser terrain in
+Normandy put a premium on efficient infantry-armour cooperation, and made
+the prospects of successful thrusting armoured operations less likely. Against a
+battle-hardened enemy, well versed in defensive warfare and in exploiting terrain,
+the challenge confronting British forces was daunting, particularly so for the
+armoured and infantry arms.
+Further developments created problems for the armoured advance. First, by
+1944 the Germans were increasingly using self-propelled antitank guns, limiting
+the impact of Allied artillery, which had previously enjoyed considerable success
+against towed antitank guns; suppressing self-propelled weapons proved much
+more difficult.51 Second, the nature of the Normandy landscape meant that armour
+was often restricted to road networks, thus hindering the use of previous troop and
+squadron tactical formations, while cross-country performance was considerably
+constrained by the infamous bocage areas.52 Third, in dense terrain the close
+cooperation of infantry and armour was imperative, for the armoured divisions as
+well as the independent brigades. Tanks were virtually blind in close terrain and
+heavily reliant on infantry to protect them, while infantry was vulnerable without
+direct fire support as provided by close supporting armour. Finally, Allied tank
+crews found themselves confronting a higher proportion of heavier German tanks
+than they had expected, though the Royal Armoured Corps and senior 21st Army
+Group commanders were aware of the likely impact of increasing numbers of
+Panthers and Tigers in the German order of battle. In truth this represented a
+smaller problem than that of advancing on an enemy who was presented with the
+opportunity of firing first, from a stable, well-camouflaged position.53 Surprisingly,
+mines did not prove to be so much of an issue in Normandy, whilst the panzerfaust,
+the much-discussed short-range disposable antitank weapon, probably accounted
+for only 6 percent of Allied tank losses.54
+50. Montgomery, Some Army Problems, 20 March 1944; Montgomery to Brooke, 3 April
+1944; Montgomery to Dempsey and Bradley, 15 April 1944, Alanbrooke 6/2/24, LHCMA;
+Planning notes for OVERLORD, 11th Armoured Division War Diary, May 1944, WO
+171/456, TNA; Michael Carver, Out of Step: The Memoirs of Field Marshal Lord Carver (London:
+Hutchinson, 1989), 180.
+51. SHAEF technical intelligence summary, No. 1, May 1944, WO 219/810, TNA; Allfrey
+4/5, LHCMA.
+52. Maj. Bill Close, 3RTR, interview with author, September 2002.
+53. Buckley, British Armour in Normandy, 91–92.
+54. AORG Reports No. 12, “Analysis of 75mm Sherman casualties suffered between 6 June
+
+1178
+
+★
+
+THE JOURNAL OF
+
+
+
+British Armoured Doctrine, Normandy 1944
+
+Yet, in the face of all these problems British armoured forces actually
+demonstrated considerable flexibility and adaptability. Far from continuing to use
+the same methods and tactics in the same predictable fashion, armoured units
+redefined parts of their doctrinal practices in light of the operating environment in
+which they were now fighting. It is significant that they achieved this remarkably
+quickly and with some degree of efficiency.
+The structure of the armoured division quickly came under scrutiny, and within
+days of arriving in Normandy, 7th Armoured was employing mixed formations
+consisting of elements drawn from both the armoured and infantry brigades. The
+Guards and 11th Armoured Divisions also began re-examining infantry-armour
+cooperation soon after assembling in France. Interestingly this was a bottom up
+as well as top down process with junior commanders from units such as the Irish
+Guards advocating change alongside divisional commanders such as Philip “Pip”
+Roberts (11th) and Allan Adair (Guards).55 The most obvious development was
+the abandonment of keeping the armour and infantry brigades as largely separate
+entities. Following Epsom, the 11th’s first action, Roberts quickly identified that
+the divisional structure required modification if the division was to continue to
+operate in such terrain. Richard O’Connor, 8th Corps commander, agreed, but
+the operational constraints forced by Goodwood delayed change until Bluecoat, at
+which point the armoured divisions switched to a more flexible and self-supporting
+mix of two infantry battalions and two armoured regiments in each brigade. Adair
+responded similarly, and the practices adopted in late July and early August were
+maintained in the Guards until the end of the war, and were soon adopted by 4th
+Canadian and 1st Polish Armoured Divisions following Totalise (7–11 August)
+and Tractable (14–21 August). In these cases divisions began with the official
+method but quickly adapted after experience and advice from other formations
+indicated that alternative structures were required.56
+However, such an approach threatened to restrict the speed of the armour’s
+advance by tying it to the slower pace of the infantry. Only one battalion in each
+armoured division was motorised in half-tracks and armoured vehicles, the rest
+being transported in lorries only to the edge of the battlefield. This lack of mobility
+was alleviated in two key ways. First, troops began being carried as tank-riders
+on the backs of the tanks ready for rapid debussing into action. This meant that
+and 10 July 1944,” and No. 33, “The Use of the Panzerfaust in the NW European Campaign,
+1945,” WO 291/1331, TNA; “Intelligence Report of Tanks Rendered Inoperative due to Enemy
+Action,” June–August 1944, First US Army, 331/210A/1, National Archives and Records Administration (NARA), College Park, Maryland.
+55. 7th Armoured Division War Diary, June 1944, WO 171/439, TNA. At Villers Bocage
+7th Armoured employed mixed formations from 22nd Armoured Brigade and the Queen’s Infantry Brigade; 22nd Armoured Brigade notes on operations, 6–15 June 1944, Liddell Hart
+15/4/85, LHCMA; 3rd Irish Guards War Diary, 13 July 1944, WO 171/1257, TNA; Churcher
+I, A Soldier’s Story, unpublished manuscript, 32–33, LHCMA.
+56. Buckley, British Armour in Normandy 1944, 98–100.
+MILITARY HISTORY
+
+★
+
+1179
+
+JOHN BUCKLEY
+
+an advance would not have to halt at the first sign of trouble and wait for the
+infantry to work its way forward. Because of casualties such practices had been
+frowned upon as too dangerous in training in the United Kingdom, but they
+were now accepted as the necessary price to pay to prevent offensives stalling.
+These tactics were adopted with some success in Normandy from July onwards,
+notably during Operation Bluecoat in the 3rd Royal Tank Regiment at the behest
+of Lieutenant Colonel David Silvertop, and commented upon favourably by
+junior commanders.57 However, at best this was an interim measure. The second
+development came in August when 21st Army Group introduced armoured
+personnel carriers codenamed Kangaroos. These fully tracked vehicles had
+previously functioned as self-propelled artillery, but were adapted into armoured
+transporters capable of carrying infantry forward into battle more safely in direct
+support of the armour. Corps commanders Richard O’Connor and Guy Simonds
+both advocated the development of the Kangaroo following reports and feedback
+from British and Canadian armoured units, but it took until Totalise for their
+introduction. The Kangaroo reduced the casualties suffered by the infantry and
+allowed them to maintain the pace of cross-country advances, something which
+even half-tracked vehicles found challenging.58
+Thus by the beginning of August methods and approaches had been formulated
+and adopted to address some of the inherent difficulties in linking infantry with
+armour, methods derived from a dynamic and flexible approach to the refinement
+of doctrine both from below and above. Formal and written doctrine this was
+not, but collectively the refinements and changes constituted a practical operating
+doctrine, even if unevenly in place across the army.
+In spite of these developments, however, the manner in which combined
+arms assaults incorporating infantry, armour, and artillery against prepared enemy
+positions were carried out emerged as a most significant concern. Many units
+initially attempted to employ the 8th Army method of assault, with tanks leading,
+followed by infantry and then more tanks, all supported by artillery. However, in
+most cases this was found wanting in close terrain. German troops would remain
+hidden, allow the leading tanks to pass by, shoot up the following infantry and
+drive it back, and then pick off the now exposed and near blind leading group of
+tanks, early painful examples of which were noted by 4/7th Dragoons and 6th
+Green Howards in early June at Cristot, and during the early phases of Epsom
+by 15th Scottish Infantry Division and 31st Tank Brigade.59 Many British units
+quickly jettisoned this approach in favour of techniques which linked infantry
+and armour more closely in the assault phase, the results of which could be noted,
+57. 11th Armoured Division War Diary, Intelligence Summary, No. 11, 28 June 1944, and
+notes for August 1944, WO 171/456, TNA; Maj. John Langdon, 3RTR, interview with author,
+October 2002.
+58. Notes on Operations of 21st Army Group, de Guingand 2/3/1, LHCMA.		
+59. L. F. Ellis, Victory in the West, vol. 1 (London: HMSO, 1962), 252; P. Delaforce, Monty’s
+Marauders (Stroud, U.K.: Sutton, 1993), 149–50; J. J. How, Hill 112: Cornerstone of the Normandy
+Campaign (London: William Kimber, 1984), chap. 4.
+
+1180
+
+★
+
+THE JOURNAL OF
+
+
+
+British Armoured Doctrine, Normandy 1944
+
+for example, by the previously chastened 4/7th Dragoons around Cristot on 16
+June, in the capture of Bras and Hubert Folie by elements of 29th Armoured
+Brigade on 19 July, and in the actions of 11th Armoured, Guards, and 6th Guards
+Tank Brigade during Bluecoat.60 Nevertheless, in some circumstances armour-led
+attacks were successful, spectacularly so on occasion as evidenced by the 3rd Scots
+Guards’ assault south of Caumont on 30 July, and in more open terrain these
+tactics may not have proved so unworkable.61
+Nevertheless, the best results came when tanks and infantry coordinated
+closely in the assault phase, with each arm mutually supporting the other. This
+was close to the method that was being disseminated in 21st Army Group in the
+summer of 1943, prior to the arrival of the veterans from the Mediterranean. It was,
+nevertheless, a complicated doctrine and not without problems. Concern focused
+on how the infantry and armour communicated with each other: tank telephones
+were vulnerable to enemy fire, while radio coordination proved difficult as infantry
+officers had to use the same radio set to communicate with both their infantry
+units and the armour support.62 Some of these problems remained throughout
+the campaign and into 1945, but matters of doctrine could be alleviated if units
+and commanders were afforded sufficient time to discuss and plan their tactics.63
+Indeed some of the best cooperative results occurred when units that had trained
+together worked together in action. In Bluecoat (29 July to 6 August), 6th Guards
+Tank Brigade and 15th Scottish Infantry Division cooperated much more
+effectively than had 15th Scottish and 31st Tank Brigade in Epsom: in the former
+case the units had trained together in the United Kingdom prior to Overlord.64
+However, armour commanders undoubtedly resented being repeatedly moved
+from supporting one infantry formation to supporting another, as this imposed a
+further “settling in” period with a new unit.65
+Concern over the survivability of the Sherman in the close support role
+proved to be justified in practice. Previous experience in Italy, and then confirmed
+in action in Normandy, indicated that only heavily armoured tanks should be
+60. “Capture of Cristot by one battalion supported by one squadron of tanks—16 June
+1944,” 17/6/44, CAB 106/963, TNA; Ellis, Victory in the West, 1:261; 3RTR War Diary 19–20
+June 1944, 171/866, TNA; notes on close co-operation between tanks and infantry, RAC branch,
+21AG, August 1944, WO 171/153, TNA.
+61. Capt. H. W. Llewellyn Smith’s account of 3rd Battalion Scots Guards, 20 July 1944–8
+May 1945, CAB 106/1029, TNA. The attack in Operation Bluecoat is of particular interest.
+62. Minutes of conference held at 34th Tank Brigade HQ, 25 August 1944, Royal Armoured Corps Tank Museum Archives, Bovington, Dorset, United Kingdom.
+63. XIII Corps, “Need for a common doctrine for infantry-tank co-operation,” 8 April
+1944, Allfrey 4/5, LHCMA.
+64. “Account of part played by 6th Guards Tank Brigade in Operation BLUECOAT,” 30
+July 1944, Verney I/i/3, LHCMA. Contrast with Pip Roberts’s comments on 31st Tank Brigade
+in Epsom.
+65. Maj.-Gen. Roy Dixon, 5RTR, interview with author, November 2002; Delaforce, Monty’s Marauders, 152–53.
+MILITARY HISTORY
+
+★
+
+1181
+
+JOHN BUCKLEY
+
+employed as close support for assaulting infantry in dense terrain. In order to
+keep tank losses down, shooting the infantry onto target from distance was the
+preferred tactic for Sherman-equipped units, though this reduced the capacity of
+such armour to aid the assault directly in the consolidation period. In addition,
+poor visibility resulting from smoke, dust, and close terrain also undermined the
+self-propelled artillery doctrine, as the infantry could easily advance out of sight
+of the supporting armour and become isolated from fire support.66 Nevertheless,
+some form of modified doctrine for Shermans in the close support role was to
+a significant degree vindicated, though it probably leant more to the doctrine
+developed to make good the deficiencies of the 2-pounder gun rather than Pyman’s
+pamphlet of autumn 1943.
+By the mid part of the Normandy campaign, certainly from late July onwards,
+armoured forces had settled on tactical approaches that served them best. They had
+solved many, though by no means all, of their problems in theatre, demonstrating
+considerable flexibility. Indeed the weakness of the British Army’s approach to
+doctrine—that it did not enforce one doctrine rigorously—actually proved to be a
+decided advantage in Normandy. The culture of problem solving and flexible thinking
+allowed commanders to produce their own working solutions once the official
+approach had been found wanting more immediately than if a rigorous conformity to
+official methods had been endemic. Such ideas were then disseminated across units
+and formations in theatre by informal as well as formal means, often leaving little in
+the way of an official and easily accessible paper trail for future historians. This was
+apparent from low-level tactics through to larger assault deployments. For example,
+troops of tanks were officially instructed to advance in a variety of formations such as
+“arrowhead” and “diamond,” with troop sergeants rather than commanders leading,
+and with tanks buttoned up (with hatches closed). In practice it became commonplace
+for troops to use “snake-patrol” tactics on the hedge-lined roads of Normandy, with
+troop leaders in the van to maintain the pace of advances, and with tank commanders
+working from open turret hatches to enhance visibility and situation awareness.67
+This method of doctrine formulation and adoption was by no means ideal as
+standardisation of approach took some time to emerge, and this hindered the ability
+of units to cooperate together effectively and quickly, which contrasted with German
+philosophy where a core set of tactical doctrines provided greater and wider unit
+interchangeability. The weakness in the German system came when core doctrine
+was flawed, and in Normandy this, in part, proved to be the case as German units
+stuck slavishly to the immediate counterattack principle, which precipitated heavy
+casualties. German units nevertheless proved unwilling to abandon the doctrine.
+In contrast British units, despite the confusion over doctrine prior to D-Day, were
+quite able to adapt, and problems were largely mitigated as the campaign unfolded.
+66. 1st East Riding Yeomanry War Diary, June–July 1944, WO 171/862, TNA.
+67. Compare official training manuals with actual practice. Author interviews with Bill
+Close, John Langdon, Jim Caswell, Robin Lemon, Roy Dixon, Andrew Burn, and Austin Baker,
+2002–3.
+
+1182
+
+★
+
+THE JOURNAL OF
+
+
+
+British Armoured Doctrine, Normandy 1944
+
+Conclusions
+Criticism of the British Army for its failure to develop and then enforce a
+considered and workable doctrine for armoured forces prior to Normandy remains
+one of the most significant debates in the progress and development of the army in
+World War Two. It is the case that British troops were hindered in a difficult and
+trying campaign by flaws in official armoured doctrine and by the spotty approach
+to inculcating doctrine through training. That the British Army was able to solve
+many of these problems during the summer of 1944 and adapt to the exigencies
+of the campaign was a tribute to its flexibility in learning from battle experience
+and in formulating doctrinal solutions. Nevertheless, this should not obfuscate the
+central issue that official doctrine was to a degree confused and inconsistent with
+the demands of armoured warfare in Northwest Europe in 1944.
+However, it is not sufficient to claim, as some have, that this weakness was
+attributable to arrogance and ignorance on the part of some senior commanders
+and the writers of official doctrine. Nor is it safe to assume that the process
+of codifying and refining doctrine failed because of outmoded practices and a
+stubborn unwillingness to adapt doctrine in the light of experience. In fact it can be
+seen that the process of defining doctrine was at times too open to influence, most
+obviously from the Mediterranean. This was not surprising on two counts. First,
+the British Army had few opportunities to learn, being ejected from the continent
+after a few weeks of action in 1940 and again in 1941, and thus was forced to rely
+on its experiences in North Africa without much in the way of contrast. Second,
+until 1942 the British enjoyed few successes, and the weight of authority carried
+by the one truly victorious commander and his staff was understandably difficult
+to resist. It made sense to embrace the learning and experience of the successful
+8th Army and, where possible, employ it in defining how 21st Army Group would
+fight in 1944.
+Whilst this policy proved largely successful, generating an effective and
+appropriate operational method for confronting the Germans, it also carried
+drawbacks. The most serious deficiency came in the narrowness of this learning
+process; the tactical and operational environment of the desert differed significantly
+from that which would be experienced in Northwest Europe. Nevertheless, in the
+heat of the Second World War it was understandable that armoured doctrine
+that had proved effective enough in 1942–43 in the Mediterranean would be
+transferred to 21st Army Group in 1944. There were few souls brave enough to
+challenge the approach of Montgomery and his staff, and there was too little time
+to incorporate new thinking even if it had been allowed. Moreover, challenges to
+thus far successful practices did not carry sufficient weight of combat experience and
+would not cut much ice with battle-hardened veterans from the Mediterranean.
+One of the key criticisms levelled at the British Army was its inability to impose
+a single doctrine on its armoured forces prior to D-Day. Yet, in the circumstances
+this was a boon, as the doctrine most likely to be rigorously imposed was that of
+8th Army, and that was flawed in the context of Northwest European operations.
+MILITARY HISTORY
+
+★
+
+1183
+
+JOHN BUCKLEY
+
+Paradoxically, the continuing inconsistency and indiscipline in the development
+and imposition of official doctrine in the United Kingdom produced an attitude
+which allowed the British to adapt once in Normandy. It is worth noting that
+the methods and experiences brought to 21st Army Group by 8th Army veterans
+did not necessarily serve them well, and that in some cases the unwillingness to
+jettison engrained attitudes caused problems, most famously in the case of 7th
+Armoured Division.
+The process of doctrinal development did not therefore “fail” in the British
+Army in the 1940–44 period; a good deal was learned and a great deal was
+incorporated into battlefield practices which began to bear fruit by late 1942 and
+1943. However, this very success created problems, as in some cases it reinforced
+questionable practices, for they appeared to work in the Mediterranean, and in
+other cases marginalised newer thinking that had begun to recognise likely future
+problems. Ultimately, it was adaptability and flexibility, partly a result of patchy
+doctrinal development in the 1941–44 period, and partly a result of the military
+culture that allowed British armoured forces to escape from their weaknesses in
+initial doctrine during the Northwest European campaign and make a major
+contribution to Allied victory.
+
+1184
+
+★
+
+Copyright of Journal of Military History is the property of Society for Military History and its content may not
+be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written
+permission. However, users may print, download, or email articles for individual use.
+
+

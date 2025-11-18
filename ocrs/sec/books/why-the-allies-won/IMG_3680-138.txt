@@ -1,0 +1,94 @@
+236
+A WAR OF ENGINES
+December 1939 Werner Heisenberg, Germany's outstanding theoretical
+physicist, submitted to the research team a paper that outlined in detail how
+a nuclear reactor worked, and the possibility of an atomic bomb. 2
+Over the next two years the research teams pursued the practical issue of
+turning theoretical insight into a usable product. Nuclear fission required
+processes of exceptional complexity and expense. Uranium, the heaviest
+known element in 1939, contains two isotopes. The first, u238, makes
+up 99•3 per cent of the metal; the other, u235, a mere 0•7 per cent. The
+preponderant isotope absorbs free neutrons in the element and keeps it
+stable, but neutrons can divide U235 and create a chain reaction, which
+releases enormous kinetic energy. To create a bomb it was necessary to
+increase the number of unstable isotopes until a sufficient mass of fission-
+able material was available to cause an explosion. Uranium, when bom-
+barded with neutrons, also produced a new artificial element made up of
+u239 isotopes. This new element, numbered 94, was christened plutonium.
+It was found to be as fissile as U235, and promised an alternative source
+of material for bomb-making. Both the production of additional u235 iso-
+topes and of plutonium were examined, but the army opted for enhanced
+uranium, and so this was where most of the German research effort was
+concentrated until 1945.
+There
+were several ways of producing more u235. It could be done
+electro-magnetically, as it was at the Oak Ridge facility in the United States
+later in the war. Or it could be produced by adding a moderating material
+which could slow down the neutrons in uranium without absorbing them.
+This allowed the neutrons to avoid the U238 isotopes, which absorbed them
+only when they moved at higher speeds, and to divide the U235 isotopes
+instead. Heisenberg suggested a number of moderators: pure graphite was
+one, and another was so-called heavy water (D,0 or deuterium
+oxide),
+produced by removing hydrogen atoms from ordinary water by electrolytic
+conversion. Graphite was required for the army's rocket research pro-
+gramme, and so by default the choice fell on heavy water.
+effective electro-magnetic method was ignored. Europe's only source of
+he home an on her
+The more
+heavy water lay in Norway, at the Norsk Hydro plant at Vermork.
+Production was time-consuming and costly. In February 1943 the plant was
+successfully sabotaged by the Norwegian resistance. By the end of the war
+German scientists had 2½2 tons of heavy water, only half the quantity needed
+even to begin serious production of fissile material. 73
+In early 1942 the army gave up on the project. The prospect of producing a
+weapon in time for it to be used seemed remote. The Education Ministry
+once again assumed responsibility; atomic physicists were ordered to use
+their time for more immediate war-work, and neither a nuclear reactor nor
+TECHNOLOGY AND MILITARY POWER
+237
+adequate quantities of enhanced uranium were ever produced. Research
+work continued, interrupted by bombing and evacuation, but/when Allied
+intelligence teams scoured Germany in 1945 for scientists and laboratories
+they found that Germany was still years from producing an atomic weapon.
+Some German scientists blamed the system with its excessive compart-
+mentalisation and political interference; others, Heisenberg among them,
+argued that they had deliberately dragged their feet to prevent nuclear
+weapons falling into Hitler's hands.
+* The truth is more complicated. Whatever the views of Germany's
+scientists, Hitler remained hostile to the whole project) Without the whole-
+hearted support of the political leadership the atomic programme was
+unable to generate the huge resources of labour, materials and brain power
+necessary. Though Hitler saw himself as an expert on guns and tanks, he
+found the principles of modern physics hard to grasp and disliked discussing
+them. Party scientists branded much of the new work as non-Aryan, 'Jewish
+physics'. When Speer tried to talk to him about the research Hitler
+condemned it as 'a spawn of Jewish pseudo-science'. He retained the fear
+that nuclear explosions would prove incapable of control, and might burn up
+the hydrogen in the atmosphere, destroying the globe. Nothing that was
+presented to him during the war carried sufficient conviction about the
+short-term feasibility of atomic weapons to disperse that scepticism.
+Hitler did not bring nuclear physics to a halt, but the research lacked the
+urgency of other more pressing armament projects. The potential scale and
+expense of the task, given the uncertainties still evident in atomic physics,
+weighed heavily
+against committing resources to it.
+Though German
+scientists knew of American research they remained reasonably confident
+that they were ahead in the atomic race throughout the war, despite its low
+priority. This arrogant assumption, shared, it should be added, by the
+anxious enemy, was the product of a science establishment heavily weighted
+towards pure theory. When the theoreticians turned to the practical
+development of the ideas they ran into difficulties.
+The experimental
+physicists were looked down upon, and the practical problems in producing
+atomic energy were neglected. Lacking a solid experimental foundation,
+Heisenberg undermined the whole development by insisting that a uranium
+bomb needed only a small amount of u235 to achieve critical mass (the
+American project required 30 pounds), and by arguing that a chain reaction
+could not be controlled. There were practical researchers who by the middle
+of the war had discovered that one of the best ways of producing fissile
+material was to employ extremely low temperatures (at
+Oak Ridge the
+Americans used liquid helium to achieve this). Harteck realised in 1941 that
+low-temperature reactors would solve the production problems, but was

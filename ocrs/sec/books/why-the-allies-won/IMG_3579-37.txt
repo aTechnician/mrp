@@ -1,0 +1,86 @@
+50
+LITTLE SHIPS AND LONELY AIRCRAFT . . .
+cargo vessels, a smaller group hunting the convoy perimeter for submarines.
+Direct attack on the submarines required information of a different kind.
+There was little chance of a kill without some way of locating to within feet
+the position of the enemy JAt night-time, against submarines operating on
+the surface, this knowledge could not be acquired with conventional
+technology and naval tactics, and chance played a part in any densely packed
+convoy battle. During 1941 and for much of 1942 the number of submarines
+destroyed in all theatres remained small, only 35 in 194l, and only 21 in the
+first six months of the following year. This was a rate of attrition that could
+comfortably be supported by the U-boat arm. The only way to increase that
+rate was to apply to the naval conflict the new weapons of war - long-range
+aircraft, radio and radar.
+The importance of aircraft was plain to see. Wherever air patrols were in
+operation submarine activity was much reduced. Aircraft were 'the great
+menace for the submarines' Dönitz told Hitler in September 1942. But until
+well into 1942 the aircraft was a limited weapon in the actual destruction of
+U-boats. The number of aircraft allocated to over-sea duty was small in
+relation to the task, and it proved difficult to persuade the RAF to divert
+larger bombing aircraft from the attack on Europe to the war at sea. The
+original anti-submarine bomb proved to have almost no destructive power,
+and was replaced by an aerial depth-charge, though only in the course of
+1942 were weapons of enhanced destructive power, charged with a new
+explosive (Torpex), finally introduced S° The central problem for the anti-
+submarine aircraft was to find the submarine and, having found it, to sustain
+an attack before it submerged to the safety of waters beyond the range of
+depth-charges. The answer lay with Radio-Direction Finding, later known
+by its familiar name of radar.
+The development of effective Air to Surface Vessel (ASV) radar played a
+key part in the Battle of the Atlantic. A radar using wavelengths of 1'7
+metres was developed, capable of detecting a surfaced submarine at 5 miles.
+The radar allowed aireraft to find submarines by day or night, but about a
+mile from the target their exact location disappeared on the screen because
+of distortion from the sea. By day visual contact could be maintained, but at
+night, when submarines cruised on the surface confident of invisibility, they
+were almost impossible to find. The solution emerged almost by accident. A
+junior RAF officer, Sir Humphrey de Vere Leigh, privately developed the
+idea of a powerful marine searchlight, located in the nose or under the wing
+of anti-submarine aircraft, which could be switched on at the point where the
+radar picture faded. The device was developed in defiance of orders from
+above, but its advantages shone through. During 1942 the Leigh Light was
+turned rapidly into an operational instrument. Flying dangerously close to
+THE BATTLE FOR THE SEAS
+51
+the surface of the sea the attacking aircraft tracked the target with ASV
+radar, until approximately 1 mile away from it an operator floodlit the area
+ahead. The aircraft then dived to 50 feet to deliver a pattern of depth-
+charges. The first successful attack was carried out on the startled crew of u-
+502 cruising in the Bay of Biscay on 5 July 1942. U-boat sinkings in July were
+four times as many as those in June. By August U-boats were forced to travel
+submerged and at night when they crossed the Bay to and from their bases;
+or they would move during daylight hours, with anxious look-outs scanning
+the skies for RAF patrols. But two months later the pendulum swung back
+the other way. German scientists rapidly developed a receiver set, 'Metox',
+which gave warning of aircraft approaching using the 1•7-metre frequency.
+The ball was back in the Allies' court, to find a radar with greater accuracy
+and beyond submarine detection. 60
+Ships suffered from the same deficiency as aircraft in the accurate location
+of submarines. Here too radar was the only answer. The standard long-wave
+I 7-metre radar was of little use for tracking surface vessels, for there was
+too much activity from the sea itself, even in relatively calm weather. In 194I
+the British navy sponsored the search for much narrower wavelengths. At
+Birmingham University the breakthrough was made. The invention of the
+cavity magnetron permitted the development of radio valves that could
+operate on much shorter frequencies, of 10 centimetres. When a radar set
+was built around the new valve it proved able to detect even a submarine
+periscope. The new Type 271 sets were installed on escort vessels from the
+middle of 1941. They did not yet work perfectly. The valves had a small
+power output until the development later in the war of the 'strapped'
+magnetron, the cv56 valve, which powered the radar sets of all naval vessels
+by 1943.61 In rough seas even this more sensitive radar was deceived by the
+waves. But centimetric radar gave a solid scientific foundation to the war at
+sea. Its constant refinement enabled more and more escort vessels to see in
+the dark around their threatened convoys.
+By 1943 all British and American vessels were fitted with some basic form
+of centimetric radar. Once the target was in range it could be destroyed
+either with gunfire or depth charges. During 1942 this technology was
+also improved. Instead of depth charges being dropped from the back of
+the vessel at the point where contact with the submarine through radar on
+ASDIC was lost, a new method was devised by the British Department
+of Miscellaneous Weapons Development. A multiple mortar, nicknamed
+'Hedgehog', was installed at the front of the ship. It fired 24 small bombs
+which fanned out in front of the ship and dived swiftly into the sea 200 yards
+ahead. The bombs were fitted with contact fuses, so that only a submarine
+hit would produce an explosion. The remaining bombs sank to the bottom of
