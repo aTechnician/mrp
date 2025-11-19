@@ -1,0 +1,208 @@
+364
+REGIMENTS
+50rer Chars de Combat, 303, 305,
+307, 308, 311
+12e Chasseurs d'Afrique, 303, 305
+309
+12€ Cuirassiers, 303, 305, 307, 309
+Régiment de Marche du Tchad, 301,
+305, 307, 308, 311
+Ier Spahis marocains, 301, 303, 305,
+307, 309
+Régiment blindé de Fusiliers-Marins,
+303, 305, 309
+German
+ARMY GROUPS
+B, 63, 142, I64, 240, 244, 258, 259,
+273, 283, 308, 313, 320, 321
+Centre, 258, 283, 320; destruction,
+314-15, 321
+G, 63, 283, 313, 320
+North, 317
+South, 320
+ARMIES
+First, 189
+Sixth, 318
+Seventh, 132,
+142, 145,
+146, 157,
+65, 235, 238, 239, 255, 273, 282,
+205, 286
+Fifteenth, 132, 157, 235, 249; trans-
+fers to Normandy, 189
+Nineteenth, 189
+Panzer Group
+West (Fifth Panzer
+Army), 63, 150-51, 211, 238, 239,
+252, 257, 259, 285, 286
+Replacement Army (Ersatzheer), 221,
+225, 226, 238, 315
+CORPS
+LXXXIV, 132, 231
+I SS Panzer, 145, 151
+II SS Panzer, 179, 180
+Panzer Group Eberbach, 253
+DIVISIONS
+Ist Cavalry, 285
+Ist SS Panzer, 62, 155, 179, 202, 212,
+213, 218, 245-8, 256, 273
+SIX ARMIES IN NORMANDY
+2nd Panzer, 62, I45, 155, 158, 234,
+245-8, 271, 283
+2nd SS Panzer, 62,
+147, 155, 164,
+I79,
+189, 233, 245-8, 256, 276,
+279, 283
+9th Panzer, 62, 155, 245, 256, 283
+9th SS Panzer: from Russia, 165;
+179-80, 245, 256, 276
+Ioth SS Panzer: from Russia, 165;
+I79, 245, 256, 273
+IIth Panzer, 62, 155, 245
+I2th SS Panzer, 62, 145, 146, 147,
+148,
+I49,
+155, 172-3,
+176,
+177,
+178, 187, 202, 21I, 254, 255, 270,
+273, 280, 329
+I7th SS Panzergrenadier, 62, I47,
+155, 158, 186, 233, 234
+2ISt Panzer, 62, I29, I3I, I42, I43,
+145, 146,
+147, 148,
+155, 201,
+203-19, 256
+II6th Panzer,
+62, 145, 155, 245-8,
+256, 273, 283
+Panzer Lehr, 62, 145, 147, 148, 153,
+I54, 155, 164, 179, 189, 230, 283
+77th Infantry, 147, I49, 186
+84th Infantry, 273
+85th Infantry, 254
+8gth Infantry, 254
+9Ist
+Infantry,
+96, 101, 105,
+145;
+losses, 158, 186, 233
+243rd Infantry, 74, 159, 186, 233
+265th Infantry, 186
+272nd Infantry, 189
+275th Infantry, 156, 186
+276th Infantry, 189, 273
+277th Infantry, 189, 273
+302nd Infantry, Dieppe, 122, 128
+325th Infantry, 286
+326th Infantry, 235, 273
+33 Ist Infantry, 285
+344th Infantry, 285
+346th Infantry, 202
+352nd Infantry, 129, 186
+353rd Infantry, 186, 233, 273
+363rd Infantry, 235
+708th Infantry, 189
+709th Infantry, 74, 159
+7i6th: at Juno Beach, 128-31, 146;
+casualties, 14I
+INDEX
+3td Parachute, 147, 186, 273
+Sth Parachute, 233
+I6th Luftwaffe Field, 189, 202, 205,
+219
+17th Luftwaffe Field, 285
+REGIMENTS
+571st, Dieppe, 122
+1057th Grenadier, 101
+1058th Grenadier, 96
+6th Parachute, 74, I58
+BATTALIONS
+Panzer 100, 74
+44Ist East, 129
+642nd East, 129
+50Ist SS Heavy Tank, 153-4
+503rd Heavy Tank, 201, 207-9
+Polish
+II Corps, 262, 264
+Ist Polish Armoured Division, 251,
+262, 266, 269, 279
+Ist Cavalry Brigade, 264, 271, 274,
+REGIMENTS
+Ist Armoured, 264, 274, 276-82
+and Armoured, 264, 270,
+276-82
+271, 274,
+24th Lancers, 264, 272, 274
+Toth Dragoons, 264, 274, 276
+Podolian
+Light
+Infantry,
+276-82
+204,
+274,
+8th Light Infantry, 270, 274, 276-82
+9th Light Infantry,
+264. 271. 276-8-
+Ioth Mounted Rifles,
+264, 272, 274,
+276
+United States
+ARMY GROUPS
+6th, 313
+12th, 251, 252
+ARMIES
+First, 238, 251, 253
+Third, 236, 237, 238, 251, 253, 286
+V, 107, 158, 321
+VII, 158-9, 231, 232
+XV, 256
+DIVISIONS
+Ist Armoured, 234
+2nd Armoured,
+234, 246, 248
+3rd Armoured, 234, 246
+4th Armoured,
+234, 236, 237
+5th Armoured, 237, 253
+6th Armoured, 234, 236, 237
+Ist Infantry, I4I, 234, 237, 324, 327
+4th Infantry, 73,
+99,
+TII, I13, I41,
+158, 159, 232, 246, 306
+8th Infantry, 236
+9th Infantry, 158, 159-60, 232
+3oth Infantry, 232, 246
+79th Infantry, 158, 159, 236
+82nd Airborne, 58, 71, 72, 80, 88,
+I13, 159
+goth Infantry, 158, 159, 237, 275
+roIst Airborne, 58, 72, 77,
+80, 88,
+159
+REGIMENTS
+359th Infantry, 276
+50Ist Parachute Infantry, 75, 90, 91,
+02. TOr. IIO—13
+502nd Parachute
+Infantry, 87, 90,
+108-10
+505th Parachute Infantry, 85, 90, 92,
+99-102
+so bir Parachute Infantry, 75, 77, 82.
+84, 85, 87, 90, 01, 03, 105-7
+507th Parachute Infantry,
+$ 5, 90, 90,
+102-5
+508th Parachute Infantry, 85, 90, 99,
+TO.
+377th Parachute Artillery, 75, 87, 89,
+326th Parachute Engineers, 83
+US ARMY AIR FORCE TINIne
+IX Troop Carrier Command, 77
+52nd Troop Carrier Wing, 76
+316th Troop Carrier Wing, 90
+365

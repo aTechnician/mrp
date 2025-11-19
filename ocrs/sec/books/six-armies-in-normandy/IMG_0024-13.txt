@@ -1,0 +1,65 @@
+Map 1 The German order of battle in the west,
+June 6th, 1944
+KEY
+BOB WEST GHO
+UD B
+E15
+Army Group
+Army
+Boundaries
+Army Group
+Army
+X352 Infantry Division
+21
+Panzer Division
+Parachute Division
+Boundary of
+OB West
+NORTH
+SEA
+Dover
+CHANNEL
+ENGLISH
+Cherbourg
+Channel Islands 4 2435
+3190 0
+St Loo Can
+Le Havre
+Rennes as
+SEVENTH
+ARMY
+Le Mans
+©12SS
+158.
+Poitiers
+FIRST
+ARMY
+BAY OF BISCAY
+3472р
+Amsterdam
+The Hague,
+NUE EGETHERLANOS
+Hilversum
+R Scheldi
+i8 Tourcoin Brussels
+FIFTEENTH
+ARMY
+Reims
+FRASER GROUP
+Orléans
+ARMY GROUP B
+ARMY GROUP G
+Vichy
+X189
+Lyons
+LACEMENT
+Strasbour
+D Berne
+Miles
+Kilometres
+KINETEENTH EACE ARMY
+X21120241
+MEDITERRANEAN
+SEA
+SIX ARMIES
+IN NORMANDY
