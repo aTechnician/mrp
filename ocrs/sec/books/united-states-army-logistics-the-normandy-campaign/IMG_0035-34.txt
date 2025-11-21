@@ -1,0 +1,135 @@
+45
+Landing Craft and Wool Drawers
+United States Army Logistics
+44
+Ordnance planners found Class V planning for Operation OVERLORD
+easier than quartermaster planning for Class III items.
+Each time the invasion
+troop list changed, the FUSA ordnance officer and ammunition officer had to
+recalculate ammunition tonnages for the operation,
+while planners had to set
+arbitrary limits on the ammunition tonnage needed for the operation because of
+limited beach capacity.
+The requisitions, completed in six days beginning April
+8, 1944, calculated ammunition expenditures to the last round. They prepared
+separate requisitions for every landing craft arriving on D-Day and D+1, a
+single requisition for each day of the operation from D+2 to D+ 14, and one
+for the period D+ 15 to D+30.
+ADSEC handled requisitions for continental
+operations for the period subsequent to D+30.
+Ordnance personnel also
+prepared special requisitions for Greenlight shipments. 48 Two months before the
+actual invasion, ordnance planners had the unenviable task of predicting the
+tempo of the campaign to come.
+Although any miscalculation would have dire
+effects on the upcoming invasion and subsequent operations,
+determining
+ammunition requirements proved more of an art than a science.
+Ordnance personnel based ammunition planning upon basic loads, units of
+fire (U/F), and scales of maintenance.
+A basic load equaled the quantity of
+ammunition normally carried by a unit for a particular weapon.
+ETOUSA used
+the U/F, an arbitrary number developed to simplify
+the requisitioning and
+distribution of ammunition, to regulate the expenditure of ammunition.
+Since
+headquarters allowed a unit to expend so many units of fire a day, maintenance
+rates represented the amount of ammunition expended on an average day.
+Ordnance officers usually stated maintenance levels in fractions of units of fire.
+For example, FUSA might require one-third unit of fire of 81 mm mortar
+ammunition on an army-wide basis to avoid dipping into its reserve supply.
+Maintenance levels were sometimes based on a specific number of rounds per
+gun per day for a particular unit.
+Thus FUSA might require 45 rounds of 105
+mm artillery ammunition per gun per day to maintain its stocks of ammunition.
+After hours of calculating and recalculating, the staff arrived at ammunition
+expenditure rates and supply requirements for each American beach to D + 30
+(see Table 2-10).49
+Ordnance planners calculated ammunition maintenance rates for the period
+subsequent to D+30 using expenditure rates rather than units of fire.
+addition to normal daily expenditures, the ordnance plan called for the
+accumulation of ammunition reserves on the beaches, each to have two units of
+fire of ammunition on hand on D+2 and four-and-one-half units of fire on
+D+ 14.50
+Ordnance planners knew that if their basic assumptions were correct the plan
+would work, but that unfortunately any number of things could go wrong.
+the plan to succeed the unit-of-fire figures, arbitrary at best, had to be correct,
+the unloading of ammunition had to go as planned, and the expenditures of
+ammunition by type had to match the ammunition requisitions submitted in
+April, Like the overall Operation OVERLORD plan, the Class V plan lacked
+Rexibiliy; ordinance officers could do very litle plan, the invasion began other
+Table 2-10
+Class V Maintenance Rates for Selected Weapons
+Subsequent to D+30
+Rounds-per-Weapon-per-Day
+1.5
+Carbine
+30 cal Rifle
+45 cal Pistol
+50
+.50 cal Machinegun
+37 mm & 40 mm Antiaircraft
+90 mm Antiaircraft
+81 mm Mortar
+75 mm & 76 mm Self-propelled
+75 mm Howitzer
+105 mm M3 Howitzer
+25
+10
+10
+20
+20
+155 mm Gun
+X in Howitzen
+240 mm Howitzer
+10
+BAR
+30 cal Machinegun
+45 cal Submachinegun
+37 mm Antitank
+57 mm Antitank
+60 mm Mortar
+4.2 in. Mortar
+3 in. Self-propelled gun
+105 mm M2 Howitzer
+155 mm Howitzer
+4.5 in. Gun
+8 in. Gun
+Bazooka Rockets (R/D/D)
+16.3
+45
+25
+30
+15
+600
+Pyrotechnics (R/D/D)
+60
+Source: Communications Zone, Ordnance Plan, in "Communications Zone Plan for
+Operation OVERLORD," reel 53, U.S. Army, U.S. Forces,
+European Theater,
+Historical Division, Records, 1941-1946, Dwight D. Eisenhower Presidential LIbrary.
+Note: R/D/D = Rounds-per-division-per-day
+than rely on emergency requisitions and ration the available
+supply
+of
+ammunition.
+The lack of sufficient lift and discharge capacity combined with
+the lead times involved in getting supplies moved through the logistical pipeline
+all but eliminated any flexibility within the system.
+Logistical problems were not confined to supplying the combat forces on the
+Continent.
+While POL and ammunition planners were already lamenting the
+shortage of sea lift capacity, some of the scarce shipping space had to be
+allocated to the Civil Affairs Section.
+The SHAEF allocation of some 34,500
+tons of supplies for Civil Affairs, D-Day to D+90, included food, blankets,
+clothing, soap, sanitary and medical supplies, POL, and other items to meet the
+minimum needs of liberated French civilians.
+In addition, for D+90 to
+D+ 180, the supply system pipeline contained 89,000 pieces of agricultural
+equipment and 2,625 tons of seeds for distribution on the Continent.S1
+Considering that the planned maximum capacity of OMAHA Beach totaled only
+5,000 tons, the Civil Affairs tonnage allocation equaled seven of the first ninety
+days of OMAHA beach capacity and tied up valuable shipping space. Although
+the majority of Civil Affairs tonnage would arrive after D+14, the landing
