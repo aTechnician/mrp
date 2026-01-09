@@ -1,0 +1,80 @@
+PHONE
+HO 1,
+0130E,
+VIOTOR.
+PETER,
+WILLIA,
+X-R. Y,
+*
+ROGER,
+43L2.
+DAKER.•
+OHARLIE,
+DOG,
+BAST
+ToX.
+GHOA GO.
+(va) san. R/L Working:
+A Sqn.
+IMS ‡
+Control retrins command of the net. Seldom used in R.A.C.
+nessage for S2-S1 and S2-over.
+over.
+ver.
+gs. 3 ants in re-entrant half right—over?
+wer.
+again—over!
+y again —figs. 3 ants in re-entrant half right-over!
+aid in this transmission ' S1-O.K.-out?
+repetition.
+S1 and S2 would have
+inversation as in the normal system and S1, not Control, woul
+hen Direct Communication Fails.
+I that the following extra phrases are brought into use for this part
+de Sign calling you.
+cept message for me.'
+nd your message.'
+issage from Code Sign.'
+sage passed.
+7) and (E) only are normally used.
+o outstation.
+1—S1 —over.'
+CONTROL
+Magnesium—S1-over.
+• Code Sign S1— Magnesium—S2-over?
+Hullo S1—Magnesium—S1—over.'
+—Wilco—S2-over.'
+he acts on behalf of Control and does not
+use flank
+Te to Control.
+-over?'
+Yellow—S2-over.
+Code Sign S2—Yellow—S1—over.
+d—S2-over.'
+s acting on behalf of Control and uses Link Sign of S2.
+(Where Regtl Sqn Fregs are used).
+B Sqn.
+C Sqn.
+AxY +
+D Sqn.
+PRC+
++
+RHQ
+HKF
+C.
+'Hullo all stas LOVE-Pipsqueak-All stas LOVE-over.'
+LMS ' L1 Wilco-out.'
+YBC ' L2 Wilco-out.'
+AXY ' L3 Wilco—out.'
+PRC ' L4 Wilco—out.'
+Note; In a Gp Call, outstations do not use their own Link Sign but adopt that of the
+Senior outstation with the affixes 1, 2, 3 and 4 according to Senority.
+Multiple Call.
+C.
+'Hullo Love and Able-Pipsqueak—Love and Able-over.
+LMS ' Love Wilco—out.'
+AXY ' Able Wilco--out.'
+Note: In a multiple call, the outstations use their own Link Signs. This also applies
+when Control calls a single outstation.
+PLEASE REMEMBER
+TO RETURN THIS SLIP

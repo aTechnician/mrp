@@ -1,0 +1,100 @@
+B Ofered.
+When Control vetnins command of the net.
+Seldom used in R.A.C.
+S1. ' Hullo S1-message for S2-S1 and S2-over.'
+*C.
+' S1-O.K.-over.'
+S2.
+'S2-O.K.—over.'
+S1.
+' Hullo SI-Figs. 3 ants in re-entrant half right—over.'
+over.'
+CONTROL
+S2.
+C.
+again—figs. 3 ants in re-entrant half right—over.
+S2. ' S2-
+- Roger—
+out?
+*Note: If Control had said in this transmission ' S1-O.K.-out.'
+S1 and S2 would have
+continued the conversation as in the normal system and S1, not Control, would
+have given the repetition.
+(31) Relaying Messages When Direct Communication Fails.
+It should be noted that the following extra phrases are brought into use for this part
+of the procedure.
+(A)
+' Code Sign calling you,
+(B)
+Accept message for me.'
+(C)
+(D)
+'Send your message.'
+' Message from Code Sign.'
+(E)
+' Message passed.'
+In actual practice, (D) and (E) only are normally used.
+(1) Control sends message to outstation.
+' Hullo S1 —Magnesium—S1-over.'
+No reply.
+' Hullo S1—I say again Magnesium—S1-over.'
+No reply.
+' Hullo S2-Message for Code Sign S1— Magnesium—S2-over?
+'2 Roger-out to you—Hullo S1 —Magnesium—S1-over.'
+' 1 Wilco-out.'
+S2.
+' Hullo S2-Code Sign 1-Wilco—S2-over.'
+C.
+' 2 Roger—-out.
+Note: When S2 calls S1, he acts on behalf of Control and does
+not
+use
+flank
+communication.
+(2) Outstation sending message to Control.
+S2. ' Hullo S2—Yellow-S2-over.'
+C.
+No reply.
+S2.
+' Hullo S2—I say again—Yellow—S2-over.'
+S1. ' Hullo S1 —Message from Code Sign S2-Yellow—S1-over.'
+C.
+*S1.
+' 1 Roger-out.'
+' Hullo S2-Message passed - S2-over.'
+S2. '2 Roger—out.'
+*Note : In this transmission S1 is acting on behalf of Control and uses Link Sign of S2.
+(32) Sqn. R/L Working: (Where Regtl Sqn Fregs are used).
+A Sqn.
+B Sqn.
+C Sqn.
+LMS +
+YBC +
+AxY+
++
++
+D Sqn.
+PRC+
++
+L
+Y
+P
++
+RHO
+HKF
+C. 'Hullo all stas LOVE-Pipsqueak —All stas LOVE-over.'
+LMS ' L1 Wilco-out.'
+YBC ' L2 Wilco-out.'
+AXY • L3 Wilco—out.'
+PRC ' L4 Wilco—out.'
+Note ;
+In a Gp Call, outstations do not use their own Link Sign but adopt that of the
+Senior outstation with the affixes 1, 2, 3 and 4 according to Senority.
+Multiple Call.
+'Hullo Love and Able-Pipsqueak—Love and Able-over?
+LMS ' Love Wilco—-out.'
+AXY ' Able Wilco--out.'
+Note: In a multiple call, the outstations use their own Link Signs. This also applies
+when Control calls a single outstation,
+24
+65/2

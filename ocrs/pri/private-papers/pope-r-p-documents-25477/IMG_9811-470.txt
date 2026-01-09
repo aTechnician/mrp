@@ -1,0 +1,130 @@
+7
+1/10г
+629L
+40010
+40020
+40070
+40080
+A0240
+A0280
+A044,0
+A0450
+A0490
+404.95
+A0510
+A0520
+A0530
+40670
+40675
+Seotion A - Plant and Machinery
+UNIT
+DESCRIPTION
+D.4 Tractor
+D.6 Tractor
+D.4 Angledozers
+NO
+D.6 Angledozers
+8/9 yds Scrapers
+66 Blade Grader
+NO
+K 30 Rooters
+-NO
+Bitunen Paddle mixers 7-10 Cu,
+NO
+Ft. Cap
+Bitumen Heaters 200/300 Gc.l.Cap
+No
+Compressor 100 CaFt./min. 100 Is No
+/sq,inch
+Compressor Equipment sets of
+tools
+Concrete Mixers 5/32
+" 10/7
+Colloidal Mixers
+Cranes mobile 2 ton diesel
+Crushera 10 tons n: hour
+Crushers Spare Jais
+UNIT
+WEIGHT
+Ibsius
+4*4
+7 9
+1 8
+1 16
+5 ] 0
+5 1
+5 19
+4. 18
+2 12
+2 16
+C 10
+0 16
+2 14
+No
+1]
+No
+No
+9 10
+IND
+0 2 56.
+APPENDIX B
+UNTI
+DESCRIPTION
+ITEL
+NO.
+Miles
+40690
+10698
+4.0699
+A0700
+A0701
+40702
+A0710
+Decauville Track 60 cms.
+Turn cuts Easy
+" " Left hand
+Turncuts. Right Tad
+NO
+NO
+Tuin-tables Portable
+Switch boxes and levers
+Decauville Wagons Tipping 1 ya.
+NO
+" Flat Top 2 tons
+NO
+A0720
+" Flat Top 4 tens
+NO
+A0730
+A0750
+40780
+Dumpers 2/3 Cu.yas.
+Excavators 3/8 yds. 10 R. B.
+No
+NO
+A0795
+Loaders Belt Portable
+Na
+50
+A0900
+Rollers 6 ton
+No
+40910
+40930
+A1020
+8 ton
+No
+Tractors Fordaor:
+NO
+Winches 10 tone
+A1108
+Wire Rope Stol ?"
+No
+Insa
+WEIGHT
+56
+0 11
+2. 16
+13
+1. 16
+C
