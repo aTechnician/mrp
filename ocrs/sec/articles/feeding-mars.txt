@@ -1,0 +1,860 @@
+Feeding Mars: The Role of
+Logistics in the German
+Defeat in Normandy, 1944
+Russell A. Hart
+Historians have long recognized that logistical difficulties contributed
+Hto German defeat in the 1944 Normandy campaign. The Allied aerial interdiction campaign initiated in March seriously hampered German
+resupply operations across the Loire and Seine rivers into Normandy.
+The consequent supply shortages not only prevented the Germans from
+seriously threatening the Allied bridgehead but also undermined German efforts to mount an effective defence. Beyond this general picture,
+however, historians know little about precisely how and to what extent
+logistic deficiencies compromised the German defence of Normandy.
+This study describes German logistics in the 1944 Normandy campaign
+and demonstrates that logistic deficiencies were central to German
+defeat, and that they played a major role in the successful American
+breakout during Operation ’Cobra’ in late July1
+In 1943 the German army in the west, the Westheer, remained a backwater of the German war effort. Under-strength, poorly equipped, and
+largely immobile, the Westheer possessed only a limited defensive capability. Nor did it possess the logistic infrastructure - fuel, munitions, and
+transport assets - necessary to sustain major action, let alone to repel an
+invasion. It was only on 3 November 1943 that Hitler issued his Directive
+51 for the strengthening of the Westheer to defeat the inevitable 1944
+Allied invasion. Between November 1943 and June 1944, the influx of
+fresh troops and Germany’s latest weapons dramatically enhanced the
+Westheer’s combat power. Directive 51, however, failed to assign logistic
+priority to the west. Thus there was no concomitant expansion of the
+Westheer’s logistic resources. On the contrary, the German buildup
+1
+
+The author thanks Jason Coy, Allison Gough, and Mark Grimsley for commenting on
+earlier drafts of this article. The only study of German logistics is the US Army
+Historical Division, European Theater of Operations, Foreign Military Studies
+Manuscript B-827, Maj. Otto Eckstein, ’Activities of the Oberquartiermeister West
+During the Time of Preparation for Warding Off an Invasion and During the Initial
+Combats’, Germany, 1947, published in Donald Detweiler, ed., WWII German Military
+Studies (New York, Garland, 1979), XII.
+
+418-
+
+419
+
+emphasized ’teeth’ over ’tail’ to the detriment of the Westheer’s ability to
+sustain a protracted defence. Inadequate supply, transport, and service
+units were combed out to strengthen combat formations. In part, the
+Westheer’s inability to expand its logistic base before D-Day reflected the
+sustained decline of resources as Germany approached its sixth year of
+war. To a greater degree, however, it illustrated a traditional German
+military disdain for logistics.2
+The most pernicious deficiency of the German army in its fifth year
+of war was its progressive demotorization. In 1939 Germany was among
+the least motorized societies in western Europe. Outside the elite,
+armoured forces, most of the German army remained a predominantly
+horse-drawn infantry force. After June 1941, attrition on the Eastern
+Front inexorably shrank the German motor transport pool and with it
+the mobility that was instrumental to both Germany’s offensive and
+defensive victories. Up to 1943, confiscation of vehicles from the occupied territories offset Germany’s battlefield losses: in 1942 alone, Germany rounded up over 600 000 vehicles. After Kursk, though, attrition
+progressively demotorized the German army. Between February and
+April 1944 alone, the German army’s deficit of trucks and prime movers
+increased by 127% and 46% respectively.’
+The German motor vehicle shortage was most pronounced in the west,
+where the largely immobile occupation forces depended on the excellent
+French rail network for transportation. Few trucks were available in the
+west to form a strategic transport reserve, and lack of spare parts entailed
+low serviceability rates. This immobility hindered the combat preparation
+of the Westheer prior to D-Day. By 6 June 1944 most German formations
+remained seriously deficient in motor vehicles, and consequently their
+mobility was limited. This poor mobility made the Westheer dependent
+on rail transport to redeploy its forces to an invasion site and for resupply
+operations. At war games in January 1944, the Germans estimated that
+without the French railroads they would require 40 000 tons of trucking
+capacity to defeat an invasion, or more than eight times the then available strategic transport reserve. The excess capacity of the French rail
+system and the existence of canal supply routes, however, convinced the
+2
+
+3
+
+For an extensive evaluation of the Westheer’s weaknesses in late summer 1943, see
+National Archives Record Administration, Captured German Documents (hereafter
+NARA) microfilm series T-311, roll 27, frame 7032324ff. Concerning Normandy
+specifically, see ’Personelle Zusammensetzung’, Beilage zu Anlage zu Gen. Kdo.
+LXXXIV A. K. Ia. Nr. 1808/43 g.Kdos., v. 4/10/1943, NARA T-314, 1604, 001032;
+and ’Hebung der Kampfkraft der Infanterie’, 709 Inf. Div. Abt. Ia Nr. 745/43
+g.Kdos., d. 12/7/1943, NARA T-314, 1604, 000731.
+On the lack of motorization in the German army, see Richard DiNardo, Mechanized
+Juggernaut (New York, Greenwood Press, 1991) and W. Victor Madej (ed.) German
+War Economy: The Motorization Myth (Allentown, PA, Game Publishing, 1984). Truck
+and prime-mover shortages increased from 36093 and 5 772 on 1 Feb. 1944 to
+82 096 and 8 423 on 1 May 1944. Werner Stang, ’Zahlenmaterial zur Materiellen
+Lage der faschistischen Wehrmacht im Zweiten Weltkrieg’, Milit&auml;rgeschichte IV (Apr.
+1973), pp. 61-80. See also ’Waffe: Stand 1 Juni 1944’, OKH O. Qu., NARA T-78, 168,
+000401-403.
+
+420
+Germans that they could resupply their forces by rail despite anticipated
+Allied interdiction efforts. Consequently, the Quartermaster General
+West, Major Otto Eckstein, was not unduly perturbed when in March
+1944 the Allies unleashed an aerial interdiction campaign.44
+However, the Germans seriously underestimated the effectiveness of
+the Allied interdiction campaign. Between March and D-Day, Allied airpower isolated Normandy from the east by destroying all the bridges
+across the Seine below Paris, while attacks on railroad stations, marshalling yards, engine sheds, coaling stations, rail junctions, repair shops,
+and rolling stock all but ended train movement into Normandy. From
+mid-April the air attacks impinged on German troop and supply movements. Consequently an increasing backlog of trains developed throughout the west which delayed the arrival of large quantities of new weapons,
+construction materials, and supplies. On the eve of D-Day, over 1 700
+military trains were still struggling toward their destinations. The air
+offensive’s greatest impact, though, was on the flow of fuel to the west.
+At the beginning of June, trains carrying 3.233 million gallons of fuel,
+the equivalent of 15% of the entire German stock in the west, were back-
+
+logged across France.55
+The Germans took three sets of countermeasures to minimize the
+impact of the air offensive on their resupply capability prior to D-Day.
+Anti-aircraft batteries moved to protect bridges, communications hubs,
+and rail lines. German rail engineer and bridge-building units were
+strengthened and redeployed to the Seine in an effort to restore communication links with Normandy. Finally, the Quartermaster General
+West attempted to expand his strategic truck transport reserve via vigorous confiscation drives among both the military and civilian sectors.’
+4
+
+On 1 June 1944 the German mechanized divisions in the West possessed only 39%
+and 22%, respectively, of their authorized trucks and prime movers. ’Zustandberichte
+Panzer-Divisionen Stand: 1 Juni 1944’, General Inspektor der Panzertruppen, NARA
+T-78, 623-4. On that date the Westheer was short of 11447 trucks and 1760 prime
+movers; see ’Kraftfahrzeuge (ungepanzert) Heer: Western’. OKH Gen. Qu., d.
+5/8/1944, NARA T-78, 726, 6076170. For discussion of the spring 1944 war games,
+see
+
+5
+
+6
+
+Eckstein, ’Activities’, p. 24.
+
+On the importance of the aerial interdiction campaign to Allied victory in
+Normandy, see Public Record Office, Kew (hereafter PRO, Kew) AIR 40/1669, RAF
+Bombing Analysis Unit, ’The Effect of the OVERLORD Air Plan to Disrupt Enemy
+Rail Communications’; PRO W[ar] O[ffice] 205/172, ’Pre-invasion Bombing
+Campaign’; Wesley Frank Craven and James Lea Cate, The Army Air Forces in World
+War II III
+: Europe: Argument to V-E Day, january 1944 to May 1945 (Chicago, Univ. of
+Chicago Press, 1951); Sir Charles Webster and Noble Frankland, The Strategic Air
+Offensive Against Germany, 1939-1945 III: Victory pt.5 (London, HMSO, 1961); Walt
+W. Rostow, Pre-invasion Bombing Strategy: General Eisenhower’s Decision of 25 March, 1944
+(Austin, Univ. of Texas Press, 1981); and Maj. O. Jaggi, ’Normandie 1944:
+Auswirkung der allierten Luft&uuml;berlegenheit auf die deutsche Abwehr’, Allegemeine
+schweizerische Milit&auml;rzeitschrift, CXXIV (H5) (1958), pp. 333-61. In spring 1944 the
+Germans had only one regiment of railroad engineers, the 6th, deployed in the
+West. On the backlog of trains, see ’Vortragnotiz’, Anl. zum Ktb. Ob. Kdo. Hg. B
+Vers. Abt. Ib, d. 3/6/1944, NARA T-311, 1, 7000664. Capacities given are in US
+
+gallons.
+In Apr. 1944 the Germans had in the West 3 heavy (60-ton) and 6 light (8-ton)
+bridging columns; by 17 May the number had increased to 4 and 11 respectively.
+
+421
+These counter-measures met with little success. Greater anti-aircraft
+protection could only slow the inexorable destruction of German communications ; but it also increased munitions expenditures and hence
+exacerbated German supply difficulties. Despite steady reinforcement,
+the German railroad engineer and bridge-building forces in the west
+were simply swamped by the scale of destruction. Moreover, their efforts
+to restore communications were poorly coordinated. Three factors
+compromised the German effort to expand their strategic trucking
+capacity: the Wehrmacht’s overall shortage of motor vehicles, the need to
+improve the mobility of combat formations, and Hitler’s insistence on
+overexpanding the Westheer. Inadequate production meant that only a
+limited number of new trucks could be sent to the west during the spring
+of 1944. These trucks were assigned both to new divisions that Hitler
+insisted be raised in the west and to existing divisions to enhance their
+mobility. Since new production was insufficient, the strategic truck
+reserve had to surrender about 10% of its capacity in May to complete
+the equipping of these new divisions. Therefore, because of Hitler’s
+insistence on overexpansion, the Westheer was unable to expand its strategic truck transport reserve (see Table 1).7
+Table 1 Expansion of the German strategic transport reserve and decline in serviceability,
+1944 (in metric tons)
+
+Sources: ’Transportraum in der Hand der OB West’, Ob. West Qu.1 Br.B.Nr. 01800/44
+g.Kdos, v. 8.4.1944, Ob. West Qu.1 Br.B.Nr. 02250/44 G.Kdos, v. 8.5.1944, NARA T-314,
+
+11, 7014858 and 7015007.
+
+7
+
+The number of personnel employed on railroad repair activities increased from
+1 300 on 11 Mar. to 12 200 on 3 June. PRO, Kew, WO233/30, ’Report by SHAEF on
+the Effects of the OVERLORD Air Plan to Disrupt Enemy Rail Communications’,
+Nov. 1944, p. 33.
+Between Apr. and Aug. 1944 the Westheer received 11254 trucks. Despite this influx,
+Hitler’s insistence on overexpanding the Westheer saw its truck shortage increase from
+7 281 on 1 Aug. 1943 to 11447 on 1 June 1944. ’Kraftfahrzeuge (ungepanzert) Heer:
+(Western)’, 15 Aug. 1943 and 5 Sept. 1943, OKH Gen. Qu., NARA T-78, 614,
+000552, 000601; ’Kraftfahrzeuge (ungepanzert) Heer: Western’, 5 Aug. 1944 and 5
+Oct. 1944, OKH Gen. Qu., NARA T-78, 726, 6076089, 6076170. Between 1 Apr. and
+31 July 1944 the 6th Rail Engineer Regiment rebuilt 136 bridges, totalling 16824
+metres, a rate of one bridge every day. Tkb. Juni 1944 Ia/Stopi Hg. B, NARA T-311,
+28, 7034030; Pz.Gr.Kdo. West Ia/Stopi Meldung Ia Nr. 2809/44 geh., NARA T-311,
+28, 7034003. Of the 10 rail bridges over the lower Seine, one was reopened in June
+but demolished again in early July, another reopened in early July but was destroyed
+again before the end of the month, and a further two reopened in late July.
+
+422
+The Allied air offensive also eroded the German logistic position in
+the west prior to D-Day. The brake applied by the air campaign to the
+flow of supplies effectively reduced German stockpiles. The air offensive
+forced German supply operations off the rails and onto the roads, thereby increasing fuel consumption. To preserve dwindling stocks, the Westheer introduced stringent rationing on 3 June which halted 30% of its
+motor vehicles and slashed fuel allotted for training. The strategic transport reserve was forced to deliver supplies by road; its serviceability rates
+declined after April, eradicating the steady improvement initiated in November 1943 (see Table 1). Thus, before the invasion, the air campaign
+had eroded the Westheer’s ability both to redeploy its reserves to an
+invasion site and to resupply such forces. Clearly, if the Germans proved
+
+unable to defeat the Allies on the beaches, they could only fight a protracted defence in the west if unprecedented levels of supplies could be
+delivered from the Reich to the invasion sector.88
+Thus on 6 June 1944 the German logistic position in France remained
+inadequate for a prolonged defence. Munitions stockpiles were limited:
+the Westheer had amassed about three weeks’ stocks for its coastal defence
+divisions, four weeks’ stocks for the port fortresses, but only two weeks’
+stocks for its mobile reserves. The German fuel situation was even more
+precarious. The Westheer had only seven to ten days’ fuel stockpiled for
+its strategic reserves. While supplies with the front-line troops were
+adequate for the initial stages of an invasion, if the assault was not quickly
+repulsed a successful defence demanded the rapid shipment of the
+reserve stockpiles to the invasion site. Given the attack on the French
+rail system, completing this mission presented serious problems.’
+From war diaries it is possible to reconstruct the German logistic situation in north-western France on the eve of D-Day (see Tables 2 and 3).
+The defending German 7th Army possessed 18 748 tons of stockpiled
+munitions, sufficient for about three weeks’ combat. Of this total, however, only 38% (7172 tons) was stockpiled in Normandy; the rest was
+stored in distant Breton depots (see Figure 1). The 7th Army’s petrol
+situation was more perilous. On 1 June it possessed 1.035 million gallons
+of reserve fuel stocks, sufficient for only two weeks’ mobile operations.
+8
+
+9
+
+During early May German fuel consumption increased to 450 000 litres per day. Anl
+581 zu Ktb. Ob. West Ia Nr. 3898/44 geh. Kdos., v. 16/5/44, NARA T-311, 24,
+7028565-7. The economy measures introduced on 3 June grounded all passenger
+cars with 2-litre engines or larger and cut fuel for
+training by 15%. ’Betreibstoff
+Einschr&auml;nkung’, Ob. West Ia/O.Qu. West/Qu. 1 Nr. 027921/44 g.Kdos., v. 3/6/1944,
+NARA T-311, 29, 7183272. German fuel stocks in the West increased fractionally,
+from 74.157 million litres on 1 Jan. 1944 to 81.1 million litres on 1 May 1944.
+Anlage 6 zu Ob. West/O.Qu. West/Qu.1 Nr. 0700/44 g.Kdos., v. 12/2/44, NARA T311, 14, 7014621-4; Anlage 6 zu Ob. West/O.Qu. West/Qu.1/Betr. Stoff Nr.
+02290/44 g.Kdos. v. 8/4/44, NARA T-311, 014, 7015022-3.
+On the German logistic situation on the eve of D-Day, see Eckstein, ’Activities’,
+pp. 14-20, and ’Mun. Bevorratung im Westen’, GenStdH/Gen. U./Gr. Mun. I Az.
+2359 Nr. I/011 901/44 geh. Kdos., vom 25/5/44, NARA T-311, 24, 7028940. German
+mobile reserves on the eve of D-Day possessed between 3.5 and 5 fuel allotments
+Verbrauchsatz, abbreviated VS). One VS provided fuel to travel 100 km and was
+(
+reckoned sufficient for 2 days’ combat.
+
+423
+Table 2 Seventh Army munitions stockpiled at mainland depots, 1 June 1944 (in metric
+
+tons)
+
+Source: ’Versorgungslage A.O.K 7 Stand: 1 Juni 1944’, NARA T-312, 1571, 000607.
+
+Table 3 German army fuel stockpiles in mainland Normandy, 1 June 1944 (in thousands
+of gallons)
+
+Source: ’Versorgungslage AOK 7 Stand: 1 Juni 1944’, NARA T-312, 1571, 000607.
+
+The 7th Army’s gravest problem, though, remained distribution. On the
+eve of D-Day its quartermaster had at his disposal only 248 trucks with
+a lift capacity of 994 metric tons. This was utterly inadequate to meet
+even minimal resupply needs. Given the effects of the air campaign, the
+7th Army was dependent on the delivery of supplies from the strategic
+reserve depots located around Paris. In the first days of the invasion,
+however, Allied air attacks closed all the major rail lines into Normandy
+
+424
+
+4
+
+It
+êi)
+0)
+
+1Q)
+cc
+
+&dquo;3
+
+6
+U
+c:
+
+fa
+
+LL
+c
+
+Q5
+M
+
+Q)
+
+3
+(6
+
+2
+p
+Q.
+a
+cn
+
+Q)
+
+0
+-0
+C:
+
+cc$
+4
+
+0
+
+a
+
+CD
+&dquo;0
+
+-2!1
+aQ
+(D
+c
+
+cc
+
+E
+
+Q5
+(D
+,..
+
+2
+
+0)
+E
+
+425
+from the south across the Loire, thus completing the isolation of Norm-
+
+andy.’o
+On 6-7 June the 7th Army began to redeploy its operational mobile
+Normandy. To accomplish this task alone, however, required
+20 times its available lift capacity. Thus as early as 7 June planned German troop redeployments to Normandy grossly exceeded the available
+trucking capacity, and the 7th Army’s ability to resupply these formations
+once committed to combat. In these circumstances, the Germans established a fixed policy in an effort to forestall the Allied establishment of
+an
+impregnable lodgement. Priority was accorded to getting the troops
+to Normandy. Once there, the Westheer would worry about resupplying
+its forces. Given the effective interdiction of rail communications and
+the inadequacy of the strategic truck reserve, this resupply mission would
+present the Germans with insurmountable difficulties.&dquo;
+The priority accorded to troop redeployments exacerbated German
+resupply difficulties. In consequence, persistent logistical deficiencies
+plagued the German defence of Normandy. Because of the paralysis of
+the French rail network, the shortage of road lift capacity, and the priority given to troop movements, the Quartermaster General West could
+not dispatch sufficient supplies to cover front line consumption. Allied
+operations (air attack, sabotage, etc.) also inflicted a heavy toll on German resupply operations. During June enemy action destroyed 20% of
+German supplies en route to the front. Moreover, the aerial threat seriously delayed the delivery of supplies to the combat zone. Resupply operations had to be confined largely to night time. Round-trip resupply
+operations from Paris to Normandy thus averaged four to five days.
+Consequently, only a fraction of the supplies consumed at the front
+could be replaced. Up to 15 June, average daily deliveries of munitions
+covered less than 15% of daily expenditures. By 28 June only 37% of the
+munitions dispatched to the 7th Army had arrived. German supplies were
+even more vulnerable to Allied air attack once in the theatre of operations. Several major German munitions depots were destroyed by air
+reserves to
+
+10
+
+11
+
+Seventh Army supply return, 1 June 1944, NARA T-312, 1571, 000607. On 1 Jan.
+1944 the 7th Army possessed 7 450 000 litres of gasoline. This total had dropped to
+4 663 000 litres by 18 June. ’Ausz&uuml;ge aus Versorgungs-Tagesmeldungen’, Hg. B Ib Nr.
+0355/44 geh. d. 18/6/44, NARA T-311, 1, 7000704-5. Direct comparison of lift
+capacities of Allied and German trucks are complicated by two factors. First, the
+imperial ton is 1.6% larger than the metric ton. Second, unlike the Allies, who rated
+trucks according to their payload capacity, German classification was based on the
+weight of a loaded vehicle. Since a vehicle can carry roughly its own weight, the
+German rating system actually doubles the true lift capacity. Hence an Allied 1.5-ton
+truck had about the same lift capacity as a German 3-ton truck. Thus the true lift
+capacity of the 7th Army on D-Day was about 500 tons. ’St&auml;rke des Transportraumes
+f&uuml;r Verlastungszwecke’, AOK 7 Ia Nr. 2702/44 g.Kdos., NARA T-311, 1, 7000677-8.
+The Allies did not seriously attack the Loire bridges prior to D-Day because the total
+isolation of Normandy would have identified it as the invasion site.
+’St&auml;rke des Transportraumes f&uuml;r Verlastungszwecke’, AOK 7 Ia Nr. 2708/44 g.Kdos.,
+NARA 311, 1, 1000677-8. The priority accorded to troop movements is evident by
+the discrepancy between supply and troop trains arriving in June. While only 41
+supply trains arrived, no fewer than 157 troop trains arrived.
+
+426
+
+’
+
+attack in June. Consequently, the 7th Army’s stocks rapidly diminished.
+Thus German units throughout the campaign lacked sufficient ammunition for offensive operations. 12
+The German petrol situation became even more critical. Between 9
+and 13 June the Quartermaster General West dispatched his entire petrol
+reserve to Normandy. Fuel delivery was made more problematic by the
+dearth of fuel tankers in France and their vulnerability to air attack.
+Moreover, German fuel depots were primary targets for Allied air strikes.
+The depot code-named ’Berta’ located near Domfront was destroyed by
+air attack on 13 June. A more serious blow was the destruction of the
+largest German fuel depot in the west, located at Gennevilliers outside
+Paris, on 22 June with the loss of 607 000 gallons of fuel. Thus available
+fuel stocks plummeted. By 14 June the 7th Army had no stockpiled fuel
+left in Normandy and only 63 000 gallons in Brittany, less than one day’s
+supply. Even front-line units were down to a mere two or three days’
+stocks (sufficient to travel 100-150 km). Thus by the second week of the
+invasion the 7th Army had become dependent on daily fuel deliveries
+by rail and road from outside Normandy. Thereafter, only stringent
+rationing and repeated depredation of other field commands and Wehrmach branches could sustain German mobility in Normandy. 13
+In the first week of the invasion, Allied ground forces reaped considerable benefits from the air offensive: the Germans were unable to run a
+single supply train into Normandy across the Seine and Loire. By 14 June
+the German supply situation was officially described as ’catastrophic’.
+During that week the Germans realized that a protracted defence was
+only possible if rail communications were restored to Normandy. Thereafter, the Germans abandoned their uncoordinated and dispersed rail
+repair operations and focused on opening - and keeping open - two
+major rail arteries into Normandy: the Paris-Versailles-Dreux-Surdon
+line from the east and the Tours-Le Mans-Alencon-Sees-Surdon line
+from the south (see Figure 1). These two lines served the 7th Army’s
+major depots in the Le Mans-Alen~on area. Frantic work reopened these
+two lines during the second week of the invasion. On the night of 1819 June rail travel resumed from Paris to Dreux and Verneuil and across
+
+12
+Up to 15 June, the 7th Army expended 5 000 tons of munitions but received only
+3 000 tons; see ’Ausz&uuml;ge aus Versorgungs Tagesmeldungen’, Hg. B Ib Nr. 0355/44
+geh., d. 18/6/1944, NARA T-311, 1, 7000704-5. On the destruction of depots, see O.
+Qu. West, ’Besonders der Ereignisse’, 30 June 1944, NARA T-311, 14, 7014553.
+Incomplete returns for the 7th Army indicate that it lost 654 000 litres of fuel, 2 308
+tons of munitions, and 2 225 tons of trucking capacity during June. ’Ausfallmeldungen’, O. Qu. AOK 7 Nr. 9654/44 geh., d. 30/6/44, NARA T-312, 1571,
+13
+
+000841. On the effectiveness of Allied interdiction efforts, see Ktb. O. Qu. West, d.
+28/6/1944, NARA T-311, 14, 000550.
+O. Qu. West released 924 000 gallons of fuel between 9 and 10 June. By 13 June his
+reserve stocks were down to a mere 7150 gallons. Tkb. Ib Hg. B, v. 10/6/1944,
+NARA T-311, 1, 000710, NARA T-311, 14, 7014537, and Ultra Intercept, KV 8122,
+15/6/1944, PRO, Kew, DEFE 3/172. Seventh Army supply statistics are recorded in
+NARA T-311, 15, 7015185. The Quartermaster General West only had 2 specialized
+fuel tanker columns at his disposal. For attacks on fuel depots, see NARA T-311, 14,
+7014539, and Ob. West Ia Nr. 5676/44 geh., v. 23/6/44, NARA T-311, 14, 7029783.
+
+427
+the Loire at Tours as far as Le Mans. The Tours St Cyr bridge remained
+badly damaged, however, that it could not hold the weight of fully
+loaded trains. Locomotives had to be detached on the approach to the
+bridge, the wagons hauled across and then recoupled. On 25 June the
+badly damaged Tours Cinq Mars bridge also reopened under similar
+operating restrictions. The precarious condition of the two Tours
+bridges, plus the damage inflicted on the rail infrastructure in that area,
+meant that the southern artery remained only partially accessible. Most
+trains thus continued to unload south of the Loire until the end ofJuly. 14
+While the Germans endeavoured to reopen rail lines into Normandy,
+they were dependent on the delivery of supplies by road. Despite his best
+efforts, which included rigorous round-ups, constant attrition prevented
+the Quartermaster General West from significantly expanding his road
+transport capacity after D-Day (see Table 1). In fact, during the Normandy campaign the demotorization of the German forces accelerated as
+automobile losses exceeded deliveries. Allied tactical air forces inflicted
+a heavy toll on German transport assets moving supplies up from the rail
+heads and depots to the front. Furthermore, the relegation of resupply
+operations largely to night-time increased accident rates. In the first ten
+days of the invasion alone, 20% of the German strategic transport reserve
+was disabled by air attacks, breakdowns, and accidents. By late June the
+Germans were losing an average of 30 supply trucks daily. Incomplete
+figures for June indicate that over 2 225 tons of truck transport capacity
+was lost on resupply missions. These were in addition to losses at the
+front: in June alone Army Group B lost 4 200 vehicles, including 1 866
+trucks. Despite all their efforts, the Germans were unable significantly to
+expand their strategic transport reserve during the campaign. 15
+The German dependence on road resupply increased fuel consumption, thus aggravating the German fuel shortage. During June the strategic transport reserve alone consumed 800 000 gallons. Allied action
+so
+
+14
+
+15
+
+On 25 and 27 June the Saumur and Chalonnes (La Possonni&egrave;re) bridges were also
+reopened. The following lateral lines were also temporarily reopened in late June:
+Le Mans-Sable-S&egrave;gre-Redon-Quimper and Nantes-Rennes-Dol (23 June); SaumurCh&acirc;teau du Loir-Le Mans and Nantes-Angers-Le Mans (28 June). Two-thirds of the
+troop trains routed to Normandy across the Loire in June were forced to disembark
+south of the river. ’Seit Beginn der Invasion wurde folgende Wehrmacht-Transporte
+in Frankreich-Belgien-Holland gefahren’, General des Transportwesens West Abt. Ib,
+n.d., ’Zusammenstellung der Ausladungen der Reichs- u. Basis-z&uuml;ge im Juni 1944’,
+n.d., ’Ausladungen der Einzelnachschubsendungen innerhalb der besetzten Westgebiete’, n.d., NARA T-78, 611, 000088, 000089, and 000092; Chef Trspw./vorgesch.
+Staffel, untitled bridge report, 23/6/1944, General des Eisenbahntruppen, NARA T78, 613, 000340-1; ’Zusammenstellung der in der Zeit vom 1/4-30/6/44 im
+Armeebereich durchgef&uuml;hrten bewegungen’, AOK 7 BVTO, NARA T-312, 1571,
+000983; ’Eisenbahn-nachschubtransporte’, O. Qu. West/Qu.1/NTBr.B.Nr. 03039/44,
+g.Kdos., v. 22/6, 23/6., 27/6/1944, NARA T-312, 1571, 000766, 000787, 000834.
+’Ausz&uuml;ge aus Versorgungs-Tagesmeldungen’, Ib Hg. B Nr. 0355/44 geh., NARA T311, 1, 7000704. Heeresgruppe B reported its total losses for June as 1 866 trucks, 33
+omnibuses, 103 prime movers, and 2 198 other motor vehicles, a daily average of 75
+trucks lost. ’Zusammenstellung der Totalausf&auml;lle an Kfz. in der Zeit vom 6/630/6/44’, Obkdo. d. Heeresgr. B, Anlage 1 zu Tgb. Nr. 11287/44 geh., d.
+29/7/1944, NARA T-311, 1, 7000828.
+
+428
+also interdicted a significant proportion of German fuel dispatched to
+the west. Of the 9.9 million gallons sent in June, 1.95 million gallons
+
+destroyed en route to Normandy, a million gallons were destroyed
+at depots, and more than 172 000 gallons were lost in the combat zone.
+Thus only about 60% of the fuel dispatched in June made it to the front.
+Army Group B made the pessimistic assessment that without a marked
+improvement in its logistic situation it would run out of fuel between 20
+and 25 July,. 16
+In late June, however, the German logistic situation in Normandy
+finally began to improve. This was the result of four developments: the
+reopening of rail movement into Normandy described above; the
+initiation of ferrying operations on both flanks of the Normandy front;
+were
+
+increased ’self-reliance’ as front-line divisions sent their own truck columns to collect supplies from rear depots; and the division of German
+supply responsibilities on the invasion front. 17
+With the restoration of limited rail communications to Normandy, the
+Germans were finally able to run a limited number of supply trains into
+the combat zone. In the latter half of June the Germans ran, on average,
+two supply trains a night to the advanced rail-heads. The restoration of
+rail communications increased the flow of supplies to the front in late
+June by about one-quarter. During the week 8-14 July, 17% and 35% of
+total German deliveries of munitions and fuel arrived by rail
+Beginning in mid-June, the Germans also expanded ferrying operations across the Seine. In spring 1944, 17 ferries were operating on the
+Seine with a cargo capacity of 420 tons. During the first weeks of the
+invasion the Germans transported additional ferries to the Seine and
+constructed new ones on site. German naval personnel worked feverishly
+to establish new dock facilities at Elbeuf for barges carrying supplies
+down the Seine from Paris. On 18 June the first barges left Paris,
+unloading at Elbeuf three days later. Thereafter the Seine ferrying operation expanded rapidly, and by July it was delivering about one-fifth of
+the supplies reaching Normandy.&dquo;
+16
+
+For fuel destruction statistics, see Tagesmeldung O. Qu. West v. 1/7/1944, NARA T-
+
+311, 15, 7015271.
+17
+
+The 7th Army first reported a ’slight improvement’ (’Geringe verbesserung’) in its
+logistic situation on 18 June due to the reopening of the two rail lines, KTB O. Qu.
+West, 18/6/1944, NARA T-311, 14, 000543.
+18
+Allied estimates were that each German supply train had the equivalent load capacity
+of 180 trucks. PRO, Kew, CAB44/243, Lt-Col. A.E. Warhurst, ’OVERLORD: D-Day, 6
+June 1944’, p. 26. The first German supply train entered Normandy on 14 June and
+the Germans averaged 2.4 trains a day for the rest of June and 2.7 a day in July.
+General des Transportwesens West lb, ’seit Beginn der Invasion wurde folgende
+Wehrmacht-Transporte in Frankreich-Belgien-Holland gefahren’, n.d., NARA T-78,
+611, 000088.
+19
+The 846th and 850th heavy bridging columns moved to the Seine to construct and
+operate ferries, and were joined after 13 June by the ferry company of the 86th
+Amphibious Engineer Battalion. By 23 July the number of ferries operating had
+increased to 26, with a lift capacity of 603 tons. Between 1 and 10 July an average of
+433 tons were delivered daily. In the week 8-14 July, Seine ferrying accounted for
+16% and 19% respectively of total munitions and fuel delivered to Normandy. By 1
+Aug. Allied aerial reconnaissance had identified 104 vessels operating on the lower
+Seine. ’F&auml;hren u. &uuml;bersetzmittel Lagekarte’, A.Pi.F&uuml;h. 15 Br.B.Nr. 16/44 geh., v.
+
+429
+Parallel ferrying activities were also initiated from the Atlantic ports
+of Bordeaux and Royan to the ports of Brest, St Nazaire, St Malo, and
+Cherbourg. But due to lack of shipping capacity, Allied air attacks, the
+distances involved, and supply shortages in western France, the Atlantic
+ferrying operation never made as significant a contribution to the German resupply effort as did the Seine ferrying. At its height, during the
+week 8-14 July, Atlantic ferrying accounted for 16% of total munitions
+
+delivered.2°
+With the reopening of rail communications and the instigation of ferrying, the flow of supplies to central Normandy significantly increased.
+By mid-July half of total German supply deliveries arrived by rail and
+water. But the major German difficulty remained the
+transshipment of
+these supplies from the rear depots, ports, and rail-heads to the front.
+This difficulty could only be alleviated by combat units collecting their
+own supplies. From mid-June the use of divisional
+transport columns on
+supply-collection missions to army depots and rail-heads became commonplace. The losses suffered by the truck columns employed on these
+missions exacerbated the increasing immobility of front-line units (see
+Table 4).&dquo;
+In early July, the Westheer divided logistic responsibility for the Normandy front. Hitherto, the 7th Army had been solely responsible for all
+resupply operations. Hereafter, Panzer Group West assumed the supply
+Table 4 Decline in serviceability rates of trucks and prime movers among selected German mechanized divisions in Normandy, June-August 1944 (%)
+
+Source: ’Zustandberichte, Panzer Divisionen, Stand 1.6-1.8.1944’, General Inspektor der
+Panzertruppen, NARA T-78, rolls 616, 623-4, 718-19.
+
+20
+
+21
+
+28/2/44, NARA T-312, 519, 8118913; Ktb. des Ia/Stopi, Ob. West, Mai-Juni 1944,
+NARA T-311, 28, 7033993 ff.; ’Fl&uuml;&szlig;&uuml;berg&auml;nge u. d. Seine: Stand 23/7/1944’, Anl. zu
+A.Pi.F&uuml;h. 15 Br.B.Nr. 2950/44 g. vom 24/7/1944, NARA T-313, 421, 8714680; ’Seineschifffahrt Stand: 10/7/44’, Tkb. d. Ktb. Qu. Abt. Ib, Anl. zu KTB O.Qu.West, Juli
+44, NARA T-311, 15.
+In June 1445 900 gallons of fuel were delivered to the West by canal; see ’Wehr
+machttransporte auf Binnenwasserstrassen’, T&auml;tigkeitsbericht des General des
+Transportwesens West, T-78, 611, 000092.
+In the week of 8-14 July, 26% of total deliveries of fuel and munitions arrived by
+rail, 28% by water, and 46% by road. Ob. West, ’Versorgungsberichten Stand: 10/627/7/1944’, AOK 7 O. Qu., NARA T-311, 15, 7015166-472. This near-complete set
+of daily supply reports compiled for the Quartermaster General West list all the
+supply convoys and most of the supply trains dispatched to Normandy along with
+departure points, destinations, and anticipated dates of arrival. They thus provide an
+accurate picture of the German resupply effort.
+
+430
+mission on the right (or eastern) flank where it opposed the Anglo-Canadians at Caen. The 7th Army’s responsibility was limited to the western
+flank opposite the American forces advancing on St L6. This separation
+eased the administrative strain that the 7th Army’s quartermaster had
+been under.
+During July the German logistical situation on the eastern flank continued to improve, albeit slowly. The Germans managed to run several
+supply trains through to Dreux and Verneuil nightly, as well as to unload
+several barges at Elbeuf. By concentrating its resources on only a couple
+of lines, the German railroad engineers were able to keep the VersaillesDreux line open despite repeated air attacks. Allied air power also proved
+unable to neutralize the Seine ferries: they were much harder to hit than
+bridges or rail installations, and ferrying mainly took place at night. Panzer Group West was thus able to resupply its forces sufficiently to halt
+all Anglo-Canadian efforts to push south-east and capture Falaise.
+On the German western flank, where the 7th Army opposed the Americans at St L6, however, there was no parallel improvement in July. On
+the contrary, the German logistic situation deteriorated further. Ferrying
+was less extensive, resupply distances greater, and lateral communications lines less developed. Moreover, the Germans simply proved
+unable to run as many supply trains into Normandy across the Loire as
+they could across the Seine. Consequently, in the face of major American
+offensive action between 3 and 21 July that culminated in the fall of St
+L6, the 7th Army’s supply stockpiles dwindled. But it was the German
+inability to sustain rail deliveries across the Loire that contributed
+directly to the collapse of the German front at St L6 in late July. The
+catalyst for an ultimately fatal decline in the 7th Army’s supply situation
+on the American sector of the Normandy front was the renewed destruction of the St Cyr railway bridge and the marshalling yards at the communications hub of Tours on 15 July. Since its reopening in mid-June,
+Tours had become the supply lifeline for the 7th Army. Between 9 June
+and 7 July, 10 440 tons of supplies passed through Tours by rail, an average of 360 tons a day. This route accounted for about one-third of the
+total supplies reaching western Normandy, and more than 40% of the
+7th Army’s fuel. The importance of the Tours supply line can be gauged
+by the immediate and frantic German effort to repair the bridge by erect-
+
+ing a temporary span.22
+As the Tours supply artery was reclosed, the Quartermaster General
+22
+
+The Saumur and Tours Cinq Mars rail bridges were destroyed anew some time in
+early July and a similar fate befell the Nantes rail bridge on 20 July, by which date
+Chalonnes was again down. Thus on the eve of Cobra only the single-track Port
+Boulet rail bridge remained open over the Loire. The Allies never attacked this
+bridge because it was a tertiary route of limited capacity. PRO, Kew, DEFE 3/62,
+Ultra Intercept XL 3649, 27/7/1944. On the destruction of Tours and its logistical
+importance see Hg. B Ib Br.B.Nr. 0908/44 geh., d. 15/7/1944, NARA T-311, 1,
+0000804. The renewed destruction of the Loire rail bridges, especially the Tours St
+Cyr bridge, was fortuitous in the sense that it was part of the ongoing interdiction
+campaign and unconnected to the then embryonic Cobra plan.
+
+431
+West’s ability to resupply the 7th Army by road continued to decline as
+his trucking pool diminished. Due to the few lateral lines of communication in western Normandy, and the greater distances involved, resupplying the 7th Army was more difficult than supplying Panzer Group
+West on the eastern flank. Moreover, a smaller proportion of the supplies
+dispatched to the 7th Army made it to the front. Even before the destruction of Tours, the 7th Army had become increasingly dependent on its
+own truck columns to bring up supplies.23
+The destruction of the Tours supply artery accelerated the decline in
+the 7th Army’s logistical position. The Quartermaster General West
+could not compensate for the cessation of rail delivery of fuel by
+increased road delivery. Consequently, in the week after the destruction
+of Tours, petrol dispatched to the 7th Army fell by 22%. Moreover, the
+destruction of the 7th Army fuel depot ’Bruno’ near Chateaubriant by
+Allied air attack on 16 July compounded German fuel difficulties. An
+examination of fuel returns for the LXXXIV Corps on the St L6 front
+demonstrates a sustained depletion of petrol stocks at the very moment
+when US forces were preparing to launch Operation ’Cobra’, their breakout effort (see Table 5).24
+The Germans reopened the Tours rail bridge on 23 July. But this was
+too late to replenish the 7th Army’s supplies before the onset of Cobra
+on 25 July. In the meantime the Anglo-Canadians launched Operation
+’Goodwood’ (18-20 July) to hold German reserves on the eastern flank.
+Controversy still surrounds the contribution that Goodwood made to the
+success of Cobra. But what historians have missed in assessing Goodwood’s contribution was its impact on German logistics. It was in this
+realm that its contribution was decisive. The Quartermaster General West
+was only able to dispatch petrol by road to the 7th Army on one day in
+the week between Goodwood and Cobra, as his tanker columns were
+Table 5 Comparison of fuel availability, St L6 and Caen sectors, June-July 1944 (in
+ration allotments)
+
+Sources: Versorgungslage u. Tagesmeldungen, I SS Pz. Korps, LXXXIV Korps, Pz.Gr.
+West, 7th Army, Army Group B, OB West, O.Qu. West, NARA T-311, rolls 1-5, 27-8; T312, 1569-70 ; T-313, 420-2, T-314, 1568.
+23
+
+24
+
+Between 8 and 14 July 48% and 43%, respectively, of the 7th Army’s munitions and
+fuel arrived by rail and water. After the destruction of Tours, all of its supplies
+arrived by road. The proportion of total fuel deliveries by road that the 7th Army
+was forced to collect itself increased from 51% between 17 and 21 July to 86%
+between 16 and 22 July. Ob. West, ’Versorgungsberichten Stand: 10/6-27/7/1944’,
+AOK 7 O. Qu., NARA T-311, 15, 7015166-472.
+Ob. West, ’Versorgungsberichten Stand: 10/6-27/7/1944’, AOK 7 O. Qu., NARA T-
+
+311, 15, 7015166-472.
+
+432
+
+fully committed to resupply operations on the Anglo-Canadian sector
+after the heavy Goodwood expenditures. The 7th Army only maintained
+its petrol receipts at 73% of pre-Goodwood levels by employing most of
+its own trucks to collect fuel from the Le Mans, Alen~on, and Dreux
+rail-heads. Even then, on the eve of Cobra, the German LXXXIV Corps
+defending the St L6 front only had sufficient fuel to travel 74 km, enough
+for about two days’ heavy combat. In fact, as the Americans unleashed
+Cobra on 25 July, the first fuel train arrived at Le Mans via Tours, too
+late to reach the German front-line troops during the decisive first 48
+hours in which the German front was broken. 21
+Evidence suggests that the closure of the Tours rail route had a less
+detrimental impact on the flow of munitions than on the flow of fuel to
+the 7th Army. Nonetheless, it did have an important impact on the
+munitions situation at the front. To increase turnaround time after the
+destruction of Tours, the Quartermaster General West curtailed the distance that his transport columns were allowed to travel. Thus on 17 July
+the Germans abandoned deliveries to the 7th Army’s largest and most
+forward munitions depot, ’Michel’ at St Sever, 40 km east of Granville.
+Likewise, ’Mina’ and the fuel depot ’Brehmse’ were ordered to close on
+21 July. Instead, deliveries were diverted to depots further back such as
+’Martha’, east of Domfront. This quadrupled the distance that divisional
+transport columns on the St L6 front had to travel to collect munitions,
+and further strained the German petrol situation. Consequently, German
+munitions holdings on the St L6 sector steadily declined during July.
+Between late June and 24 July, Kampfgruppe Kentner’s munitions stocks
+for machine guns and mortars declined by 64% and 75%, respectively.
+A rare extant munitions return for Kampfgruppe Kuske of the 17th SS
+Panzer-grenadier Division ’G6tz von Berlichingen’ on the St L6 sector on
+the eve of Cobra also illustrates the extent of the German munitions
+shortages. The battle group possessed only 1000 rounds per machine
+gun, and 30 rounds per rifle - about sufficient for one day of heavy com-
+
+bat.26
+Assessments of the success of Cobra have focused almost exclusively
+rapid and effective American execution of the operation in combi-
+
+on the
+
+25
+Between 17 and 21 July a daily average of 85 250 gallons was dispatched to the 7th
+Army; between 22 and 26 July this figure dropped to 62 500 gallons. Ob. West,
+’Versorgungsberichten Stand: 10/6-27/7/1944’, AOK 7 O. Qu., NARA T-311, 15,
+7015166-472.
+26
+On the closure of Mina and Brehmse, see PRO, Kew, DEFE 3/62, Ultra Intercept XL
+3573, 26/7/1944. Kampfgruppe Kentner, munitions return, G2 Periodic Reports,
+First U.S. Army, No. 51, 31/7/1944, Annex 1, Washington National Record Center,
+Suitland, MD, (hereafter WRNC), Record Group 401, 101-20. 88 mm antitank rounds
+declined from 146 to 54 per gun between 10 and 25 July; see LXXXIV Army Corps
+Weapons Returns, 10/7, 25/7/1944, PRO, Kew, DEFE 3/55, Ultra Intercept XL
+1897, 13.7.1944, and DEFE 3/62, Ultra Intercept XL 3709, 27/7/1944. Kampfgruppe
+Kuske, ’Tagesmeldung’, 23/3/1944, NARA T-354, 156, 3800792. The battle group’s
+holdings amounted to about 30% of a standard German munitions allotment, which
+was consumed on average in 5-6
+
+days in Normandy. ’Grosse Munitions Ausstatung
+
+(Heer)’, Anl. 2 zu Ob. West/O.Qu. West/Qu.1 Nr. 0700/44 G.Kdos., v. 12/2/1944,
+NARA T-311, 14, 70104599.
+
+433
+nation with the badly weakened state of the German defence. But close
+analysis of the density of the German defence on the St L6 and Caen
+sectors on the eve of Cobra illustrates that there was little disparity in
+German strength on the two sectors (see Table 6). Moreover, during
+August the Germans would successfully stall three Anglo-Canadian
+offensives where the Germans were far more heavily outnumbered than
+at Cobra.27
+
+The missing link in the explanation of the success of Cobra are Gerlogistical deficiencies. During Cobra, for the first time in the campaign, such difficulties prevented the Germans from offering an effective
+defence. It was these problems, as much as combat exhaustion, that made
+it impossible for the Germans to cordon off the Cobra break-in on 256 July as they had all previous Allied offensives. By the first evening of
+Cobra, the defending German LXXXIV Corps had expended all the
+ammunition for the 88 mm anti-aircraft guns which formed the backbone of its anti-tank defence. Supply shortages explain why the 7th
+Army’s reserve, the elite and still powerful 2nd SS Panzer Division ’Das
+Reich’, utterly failed to take its presence felt on the Cobra battlefield.
+On 26 July, the 7th Army reported that the counter-measures by the
+defending LXXXIV Corps had been ’significantly prohibited’ by petrol
+shortages: that very day Das Reich had to abandon two companies of
+Panther tanks for want of fuel. By 28 July, LXXXIV Corps’s munitions
+stocks were ’critically low’. When combined with the German numerical
+weakness, German fuel and munitions shortages prevented the Germans
+from halting the Cobra breakout.2$
+Once the Americans had secured a breakthrough, mounting logistical
+problems and dwindling mobility unravelled the German defence in Normandy. The crisis at the front forced the Germans to resume daylight
+resupply missions in late July, which caused German motor vehicle losses
+man
+
+Table 6 Density of German defences of the St L6 and Caen sectors, 25 July 1944 (per
+
+kilometre)
+
+Sources: Tagesmeldungen, Kriegsgliederungen, u. Zustandberichte I SS Pz. Korps,
+LXXXIV Korps, Pz.Gr. West, u. Seventh Army, NARA T-312, 1568-70; T-313, 420-2; T-
+
+314, 1568.
+27
+
+28
+
+At Cobra the Americans outnumbered the Germans by only 2 to 1. During Bluecoat
+(30 July), Totalize (8 Aug.), and Tractable (14 Aug.), the Anglo-Canadian numerical
+superiority exceeded 3 to 1.
+German depletion of their Flak 88 munitions is identified in PRO, Kew, DEFE 3/62,
+Ultra Intercept, XL 3568, 26/7/1944. The munitions situation is discussed in
+USAHD FMS A-968, Genltnt. Otto Elfeldt, ’LXXXIV Corps, 28 July-20 August, 1944’
+(Germany, 1946), p. 11.
+
+434
+to snowball.
+
+During the first week of August the forward German supply
+
+overrun, and thereafter the Germans had no prospect of
+depots
+the
+front: German defeat in Normandy became inevitable.
+shoring up
+The 5th Panzer Army (the renamed Panzer Group West) then had to
+resupply all the German forces in Normandy from distant depots located
+near the Seine. The retreating German forces thus rapidly began to run
+out of fuel across the entire front. From 15 August fuel shortages increasingly stranded 7th Army formations, and for the first time the Germans
+began to abandon stranded armour en masse. In the last two weeks of
+August the fleeing German forces abandoned motor vehicles by the thousand. The Germans managed to extricate across the Seine about onethird of the troops, one-quarter of the vehicles, and 10% of the heavy
+weapons that they had committed to Normandy.29
+Clearly, logistical difficulties were a major factor in the collapse of the
+German defence of Normandy. They prevented the Germans from making a serious threat against the Allied lodgement and undermined the
+were
+
+German defence. In the absence of rail communications, insufficient supplies were delivered by road to the front and existing stockpiles were
+thus rapidly depleted just to maintain German forces at defensive supply
+levels. Only by reopening one major rail artery into Normandy across
+both the Seine and Loire and by expanding ferrying activities did a gradual improvement in the German logistic situation in Normandy
+materialize in late June. During July this improvement continued in eastern Normandy, where Panzer Group West opposed the Anglo-Canadians.
+The key to this was the Seine ferrying operations and the rail deliveries
+from Paris to Dreux and Verneuil. From these rail-heads the distance to
+the front by road was relatively short, and thus a higher proportion of
+supplies dispatched actually reached the front. In western Normandy,
+where the German 7th Army faced the Americans, there was no improvement in the supply situation during July. The Germans proved unable
+to run as many supply trains along the Tours-Alencon-Le Mans line as
+they could on the eastern flank. Ferrying along the Atlantic coast was
+less significant, and the distances involved much greater. Finally, the distance by road from Alen~on to Le Mans and the Breton ports to the
+front was considerably further too. Hence a smaller proportion of supplies made it to the 7th Army and delivery time was greater. Consequently, the German supply situation on the western flank continued to
+decline in July. With the renewed destruction of Tours on 15 July, the
+German resupply effort for the 7th Army suffered a crippling blow.
+German efforts to increase deliveries by road to the 7th Army from the
+29
+
+The XXX British Corps identified German resumption of daylight resupply missions
+on 29 July; see PRO WO 171/310, XII Corps, G. Branch (Ops.), ’Intel. Notes,
+29/7/1944’, War Diary, July 1944, Appendix H. For the 5th Panzer Army’s
+assumption of all supply operations for German forces in Normandy, see
+T&auml;tigkeitsbericht, Qu. LVIII Pz. Korps, 13/8/44, NARA T-311, 497, 000271. From 15
+Aug. lack of fuel stranded many German units. ’Abend-meldung’, Abt. IIa Ob. West,
+v. 15/8/1944, NARA T-311, 29, 7035569.
+
+435
+rail heads in eastern Normandy were hindered by the greater distances
+involved and by the launching of the Anglo-Canadian Goodwood offensive on 18 July. The Germans did manage to reopen the Tours line on
+23 July, but this proved too late to replenish the 7th Army’s supplies
+before the start of Operation ’Cobra’ two days later. Critically short of
+fuel and munitions, the 7th Army proved unable to halt the American
+breakout at the end of July, thereby condemning the Germans to defeat
+in Normandy. In retrospect, the fortuitous destruction of Tours ten days
+before the initiation of Cobra proved optimal timing for the success of
+the American breakout bid. If Tours had been destroyed any earlier the
+Germans could have repaired the bridge in time to bring up fresh supplies ; any later and German supply levels might not have been sufficiently
+eroded to ensure a decisive breakout.
+Ohio State University
+Columbus
+
+

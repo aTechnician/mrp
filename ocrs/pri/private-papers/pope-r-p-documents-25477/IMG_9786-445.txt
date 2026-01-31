@@ -1,0 +1,14 @@
+7 1/1% /1
+Нево
+REPORT /VL-AuG
+43
+ATES
+TANTZEN
+EXERCISE
+esc
+caps lock
+shift
+20
+Q
+A
+control

@@ -1,0 +1,89 @@
+5 secs pause.
+S1.
+' Hullo all stas S1-Intercomn......
+'1 Wilco-out.
+......over.'
+S2.
+2 Wilco-out.
+S3.
+' 3 Wilco-out.
+(21) Message Containing Code Sign.
+S1. '1 Roger-out?'
+' Hullo S1—Code Signs 2 and 3 coming to your help—S1—over.'
+(22) Message Using ' Out To You.
+S1. ' Hullo S1-Need assistance—S1-
+C.
+'1 Roger-out to you—Hullo S2—Conform to code sign 1—S2—over.'
+S2, '2 Wilco—out.'
+(23) Use of ' Out' When Control Can See Compliance With Orders.
+C.
+' Hullo S1-Paddington—S1-out.' (Control sees No. 1 Tp. comply).
+(24) Flicking.
+C.
+S1.
+'1 Wilco—over.'
+• Hullo all stas $1 —Deluge (Code word for other freg.) —all stas S1-over?
+S2. '2 Wilco—over.'
+S3. ' 3 Wilco-over.'
+C.
+' Hullo all stas S1—Deluge—now—out.'
+(25) Imposing W/Silence.
+C.
+' Hullo all stas S1-Lupin—all stas S1— over.'
+S1.
+S2.
+'1 Wilco—over.'
+' 2 Wilco—over.'
+S3. ' 3 Wilco—over.'
+C.
+' Hullo all stas S1—Lupin now-out.
+(26) Lifting W/Silence.
+C.
+S1.
+' Hullo all stas S1-Mickey—report my signals—all stas S1 over.'
+' Hullo S1, Hullo S1, O.K.—over.'
+S2.
+S3.
+' Hullo S2, Hullo S2, O.K.—over.'
+' Hullo S3, Hullo S3, O.K.—over.'
+C.
+' All stas S1 - O.K.—out.'
+Normally a check call would not be necessary and an operational message would take
+its place.
+(27) Closing Down a Group.
+Hullo all stas S1—Monkey nuts (close down)—all stas S1—over.'
+S1.
+' 1 Wilco-over.'
+S2.
+' 2 Wilco-over.'
+S3. '3 Wilco—over.'
+C.
+' Hullo, all stas S1—Monkey nuts now—out.'
+(28) Two Stas On The Air Simultaneously.
+Control deals with sta whose transmission ends last.
+(29) Procedure For Netting On Another Frequency.
+C.
+' Hullo all stas S1—Deluge in figs. 2 mins—all stas S1—over.'
+S1.
+"1 Wilco—over.'
+S2. '2 Wilco—over.'
+S3. ' 3 Wilco-over.'
+C.
+' All stas S1-Roger—out.'
+Note: The 2 mins counts from ' out.'
+(30) Flank Communication.
+Laying down a procedure for flank communication does not authorize its use unless
+the message is of extreme urgency.
+There are two systems (a) Normal, Control does not
+take part (b) When Control retains command of net.
+System (a) is more suitable for R.A.C. working as discipline should be so good that
+an outsta would not pass a message by this means unless it was of extreme urgency.
+A Normal.
+S1. ' Hullo S1-message for 2—figs. 3 ants in re-entrant half right—1 and 2-over.'
+S2. ' Hullo 2—say again—over.'
+S1. 'Hullo 1—1 say again—figs. 3 ants in re-entrant half right—over.'
+S2. '2 Roger—out.'
+Note: After initial call, stations use their own code signs only.
+419
+7088/69:00
+DEMEMBER
