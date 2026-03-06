@@ -1,0 +1,2067 @@
+Logistics Under Fire:
+The Logisticians of 90 Company RASC and the Logistics of Operation Overlord
+
+5th March 2026
+
+1
+Introduction
+It’s 1430 hrs on 6 June 1944. LST 382’s bow doors opened are open and, its ramp
+partially lowered as it rapidly closes onto the French coastline. A shudder runs through the
+ship as the LST beaches followed by a crash as the ramp drops its final six feet revealing to
+Captain Foreman, C Platoon (Pl), 90 Company (Coy) Royal Army Service Corps (RASC)
+a beach named Queen. In front of him was a war zone clogged with traffic, struck by
+intermittent shell fire, and was still subject to sniper fire. Only a few hours before, the men
+of the 8th British Infantry Brigade and the 27th Armoured Brigade (27 Armd Bde) — the
+latter, their home Brigade (Bde) — hit the beach, drove off the German defenders and were
+now proceeding inland. Behind him was 11 of his platoon’s 36 3-ton Bedford lorries.1 In
+these lorries was ammunition and other critical supplies urgently needed by the Paras of the
+6th Airborne Division who, the night previous, jumped into the flack-filled skies over France
+to secure the Anglo-American left flank.
+As C Pl took their first steps onto France, they would have looked for sign-posts,
+a Military Policeman, an RAF Airman, or frankly, anything else that might direct them
+towards a beach exit, and onto the congested roads to take them to Colleville-sur-Orne, 3
+km away. The trip took around 90 long minutes. When Capt Foreman finally arrived —
+doubtlessly irritated at the slow state of the roads — he hoped to find his Commanding
+Officer (CO), Major Cuthbertson, CO 90 Coy RASC who landed earlier that morning at
+
+1. 90 Company RASC War Diary, WO 171/2377, The National Archives UK (TNA), Kew, 31 May
+1944 and 6 June 1944 entries both found in June diaries (hereafter cited as TNA WO 171/2377).
+
+2
+0925 hours to establish contact with elements of the 6th Airborne Division who were awaiting
+a resupply.2
+Not far away, Lt Glenny of B Pl was also landing with nine lorries, not with supplies
+for paras, but with fuel for his colleagues fighting in the tanks of 27 Armd Bde.3 Unlike
+the individuals typically discussed in histories of the Second World War however, once their
+supplies were delivered, they would not take up arms and join the fight. Instead, they
+would find out what their client units required, return to the beach, and bring more supplies
+forward.
+This paper does not tell the typical story of D-Day and the subsequent capture of
+Caen. Instead of focusing on the fighting done by the troops or the decisions made by
+commanders, this paper focuses on the work that enabled the material battle to take place.
+It omits the supply chain from the factory to the harbour and focuses less on the ship-toshore operations. This is a story of supply only a few kilometres from the front lines. It
+is logistics under fire — an aspect so critical to warfare but so rarely understood. We will
+look into the logistics of those critical last few miles from the shoreline to the combat zone.
+Without the work, forethought, and attention paid by soldiers like the men of 90 Coy, the
+British Army would have ground to a halt. This study thus examines the contribution of
+these logisticians to the eventual success in the Normandy campaign. I thus intend to show,
+through concrete cases, how the British Army overcame the immense challenge of sustaining
+an army in the field.
+
+2. TNA WO 171/2377, 6 June 1944.
+3. TNA WO 171/2377, 6 June 1944.
+
+3
+To do so, we will follow Major Cuthbertson and 90 Company RASC as they worked
+their way across the English channel. We will continue to follow the Company as they land
+in Normandy, follow them as their client units attempted to capture the city of Caen, and
+we will briefly examine their role in the closure of the Falaise Pocket in August. We will also
+examine how the British Army structured logistics administratively. Along the way, we will
+look look into the challenges of providing sufficient ammunition, food, and fuel to the British
+Army. When 27 Armoured Brigade was broken up at the end of July, we will briefly see how
+90 Coy integrated into a larger and longer supply column as they supported infantry units
+through Normandy. Following this, we will have a brief discussion on historical methods and
+how they apply to military logistics.
+
+Historiographical Review
+It is of course imprudent to make any study of Operation Overlord without paying due consideration to the current, vast literature concerning Overlord. There are, texts
+like Russel A. Hart’s Clash of Arms where he argues that the British Army was doctrinally
+inflexible in facing the new developments required to meet the challenge of fighting the German Army and that the British Army’s doctrine was fundamentally unsuited fighting the
+Germans.4
+Stephen Ashley Hart pushes back in Colossal Cracks: Montgomery’s 21st Army Group
+in Northwest Europe 1944-45 where he argues that the British Army’s doctrine of Colossal Cracks
+was wholly appropriate given how, unlike the Americans who could afford to take casualties,
+
+4. Russell Hart, Clash of Arms: How the Allies Won in Normandy, The Art of War. (Boulder, Colo:
+Lynne Rienner, 2001), 8.
+
+4
+the British could not. By 1944 the British were rapidly running out of troops. Casualties
+simply could not be replaced.5 Indeed, over the course of the Normandy campaign, 21st
+Army Group would have to reorganize itself in order to make up the shortfall in men.6
+Stephen Hart argues that the British had to account for the legacy of the First World War
+which meant that they understood that the moral of the men could not be taken for granted.
+The men would not take kindly to the feeling that their lives were being spent needlessly.7
+Stephen Hart argues that this need to maintain both moral and troop numbers meant that
+mean that the set-piece battle, a form of battle that allowed the British to hammer the Germans with immense, pre-arranged fire-power before advancing under a curtain of artillery,
+was wholly appropriate to the practical constraints facing the British Army in 1944.8 This
+reliance on firepower was only possible due to the British Army’s effective internal logistics
+— an aspect Hart leaves out.
+The literature pertinent to the Second World War is not constrained to more general
+or strategic level histories however. Many works do narrow down into more specific aspects of
+the war. Stephen Napier’s The Armoured Campaign in Normandy examines ‘the performance and deficiencies’ of Allied Armour, the intentions of all senior commanders involved,
+the relationship between Eisenhower and Montgomery, and he does so from the perspective
+of the Anglo-Canadian-American armoured units fighting in Normandy. Napier gets quite
+
+5. Stephen Hart, Montgomery and “Colossal Cracks”: the 21st Army Group in Northwest Europe,
+1944-45, Praeger series in war studies (Westport, Conn: Praeger, 2000), 5.
+6. S. Hart, 58 – 60, 63 – 5.
+7. S. Hart, 27.
+8. S. Hart, 6 – 7.
+
+5
+close to the troops with sections discussing aspects of daily live such as the provision of rations and ammunition.9 Beyond noting that these critical stores arrive in company harbours
+however, Napier is relatively silent on the matter of logistics.
+Stig H. Moberg’s Gunfire! takes a similarly detailed line examining in great detail,
+the Queen of Battle that is the Royal Artillery. Moberg outlines the development of the
+Royal Artillery post First World War and explores the role of the 25-Pounder (pdr) field gun
+— a staple of Second World War service.10 He notes how the 25-Pdr, firing a relatively small
+projectile, was incapable of destroying fortified positions, but was perfectly able to suppress
+enemy forces in such positions, and of course, they were able to effectively kill troops in
+the open.11 He examines specificities such as the intricacies of gun laying, the adjustment
+of fire, barrage plans, and artillery tactics.He notes the British’s heavy reliance on artillery
+to suppress defending enemy troops lead to a high consumption of artillery ammunition.
+At El Alamein, ammunition expenditure reached as high as 577 rounds per gun in a 24
+hour period.12 With 4 guns per Troop, 2 troops per Battery (8 guns), and 3 Batteries per
+Regiment (24 guns), the British consumption of artillery ammunition was astronomical.13
+Even directed fire — fire specifically requested by a FOO to strike a specific target or target
+
+9. Stephen Napier, The Armoured Campaign in Normandy: June – August 1944, 1st ed (London:
+History Press Limited, The, 2017), 94 – 5.
+10. See Chapters 1 –3 Stig H. Moberg, Gunfire! British Artillery in the Second World War, OCLC:
+on1012892375 (Barnsley, S. Yorkshire: Frontline Books, an imprint of Pen & Sword Books Ltd, 2017).
+11. Moberg, 273.
+12. Moberg, 256.
+13. Moberg, 69.
+
+6
+area — a regimental fire mission could easily consume 240 shells within 60 seconds.14 Moberg
+notes the importance of the RASC in stock piling the vast reserves of ammunition required
+by the gun lines in advance of any major operation.15 Understandably, his study of artillery
+ammunition does not stray excessively far from the gun lines though, as we will examine
+later, the transport of artillery ammunition would prove quite a burden on the British Army’s
+supply and transport resources.
+Along similar lines, studies have been made of the Mulberry Harbours — two sets of
+rather ingenious floating piers and their accompanying breakwaters. was an example of this.
+He however is mostly concerned with the development and use of the harbours themselves
+and is less concerned with the supplies that ran over its piers and what happened to those
+stores once they made it ashore.
+Along similar lines, Christopher A. Yung’s Gators of Normandy studies the naval
+aspect of the invasion. Yung covers topics such as shipping space, landing craft, Army-Navy
+cooperation, and shore bombardment. Whilst he devotes some attention to naval logistics,
+he understandably, does not spend much time on the Army’s.
+Despite these modest complaints however, it would be unfair to say that logistics
+is wholly ignored. Instead, logistics tends to be shifted to the background. There are
+however, a number of exceptions though they do not always focus squarely on the Second
+World War. One of the more seminal academic works on the academic study of logistics
+is Martin Van Creveld’s Supplying War . As one of the first academic histories of logistics,
+
+14. Moberg, Gunfire, 133.
+15. Moberg, 125.
+
+7
+Van Creveld moves through some 400 years of Western military history to argue that it is
+impossible to adequately understand wars without understanding the logistical constraints
+imposed on the armies and how those constraints were overcome.16 He looks into the logistics
+of prominent commanders like Wallenstine, Napoleon, Moltke, Rommel, and indeed Eisenhower by examining the constraints and opportunities logistics imposed on these armies such
+as the constraints of ammunition, fuel, and fodder; as well as technological changes such as
+railways and the introduction of the internal combustion engine to warfare.17
+Regarding specifically the North-West Europe campaign, Van Creveld writes less on
+Normandy and more on the subsequent drive from the beachhead through France, Belgium,
+and the Netherlands. Here, he first does a general analysis of the logistical situation in
+September 1944 before analysing the logistical feasibility of Montgomery’s plan to advance
+the British Army into Germany through a narrow, knife-thrust of some 400 miles. VanCreveld also notes how Patton’s 3rd Army had a habit of outrunning their supply lines.
+As a consequence of this decision, his logisticians later struggled to keep up with his rapid
+advance. Van Creveld notes how the 3rd US Army’s logisticians had to take emergency
+measures such as foregoing the transport of clothing and equipment and prioritizing fuel,
+ammunition, and rations.18 This came to a head as units took to scrounging in order to make
+up for the shortfall in stores. This lead to some level of chaos in rear areas.
+
+16. Martin Van Creveld, Supplying War: Logistics from Wallenstein to Patton (Cambridge; New
+York: Cambridge University Press, 1977), 3.
+17. Van Creveld, 1–3, 81–2, 86–96, 124–8, 234–5.
+18. Van Creveld, 217–22.
+
+8
+Van Creveld notes how this problem was not generally experienced by the British.
+The British tended to operate closer to the Channel ports thus, simplifying their supply lines
+and reducing shortages. This lead to the British generally having tighter supply discipline
+than the Americans.19 This general availability of ports also meant that, for the British, the
+capture of Antwerp — a major Belgian port and one of the largest in Europe — was not
+strictly necessary.20 Van Creveld then discusses how, if Eisenhower was willing to support
+Montgomery’s plans for a major thrust into Germany, this attack could have been logistically
+supported — though only just.21
+Where Van Creveld falls short however is that he writes as if the logistical system
+was designed for the North-West Europe campaign. He notes how the Allies had a complex method for requisitioning supplies — what the British called ‘indenting’ — without
+considering how, at the user level, the act of submitting paperwork for receiving supplies
+was, fairly routine.22 Armies not only fight, but live on their supply lines. Thus, for the end
+user, the need to submit paperwork to get stores would likely have looked reasonably similar
+to normality, with many of the intricacies of meeting such requestions being absorbed by
+Quartermaster staff. Even in garrison, paperwork is necessary in order to acquire such a
+diverse array of stores ranging from rations, to tent pegs, to ammunition. In a sense, the pen
+is mightier than the sword not merely for it’s ability to express complex and profound ideas,
+but also because the pen completes the paperwork. The pen can order swords but without
+
+19. Van Creveld, Supplying War, 221–2.
+20. Van Creveld, 223–5.
+21. Van Creveld, 227.
+22. Van Creveld, 208–9.
+
+9
+the pen, those who hold the swords will starve. In this paper, I will therefore examine those
+more mundane, day-to-day aspects of logistics. Whereas Van Creveld is concerned with logistics strategy, I will look into the metaphorical — and occasionally literal — machinery of
+logistics.
+Julian Thompson’s The Lifeblood of War expands on Van Creveld’s work, using the
+same methodology to study more conflicts such as the Second World War and Vietnam.
+Neither of these books concentrate purely on the Second Word War though both draw
+examples from it.
+This is not the case with John Ohl’s Supplying the Troops which is a biography of
+American General Somervell, Commanding General US Army Service Forces. Supplying
+the Troops provides a decent overview on strategic level logistics and the military-industrial
+complex but it lacks the same boots on the ground, practical perspective of Van Creveld
+or Thompson. He instead focuses on the higher-level aspects of logistics diplomacy and
+industreal strategy.
+War of Supply by David D. Dworak solves this deficiency. Dworak argues that the
+allies learnt the finer points of logistics in the Mediterranean — skills they would later
+need in the North-West Europe campaign.23 Dworak goes into great detail on specificities
+such as the labelling of boxes, the coordination of landing craft, and the organization of
+beach groups. Alas, he takes a very American perspective. Whenever the Americans learn
+something from the British, on feels as if one reads it as if it is advice taken from outside of
+the hypothetical reader’s in-group. In a sense, this book is not so much about the Allies per
+
+23. David D. Dworak, War of Supply: World War II Allied Logistics in the Mediterranean (University
+Press of Kentucky, 2022), 2.
+
+10
+se, as much as it is about the Americans. Nevertheless, I draw much from Dworak’s methods
+and content. A highly American focus is common accross other treatments on Second World
+European logistics such as Supplying the Troops, Neptune, The Gators of Normandy, etc. as
+the American historiography on military logistics is far more developed.
+The role of logistics to the campaign in Normandy was not confined to the Allies
+of course, the Germans were also highly dependant on their supply chains. Unlike the
+Anglo-American forces however, the Germans, as the defender, had the luxury of being able
+to pre-position resources and to intricately plan their supply lines to effectively resist an
+invasion. Unfortunately for the Germans, that also made them a target. Russell Hart looks
+into this in Feeding Mars: The Role of Logistics in the German Defeat in Normandy 1944 .
+Here, he argues that the Allied aerial bombing campaign to destroy German logistics in
+Normandy was absolutely critical to the eventual German defeat in theatre.24 The Germans
+were simply never able to maintain adequate stocks of ammunition and fuel to make up for
+expenditure in Normandy.25 This, Hart argues, is a major factor in the effective collapse of
+German resistance during Operation Cobra. It was simply impossible for the Germans to
+keep fighting when they were only receiving 73% of the fuel they consumed and 15% – 37%
+of the ammunition.26 It was this eventuality of having to fight in a theatre of war without
+the supplies to fight a war that the logisticians of the Anglo-American armies had to avoid
+
+24. Russell A. Hart, “Feeding Mars: The Role of Logistics in the German Defeat in Normandy,
+1944”, War in History 3, number 4 (November 1996): 418, 420, visited on November 13, 2023, https :
+//doi.org/10.1177/096834459600300404.
+25. R. A. Hart, 425.
+26. R. A. Hart, 432, 425.
+
+11
+— something the presence of the English channel and the shortage of sealift certainly did
+not help.
+The challenge of obtaining and maintaining sufficient sealift was a major theme in
+Neptune by Craig Symonds. He looks into Operation Neptune, the seaborne component of
+Overlord arguing that we ought to not look at Operation Neptune as if success was assured.27
+Instead, to understand Neptune, it is necessary to understand the enormous amount of work
+done to prepare for the operation. This ranges from high-level planning at COSSAC (Chief
+of Staff, Supreme Allied Commander), to the shortage of LSTs. Symonds also remarks on the
+actual practicalities of operations in practice.28 Unlike many books on Normandy, Symonds
+pays a reasonable amount of attention to logistics primarily through high level logistics. This
+is quite reasonable for a book more concerned on the operational and strategic levels of war.
+Nevertheless, Symonds tends to keep his attention closer to the sea with most of his forays
+ashore being kept relatively near the coastline.
+Finally, of particular importance to this study of the British Army’s logistics is
+Clem Maginniss’s A Great Feat of Improvisation where he argues that the logisticians of
+the British Expeditionary Force (BEF) effectively saved the BEF in the 1940 campaign in
+France.29 To make this argument, Maginniss spends a good deal of time discussing the interwar periods. Here, he examines the role of the post First World War disarmament, the
+rearmament in the 1930s, and the shift in the British Army from being a mostly horse-
+
+27. Craig Lee Symonds, Neptune: the Allied Invasion of Europe and the D-Day Landings (Oxford:
+Oxford University Press, 2014), xvi.
+28. Symonds, 166–7.
+29. Clem Maginnis, A Great Feat of Improvisation: Logistics and the British Expeditionary Force in
+France 1939-1940, in collab. with Gary Sheffield (Warwick, England: Helion / Company Limited, 2021), 1.
+
+12
+drawn army, to being a fully motorized army when they returned to French soil in 1939.30
+Maginniss’s work is quite excellent but, alas, his study effectively terminates in 1940 after
+the arrival of the shattered BEF in the UK and the movement of those troops back to their
+UK garrisons. He makes brief mention of the challenge of rearming the shattered army but,
+quite fairly, Maginniss makes almost no mention of the British return to France four years,
+less two days, later.31
+
+A Note on My Sources
+This historiographical blindspot on British Army logistics is where I shall place this
+study; however, the history of the British Army’s logistics in the Second World War is vast.
+This study does not pretend to present a complete picture of supply in Normandy. Instead,
+it is a case study of how one Company , 90 Coy, supported a handful of client units. The
+selection of this particular unit was less intensional and more of an accident of scanning. This
+study was initially conducted with purely digital sources. Ancestry.org has been digitizing
+the war diaries of combat units at the National Archives in Kew and it appears that 90 Coy
+was digitized by mistake — certainly, all of 27 Armd Bde’s other support units were not
+digitized. This happy error is why I have focused on this company though this case-study has
+been supplimented with sources later obtained after funding was approved for research at the
+Library and Archives Canada, the Canadian Department of National Defence’s Directorate
+of History and Heritage, the Imperial War Museum, and the National Archives of the UK.
+
+30. Maginnis, A Great Feat of Improvisation, Part 1.
+31. Maginnis, 531.
+
+13
+Overlord on Paper
+It is thus from here that we return to the leathal fields of Normandy. Op Overlord
+was made up of a number of smaller operations. The amphibious landings were a part of Op
+Neptune. This operation established a 50 km wide beachhead in Normandy. Neptune divided
+this section of Normandy coastline into five discontinuous beaches. The Allied right was
+anchored by Utah beach on the Cotentin Peninsula and the Allied left was anchored by the
+River Orne and the Caen Canal at Sword beach. Between these flank beaches were Omaha,
+Gold, and Juno beaches. The Americans were responsible for Utah and Omaha, whilst
+Anglo-Canadian forces were responsible for Gold, Juno, and Sword beaches. Each beach
+was subdivided into a 2 – 4 sub-beaches and assigned a letter from A to R (phonetically,
+Able to Roger). 90 Coy, the subject of this study, primarily supported the troops of the
+3rd British Infantry Division and 27 Armoured Bde who landed on Sword beach. Uniquely
+amongst Neptune’s beaches, Sword beach would be assaulted from only a single sector,
+Queen beach — a stretch of smooth firm beach 400 yds deep at the low water mark, 30
+yds deep at high water, and nearly 3 km wide stretching from Lion-sur-Mer to La Brèche
+d’Hermanville.32
+Immediately inland of Queen ran ‘a strip scattered with seaside houses and gardens,
+to a[n inland] depth of 200 yards’.33 Along this strip were two roads that ran parallel to the
+beach, and 4 – 5 roads running inland. Three of these roads converge around 1000m inland
+
+32. Diaries for May, Operation Overlord 8 British Infantry Brigade Intelligence Summary 8th British
+Infantry Brigade War Diary, WO 171/611, The National Archives UK (TNA), Kew, Para 1a (hereafter cited
+as TNA WO 171/611).
+33. Diaries for May, Operation Overlord 8 British Infantry Brigade Intelligence Summary TNA WO
+171/611, Para 3a.
+
+14
+just North of the town of Hermanville-sur-Mer. The road then continues south through the
+town. On the south side of Hermanville, 2000 m inland, is a road that runs parallel to the
+coast. Turn right, and head West 3 km and you will find Cresserons a few hundred meters
+south of this road. Travel further 1000 m and you will reach La Délivrande. Returning to the
+Hermanville crossroads facing south, turn left and go East. In 1500 m you will find Colleville
+Sur Orne. Travel another 4 km South-East of Colleville and you will find Bénouville on the
+left bank of the Canal de Caen. In the 2000 m east of Bénouville lay the Canal de Caen,
+the River Orne, and Ranville. Everything North of this road was under the control of 101
+Beach Group, a logistics unit of brigade strength that formed the interface between the sea
+and the land. They co-ordinated the movement of men and materiel.
+If we return to the Hermanville crossroads and travel along the road running to the
+south for 10 km we would pass Beuville, Bieville, and Lebisey before finding ourselves on
+the outskirts of Caen. It is along this latter road that the 3rd British Infantry Division,
+supported by 27 Armd Bde and 90 Coy would attempt to advance to capture Caen on DDay Op Neptune. This thrust was executed by the 2nd Battalion King’s Shropshire Light
+Infantry (2KSLI) and the Staffordshire Yeomanry (the Staffs).They were meant to assemble
+around Hermanville at 1100 hrs D-Day and advance with the men of 2KSLI riding on the
+Staff’s tanks but, the Staffs were delayed for over an hour in heavy traffic on the beach and
+on the roads leading inland. Minefields prevented the tanks from going off road and thus,
+CO 2KSLI took the decision to advance alone with the Staffs catching up later.34 Their
+advance was halted at Lebisey that afternoon when an attack launched at 1615 hrs was
+
+34. 2nd Battalion, The Kings Shropshire Light Infantry War Diary, WO 171/1325, The National
+Archives UK (TNA), Kew, 1100 – 1230 hrs 6 June 1944 (hereafter cited as TNA WO 171/1325).
+
+15
+halted by snipers and machine gun fire at 1800 hrs a mere 3000 m North of Caen’s outskirts.
+2KSLI and the Staffs Yeo then withdrew to a more defensible position at Bieville with the
+last elements safely withdrawn six hours later at 2315 hrs.35 This failure to capture Caen on
+D-Day would force the British to spend the next two months attempting to capture the city
+thus forming the subject of this project.
+This study will also touch on the work done by 6th Airborne Division as part of
+Op Tonga, the pre-Neptune airborne landings executed by Anglo-Canadian forces. Their
+objective was to execute a series of airborne landings East of the River Orne, Caen Canal,
+and Sword Beach to secure the British left flank. To allow for future operations, they were
+also to capture the two bridges crossing the Caen Canal and the River Orne North of Caen
+along the road running between Bénouville and Ranville codenamed Rugger and Cricket
+respectively.36 All this was to be done during the night before the forces of Op Neptune
+landed. For approximately six hours, the paras of 6th Airborne would be cut off.
+Once the 3rd British Infantry Division landed at Sword beach, 8th Infantry Bde
+(185th on D-Day as the 8th were unable) would push inland, to Bénouville, cross the bridges
+if they were still intact, and reinforce and resupply 6th Airborne.37 That is how Capt Forman
+and the 11 lorries of C Pl 90 Coy found itself waiting in Colleville, around 4km away from
+Bénouville. They were waiting for their CO establish contact with the Paras. Once contact
+
+35. Staffordshire Yeomanry War Diary, WO 171/863, The National Archives UK (TNA), Kew, 6
+June 1944 (hereafter cited as TNA WO 171/863); TNA WO 171/1325, 1630 – 2315.
+36. Appendix 15 to May diaries. Overlord Operation Order No. 1 Appendex E Part II 185 Infantry
+Bde HQ War Diary, WO 171/702, The National Archives UK (TNA), Kew (hereafter cited as TNA WO
+171/702).
+37. The operations of 185 Inf Bde on D Day and D + 1 (found at the end of June’s diaries) TNA
+WO 171/702, 2.
+
+16
+was established, supplies could pour over Rugger and Cricket to resupply 6 Airborne by
+land. C Pl would then keep the paras supplied via Queen Beach until 6th Airborne’s RASC
+unit could take over. They were to land at Juno on D + 1.38
+Thus, by 1800 on D-Day, C Pl made contact with the Paras and, as the Paras had
+successfully captured Rugger and Cricket intact, C pl was able to replenish the depleting
+ammunition of 6th Airborne by 2300 hrs on D-Day — a five hour job. As 6th Airborne’s
+area of operations had yet to be fully secured, the drivers of C pl faced sniper fire throughout
+the day.39
+Whilst A and D Pls stayed in the UK to be brought across the channel on 15 and
+30 June respectively, B Pl also landed on D-Day. Their tasking was to support 27 Armd
+Bde primarily in terms of their fuel requirements and to otherwise keep the Bde supplied.
+Their 13 lorries were primarily loaded with fuel for the Bde’s Sherman tanks. Alas, due
+to the heavy shelling of Queen Beach, only 9 lorries had actually landed by 1200 hrs. The
+lorries that landed proceeded to the 27 Armd Bde’s A Echelon Area in Hermanville-Sur-Mer
+and would quickly be put to work keeping the Bde supplied with fuel and ammunition.40
+Hermanville, situated along the main road departing Queen Beach and the location of the
+Beach Sector Stores (BSS) became 90 Coy’s main control point where vehicles would check
+in before proceeding to the beaches or to the units. Neptune however failed to meet it’s
+D-Day objectives of pushing all the way to Caen — an optimistic goal at any rate. This
+
+38. S & T History 90 Coy RASC Armd Bde-Assault an account of the work carried out during the
+first four days of the Invasion, June 1944, August 1944, WO 171/2377, The National Archives UK (TNA),
+Kew, 1 (hereafter cited as TNA WO 171/2377 June History Report).
+39. TNA WO 171/2377, 6 June 1944.
+40. TNA WO 171/2377, 6 June 1944.
+
+17
+meant that supply lines were shorter than planned which may have reduced the stress on
+the 9 lorries of B Pl. This however came at the cost of having room for the disembarking
+troops thus adding to the issue of congestion.
+D-day and the days immediately following placed a great strain on the elements of
+90 Coy in France. There were many instances where tanks were replenished whilst still ‘in
+their forward positions’, with supply lorries advancing under tank escort.41 This single under
+strength platoon was trying to keep a whole brigade supplied — a task normally entrusted
+to a force over four times larger. Tasks which ordinarily would have been reasonably routine
+tasks were now incredibly onerous. Take the example of refuelling and reammunitioning
+the tanks each evening. What should have been an easy task done at the end of each day
+to ensure the Brigade was ready for the next day’s operations became an all night long
+ordeal requiring the initiative of the 9 lorry drivers of B Pl. They had to understand the
+requirements of their client unit before returning to the beaches to try to obtain the critical
+stores required by their units. It was paramount that these drivers not only knew what was
+needed, but the priority of what was needed in the event that there were insufficient stores
+available to meet an urgent order. This way, lorries were always moving supplies as close to
+maximum capacity as possible. Fortunately, by nightfall on D-Day, a small Brigade supply
+dump was beginning to form in Hermanville. Even still, 90 Coy was worked night and day
+with very little rest form D-Day till D + 4.42
+
+41. TNA WO 171/2377 June History Report, 6 June 1944; TNA WO 171/2377 June History Report,
+3.
+42. TNA WO 171/2377 June History Report, 2.
+
+18
+Thus was the dispositions 90 Coy on D-Day, two partial Pls made their way ashore:
+one would support their parent unit, 27th Armd Bde and one would help the 6th Airborne
+Division to their left until their own RASC unit could make it. Here, one can begin to see the
+role of 2nd line transport companies such as 90 Coy. They form the final interface between
+the wider supply system and the fighting units — it is these units that deliver the goods —
+however, how did these units such as 90 Coy interface with the rest of Army?
+
+The Supply Chain in Theory
+Whilst admittedly, the supply system on D-Day did appear somewhat improvised
+and ramshackle, there was good reason for this. Because the British failed to advance as far
+forward as planned, the supply dumps that were supposed to be set up along Sword Beach
+could not be established as planned. Still, the logisticians of the British Army tried to beat
+the formal, planned system into an effective supply chain however improvised it may have
+been. This may sound rather slap-dash however, the task was simplified by the fact that the
+British Army’s doctrine had an organic, built-in supply chain. This was after all, an army
+that could expect to not only be deployed to fight a large European Army, but also fight
+small wars across the vastness of the British Empire. This formed a pre-existing framework
+allowing the logisticians to bring some level of order from the chaos of D-Day. In a sense,
+Overlord’s logistical plans were more about adapting the pre-existing supply chain to the
+specific peculiarities of Overlord, than about creating something truly new. Thus, when the
+supply officers of Overlord found that the land that was to become their depots were still
+occupied by the Germans, they did not have to design a new supply chain, merely adapt the
+old plan to meet new conditions.
+
+19
+The Three Lines of the Thin Red Line
+In simplistic terms, the British Army’s logistics divided itself into three lines: the first
+line, the second line, and the third line. First line units consisted of the actual fighting units,
+units like the East Riding Yeomanry, the Queen’s Own Rifles, or the King’s Own Scottish
+Borderers. First line units had limited logistical capacities. First line units are the final
+point of distribution from the wider Army supply chain, and the actual man with the rifle.
+First line units are able to effect minor repairs to equipment, typically those that do-not
+require much in terms of skills to replace. The sorts of repair that the layman could effect
+like replacing a blown fuse, or changing the spring on a rifle. First-line units are, in effect,
+end users.43
+Third line units tend to feel more systematic. They are, in essence, high-order depots.
+They exist as bases and railheads. Third line units are responsible for bulk-breaking, preparing stores for later distribution and issue, and are capable of some operational warehousing.44
+The third line is capable of major repair and overhaul of equipment and, depending on the
+precise context of the third-line metaphor, can even include civilian contractors repairing
+things that the field army is incapable of repairing. In the perspective of first line units,
+third line units are people far away who fix things that are broken, and send forward the
+things they need.
+
+43. Field Service Regulations: Organization and Administration 1930: Reprinted with Ammendments
+Nos 1 – 11 1939, vol. 1 (London: The War Office, 13 December 1939), s. 58(1)i, s. 102.
+44. FSR 1, s. 105(2).
+
+20
+Second line units function as the interface between the third line and the first line.45
+The third line gets the supplies and prepares them for distribution to the units, the second
+line moves them to first line units, and the stores are used by the first line. 90 Coy RASC,
+the unit we are primarily concerned with, was a second line transport unit.
+
+The Principle of Supply
+Whilst these lines may seem somewhat disparate, the whole supply system was guided
+by the need to keep the Army functioning by ensuring it had what it needed, when it needed
+it. At it’s core,
+The principle of supply [in the British Army was] that field units should always
+have with them, or within reach, two days’ rations and forage, and one iron
+[emergency] ration, and that these stocks should be replenished by delivery, at
+a point within reach of the troops, of one day’s ration and forage each day.46
+Moreover, as the British Army was fully mechanized by the Second World War, forage
+should be read to include fuel. As such, supply was also to ensure that all vehicles would
+have full petrol tanks at the end of each day.47 To enable operational mobility, 2nd line
+transport was, according to doctrine, also to have immediately available, an additional 50
+mi (80 km) of fuel; and 3rd line transport, a further 25 mi (40 km) instantly available for
+use.48 Of course, it is unlikely that such vast quantities of fuel were landed on D-Day, but
+it does provide a picture as to the standard logistical range of the Army. The British Army
+
+45. FSR 1, s. 101.
+46. FSR 1, s. 107(1).
+47. Maginnis, A Great Feat of Improvisation, 73, 79–80.
+48. Precis of Lecture No. 12: Petrol No. 27 (Winter) War Course, 2017/7 Box 3 File 7, Directorate
+of History and Heritage Archives (DHH), Ottawa, s 3.
+
+21
+was expected to be able to advance independent of it’s bases for slightly over 75 mi (120 km)
+over the course of three days. Thus, this formed it’s maximum theoretical operating range
+and maintaining this ability to move would become the challenge faced by 90 Coy, the RASC
+as as well as the RAOC as a whole. Of course, it is sub-optimal for an Army to operate for
+long without access to its supply chain so, to support the Army, the supply chain was broken
+up into four main areas. Ordered from furthest to nearest the front line, the Base Sub-Area
+(BSA), the Line of Communication Area (LofC), the Corps or GHQ Area, and finally, the
+Divisional Area. Those nacent depots that 90 Coy went to along the beach? Those would
+form the Beach Sub-Areas (BSA).
+
+The Base/Beach Sub-Area and Line of Communication
+In the first days of Normandy, it appears that Beach and Base Sub-Areas were treated
+as one in the same — there is little meaningful difference. Whatever the ‘B’ stands for, BSAs
+functioned as the British Army’s initial interface between sea and land. One can think of the
+BSA as a sort of harbour responsible for that first ship-to-shore operation, and for storing
+and organizing those supplies for later use inland. The BSA had the docks, the base railway
+marshalling yard, a main supply depot, a petrol sub-depot, field bakery, and detailed issue
+depot.49 Cold storage was also available for rations such as sides of meat, etc. — of course,
+
+49. Precis of Lecture No. 5: “Key Plans and Maintenance Projects” No. 27 (Winter) War Course,
+Paras 8 – 9, see also the diagram on the recto of the first page of the precis. Precis on Lecture “Supplies in
+War”, (Part II) No. 27 (Winter) War Course.
+
+22
+it is unlikely that such niceties were available in the first days of the invasion, fresh rations
+were not even available until 11 July at Sword — and even then, it was limited.50
+The BSA would then interface with the Line of Communication Area (LofC). The
+LofC can be thought of as a transport network connecting the BSA with field units. These
+were railway networks or truck convoys that transported stores from the BSA to the field
+army. Whilst LofC areas could be exceed hundreds of kilometres in depth, one peculiarity
+in Normandy however was that the supply lines were quite short, measuring in the ones or
+tens of kilometres. Until the Anglo-American forces broke out of their beachheads, it was
+unnecessary to have a strict LofC area per se. The field army could simply draw stores
+directly from the BSA — the LofC area really is not necessary until the field army is some
+distance away from the BSA. As the Allies advanced deeper into France, a more formal LofC
+area would be established to convey the minutiae of war to the front.
+
+Supplies in the GHQ, Corps, and Divisional Areas
+Regardless of whether the Army was drawing stores directly from the BSAs or from
+the LofC, eventually, the field army would have to start drawing stores. To such ends,
+the Army was divided into two sections: the Corps / GHQ Area, and the Divisional Area.
+Typically, the distance — and thus, also depth of the Army — from the LofC area to the
+delivery points was 30 – 40 mi (50 – 65 km) At the GHQ level, one begins to see how
+the British Army sorted supplies. POL and other stores were handled in two theoretically
+separate systems. In both cases, it is at the GHQ level that stores were bulk broken.
+
+50. Precis on Lecture “Supplies in War”, (Part II) No. 27 (Winter) War Course, See diagram at
+end.
+
+23
+Let us handle the general stores first. Stores were first delivered to the Supply Column
+(Sup Coln) where stores are bulk broken. Think of this bulk breaking with the analogy of
+a grocery store. A grocery store may receive it’s goods in wholesale, bulk form, but then
+repackage it into smaller, more usable units to be easier to sell — a retail customer has
+little use for half a ton of potatoes; however, a pound could make a nice dinner. In the case
+of pre-packaged stores, bulk breaking is more similar to the procedure that occurs when a
+grocery store receives a palette of cereal which is subsequently unpacked and loaded as single
+units on a shelf. Thus, the Sup Coln HQ can function as an interface where the Army’s bulk
+handling meets it’s piece handing functions.51
+
+Petrol, Oil, and Lubricants (POL)
+Likewise, fuel could, at times be shipped in bulk initially however fuel for the British
+Army was not typically delivered to field units as such. It was almost always containerized
+first into tins. There are few modern equivalents to this in our modern world. When we buy
+fuel at the petrol station, we pump it from a massive underground tank into our cars where
+it’s sold by volume. Rarely do we buy a pre-packed can of fuel. This was however, how the
+British Army preferred to receive it’s fuel — in 4 Gal (18L) of petrol per tin.52 These tins
+were nicknamed flimsies. Flimsies were meant to be disposable so they were built cheap;
+however, as evidenced by the name, the design teams were perhaps overzealous on cheapness.
+The flimsies had an unfortunate habit of leaking such that it was quite common for them
+
+51. Precis on Lecture “Supplies in War”, (Part II) No. 27 (Winter) War Course, 3.
+52. Precis of Lecture No. 12: Petrol No. 27 (Winter) War Course, 3. For reference, the 2025 Toyota
+Corolla sedan has an approximately 50 l fuel tank whilst the 2025 Ford F-150 Raptor pick-up truck has a
+136l tank.
+
+24
+to arrive damaged. This lead to losses in fuel as well as a most inconvenient fire risk.53
+The flimsies were of such low quality that the British Army began to use, and then copy
+captured German (Jerry) petrol cans — hence the term jerrycan (a German petrol can).54
+By Overlord, jerrycans were plentiful and it appears that flimsies were mostly relegated to
+carrying water. Even containerized fuel was arriving ashore already loaded in jerrycans, and
+images of POL dumps post D-Day often depict stacks of jerrycans and not flimsies.55
+Nevertheless, despite the questionable durability of flimsies, the British Army had
+some sound reasons for using containerized, as opposed to bulk fuel distribution. Firstly, the
+tanker lorries in civilian use in the 1930s and 40s were not fit for military service; thus, if
+the British Army was to distribute fuel in bulk, special military tanker lorries would have to
+be developed — potentially at great cost.56 Secondly, containers are compartmentalized. If
+a bullet pierces a tanker lorry, one may loose thousands of litres of fuel before one notices;
+however, if a bullet travels through containerized fuel in transport (i.e. lorry full of flimsies),
+one may loose only a few tins worth of fuel.57 Moreover, keeping stored fuel in filled tanks
+help to guard against fire by reducing the amount of oxygen immediately available to the
+fuel.
+
+53. Maginnis, A Great Feat of Improvisation, 179, 198–9.
+54. Maginnis, 179.
+55. Army Film Unit, The Build-Up of Troops and Matériel in the British Sector of the Normandy
+Beachhead, A70 70-1 (6 July 1944), 8:30 – 10:55, https://film.iwmcollections.org.uk/record/ BvsowDHz1r
+SYs2sdsNsvg1He.
+56. Maginnis, A Great Feat of Improvisation, 178 As it happens, the British do end up creating these
+military tankers but, for reasons enumerated below, they were most heavily used in rear areas. Distribution
+to field units continued to use containerized distribution throughout the war.Maginnis, 184–7
+57. Precis of Lecture No. 12: Petrol No. 27 (Winter) War Course, Table at para 8.
+
+25
+Containerized fuel also has far fewer mechanical requirements. For bulk fuelling to
+work, one must have a working petrol pump. This could be quite inconvenient. Imagine
+having a tanker load of fuel but no way to get the fuel out of the tanker. Moreover, using this
+system, you can only fuel a few vehicles at a time. With containerized fuel, one merely pulls
+up to the vehicles, unload a few tins at each vehicle, and each crew then subsequently fuels
+their vehicle with a cheap easily replaceable funnel. Filling the fuel containers could be quite
+laborious in the field but this was partially mitigated by the flimsies being pre-packaged at
+the factory.58
+All told, the British POL supply chain was designed to provide containerized fuel for
+the Army. As designed, it was intended for the Army to be able to advance the whole army
+75 mi (120 km) using only such reserves held by the field army (the GHQ/Corps areas, and
+the Divisional Areas). 50 mi (80 km) of fuel would be held by the Divisions, whilst the
+Corps areas would hold the remaining 25 mi for the divisions, plus an additional 75 mi for
+the corps’ organic transport.59
+Once bulk broken at the Corps or GHQ levels, it was up to the 2nd line transport units
+like 90 Coy to then bring those stores forward into the Divisional areas and deliver them to
+the units of the end-user. Depending on operational requirements, this could mean delivering
+it directly to the individual end-users, or it could mean delivering such stores to the units who
+would then further distribute stores internally. This formed the basic, theoretical structure
+
+58. Maginnis, A Great Feat of Improvisation, 178–9.
+59. Precis on Lecture “Supplies in War”, (Part II) No. 27 (Winter) War Course, 3.
+
+26
+of the British Army’s supply chain; however, just as how no plan survives first contact with
+the enemy, the supply chain had to adapt to tactical and operational necessities.
+
+Storage and Dumping
+Before we carry on with the affairs of 90 Coy, it may be prudent to clarify what is
+meant by a ‘dump’ and other forms of storage. In a perfect world, supply chains would be
+perfectly efficient. Ever single item required by an army would be produced when it’s needed,
+sent to where that item was required without delay, and used immediately on receipt.60 Alas,
+hiccups invariably appear. Shipping gets stalled, major operations consume unusually large
+quantities of supplies, supplies are lost to enemy action, etc. Thus, if first-line units were to
+receive a continuous flow of supplies, it was — and remains — necessary to store a reasonable
+reserve of stores at various points along the supply chain to absorb the normal ebb and flow
+of supply and demand.
+Ideally, this would be a large, dry, flat, climate controlled warehouse with good transport networks, but conditions in the field often are not always ideally suited to the logistician.
+Thus, supplies were often stored by stacking them in a field or some woodland. If they required protection from the weather covering them with tarpaulins. The precise requirements
+of this may seem quite trivial and not terribly important to the profession of fighting wars;
+however, seemingly trivial tasks such as labelling and organizing are critical.
+Consider a humorous example out of North Africa when the Eastern Base Section
+required 1 million French francs in hard currency to pay local contractors. Wanting to
+
+60. What we just discussed is known today as Just in Time Logistics pioneered by Toyota in the
+1990s partly permitted by truly reliable, modern logistics.
+
+27
+reduce the size of the guard required, it was disguised in some laundry equipment. The
+guard managed to loose the laundry equipment so the equipment and the money made its
+way around the supply system. A US Army laundry and bath unit around the same time
+was issued with some new laundry machinery. Imagine their surprise when they opened their
+machinery and found inside it a box with 1 million francs! The money eventually made its
+way to the intended recipient though 1000 francs had somehow gone missing.61
+More seriously however, consider what would happen if there was a German counter
+attack and the supply officer could not find the 17-pdr Armour Piercing, Capped, Ballistic
+Capped shells because their boxes were not properly labelled or because the dump was not
+given enough land so that the aisles were too narrow. Moreover, what would happen to those
+same shells if they were dropped and the packaging was inadequate to protect their contents
+— and honestly, who hasn’t dropped a heavy box before? Damage to the shell casing could
+prevent the casing from ejecting properly after firing, leading to a stoppage, and possibly
+putting the tank out of action.
+Consider also what would happen if one of these these dumps was attacked and caught
+fire. Aisles do not merely provide access but function as fire breaks. These fire breaks are
+critical for hazardous material dumps such as POL dumps or ammunition dumps. When
+these dumps catch fire, it is often too dangerous to attempt to extinguish the fire — POL
+burns and high explosives explode. Instead, efforts were typically aimed at containing the
+fire and letting it burn out on its own.
+
+61. Dworak, War of Supply, 50.
+
+28
+This may seem trivial but these acts win wars. Unlike the combat arms, logistics does
+not win wars by plunging a bayonet into the hearts of the enemy. Instead, logistics wins wars
+by ensuring the combat arms can act with a minimum of constraints. If there is insufficient
+ammunition or fuel to support an advance, a General cannot order that advance. If reserves
+are not ready when the enemy attacks, then the combat arms will have few options but to
+withdraw or fix bayonets. Logistics achieves nothing on its own but, through it’s ability to
+impose or relieve constraints, logistics is a significant factor in determining if an operation
+is achievable or foolhardy. Let us return to Normandy in June of 1944 to see this in play.
+
+The Supply Chain in the Field
+By the morning of D+1, the situation for 90 Coy was slowly improving albeit, with
+significant delays offloading troops from ship to shore. As the men of C Pl land, they delivered
+their preloaded stores to their intended recipients before joining the constant circuit from
+BSS to the dumps of 6 Airborne. By the afternoon of D+1 however, the British began to
+fear a German counter attack aimed at the Eastern bridgehead presently held by 6 Airborne.
+As such, all available transport in the 3rd British Infantry Area were ordered to assist in
+preparing for this German counter-attack on the British left flank. C Pl continued to built up
+a reserve of supplies in the 6 Airborne area, supplies that would be necessary if the Germans
+counter-attack.
+Whilst C Pl was running up and down the congested road running between the BSS
+and the Bde dumps at Hermanville to supply 6 Airborne, B Pl was was busy establishing a
+reserve of stores for 27th Armd Bde. Fears of a counter attack however disrupted these plans
+and B Pl was ordered to transport a battalion of infantry 4 km East to St. Aubin d’Arquenay
+
+29
+to resist the attack. At the time, the Pl was unloading jerricans at the dump. They were
+about half unloaded but the situation was urgent. Thus, the infantry battalion was ordered
+to climb on top of the jerrycans and they were rushed East. Once the transport commitments
+were fulfilled, B pl resumed the build up of the Hermanville dump, and delivered stores to
+the forward elements of 27 Armd Bde.
+This build-up was quite a lot of work. See, it was not enough to only land enough
+stores to sustain the troops currently ashore. If they did so, a storm or a larger than
+anticipated counter-attack could have been catastrophic. Thus, it was necessary to establish
+a reserve ashore. On D+1, the goal for logisticians was to establish an additional day of
+supplies for all troops ashore. D+2, 1.5 additional days; D+3, 2 days; and by D+14, 5
+days. This gradient is reflective of the diminishing returns of having a longer period without
+supplies, as well the fact that there is an exponential relationship between troops ashore,
+and the size of the reserves. Simultaneously, increasing the number of troops, and the size
+of the reserve could result in exponential increases in the stores needed to meet sustainment
+targets.
+This operational imperative meant that in the days immediately following D-Day,
+understrength logistics companies had to move far more supplies than what would ordinarily
+be expected of full strength companies. In practical terms, this meant working around the
+clock with very little rest. In the 60 hrs from landing on D-Day to D+2, B Pl had only been
+permitted 1-2 hours of rest total. By D+2, the men were starting to fall asleep at the wheel!
+Nevertheless, this foresight would pay off when the Allied Expeditionary Force was cut-off
+from the UK by a storm that would arrive a week later.
+
+30
+This example is representative of the role of logistics in warfare. Logistics contributes
+to military success by removing constraints. This is typically expressed, not by reacting to a
+threat per se, but by ensuring that the Army is in a material condition to receive the enemy.
+This is often done by prepositioning assets where they may foreseeably be required whether
+that be through the transport of troops, or by establishing dumps. This establishment of
+dumps meant that supplies would be available if they were required. Their success is only
+evident in the absence of failure. Ultimately, the supply of ammunition was maintained,
+albeit, with some shortages later on.
+Given good transport links, creating a single large dump would greatly simplify matters. Entry and exit routes could be improved by the Royal Engineers to help alleviate
+congestion and one-way circuits could be established. Moreover, having everything available
+in one place would mean that the probability of a single demand exceeding the availability
+of stores in that one major dump was low. Alas, any such dump would have to be enormous
+and would be highly visible from the air. This in turn would increase the probability of
+attack and the loss of materiel. Thus, materiel needed to be dispersed across more dumps,
+across a wider area to make the supplies easier to hide, and to minimize the risk of losses of
+a single attack.
+Even with such forethought, losses could be enormous. Following D-Day, the Luftwaffe
+made a habit of sending sorties over the beaches to attack anything of value. At 1345 on
+D+2, one such attack materialized on a POL dump adjacent to the main beach exit. The
+attack ignited the POL in the dump and the resultant fire spread to near by supply and
+ammunition dumps. Over the next 3 hours, 60000 gallons of POL and 400 tones of ammuni-
+
+31
+tion would be consumed by the flames — roughly a quarter of the 2744 tons stores landed
+in that day.62 Efforts to extinguish the flames
+This was, not the only fire. POL fires dot the various various Army War Diaries and
+RAF Operations Record Books as the Germans attempted to interdict British supply lines.
+What is interesting however, is that these fires occurred sufficiently frequently that they
+became routine. As the campaign progressed, records often simply record ‘P.O.L. Dump
+hit. . . ’ followed by, ‘P.O.L. Dump fire extinguished’.63 As the invasion continued, it became
+increasingly common for a quantified estimate to be omitted in the war diaries or operations
+record books. We can assume that, as these men continued to work, they learned to take
+better fire precautions such as prepositioning firefighting apparatus, establishing sufficiently
+wide firebreaks in between stacks of POL, and dispersing the storage locations for these
+dumps helped to minimize losses.
+Whilst such precautions are admittedly, quite mundane, it is preparations such as
+these that are essential to keep an army mobile. Consider that 90 Coy was, as these fires
+were raging, running loads of petrol forward for the tanks. If losses were not contained with
+firebreaks, a single fire could easily destroy a catastrophic amount of fuel. As it was, the
+loss of fuel was a mere inconvenience. First line units still received enough fuel to operate.
+Once again, it is rare that logistics can win a war, but it can certainly loose it. Without
+these standard, mundane preparations taking place, it is probable that the British Army
+
+62. No 1 RAF Beach Unit (Later Squadron) Sept 1943-July 1944 IIn/FJ3/1 and 14 Including No
+70 and 71 Beach Units Operations Record Book, AIR 29/438/9, The National Archives UK (TNA), Kew, 8
+June 1944 (hereafter cited as TNA AIR 29/438/9).
+63. TNA AIR 29/438/9, 10 June 1944.
+
+32
+of 1944 would have been unable to fight in Normandy as it would have been much easier
+for the Germans to destroy the build-up the British were making. Whilst these stacking
+and loading standards are quite hum-drum, these percautions are quite important to actully
+winning wars because they protect vital supplies from excessive losses.
+Consider also unforeseen events where problems could not simply have been planned
+out of existence. The Paras 6 Airborne fighting East of the Orne would, due to the general
+difficulties in providing sustainment from the air, often found itself short of rations or ammunition. Mathematically, supplying these stores should have been simple. You know the
+strength of a division, you know how many days of rations to provide them, and thus, some
+multiplication reveals the number of meals required. Take the number of meals, divide by
+the number of rations in a case, divide that by the number of cases that will fit in a lorry,
+and all that’s left to do is to find the rations, load up the lorries and go. Job done! Nice and
+easy!
+If only life was so simple! See, supply dumps had to supply these rations and this
+math is only accurate if the supply officers knew how many men they had to feed. Typically,
+this is solved by storing an excess of rations at these dumps to make up for any deficit;
+however, in the first days of the invasion, rations were in short supply so these reserves that
+would have been prudent to build up simply could not be amassed ashore. Thus, on in the
+evening of D+1 when Commander RASC (CRASC) 6 Airborne Division — the officer in
+charge of supplies for 6 Airborne — found out that they had been reinforced, and that these
+reinforcements were to be fed by him, he would have had his staff check their supplies. His
+
+33
+team would have informed him that they just did not have the rations available.64 What
+would have then likely happened was that he would calculate the rations required, put a
+message through to BSS and request those rations. This would set into motion several
+chains of events from clerks and officers eyeing papers, making sure that this requisition
+could actually be met by the stores available at the dump. If it could not, they would be
+figuring out where they could squeeze the supply system for a little extra. Perhaps transfer
+stores from a different dump, or reduce the size of a shipment scheduled for the next morning
+so they could fill their evening request in hopes that more supplies would arrive by morning.
+Whilst all this was happening, transport officers would be liaising with transport units
+like 90 Company and pushing through orders to arrange for the transport — in this case,
+three vehicles — to then move those rations from BSS to the end user. Whilst all this was
+happening, CRASC 6 Airborne would be ensuring he actually had room to put the rations
+once they were delivered, figuring out how to ensure his new troops knew where and when
+draw stores, etc. This problem solving is relatively simple work. The stores existed, they
+were just not where they were needed at the right time. Thus, all that needed to be done
+was find the supplies — not hard with stores as ubiquitous as rations — and deliver them.
+What happens however if the supplies required simply do-not exist in the quantities
+required ashore? By the afternoon of D+2, 6 Airborne was growing short of 75 mm Pack
+Howitzer shells.65 As such, 6 Airborne requested that 2000 rounds be dropped by parachute
+during Operation Rob Roy Three — the third in a series of four operations intended to supply
+
+64. TNA WO 171/2377 June History Report, 6.
+65. TNA WO 171/2377 June History Report, 7.
+
+34
+6 Airborne by air over the first four days of Operation Overlord.66 Due to poor weather, Rob
+Roy Three was cancelled though not before five aircraft had already taken off with small
+arms ammunition and wireless sets but no howitzer shells. Very few British units used the
+75 mm pack howitzers; as such, reserves of these shells simply did not exist ashore.67 Thus, 6
+Airborne made some inquires with the Navy and an officer of 90 Coy was sent to the Navy’s
+Command Post to work with them as they tried to locate the required stores. Some of these
+shells were supposed to have been landed some time during the first few days of Overlord
+but none could be found ashore.68
+Locating stores in 1944 was difficult. It required hours going through reams of paperwork trying to locate a few line items in the paperwork but, until someone worked out
+which ship contained the shells, the Paras would not be able to use their artillery.
+By the morning of D + 3, these shells were still nowhere to be found and 6 Airborne
+was beginning to grow desperate. We will discuss the importance of artillery later, but
+sufficed to say, the British were very reliant on their guns. They were so desperate that,
+that morning, 6 lorries of 90 Coy were held so that instant the shells made it ashore, they
+could be sped to 6 Airborne’s gun lines. To permit this, CRASC 6 Airborne made special
+arrangements with Beach Control to allow the DUKWs — amphibious lorries — to make
+an inland delivery direclty to 90 Coy’s forward harbour in Colleville. Typically the DUKWs
+were just used as ferries to Beach Sector Stores as any lorry can drive far inland but few
+
+66. Appendix K to June 1944 6th Airborne Division AQ War Diary, WO 171/426, The National
+Archives UK (TNA), Kew, 1 (hereafter cited as TNA WO 171/426).
+67. Appendix K to June 1944 TNA WO 171/426, 2.
+68. TNA WO 171/2377 June History Report, 7.
+
+35
+lorries can drive into the English Channel without severe consequences.69 Thus, when 6
+Airborne HQ’s Ammunition Officer finally located the ammunition in the afternoon of D
++ 3, the Navy contacted the relevant ship, the ship unloaded her stores into the DUKWs,
+and the DUKWs drove directly to 90 Coy’s Colleville harbour. The ammunition was cross
+loaded onto 90 Coy’s 3 tonners, and that ammunition was rushed to 6 Airborne’s gun lines
+which were, at the time, stood to and actively engaged in repelling a German attack.70 The
+German attack was successfully repulsed by elements of 27 Armd Bde — also supported by
+90 Coy. It was not until the next day, D + 4, that 6 Airborne’s own RASC transport made
+contact with their parent unit. Until then, the 46 lorries of 90 Coy (reduced to 20 by D+4)
+had been supporting two divisions and one Brigade — 90 Coy at this point would have been
+undermanned to support even a single Brigade.
+Consider what this meant: that 6 lorries (around 1/4 of 90 Coy’s remaining strength
+at the time) was held, standing by to ferry that 75 mm ammunition instead of delivering other
+critically needed stores. Granted, by this time, some of the 3rd British Infantry Division’s
+own transport had landed as well, but if those shells were not located, 6 Airborne would
+have lost much of its artillery support. Moreover, think about how complex it was to locate
+and deliver even a single load of artillery ammunition. Teams involved included at least 6
+Airborne’s CRASC (at least one officer and a few NCOs), the Navy Command Post (at least
+one officer, a clerk, and a signaller), at least one officer and six drivers from 90 Company,
+likely around six DUKW drivers, the teams afloat loading and unloading cargo, the Beach
+
+69. TNA WO 171/2377 June History Report, 7.
+70. TNA WO 171/2377 June History Report, 7–8.
+
+36
+Control point, dozens of MPs controlling traffic, and doubtless more I have yet to think of.
+Whilst the combat arms rightly gets much of the credit for fighting wars, and the Generals
+credited for figuring out where to put men, spare a thought to the work done by the men
+keeping records, speaking on the radio, co-coordinating actions and pushing forward supplies.
+When times are desperate, one not only needs brave men, but highly organized logisticians
+to ensure that which was needed was obtained in a timely manner. Why else would you have
+drivers driving almost non-stop for 60 hours if their work could be ignored?
+
+Operations to Hold Ranville
+Despite the hard work and the improvised nature of the supply chain immediately
+following D-Day, there was a level of order to the semi-jurry-rigged system. Thus far, much
+of the supply chain looked like exhausted drivers ferrying materiel this way and that, making
+hasty dumps to eestablish some kind of operational reserve. You can almost picture tired
+NCOs with clipboards trying establish a modicum of order during the first few days of
+teh invasion whilst officers worked to maintain operational impiratives. As the situation
+stabilized in Normandy however, supply chain became more regular and these quick and
+hasty dumps such as the Hermanville dump and the 6 Airborne’s Dump started to become
+more formal. It is thus worth pausing to assess the situation as it stood immediately after
+D-Day to allow us to see the supply chain that 90 Coy would work to navigate.
+
+The Supply Chain to Ranville
+With the exception of the Paras who were being partly supplied by air, the supply
+chain supported by 90 Coy — at least, as far as the Coy was concerned — originated from
+sea on the various transport ships loaded down with stores. Ships that could be beached
+
+37
+would often, though not always, be beached directly ashore and the stores discharged, taken
+to the BSS and stacked, taking into account the need for creating aisles for both access, and
+fire protection.
+If the ships however could not beach themselves, then the stores could be brought
+ashore either by Rhino ferry, or DUKW (pronounced ‘duck’). The DUKW was an amphibious lorry with a 5000 lbs payload — 2.5 US tons — or a little smaller than the 3 tonners used
+by 90 Coy. Whilst DUKWs were amphibious, they were really not designed to be driven
+for long distances ashore over rough terrain. Moreover, the diverting of such specialised
+vehicles from their amphibious role lead to a shortage of DUKWs on the beaches of Sicily.71
+Indeed, at Salerno, the diversion of DUKWs from their task was so problematic that American Vice Admiral Hewitt advised that, in future operations, DUKWs ought to fall under
+command of the Navy.72 In the British Forces however, DUKW continued to belong to Army
+units. To prevent unintended diversions however, British DUKW drivers were provided with
+a copy of written orders, ‘signed by the DA & QMG 1 Corps’, to be presented to anyone
+diverting them from their purpose, that they would be court marshalled if such a diversion
+was not an ‘operational emergency’.73 DUKWs were mainly used to transport stores from
+ship to the supply dumps nearest the beach — any lorry can drive several miles inland but
+driving into the sea with a Bedford 3 tonner is unwise. Of course, in emergency situations as
+
+71. Dworak, War of Supply, 87–9.
+72. Dworak, 108.
+73. 27 Armd. Bde Maintenance Project - 2nd Edition (Appendix to May 1944) HQ 27 Armoured
+Brigade War Diary, WO 171/623, The National Archives UK (TNA), Kew, Section 14 para 3 (hereafter
+cited as TNA WO 171/623); Quotes from 3 Br Inf Div Adm Plan - Second Edition (Appendix to May
+1944) 3rd British Infantry Division AQ War Diary, WO 171/413, The National Archives UK (TNA), Kew,
+Section 12 Para 8 (hereafter cited as TNA WO 171/413).
+
+38
+we have already seen with the shipment of 75 mm pack howitzer shells, occasional exceptions
+could be made. Still, it was generally best to use the DUKWs to fulfil the mission that only
+a DUKW could achieve. Whilst DUKWs were useful for moving things that would fit in
+a lorry, but for transporting vehicles or if there was simply a shortage of DUKWs, Rhino
+ferries were used. The Rhinos were essentially ungainly, rather Spartan shallow draft barges
+assembled from sheet metal pontoons.
+However the stores were brought from ship to shore, notwithstanding preloads destined
+for units deeper inland, their first port of call in these first days of the invasion would have
+been the BSS. This would rapidly evolve into the fully fledged Base/Beach Maintenance
+Area (BMA) Moon controlled by 101 Beach Sub Area.74 BMA Moon started along Sword
+Beach’s Peter, Queen, and Roger sectors and extended around 2km inland. The full BMA,
+with it’s organized supply dumps do not appear to have been fully developed by D+2 as
+the British failed to secure a large enough beachhead; however, the dumps 90 Coy created
+as a Brigade ammunition dump in the vicinity of Hermanville was likely on the land that
+became BMA Moon’s ammunition dump.75 From these first dumps, transport units like 90
+Coy would transfer the stores to dumps further inland thus forming a chain of operational
+reserves. For example, take 6 Airborne’s Ranville maintenance area mainly drew stores from
+Hermanville and units working in 6 Airborne’s Area of Operations (AO) would then draw
+stores from the Ranville dump forming smaller, less formal dumps along the way.
+
+74. See traces in Neptune No. 1 RAF Beach Squadron Operation Order found in Appendix C to the
+May records. Traces are located between the Operation Order and the Signals Plan that follows the orders.
+Traces use a derivative of map sheet 7F TNA AIR 29/438/9.
+75. Trace of BMA Moon annexed to Neptune RAF Beach Squadron Operation Order found in TNA
+AIR 29/438/9, Legend entry 67.
+
+39
+Ranville
+How these dumps grow and evolve becomes of interest to the to the historian of
+logistics because of what it shows us about how logisticians prepared to meet every likely
+eventuality. Thus, let us return to Ranville. Around 10 June 1944 (D + 4), the Germans
+were probing the area IVO Ranville to see if they can dislodge the British and 6 Airborne of
+their lodgement North-East of Caen and East of the River Orne and the Caen Canal. The
+Paras had been holding onto a number of disunited pockets surrounding their objectives
+and drop zones. At the time, the territory held by the paras was still quite disunited and
+there was no continuous British front line per se. There were instead pockets of British
+troops securing local perimeters. This is not a problem per se, rifle fire can have a range
+exceeding 1000 m so there was no strict need to maintain a continuous line. Nevertheless,
+it did mean that the more weakly held areas in the British zone were subject to German
+attack or infiltration.
+On D + 4 (10 June), the Germans tried to infiltrate the drop zone (DZ) between
+Ranville, and a town 2 – 3 km to the North East called Bréville. The Germans had managed
+to break into a DZ from Bréville but their attempt to cross the DZ was repulsed. As such,
+the Germans contented themselves with holding a wood near Le Mariquet with a company
+strenght body of troops seperating the areas held by ‘the 5th and 3rd Para Bdes, which had
+not actually made contact at this stage’.76 7 Para Battalion who, at the time holding the
+South-West corner of the drop zone (DZ) was thus ordered to ‘sweep the woods and to clear
+
+76. 7th Battalion, The Parachute Regiment War Diary, WO 171/1239, The National Archives UK
+(TNA), Kew, June, Appendix 2, p 1 (hereafter cited as TNA WO 171/1239).
+
+40
+the enemy out of them’ and to do all of this in the pouring rain.77 They would be supported
+by B Sqn, 13/18th Hussars, 27th Armd Bde as well as the 13/18th’s Recce (reconnaissance)
+Troop (Tp).78
+The plan of attack was simple. The wood was divided into four separate woods
+named W, X, Y, and Z and, at 1600 hrs, the infantry and armour would work together
+to sweep the Germans out of the woods. As expected, infantry-armour co-operation was
+suboptimal — the Paras had not even been told how many tanks they would have supporting
+them.79 Nevertheless, despite the loss of 4 Shermans and 2 Stuarts, the attack was successful
+the attack was successful. The attack captured ‘over 100 P[risoners of] W[ar]’ and greatly
+improving the moral of the Paras.80 This addition of armour units was most useful to the
+paras and, two days later on 12 June, the balance of 13/18 Hussars joined B Sqn and
+are attached to 6 Airborne but would be logistically supported by 27 Armd Bde. This
+meant that 90 Coy was now responsible for not only 27 Armd Bde located on the ridge
+between Hermanville and Périers-sur le Dan, but also for maintaining the 13/18th Hussars
+operating IVO Ranville 5 km away. Over the next few days, 13/18th Hussars would consume
+a singificant amount of fuel and ammunition as they supported a variety of British units
+IVO Bréville to neutralize the threat of a German attack on the Eastern flank of the Allied
+beachhead.
+
+77. TNA WO 171/1239, June 1944, Appendix 2, p 1.
+78. TNA WO 171/1239, June 1944, Appendix 2, p 1; 13/18 Royal Hussars (Queen Mary’s Own)
+War Diary, WO 171/845, The National Archives UK (TNA), Kew, 10 June 1944 (hereafter cited as TNA
+WO 171/845).
+79. TNA WO 171/1239, June 1944, Appendix 2, p 2.
+80. TNA WO 171/845, 10 June 1944.
+
+41
+Meanwhile for 90 Company, 11 June was fairly quiet. Their activities for the day
+consisted of a mere 5 lorry loads of general supplies for 27 Armd Bde. As such, the under
+strength Coy took the time to do some maintenance since they have been working since DDay keeping 27th Armd Bde and 6 Airborne supplied.81 Given the light day, it is likely that
+the tired men of 90 Coy also took a moment for themselves and got some more sleep or penned
+a letter to their friends and family. The next day would also come with some pleasantries
+for, for the first time since boarding the landing ships from 1-3 June, the company at last
+received letters from home.82 Despite the lighter day however, there was still work to be done.
+At 1800 hrs on the 12th, of the 13/18th’s attachment to 6 Airborne, 90 Coy established a
+series of ammunition and POL dumps IVO Ranville to support the 13/18th operating in
+the area. These dumps would also serve as an operational reserve in case the destruction of
+Rugger or Cricket bridges lead to the 13/18th being cut off.83
+Whilst the physical labour of establishing dumps started at 1800 hrs on 12 June;
+however, it is worth also thinking about the volume of work done by officers ahead of time.
+Doubtless, a number of staff officers at the Company or Brigade levels would have estimated
+the required quantities of ammunition, POL, and rations likely prudent to keep on hand at
+Ranville. They would use mathematical guidance — fuel consumption is fairly predictable
+— but doubtless also a level of human judgement. After all, on 12 June 1944, six days after
+
+81. TNA WO 171/2377, 11 June 1944.
+82. TNA WO 171/2377, 12 June 1944.
+83. TNA WO 171/2377, 12 June 1944.
+
+42
+the start of the invasion, no-one could be certain how much ammunition would actually be
+consumed in this theatre of war.
+Having made their decision on what to bring, these officers would have likely filed
+indents with the BMA. The BMA would then validate that they could supply the stores
+requested on the indents. Just as occurred earlier with the 6th Airborne supplies, if they
+could prudently supply the materiel, all’s well. Simply prepare the stores to be picked up,
+and arrange a convenient time to draw the stores. If they could not however, there would
+doubtless have been efforts made across the supply chain to acquire these stores and, only if
+this was impracticable, would it be likely that the request was denied.
+Whilst all this was happening at the BMA, logisticians at 27 Armd Bde or 90 Coy
+must have been calculating the required number of lorries and trips to make. In this case,
+the request was approved and 90 Coy allocated 12 lorries for the dumping operation.84 The
+operation continued to the next day, 13 June, when the Company’s commitment to the
+dumping operation increased to 20 lorries. They completed the dumping program that day.
+The Company managed to get some rest on the 14th where, beyond some small deliveries,
+the Company had a maintenance day to look after themselves and, more importantly, their
+lorries.85
+This activity in the area around Ranville is today remembered as the Battle of
+Bréville; however, this gives the impression of a set-piece battle which this battle was not. It
+was instead a brief period of fighting surrounding this town which turned out to have stra-
+
+84. TNA WO 171/2377, 12 June 1944.
+85. TNA WO 171/2377, 14 June 1944.
+
+43
+tegic importance. What started as a firefight to be handled by the units operating in their
+area of operations, evolved into a strategically significant battle drawn in units from other
+divisions. From a fighting standpoint of combat units, this has some minor interoperability
+concerns as well as some chain-of-command issues; however, simple co-operative measures
+such as the placing of the 13/18 Hussars under the command of 6th Airborne smoothed over
+these issues.
+Sustainment however was a larger challenge. Place yourself as a supply officer in this
+situation. When someone moves an infantry battalion into your area, they are essentially
+moving a few hundred to a few thousand mouths to feed and around as many rifles to fire.
+Moving a unit of infantry into an area already dominated by infantry does not cause a
+fundamental shift in requirements. All that has to happen is that the supply chain must
+increase capacity expand to meet requirement — itself a challenge but less problematic than
+what happens if you move units with new sustainment requirements.
+Second World War British infantry divisions did not typically have organic armour
+— certainly not the Paras nor 51 Highland Division also operating IVO Ranville. This
+meant that the supply chain must now be prepared not only for increased volumes, but also
+for different supplies. An infantry division has lower POL requirements than an armoured
+division and the ammunition requirements change — infantry have no use for 75 mm tank
+rounds. Moreover, tank units are tied to the supply chain in ways the infantry is not.
+Infantry can forage and men can be put on half rations for short durations without significant
+consequences; however, a moving tank will always consume roughly the same amount of fuel
+if driven the same way, on the same terrain. Thus, if one wishes to use tanks one must have
+sound logistics. This is where the flexibility of logistical units come in play. At this point,
+
+44
+90 Coy still had a mere 20–26 vehicles; however, forethought, contingency planning, and
+adaptability was doubtlessly helpful.86
+Detaching the 13/18 Hussars from 27 Armd Bde was a mere matter of driving for the
+combat arms but 90 Coy needed to think deeper. It had to figure out how to schedule supply
+runs five kilometres away from the main body of the Brigade along busy, congested roads.
+Moreover, it had to consider contingencies. If the bridges at Bénouville or Ranville were
+taken out of service and the 13/18th’s sector was attacked, bridging units were available and
+standing by for such contingencies, but building a bridge under active air attack is not an
+enviable task. This was the rationale for expanding the dumps at Ranville, so that it could
+support a few infantry divisions as well as an armoured regiment.
+It was helpful that 90 Coy and the Paras likely already had a good working relationship seeing as how, just a few days earlier, it was 90 Coy that supplied them; however,
+much work was needed in order to establish and maintain the new dump. Whereas moving a
+combat arms unit is akin to moving a body of men, moving the supply chain involves setting
+up new infrastructure and it is this infrastructure that is critical for the effective conduct
+of modern war. Once again, the key contribution of logistics units is this work to maintain
+current requirements and to prepare for future eventualities.
+
+86. Figure has been obtained by adding the vehiciles delivered to 90 Coy and subtracting losses.
+Range is due to the fact that 90 Coy’s War Diary does not state when vehicles are returned serviceable nor
+do the repairs appear in 27 Armd Bde’s REME workshop log of major jobs completed. TNA WO 171/2377,
+6-14 June 1944; 27 Armoured Brigade REME Workshops War Diary, WO 171/626, The National Archives
+UK (TNA), Kew, June Diaries Appendix C (hereafter cited as TNA WO 171/626).
+
+45
+The Arrivals of A & B Pls (14 – 23 June)
+After establishing the Ranville dump for 13/18th in support of the Battle of Bréville,
+both B and C platoons of 90 Coy spent the 14th of June maintaining their vehicles and, likely,
+getting some rest at Coy HQ, at the time located in a field, 500 m NW of Cresserons. From
+time to time, the Coy did some minor transport details — delivering rations, ammunition,
+fuel, the usual minutiae of war — but for the Bde, the situation was quiet. Most of its forces
+were in defensive positions across the 3rd British Infantry Division’s front north of Caen,
+or were located in the area East of the Orne. The Brigade made occasional small attacks
+against German strong points or repelling minor German attacks but nothing that, from a
+logistical standpoint, could not be managed through the usual supply runs.
+Back in England, A, and the portion of B Pl that did not land on D-Day were, at
+this time, mounting their lorries and driving onto LSTs for their channel crossing. The 59
+vehicles and 165 personnel of these platoon groups arrived and began to disembark at Queen
+Beach around 2000 hrs on 15 June. Three hours later, they finished the 6 km journey to
+Cresserons to join the rest of the company. Their arrival doubtless involved the greetings of
+friends, as well as some good natured ribbing experienced by new troops joining old troops.
+There must have been questions asking about the present situation, the location of latrines,
+mess arrangements, and the usual questions one asks living in the field; however, the sporadic
+bombing likely helped to emphasize the fact that there was indeed a war on.87 In light of
+this, the Company dug slit trenches to provide some cover against bombardment and spaced
+their vehicles 75 yards apart to compartmentalize potential damage. It is likely that sleeping
+
+87. TNA WO 171/2377, 15 June 1944.
+
+46
+positions were in slit trenches — though, some REME units managed to scrounge beds to
+install in their trenches with armoured sheeting above them — but even a trench was not
+always enough to protect the men. Every few days, a man would be evacuated with wounds
+from shelling or bombing.88
+With this new intake in men and vehicles, 90 Coy spent the next few days reorganizing.
+Moreover, those 59 lorries would all have to be dewaterpoofed before they could be driven
+long distances on land. ‘Dewaterproofing’, it’s not so much making it so that the vehicles
+would leak, though that was part of it, but that they removed a series of minor modifications
+made to their lorries to ensure they would not be damaged during the crossing of the English
+Channel as well as when they waded ashore. Unmodified vehicles could typically wade some
+18”, but modifications were made to all vehicles involved in Overlord to permit them to
+wade in up to 4’6” of water.89 Much of this work was done by the Woman’s Army Corps but
+even more was done by the drivers themselves.90
+Whilst these modifications allowed vehicles to operate in water and protected them
+from the ravages of the ocean, they also compromised the efficent operation of the vehicle
+because much work involved sealing certain components, vent-holes, or the removal of filters
+
+88. TNA WO 171/2377, Consider entries from 10 June (6 wounded), 13 June (1 wounded), 17 June
+(1 wounded), 21 June (1 wounded). Casualties were heavier at the start of the month but eased up towards
+the end.
+89. History of the Combined Operations Organisation: 1940-1945, TNA WO 277/30 (London: Amphibious Warfare Headquarters, 1956), 165.
+90. Indeed, the role of women in WW2 logistics is an opportunity for developing our understanding
+of the role of women win the Second World War but alas, women were only deployed to NW Europe in
+limited quantities; thus, this area is out of the scope of this study. Eileen Bigland, Britain’s Other Army:
+The Story of the A.T.S (Cambridge: Nicholson & Watson, 1946), 122–6 202 O.C.T.U., R.A.S.C. Training
+School. Waterproofing Vehicles Private Papers of R P Pope, Documents.25477, The Imperial War Museum
+(London), London, 1 (hereafter cited as IWM Documents.25477)
+
+47
+— filters that could clog when wet. These modifications had to be removed before the
+vehicles drove too many miles as the modifications could be harmful to the vehicles on dry
+land.91 Some dewaterproofing tasks like unsealing various components in the engine bay had
+to be done within two miles (3 km) of landing. Other tasks such as an oil change, cleaning
+and relubricating the vehicle, refitting filters, and re-inflating tyres had to be done before the
+vehicle travelled more than 200 miles (300 km).92 In essence, dewaterpoofing lorries involved
+servicing the vehicles, tasks that, whilst nessessary, were also quite time consuming.
+
+Oh Mundanity!
+As you can likely infer, late June was not a busy time for 27 Armd Bde. Beyond
+sporadic fighting, there is little of note to the tactical situation and thus, 90 Coy’s main
+work were the routine supply runs. During this brief stabilization in 27 Armd Bde’s AO, one
+begins to see a return to a more normal military life as captured by the Bde’s administrative
+orders.93 Indeed, the Brigade’s first Administrative Order was not issued until the start of
+this period on 14 June likely because the Bde was simply far too busy. Nevertheless, these
+orders provide an opportunity to examine daily life for 90 Coy and indeed, the whole of 27
+Armd Bde. Moreover, it will allow us to begin to explore two core roles of the troops of the
+British Army that were not in ’G’ branch — i.e. the fighting services — namely
+
+91. TNA WO 171/426, Adm Instr No 2. 16 Jun 194; 202 O.C.T.U., R.A.S.C. Training School.
+Waterproofing Vehicles IWM Documents.25477, 3, 10–1.
+92. IWM Documents.25477, 3, 11–2.
+93. TNA WO 171/623, See end of June diaries.
+
+48
+iii. The exercise of foresight to ensure the timely anticipation of difficulties likely to be experienced, or of material likely to be required by fighting
+troops and services in the execution of orders
+[and]
+iv. The arrangements of all matters with a view to removing anticipated difficulties and facilitating the prosecution of the commander’s plan of
+operations.94
+On a light hearted note, is perhaps revealing that it had to be said that ‘Latrine
+trenches must not be allowed to fill up. Fresh trenches must be dug and the old sites clearly
+marked’.95 Apparently, this was quite a problem as, two days later, the whole Bde was once
+more reminded of the importance of maintaining hygeenic conditions.96 Moreover, it appears
+it is indeed true that old habits die hard for, on 14 June, the whole Bde had to be reminded
+to drive on the right side of the road, and to turn on the correct side.97
+One might also be amused when reading an order that ‘Any livestock accidentally
+killed by shell or [Small Arms] fire may be cut up and eaten by units if bled fresh and in
+good condition’ (emphasis added); however, one is left wondering just how accidental some
+of these killings were.98 By this time, the men may have not had fresh food for over a week
+and the compo-rations must have been getting monotonous by that point. Beyond these
+more humorous examples however, these orders reveal a situation of scarcity. Regarding
+food, whilst compo-rations were monotonous, the troops were forbidden from purchasing
+fresh bread from the French civilians. ‘Flour for civilians [was] in short supply. If troops
+
+94. FSR 1, s. 13(iii – iv).
+95. June Adm Order No. 3 TNA WO 171/623, Para 10.
+96. TNA WO 171/623, June Adm Order No. 4, Para 1a.
+97. June Adm Order No. 1 TNA WO 171/623, Para 9.
+98. June Adm Order No. 1 TNA WO 171/623, Para 10.
+
+49
+[bought] bread it [would have] cause[d] a serious shortage’.99 Whilst disciplinary action was
+threatened, it was not unknown for troops to scrounge for food anyway.
+Water was also rationed to a scale of ‘half a gallon per man per day’ for the able
+bodied, and ‘2 gallons per man per day for wounded’ (2.27 L and 9 L respectively). This
+water was for both drinking as well as for washing up. Assuming a probable strength across
+the Bde of approximately between 2707 and 3304 men in France in mid-June, this would
+have resulted in a water requirement of 1354–1652 Gal (5130–6262 L) per day. One jerry
+can has a capacity of 20 L; thus, 257–314 jerricans of water per day.100 In the Brigade area,
+there were only three water points from which units could draw water: Bénouville, Colleville
+Sur Orne, and Hermanville. Thus, along 27 Armd Bde lines, some units or detachments may
+have been over 2 km away from the nearest water point.101 These water points would have
+to be shared with all other troops in the area. To get water, every day, either 90 Coy or
+
+99. June Adm Order No. 2. TNA WO 171/623, Para 1.
+100. Water ration defined in 27 Armd Bde Maintenance Project 2nd Edition, 20 May 1944 TNA
+WO 171/623, s. 13 para 1. Calculation of water requirements based on estimates from the able-bodied
+strength of 27 Armd Bde’s units. For units that were not landed fully intact, lower limit is based on an
+estimate of the actual troops landed around mid-June as recorded on AF C 2118 War Diary or Intelligence
+Summary whilst the upper limit has been calculated using Field Returns for Officers (AF W. 3008) and
+Other Ranks (AF W 3009 F RASC) — specifically, on the 3008, Part A Column 2; and on the 3009, Part A
+Column 3. The ERY, Staffs Yeo, 13/18th, and the Field Delivery Sqn were landed intact so their populations
+have been drawn directly from the 3008 and 3009. TNA WO 171/623, 24 June 1944 Field Returns East
+Riding Yeomanry War Diary, WO 171/862, The National Archives UK (TNA), Kew, 24 June 1944 Field
+Returns (hereafter cited as TNA WO 171/862) TNA WO 171/863, 10 June 1944 Field Returns Mid-June
+returns missing TNA WO 171/845, 3 June 1944 Field Returns 27 Armoured Brigade Ordnance Field Park
+War Diary, WO 171/625, The National Archives UK (TNA), Kew, 24 June 1944 Field Returns (hereafter
+cited as TNA WO 171/625) 27 Armoured Brigade Signals Squadron War Diary, WO 171/624, The National
+Archives UK (TNA), Kew, Lower limit 7-24 June, upper limit 24 June 1944 Field Returns (hereafter cited as
+TNA WO 171/624) TNA WO 171/626, Lower limit from 7–8 June figures for groups landed, upper limit 17
+June 1944 Field Returns 266 Forward Delivery Squadron War Diary, WO 171/895, The National Archives
+UK (TNA), Kew, 17 and 24 June Field Returns (hereafter cited as TNA WO 171/895) TNA WO 171/2377,
+90 Coy had an approximate ratio of 0.37 vehicles per man for early-mid June. Lower limit extrapolated from
+vehicle totals whilst upper limit established from 17 June 1944 Field Returns.
+101. June Adm Order No. 1 TNA WO 171/623, Para 4.
+
+50
+the units would have had to drive dozens of water cans to the nearest water point, fill them,
+then drive all the way back consuming both time and fuel.
+Ration parties and ordinance stores would be consumed regularly and helps us to
+establish a baseline to view the challenge of sustainment that transport units such as 90 Coy
+had to meet during the war.102 Ration requirements, as we discussed earlier, are also easy to
+forecast, as they were issued her head, per diem. Simply count the number of mouths to feed,
+multiply by the number of meals between supply runs, divide by the number of meals in a
+case, and round up to the nearest whole case. Other stores such as ordinance stores however
+were more complicated. ‘All demands [were to] be made to [the Brigade Ordinance Officer]
+at Bde A Ech[lon] by 1600 hrs daily. Available stores [would] be delivered next day’.103 This
+thus creates an elastic demand on 90 Coy where any day could have more or fewer stores
+thus complicating calculations.
+Moreover, the first week of Overlord also saw some real shortages. Almost all vehicles
+and weapons, notwithstanding Lee-Enfield rifles, were in short supply. Likewise mine detectors, ‘binoculars. . . compasses. . . watches’, and surveying equipment used by the artillery
+for gun laying were all in short supply. Even communications equipment was short.104 The
+situation was so serious that an order was issued stating that if someone who issued binoculars, a compasses, or a watch was wounded, that they should be relieved of those goods
+
+102. 202 O.C.T.U., R.A.S.C. Training School. Organisation of the R.A.S.C. IWM Documents.25477,
+3, 16 a–c.
+103. June Admin Order No. 1 TNA WO 171/623, Para 6a.
+104. TNA WO 171/623, Appendix A to 27 Armd Bde Adm Order No. 1 (June).
+
+51
+before they were evacuated if at all possible.105 Of course, implicit in this was that saving
+the life of the wounded man would still come first. More irritatingly, drivers also had a habit
+of running into, and breaking, communications cables consuming ever more supplies.106
+It was not just special equipment that was short however. Armoured units were issued
+special petrol stoves that could be stowed in tanks, the No. 2 (Tank) Cooker. This was so
+that tankers could heat their meals or boil water in the field. Non-armoured units could
+usually rely on being sufficiently well connected to the supply chain that they were to stay
+connected to the Cooks’ lorries, or they would have to rely on Tommy cookers. Prior to
+the invasion however, a number of non-armoured units were also issued these No. 2 cookers,
+presumably as an expedient to ensure the men would not need to go without hot food or tea.
+By 21 June however, any ‘vehicle not entitled to carry them’ that had access to a mess, were
+to return the stove to the Brigade Ordnance Officer so that the stove could be reallocated.107
+All these must seem quite minor. Why should a serious historian concern themselves
+with something as trivial as the availability of binoculars, compasses, stoves, rations or water? The answer is simple: get these wrong, and you loose the war. The trivial appearance
+of these stores is by design. The mission of the Services is to ‘[remove] anticipated difficulties
+and facilitat[e] the prosecution of the commander’s plan of operations’.108 When well run, a
+commander — the author of many of our sources — need not think about logistics. This
+however does not mean it is unimportant. Without these stores, officers cannot see far or
+
+105. June Adm Order No. 3 TNA WO 171/623, 4a.
+106. June Adm Order No. 2 TNA WO 171/623, Para 3.
+107. June Adm Order No. 3 TNA WO 171/623, Para 3a.
+108. FSR 1, s. 13(iv).
+
+52
+navigate, and the men will starve and dehydrate.109 Put yourself in the hobnailed ammunition boots of a supply officer and you received that order on redistributing cookers. All of
+these requirements would have to be foreseen and prepared well in advance to ensure the
+required stores were available when needed. This was when the army was in stasis; however,
+by the end of June, the operational tempo for 90 Coy was beginning to once more accelerate.
+
+Operation Mitten 27–28 June 1944
+Operation Mitten largely occurred within a single 24 hour period from 27 – 28 June
+1944. Its aim was to destroy a German salient around 10 km North of Caen. This salient
+was anchored by two Chateaux, Chateau de la Londe, and Chateau de la Landel. The salient
+was principally attacked by the 8th Infantry Brigade of the 3rd British Infantry Division. 27
+Armd Bde would provide tank support and they would be supplemented by the Churchill
+Crocodiles of 141 Royal Armoured Corps — Churchill tanks that have had their bow machine
+gun replaced with a flame-thrower.
+As ever, 90 Coy’s principle tasking was to support the armoured units of 27 Armd
+Bde as well as all units attached to the Bde; however, their first job for the operation was
+to deliver some 30 lorry loads of 105 mm artillery ammunition to the gun lines south of a
+commune named Plumetot.110 Here, several Batteries of the Royal Artillery were emplaced
+in preparation for the upcoming battle. The British were highly reliant on their artillery so
+it is worth discussing their employment as well as their logistical requirements.
+
+109. Far more serious than the manpower crisis, it is also not immediately clear to the writer how
+the British Army in the North-West European theatre would have been able to continue operations without
+sufficient quantities of tea.
+110. TNA WO 171/2377, 26 June 1944.
+
+53
+The Royal Artillery
+Artillery is often thought of as a supporting arm; yet, the British Army of the Second
+World War tended to operate on the principle that it was better to expend firepower rather
+than manpower — not that the British had the manpower to spare at any rate. In light of
+this, when faced with a tactical problem, the British Army exhibited a tendency of crushing
+that obstacle under the weight of artillery. This could be from fire directed by a Forward
+Observation Officer (FOO) against a specific, observed target (fire for effect), or it could be
+a preplanned suppressive bombardment such as a creeping barrage where the guns are laid
+to bombard a moving line in advance of advancing troops.111
+Artillery could be quite an effective and flexible tool. Take the example of Lt Boyle
+of 17 Field Regiment RA who acted as a FOO for 38 Irish Bde in Sicily. He and the CO
+of an infantry company were watching a large number of German troops concentrating in
+the open, likely in preparation for an attack. Finding their presence offensive, Lt Boyle got
+on the wireless, adjusted fire onto the German unit, and order ‘10 rounds gunfire’ from an
+artillery regiment of 24 guns. Soon, ‘240 shells landed within an area less than a football
+ground’.112 The company commander was impressed and asked for another salvo. The FOO
+then uttered the proword ‘REPEAT’ into his wireless set and another 240 shells once more
+saturated the target area.113 This ability to rapidly concentrate firepower on any point within
+range of the batteries by simply making a call on the radio is core to the power of the artillery.
+
+111. Moberg, Gunfire, 130–1, 136.
+112. Moberg, 133.
+113. Moberg, 133.
+
+54
+Doctrinally, artillery could be used to kill an opponent, neutralize them (force them to
+keep their heads down for long enough for friendly infantry to kill or capture that opponent),
+demoralize them, or ‘partially destroy’ them (kill or wound 2% of entrenched forces or 20%
+of troops in the open).114 In Second World War, unlike the First World War, it was relatively
+uncommon for the British to fire multi-day preparatory bombardments to entirely destroy
+enemy positions. These bombardments were too wasteful of ammunition, destroyed the
+ground, and were not terribly effective at actually destroying an entrenched enemy.115 Second
+World War bombardments tended to focus on providing the enemy with a ‘short, sharp
+shock’, keeping enemy heads down whilst friendly forces advanced. Of course, if troops were
+in the open, FOOs would only be too willing to kill them but the usual aim was to suppress
+them.116
+This change from the First World War’s massive bombardments likely saved a great
+deal of ammunition, but even with these measures, the British Army’s ammunition requirements were still vast. Consider these planning figures for what a given number of rounds
+expended would do to a recipient. It was assumed that for a unit with 25-pounders to partially destroy enemy equipment in a 100 x 100 yd square, the unit would need to expend 40
+rounds of ammunition. Contrastingly, demoralizing the enemy would require 40 rds/hr over
+4 hours (160 rds total) or 100 rds/minute for 15 minutes (1500 rds). Suppressing the enemy
+
+114. Moberg, Gunfire, 133.
+115. Moberg, 132.
+116. Moberg, 133.
+
+55
+would require an 8 – 32 rds/minute bombardment continued for as long as the enemy was
+to remain neutralized.117
+Whilst batteries would have around 32 rds/gun in the gun’s limbers, this small quantity of ammunition was insufficient for all but a brief fire mission.118 Major operations could
+easily consume over 600 rds/gun; thus, the RASC would make regular deliveries to the gun
+lines to feed the Royal Artillery’s insatiable appetite for ammunition.119 The stocks required
+to maintain this instant access to firepower could be enormous. In the lead up to Operation
+Goodwood, which we will discuss later, each gun was issued with 750 rds of ammunition just
+to ensure that the RA would be able to meet demand.
+These measures were necessary to enable Montgomery’s preferred set-piece battle
+— an operational method, though currently unpopular compared to manoeuvre warfare,
+was chosen to help reduce casualties, and to maintain the tenuous moral of British troop by
+minimizing the risk of failure.120 Part of this strategy was deeply reliant on the British ability
+to concentrate a significant amount of firepower along a single target area. Logisticians were
+critical for concentrating that firepower through the supply of ammunition, as well as for
+physically concentrating the troops required into the battle area through the provision of
+motor transport.
+Of course, it is sometimes necessary to take risks in war and commit to a bolder, less
+cautious approach to operations. This meant pushing the combat arms as far forward as
+
+117. Moberg, Gunfire, 133.
+118. Moberg, 51.
+119. Moberg, 122–3, 125.
+120. S. Hart, Montgomery and “Colossal Cracks”, 100–1.
+
+56
+possible, exploiting temporary weaknesses amongst enemy forces before they could recover.
+An example of such an operation was US General Patton’s thrust through vast swathes of
+France during Operation Cobra.121 During Cobra, he largely left his logisticians to figure
+out how to supply him whilst he drove forward. This drive came with the real risk that the
+units involved could be counter-attacked by the Germans with the potential destruction of
+the units involved. Clearly, this counter-attack did not materialise at Patton’s risk proved
+successful; however, unlike the British, the Americans were in a position to take such a
+risk.122
+Unlike the Americans or Canadians, by 1944, the British Army was running out of
+men. The British were unable to replace casualties by drafting in more troops from home.
+The manpower no longer existed. The British could not be wasteful with men as, for every
+casualty, the British army in North-West Europe would shrink.123 Just to make up the
+numbers for Overlord required the British to draw down staff from training establishments
+across the country, and it was acknowledged by the British that reinforcements were unlikely
+to become available.124 Already the British Army was constraining its operations to conserve
+manpower.125 Without regular supplies of ammunition to the guns providing instant access
+to overwhelming firepower, it is difficult to imagine how the British Army would be able
+to maintain sustainable casualty rates to continue operations in Europe. Overwhelming
+
+121. S. Hart, Montgomery and “Colossal Cracks”, 100.
+122. S. Hart, 100–1.
+123. S. Hart, 5.
+124. S. Hart, 50–2.
+125. S. Hart, 69–70.
+
+57
+firepower was how the British Army conserved manpower in North West Europe. Once
+again, whilst supply does not — or at least, should not — fight per se, effective fighting
+is impossible without them. The logisticians of the British Army permitted the Army to
+concentrate overwhelming firepower to defeat the Germans.
+
+Support to Operations
+Whilst Operation Mitten started with artillery preparations, 90 Coy was the supply
+and transport company for 27 Armd Bde. In light of this, the majority of their work was
+in support of the armoured component of the operation. The 3rd British Infantry Division
+was, as usual, supported by 27 Armd Bde, but for Mitten, as mentioned previously, the Div
+was also supported by Churchill Crocodile flamethrower tanks from 141 Royal Armoured
+Corps. These tanks were unusual because, in addition to the usual fuel, ammunition, and
+spare parts — spare parts not shared with 27 Armd Bde’s Shermans — the Crocodiles also
+required Flamethrower Fuel (FTF) as well as compressed nitrogen cylinders for propelling
+that fuel towards the enemy. In light of this, on 27 June, the first day of the operation, 90
+Coy established a dump 1–2 km from the combat area at a town named Gazelle consisting
+of 3000 Gal (13640 L) of FTF, and 90 nitrogen cylinders to keep the Crocodiles in service.126
+The assault on the chateaux would commence on the evening of the 27th by 1/South
+Lancashire Regiment principally supported by the Staffordshire Yeomanry (Staffs Yeo). Alas,
+it was unsuccessful. Thus, new plans and preparations were made over night to try again with
+
+126. TNA WO 171/2377, 27 June 1944.
+
+58
+the whole of the 8th Infantry Brigade the next morning.127 As such, 90 Coy spent much of
+the night replenishing the Bde. By 0300 hrs on the 28th, 90 Coy had delivered 1082 rds of 75
+mm High Explosive (HE) ammunition to the squadrons of the Staffs Yeo providing a picture
+as to the ammunition expenditure in the evening prior.128 The next day, 27 Armd Bde was
+ordered to support the renewed assault by patrolling the area and providing harassing fire as
+needed. Squadron shoots were limited to 50 rds/gun, or roughly half the tank’s capacity.129
+The fact that ammunition could be so freely expended is testament to the effectiveness of
+logistics support for there was no realistic fear that they would run out of ammunition.
+Indeed, if there were any such fears, the were needless. Operations resumed around 0500
+on the 28th, By 1600 hrs, 90 Coy had delivered an additional 600 rds of ammunition to the
+Squadrons. An hour after the successful end of Operation Mitten around 1700 hrs, 90 Coy
+started to replenish the Bde and by 2000 hrs, they delivered an additional 1200 rds of 75 mm
+ammunition, and likely fuel and rations as well, to the men and machines of the Staffs.130
+In addition, as 141 RAC was still being supported by them, 90 Coy set up a temporary
+maintenance point in Le Vey, approximately 5 km West of the Gazelle maintenance point,
+to replenish 141 RAC. Over the course of three hours, they delivered 2400 gal (10910 L) of
+
+127. Norman Scarfe, Assault Division: a History of the 3rd division from the Invasion of Normandy
+to the Surrender of Germany (Camebridge: Spellmount Limited, 2004), 111–2.
+128. TNA WO 171/2377, 28 June 1944.
+129. TNA WO 171/623, Operation Instruction No 2 (see June appendix).
+130. TNA WO 171/2377, 28 June 1944.
+
+59
+FTF to 141 RAC. The next day, having served its purpose the flamethrower stores at the
+Gazelle dump are withdrawn and returned to depot.131
+All this work was done for a simple two day operation. It is indeed right and proper
+that we remember the enormous loss of life suffered by the combat arms — indeed, over
+the course of June, 3 Div suffered disproportionate casualties and we owe it to the fallen
+not to forget them — but from an operational perspective, to focus only on the dashing
+infantry is imbalanced.132 Over the course of around 36 hours, Staffs Yeo had consumed
+2882 rounds of ammunition and killed six German tanks.133 Of course, a significant amount
+of that ammunition would have been HE ammunition fired against infantry and other soft
+targets; but still, this expenditure is quite large. Moreover, without fuel or rations, the attack
+would have round to a halt quite quickly. Without the support of 90 Coy, the armoured
+component of this assault would have been impossible. Infantry casualties for Operation
+Mitten were already high enough to dissuade the British Army from further operations in
+this area.134 These casualties would likely have been much higher if not for the armoured
+support. To stop our analysis of war at the fighting ignores that which makes wars possible
+in the first place. Moreover, note the significant amount of activity after the closure of
+operations. Effective logistics work is not simply to support the current fighting but to
+
+131. TNA WO 171/2377, 28 – 29 June 1944.
+132. Scarfe, Assault Division, 112.
+133. TNA WO 171/623, June appendix, Operation Mitten Intelligence Diary, Entry 58; TNA WO
+171/2377, on ammunition expenditure, 27-8 June 1944.
+134. Scarfe, Assault Division, 111–2.
+
+60
+ensure the Army is ready for the next action before that action has even been fully thought
+out.
+
+The Lead up to Charnwood
+In the week following Mitten, the situation for 27 Armd Bde and 90 Coy as a whole
+consisted of operations planned and operations cancelled, minefields laid and withdrawn, etc.
+It is likely that 90 Coy was involved in providing the mines to the Regiments but these would
+likely have been carried in routine supply runs. Precisely how the mines found their way
+to the Regiments is not recorded in the sources as routine supply runs often go unrecorded.
+Generally, the situation was quiet. On 3 July, the balance of the Company finally began to
+trickle in. From 3 – 5 July, 55 vehicles and 162 personnel, the Company workshops, and
+other Company assets trickle into Coy HQ in Cresserons. This buildup was inline with a
+general massing of the Army in preparation for the upcoming Operation Charnwood. In
+light of this, 90 Coy’s headquarters was moved a few hundred meters to make room for a
+Medium Artillery Battery. As usual, despite the general crowding in the area, the Coy was
+sure to disperse themselves over several hundred square meters across several open fields to
+compartmentalize the potential losses from sporadic shelling or air attacks.135
+On 5 July, activity for 90 Coy began to pick up in earnest. Unlike Operation Mitten,
+which aimed to capture two chateaux, Operation Charnwood was a much larger operation
+aimed at capturing Caen north of the Orne. 27 Armd Bde’s task was to support the 3rd and
+59th Infantry Divisions in their push South to the Caen – Bayeux railway and River Orne
+
+135. TNA WO 171/2377, 1 – 5 July 1944.
+
+61
+therein capturing the bulk of Caen North of the river. Having secured Caen, Charnwood was
+then to secure bridgeheads across the Orne to act as a springboard for future operations.136
+Whereas Mitten was fought with an infantry division and an armoured brigade;
+Charnwood would be fought with three infantry divisions, three armoured brigades, and
+would begin with a large scale bombing campaign. Charnwood’s altogether grander scale
+meant far deeper operational entanglements. Charnwood required more POL points, ammunition points, provisions for rations, etc. Frequently overlooked are the more extensive
+traffic control requirements. We are used to thinking of armies as symbols on a map that can
+be moved at will — this is how they appear in books — but reality is far more complicated.
+An Army is comprised of divisions that are capable of nominally fighting semi-independently.
+These divisions range in size from around 10,000 to over 20,000 men.137 Moving this sheer
+volume of men across narrow and, at times, unmetalled rural roads is no mean feat.
+Challenges ranged from the obvious issue of the traffic jams that can arise from
+funnelling large volumes of men across narrow roads, to more obscure issues like road wear.
+Wet, unpaved roads subjected to the tramp of boots will slowly be chewed into a muddy
+mess. Wheels will likewise wear deep ruts even in dry roads. Tracks were the worst for
+roads. Their ability to grip nearly any surface also means that a brigade of armour moving
+through an area can rapidly destroy a metalled road. In light of this, tracked vehicles were
+typically routed along dirt tracks whilst wheeled vehicles used roads. Much to the chagrin
+
+136. TNA WO 171/623, Operation Charnwood, 27th Armoured Brigade Operation Order No 2 (See
+appendix to July diary following papers pertaining to Goodwood).
+137. For context, the Airbus A380, the worlds largest passenger aircraft, is certified to seat not more
+than 853 passengers.
+
+62
+of staff officers and, presumably also the Engineers who had to maintain these roads, this
+practice was not always adhered to leading to the deterioration of the road networks.138
+These movements would be co-ordinated using detailed movement tables that divided
+the units to be moved into a number of serials. These tables would provide start points,
+end points, routing information, and timings to minimize congestion and spread road wear.
+Ideally, only a single serial would be on any single road segment at a time. Too many units
+on a single road could easily result in units becoming intermixed and getting lost. Beyond
+the headache of being stuck in traffic, units getting lost means they are not where they need
+to be. Relocating units, disentangling them, and sending those units back to where they
+need to be could take hours. Hours where the affected units are not as effective as they were
+supposed to be.
+In preparation for Charnwood, 27 Armd Bde and its attached units had to concentrate
+at Gazelle. For the Bde proper, it meant a 4 km move south from the Bde’s main quarters
+in the vicinity of Cresserons, to their pre-attack assembly area at Gazelle. Some units to be
+attached to 27 Armd Bde were further afield. They would also have had to make their way to
+Gazelle so that the various units could gather prior to D-Day. This road march occurred on
+the night of 6/7 July (D-2/D-1) from roughly 2300 hrs on the 6th to 0100 hrs on the 7th — a
+few minor exceptions occurred with minor units.139 This road march would have occurred in
+blackout driving conditions and, as far as the sources describe, was likely successful with units
+
+138. 27 Armd Bde Adm Order No 8 (See July Appendix) TNA WO 171/623, Para 3.
+139. TNA WO 171/623, Appendix C, 27 Armd Bde Operation Order No 2, 6 July 1944.
+
+63
+arriving at Gazelle more-or-less on-time despite the ongoing heavy showers.140 Moreover, the
+march covered roads that, according to contemporary British Army maps, were 3 – 6 m
+wide or were secondary roads.141 Even today, Google Street View images shows that these
+roads remain 1-2 lane roads just wide enough for two tanks to pass each other on that road.
+Effective transport planning, a core part of logistics, was critical just to allow the Army to
+move.
+Preparations continued after the Brigade’s arrival. Once again, Churchill Crocodiles
+would be attached to the brigade so a 3-ton lorry loaded with FTF was attached to the
+first echelons of each of 27 Armd Bde’s three regiments to permit rapid resupply.142 Around
+2150 hrs D-1 (7 July), some 300 Lancasters bombed the northern approaches to Caen in
+preparation for the coming assault. Witnesses watching from the Brigade area note that the
+bombing was ‘most spectacular’.143
+D-Day arrived on 8 July and, after a cloudy evening on ground that was likely still
+quite damp, units began forming up at 0200. H-Hour arrived at 0420 hrs with a ‘tremendous
+[creeping] barrage’ paving the way for the British advance.144 Progress for the Brigade was
+
+140. TNA AIR 29/438/9, 6 June 1944.
+141. 3 British Division Planning Intelligence Summary 3rd British Infantry Division G War Diary,
+WO 171/409, The National Archives UK (TNA), Kew, II-A-2 Page 2, Part III Appendix B note markings
+on ariel photographs. (Hereafter cited as TNA WO 171/409); War Office Geographical Section, General
+Staff, and Ordnance Survey, France, Caen-Falaise, Sheet 7F: 1:100,000, Map, France, 1943, See roads in
+Grid Reference (GR) 0080–0376, 0677–0776.
+142. TNA WO 171/2377, 7 July 1944.
+143. TNA WO 171/623, 7 July 1944.
+144. TNA WO 171/623, 8 July 1944.
+
+64
+rapid and despite encountering some minor resistance, by the end of the day, the Brigade
+had reached the outskirts of Caen.145
+D-Day Charnwood was, for 90 Coy quite busy. On top of supporting the troops of 27
+Armd Bde, 90 Coy was also responsible for supporting the other armoured units supporting
+3rd and 59th British Infantry Divisions.146 These units mostly consisted of the Crocodiles of
+141 RAC, as well as Royal Engineer (RE) vehicles. These consisted of Armoured Vehicles
+Royal Engineer (AVRE) and Shermans equipped with demining flails.
+The prime role for 90 Coy in Charnwood was to keep the Brigade supplied with
+ammunition. Conveniently, there were still stocks of ammunition left over in Gazelle from
+Operation Mitten that had not been withdrawn. Thus, 90 Coy would maintain the Bde
+from the Gazelle dump until stores were exhausted, before opening a new ammunition point
+at Cresserons later that day.147 This was advantageous as it meant that the closure of the
+Gazelle dump would not require transport or labour to move its stores to a new dump. The
+ammunition in Gazelle would simply be expended, and the dump closed.
+On top of this, they also kept ‘1000 Gals FTF and 35 nitrogen bottles on wheels. . . at
+Cresserons’ and were to be available to provide further supplies on call.148 In addition, organic
+transport for the Regiments comprising 27 Armd Bde also had their own ammunition lorries
+ready to ferry ammunition whenever delivery was required. These requests would have been
+
+145. TNA WO 171/623, 8 July 1944.
+146. 27 Armd Bde Adm Order No. 7, 7 July 1944 TNA WO 171/623, Para. 3.
+147. TNA WO 171/623, 27 Armd Bde Adm Order No. 7, 7 July 1944; TNA WO 171/2377, 8 July
+1944.
+148. 27 Armd Bde Adm Order No. 7, 7 July 1944 TNA WO 171/623, Para 6.
+
+65
+made using the wireless, and the request would be routed to the most appropriate unit to
+speed the ammunition to critical sectors.149
+Conveniently, prior to the attack, three days compo rations were issued to all armoured troops. This was in addition to the usual three days reserve of AFV packs that were
+routinely carried in tanks.150 This helped to simplify the burden on the supply chain and
+road network. This prudent decision meant that the supply chain could focus on ammunition, fuel, and water. What is perhaps more interesting is that Charnwood was planned
+as a two day operation but six day’s rations were issued. This prudence allowed for more
+flexibility. It meant that if it took longer than expected to consolidate Charnwood’s gains
+and expand the supply chain, the supply chain could, on a temporary basis, operate in a
+reduced capacity giving time for the supply chain to catch up. Moreover, it meant that,
+if the British ordered an admittedly uncharacteristic pursuit, logisticians would have eased
+just one more constraint tying the hands of decision makers. Of course, if further rations
+were required, they would probably have been delivered but making up for the occasional
+combat loss is a miniscule logistical hurdle compared to the challenge of delivering rations
+for a whole Bde.
+Curiously, 27 Armd Bde’s Administrative Orders for Charnwood does not mention
+fuel but we can be absolutely certain that fuel was consumed. The absence of fuel in the
+orders suggests that the Bde felt that the supply of fuel was sufficiently normal, that it was
+unnecessary to write down how fuel would be obtained. Thus, it is probable that fuel would
+
+149. 13th/18th Royal Hussars Operation Order No. 1, Operation Charnwood (See July appendix)
+TNA WO 171/845, Para 9b.
+150. 27 Armd Bde Adm Order No. 7, 7 July 1944 TNA WO 171/623, Para 7.
+
+66
+just be delivered through the usual means. First line units would have gone to battle with
+full fuel tanks and would carry a small reserve of additional fuel. The lack of formal orders
+on how to obtain more fuel suggests that the this fuel was expected to last the day’s fighting.
+90 Coy had a Signals unit attached at Coy HQ. If fuel was needed, it would have likely been
+fairly routine to load up a lorry with fuel to make an urgent delivery.
+Fueling would take place at the end of the day. That evening, from 2100 – 2400 hrs,
+90 Coy set up a POL point just south of Hermanville.151 Whilst the sources do not state this
+plainly, the location chosen for this POL point appears to allow for one way traffic through
+the point thus allowing there to be a constant flow of vehicles travelling through the point.
+It is likely that, as first line units were returning to their harbours that evening, first
+line transport would have gone to the POL point 5 km away to collect enough fuel for their
+units. These transport units would then make the trip to the nearest dump either at Gazelle
+or Cresserons. All this would have likely occurred prior to the return of the units main
+bodies to their harbours. The absence of these details from the orders suggests that the
+work done by logistical planners was so effective that the officers of G Branch could largely
+ignore it. Instead, officers could focus on important matters such as defeating the Germans,
+taking care of the men, or getting some much needed rest. Supply would just happen.
+Once the units were in harbour, it is easy to picture the scene that likely unfolded.
+One must have seen tired men lifting endless jerrycans of fuel onto the deck of their tanks,
+emptying the cans, and tossing down the empties. Surely, these same men would also have
+stood forming human chains to pass ammunition up into turrets and down into the hull.
+
+151. TNA WO 171/2377, 8 July 1944.
+
+67
+One also ponders a more human component. Would rations be heated on stoves at this
+point, or would tins, having been left in the warm engine bay earlier now be at a decent
+temperature? One wonders if tea was being brewed and if the men opted to sleep in slit
+trenches for protection, or on their tanks for comfort. Surely, for some, it would have been a
+sleepless night as briefings, planning, and other preparations took place through the night in
+preparation for the resumption of operations the next morning. All of this would only have
+been possible because someone saw fit to deliver enough fuel and ammunition to the units.
+Moreover, someone would have to collect the empty cans and exchange them for cans filled
+with fresh petrol. All this would have been done to enable smooth operations.
+Operations resumed around 0500 hrs with the Bde deploying patrols forward to the
+positions they left six or seven hours previous.152 90 Coy spent the morning issuing ammunition at their ammunition points and pushing flamethrower fuel to 141 RAC. From 1400-1600,
+as the various units were reaching their final objectives, units of 27 Armd Bde returned to
+their harbours for refit. Doubtless, once the battle ended, the logisticians of 27 Armd Bde
+would have to ammunition, fuel, and otherwise replenish the Bde.153 Again, whilst this work
+seems trivial compared to the work of actually fighting the enemy, the work completed by
+units such as 90 Coy were critical for the conduct of the war. Once more, the work of
+logisticians enabled the fight but unlike previous smaller operations like Mitten, or more
+improvised operations such as those that occurred that occurred shortly after Neptune’s
+D-Day, in Charnwood, 90 Coy RASC executed a planned and, deliberate tasks during the
+
+152. TNA WO 171/845, 9 July 1944.
+153. TNA WO 171/2377, 9 July 1944.
+
+68
+operation as part of a much wider machine. Unlike around the Neptune landings, where
+90 Coy was dispatching lorries in every direction. In Charnwood, their task was clear and
+unified: keep the Brigade supplied with ammunition and fuel. Without them, the operation
+could not have continued onto the second day as there would be no fuel to power the tanks,
+and no shells for the guns to shoot.
+
+Post-Charnwood/Pre-Goodwood
+A lull followed Charnwood during which the build-up of men and materiel in France
+continued. On 10 July, Bde HQ moved to Douvres and the readiness of the Bde reduced first
+from 24 hours notice to 4 hours notice. This allowed the men some time to rest, maintain
+their vehicles, and to recuperate. Part of this recuperation involved the first delivery of fresh
+bread with the arrival of 35 Mobile Field Bakery — also a unit of the RASC — in theatre.
+Their arrival meant that the men would receive, at first, 2 oz, then after, 4 oz (approximately
+60 g, then 110 g) of bread per day. This would have been the first officially issued fresh food
+the men would have received since stepping off their landing craft a month earlier — it is
+however likely that the men would have received fresh food from unofficial channels.
+Whilst this happened, the British Army was reorganizing. The losses sustained by
+the British Army to date had been vast and the army was running out of men. This
+reorganization likely helped ensure the British could still field combat-strength units to take
+place in the upcoming Operation Goodwood.154 Goodwood was itself a larger operation than
+Charnwood and produced more paperwork at the Bde level. Thus, Goodwood allows us to
+
+154. S. Hart, Montgomery and “Colossal Cracks”, 56–8.
+
+69
+better examine themes such as battle sustainment and management, rations, and signals.
+Unlike Charnwood which was fought from the land West of the Orne and North of Caen,
+Goodwood’s thrust would come from East of the Orne from land first captured by the Paras
+on D-Day. Whereas Charnwood could be launched from land the Bde had occupied since
+D-Day, the Bde would have to move West of the Orne in order to sit ready on the start line
+when H-Hour arrived.
+The Warning Order for Goodwood likely came on 14 July for an operation four days
+hence.155 For 90 Coy, this meant preparing new supply lines, setting up new supply dumps,
+and repairing new ammunition and POL points.156 90 Coy likely received the orders to
+prepare for upcoming operations some time in the late morning or afternoon of 14 July. The
+work ahead of the company was vast, the whole Brigade’s combat strength would have to be
+supplied over the river. Some logistics, HQ, and support personnel would however remain
+West of the Orne to simplify the siting of units over the bridgehead.
+Helpfully for 90 Coy, the 13/18th Hussars had already been operating in the area
+in the weeks preceding Goodwood and they already had a smaller regimental dump in the
+Ranville area. For a Bde however, the dump would be far too small. As such, the Company,
+started up their lorries and, over the course of five hours from 1700 to 2200 on 14 July,
+dumped 38 lorry loads of ammunition and 18 loads of POL in the location of the new Bde
+dump. This was enough to supply each tank in the Bde with 97 rounds — a full load of
+ammunition for the Bde’s tanks — and enough fuel to drive the Bde 30 miles (48 km).
+
+155. Assumption made because Bde held a conference on 14 July. TNA WO 171/623, 14 July 1944.
+156. TNA WO 171/2377, 14 July 1944.
+
+70
+Likely tired after this work, around 2200, the Company refuelled their vehicles and returned
+to Company HQ by midnight.157
+Logistics however does not just happen. Major Bde dumps need to be managed.
+Someone must keep track of where everything goes, how it gets there, manage competing priorities of supply and transport, and arrange for the resupply when needed. It is a
+responsible job that requires competence, forethought, and leadership. Managing a Bde supply dump is thus not something that should be left to be organic or unsupervised. If not
+for control, it is likely that the client units would strip the dump of all its resources, and
+no-one would be able to allocate limited resources, or arrange for resupply. Someone needed
+to manage the dump.
+For 90 Coy, that person was Capt Duffus. Thus, at 1900 on the 15th, the day after
+the dumping operation, Capt Duffus, one of 90 Coy’s Company Captains was detached from
+the main body of the company with ‘46 men, 1 ORs, 1 car, [and] 16’ 3-ton lorries.158 Of his
+16 lorries, 14 were to be used to keep a mobile reserve leaving two lorries for routine tasks.
+Of the 14 lorries, 6 would be used to hold 4 days compo rations for the Bde, and 8 would
+be used to transport fuel and nitrogen cylinder for 141 RAC’s Churchill Crocodiles.159
+Unlike dumping for Mitten and Charnwood, the Ranville reserves had a greater importance due to its geography. Whereas these two operations had several viable alternative
+supply lines if one got cut, Goodwood was different. Cutting either Rugger or Cricket bridges
+
+157. TNA WO 171/2377, 14 July 1944.
+158. Whilst for June, document is in folder for July TNA WO 171/2377, AF W 3008 for 17 June
+1944 Serial 16.
+159. TNA WO 171/2377, 15 July 1944.
+
+71
+would effectively strand British forces east of the river until a new bridge could be erected.
+This is why having a formal detachment was important. If forces were cut off, a good and
+reliable officer were needed to take charge and manage the Bde’s supply chain. At any moment, that officer must know what is on hand, make decisions on where matériel will go,
+how to get it there, and be able to handle the various tasks that inevitably emerged. If
+the Bde’s supply lines were cut, such an officer had to be able to act independent of their
+headquarters, without the guidance of their superiors, to take the right decisions necessary
+for the Bde to meet their objectives.
+Dealing with these shortages was not merely a theoretical problem. Orders issued on
+14 July, the Friday before Goodwood, noted a number of logistical difficulties. ‘There [were]
+few replacement tyres available’ due to a general shortage of rubber.160 This was exasperated
+by the men lowering the tyre pressure for a softer, more comfortable ride; however, this
+resulted in significantly more tyre wear.
+There was also the problem of returned ammunition. Empty casings as well as unfired ammunition were and remain of military value but they often were not being returned
+properly. Unfired ammunition can be repackaged and reissued whilst the casings of fired ammunition can be returned and reloaded; however, if these stores are not packaged properly,
+it can lead to difficulties counting or protecting them. Moreover, there was a problem where
+unfired ammunition was being returned as if it had been fired. This may appear to be a
+minor inconvenience but fired ammunition casings are really just brass or copper tubes —
+
+160. 27 Armd Bde Adm Order No. 9 14 July 1944 TNA WO 171/623, para 6.
+
+72
+they are basically inert. Unfired ammunition will still have their primers and charges present.
+Whilst unlikely, it was possible for unfired charges to detonate leading to casualties.161
+Finally, there were problems with units over drawing rations, thus exasperating a
+general shortage of rations. Rations were rebalanced across the Bde on a weekly basis, but
+the problem was so severe that snap inspections were ordered to ensure that there were
+enough rations to go around, and that no units were hoarding them.162 Whilst the officers
+or NCOs carrying out these inspections were likely unpopular with the troops, their work
+was nevertheless important to ensure no troops went hungry just because a different unit
+wanted a more comfortable reserve of rations.
+Likewise, many of these other problems were issues that could be remedied through
+good logistics officers. Officers could check demands against entitlements and raise questions
+if a unit was asking for more supplies than they apparently needed. Officers and NCOs
+were often also in a position to impress upon others, the importance of carefully inspecting
+ammunition before it was reissued or returned to depot. Logisticians were also in a position
+to receive excess equipment from casualties and, through second line transport, send excess
+equipment to other units who required such equipment. Obviously, there was little to be
+done about supplies like tyres which were short at a national level, but logisticians could at
+least ensure that unused tyres were stored properly to prevent pre-installation failures. All
+of these mundane tasks were necessary to ensure the British Army was ready to fight the
+enemy whenever it occurred.
+
+161. 27 Armd Bde Adm Order No. 9 14 July 1944 TNA WO 171/623, para 10.
+162. 27 Armd Bde Adm Order No. 9 14 July 1944 TNA WO 171/623, para 12.
+
+73
+As it happens, on 16 July, D – 2 for Goodwood, preparations were nearing completion.
+Conferences were being held across the Bde as COs flesh out orders. Whilst Bde HQ, and
+support units stayed West of the Orne, the Regiments moved over the river thus necessitating
+changes to the supply chain. Fortunately, 90 Coy’s forethought establishing Detachment
+Ranville would bear fruit as the Det began to supply the Bde.
+It was also at this point that rations for Goodwood were issued. 90 Coy issued to the
+Bde’s units West of the Orne 3 days additional ration whilst units over the river — mostly
+combat units and the units directly supporting them — were issued with 4 additional days
+rations.163 This is in excess to the 4 days ration being held on wheels by Capt Duffus at Det
+Ranville. Thus, the disposition of reserves in possessed by the Bde for this two-day operation
+was 8 days rations, and enough fuel for the whole Bde to travel 30 miles. Moreover, the Bde’s
+tanks could fire every last round of ammunition in their sponsons and the Bde would still
+have enough ammunition left over for a full replenishment. All these stores were available
+without having to request assistance from units outside the Bde. The Bde was capable of
+supplying the materiel, transport, and personnel necessary for any replenishment — though
+they have have needed to contact Transport for permission to use the roads.
+The final preparation for logistics in the Bde came on 17 July (D – 1) when two
+wireless lorries with their accompanying signalmen were attached to the Coy. One lorry
+would remain with Coy HQ at and the other was posted at Det Ranville.164 If the Bde
+needed anything, it was a call away. Thus, as the Bde loaded the last of their ammunition,
+
+163. TNA WO 171/2377, 16 July 1944.
+164. TNA WO 171/2377, Regarding Signals, 17 July 1944; regarding location of HQ, 5 July 1944.
+
+74
+rations, and fuel into its tanks; wrote their last letters, and issued some final orders for a
+day that promised some hard fighting, the Bde’s logisticians were ready to ensure that it
+would not be for want of supplies that the advance would halt. Past H-Hour, if the combat
+arms could push the Germans back, the supply chain was in a position to keep up with the
+advance.
+
+Goodwood (18-20 Jul 44)
+D-Day arrived on 18 July. The Bde was to support the 3rd Br Inf Div. Attached to,
+and supported by the Bde were the Churchill Crocodiles of B Sqn 141 RAC, the Sherman
+Flails of B Sqn Lothian and Border Horse, and the AVREs of 77 Assault Sqn RE. Together,
+they would advance and hold the British left flank. To their right, 8 Corps would punch
+through German lines, travel South with Caen to their right, and advance to the high ground
+South of Caen.165
+H-Hour was preceded with a large RAF bombardment consisting of ‘over 8000 tons of
+bombs’ mostly dropped in the vicinity of Caen though, three of those bombs were accidentally
+dropped near 90 Coy at 0715 — fortunately no-one was hurt.166 Then, when H-Hour arrived
+a half hour later, 3 Div’s 8th Bde, supported by the 13th/18th Hussars advanced 3km along
+a narrow front. By 1100 hrs, they gained most of their objectives and halted. The Staffs
+
+165. 27 Armd Bde Adm Order No. 3, Operation “GOODWOOD”, 17 July 1944 TNA WO 171/623,
+para 2.
+166. TNA WO 171/623, 18 July 1944; TNA WO 171/2377, 18 July 1944.
+
+75
+continued the advance Southwards to the line of the Caen-Troarn railway line, whilst ERY
+and 9 Bde turned left and began a slow crawl East towards Troarn.167
+The fighting continued until around 1800 when British Forces halted for the night.
+Most of the Bde was withdrawn to unit harbours where ammunition and POL were waiting
+for them. It is likely that water was also made available to the troops but, owing to the
+pre-issue, rations were already available at the units.
+Having issued a day of fuel and ammunition to the Regiments, Det Ranville itself
+would need to be resupplied. As such, 6 3-ton lorries was to be sent from Coy HQ to
+Det Ranville loaded with petrol and diesel. Traffic however was very heavy that evening
+so Cricket and Rugger bridges were assigned to be one-way, eastwards only bridges.168 The
+lorries were thus stranded over the river until the restrictions were lifted. I suspect that Capt
+Duffus would have ensured the 6 lorries and their drivers did not go idle! Over the course
+of the operation and the days preceding, the dump’s holdings were expanded from 38 lorry
+loads of ammunition, to over 45 lorry loads of ammunition — this despite units drawing
+ammunition from the dump on a regular basis.169 Thus, it is doubtless that Capt Duffus
+would have appreciated 6 additional lorries and men to help keep the dump organized.
+Operations resumed early next morning with reveille sounding between 0400 and 0430
+with operations resuming not long after.170 19 July saw the front beginning to stabilise as
+the Germans contained the attack. 19 July saw some hard fighting but it did not result
+
+167. TNA WO 171/623, 18 July 1944.
+168. TNA WO 171/2377, 18 July 1944.
+169. TNA WO 171/2377, 25 July 1944.
+170. TNA WO 171/863, 19 July 1944; TNA WO 171/862, 19 July 1944.
+
+76
+in all units being deployed. Some Sqn even spent the whole day in harbours.171 As such,
+the material requirements of the Bde were lighter. Nevertheless, that evening, Det Ranville
+continued to issue ammunition and POL to the Bde to meet demands. Operations wound
+down in earnest by the 20th. That afternoon, around 1600, the heavens opened up with ‘a
+tremendous thunderstorm’ turning ‘every road [into] a river and every field a bog’.172 The
+flooded tracks became ‘nearly impassible, [with the] ground feet deep in mud, and all slit
+trenches flooded’.173
+The Bde was thus immobilised by the 36 hours of rain. The men sitting in their
+trenches were likely very wet, and very cold. Luckily for the men, Det Ranville had some
+rum available and, on Bde HQ’s instructions, issued a tot of rum to the entire Bde to help
+keep them warm. This was repeated on the 21st when the rain simply refused to stop.174
+This meant a requirement around 375 pints (180 L) of rum per day, or 750 pints (355 L) for
+the period in question. This is what it took to supply a tot of rum for three-thousand men!175
+Taking up a space less than one cubic meter — less than two if one includes packaging, it
+was not a very difficult obligation to meet; however, it was still an item of supply that had
+to be thought of, planned for, shipped and stored. Thank god for the prepared logistician!
+
+171. TNA WO 171/863, 19 July 1944; TNA WO 171/845, 19 July 1944.
+172. TNA WO 171/623, 20 July 1944.
+173. TNA WO 171/845, 20 July 1944.
+174. TNA WO 171/2377, 20-1 July 1944.
+175. See footnote 100 on page 49 for personnel estimates.
+
+77
+Post Goodwood
+Alas, Goodwood would be the last operation to be fought by the Bde. The British
+Army of 1943 was a ‘wasting army’ that was once more reorganizing to make up casualties.
+The British simply could not replace casualties and so, units were routinely disbanded to
+bring other units to combat strength.176 The Bde’s armoured units would be assigned to other
+units or sent back to the UK whilst the Bde’s administrative units would be converted to
+other roles or assigned to whatever unit most needed them throughout 21st Army Group.177
+Still, being broken up did not mean a cessation of work for 90 Coy. On 25 July, 90
+Coy was placed under Deputy Director Supply and Transport (DDST) Second Army though,
+for the time being, 90 Coy would still be responsible for the usual supply runs for the Bde’s
+units.178 Det Ranville however would be drawn down and transferred to 33 Armd Bde.179
+The drawing down of the Ranville Dump would take a significant amount of work.
+What was originally 38 lorry loads had greatly expanded. 33 Armd Bde simply did not
+need so much ammunition. As such, before the handover, 90 Coy lifted 45 3-Ton lorry
+loads of ammunition from Det Ranville to BAD Hermanville.180 The remaining ammunition
+
+176. Discussion in the latter pages is principly focused on the disbanding of infantry formations
+however, discussion on manpower issues in the RAC in the earlier pages leads one to belive that it is likely
+that the same was done for armoured units. S. Hart, Montgomery and “Colossal Cracks”, 56–60.
+177. 90 Coy joins 22 Transport Column TNA WO 171/2377, 31 July 1944; For the Regiments TNA
+WO 171/623, 23 July 1944; 27 Armd Bde Sigs Sqn was disbanded and its men being posted to different
+units piecemeal TNA WO 171/624, August 1944; 27 Armd Bde’s Ordance Field Park was assigned to 2
+Armd Replacement Gp TNA WO 171/625, 24 July 1944; 27 Armd Bde’s REME Workshops are reassigned
+to the Armd Replacement Gp TNA WO 171/626, 25 July 1944; 266 Forward Delivery Sqn converts to be
+an Advanced Training Sqn TNA WO 171/895, 3 August 1944.
+178. TNA WO 171/2377, 25 July 1944.
+179. TNA WO 171/2377, 26 July 1944.
+180. TNA WO 171/2377, 25 July 1944.
+
+78
+at Ranville was handed over to 33 Armd Bde.181 27 Armd Bde however still had more
+ammunition. On top of Det Ranville, there were also the Bde’s second line holdings consisting
+of 57 lorry loads of ammunition (30 3-Ton loads, and 27 6-Ton loads). All this was returned
+to 12 BAD on 28 July.182
+On 31 July, 90 Coy RASC was transferred to Commander RASC, 22 Transport
+Column (22 Tpt Coln). 22 Tpt Coln would see 90 Coy’s role change. Whereas 27 Armd
+Bde was an Armoured unit and thus, mostly had organic transport capabilities, 22 Tpt Coln
+mostly serviced infantry units who, in the Second World War, generally did not have organic
+transport. As such, supply and transport companies like 90 Coy were responsible not only
+for supplying the Infantry Battalions, but also for ferrying them about in the back of their
+lorries. Over the next two weeks with the closure of the Falaise pocket, it would be by
+riding in the back of 90 Coy’s 3-ton and 6-ton lorries that the infantry would speed their
+way forward.183 Without units like 90 Coy, the 15 km closure of the Falaise pocket would
+have had to be done at a walking pace.
+
+Criticality of Supply
+Conclusion
+
+181. TNA WO 171/2377, 26 July 1944.
+182. TNA WO 171/2377, 28 July 1944.
+183. TNA WO 171/2377, See entires from 11 August the end of the month. 90 Coy ‘embussed’ and
+‘debussed’ a variety of units moving from the final stop lines of Goodwood ever closer to Falaise.
+
+79
+On the Use of Artificial Intelligence (AI) and Machine Learning (ML) Tools
+I have used AI/ML tools in the writing of this MRP. This MRP was typeset using the
+Latex type setter and citations were resolved using Biblatex. As these are markup languages,
+they require a very specific syntax documented in a wide variety of manuals. When writing
+the Biblatex bibliography files, ChatGPT was used to find the appropriate parameters to tag
+bibliographic information to ensure Biblatex could correctly typeset that bibliographic entry.
+I could not find the correct methods in the manual and trial-and-error is time consuming.
+This was done with the knowledge of my supervisor.
+I have also used Apple’s Vision Application Programming Interface (API) and ocrit
+— a simple Swift open source program using the Vision API I found on Github — to aid
+my research. As all my primary sources had been digitized, I found it convenient to OCR
+all primary sources to simplify the finding of information I had read in previous. I found
+that ML OCR engines such as Apple’s Vision API are simply far more accurate than their
+conventionally programmed counterparts. Apple’s API could be integrated into my workflow
+quickly and at least cost; thus, Apple’s API was chosen.
+It is likely that the Google search engine used regularly in the course of my research
+used AI/ML and this admittedly may have impacted some of my sources however, I took
+care to use other catalogues and databases to minimize the effects this risk. Moreover, I
+am aware that MacOS now more heavily integrates AI/ML and neural networks in the OS.
+Notwithstanding that which is written here however, I have not knowingly used AI/ML tools
+in the conduct of this research, and the work is my own.
+
+80
+Bibliography
+
+13/18 Royal Hussars (Queen Mary’s Own) War Diary, WO 171/845. The National Archives
+UK (TNA), Kew.
+185 Infantry Bde HQ War Diary, WO 171/702. The National Archives UK (TNA), Kew.
+266 Forward Delivery Squadron War Diary, WO 171/895. The National Archives UK (TNA),
+Kew.
+27 Armoured Brigade Ordnance Field Park War Diary, WO 171/625. The National Archives
+UK (TNA), Kew.
+27 Armoured Brigade REME Workshops War Diary, WO 171/626. The National Archives
+UK (TNA), Kew.
+27 Armoured Brigade Signals Squadron War Diary, WO 171/624. The National Archives
+UK (TNA), Kew.
+2nd Battalion, The Kings Shropshire Light Infantry War Diary, WO 171/1325. The National
+Archives UK (TNA), Kew.
+3rd British Infantry Division AQ War Diary, WO 171/413. The National Archives UK
+(TNA), Kew.
+3rd British Infantry Division G War Diary, WO 171/409. The National Archives UK (TNA),
+Kew.
+6th Airborne Division AQ War Diary, WO 171/426. The National Archives UK (TNA),
+Kew.
+7th Battalion, The Parachute Regiment War Diary, WO 171/1239. The National Archives
+UK (TNA), Kew.
+8th British Infantry Brigade War Diary, WO 171/611. The National Archives UK (TNA),
+Kew.
+90 Company RASC War Diary, WO 171/2377. The National Archives UK (TNA), Kew.
+Army Film Unit. The Build-Up of Troops and Matériel in the British Sector of the Normandy Beachhead. A70 70-1. 6 July 1944. https://film.iwmcollections.org.uk/
+record/ BvsowDHz1rSYs2sdsNsvg1He.
+
+81
+Bigland, Eileen. Britain’s Other Army: The Story of the A.T.S. Cambridge: Nicholson &
+Watson, 1946.
+Dworak, David D. War of Supply: World War II Allied Logistics in the Mediterranean.
+University Press of Kentucky, 2022.
+East Riding Yeomanry War Diary, WO 171/862. The National Archives UK (TNA), Kew.
+Field Service Regulations: Organization and Administration 1930: Reprinted with Ammendments Nos 1 – 11 1939. Vol. 1. London: The War Office, 13 December 1939.
+Hart, Russell. Clash of Arms: How the Allies Won in Normandy. The Art of War. Boulder,
+Colo: Lynne Rienner, 2001.
+Hart, Russell A. “Feeding Mars: The Role of Logistics in the German Defeat in Normandy,
+1944”. War in History 3, number 4 (November 1996): 418–435. Visited on November 13, 2023. https://doi.org/10.1177/096834459600300404.
+Hart, Stephen. Montgomery and “Colossal Cracks”: the 21st Army Group in Northwest
+Europe, 1944-45. Praeger series in war studies. Westport, Conn: Praeger, 2000.
+History of the Combined Operations Organisation: 1940-1945. TNA WO 277/30. London:
+Amphibious Warfare Headquarters, 1956.
+HQ 27 Armoured Brigade War Diary, WO 171/623. The National Archives UK (TNA),
+Kew.
+Maginnis, Clem. A Great Feat of Improvisation: Logistics and the British Expeditionary
+Force in France 1939-1940. In collaboration with Gary Sheffield. Warwick, England:
+Helion / Company Limited, 2021.
+Moberg, Stig H. Gunfire! British Artillery in the Second World War. OCLC: on1012892375.
+Barnsley, S. Yorkshire: Frontline Books, an imprint of Pen & Sword Books Ltd, 2017.
+Napier, Stephen. The Armoured Campaign in Normandy: June – August 1944. 1st ed.
+London: History Press Limited, The, 2017.
+No 1 RAF Beach Unit (Later Squadron) Sept 1943-July 1944 IIn/FJ3/1 and 14 Including
+No 70 and 71 Beach Units Operations Record Book, AIR 29/438/9. The National
+Archives UK (TNA), Kew.
+No. 27 (Winter) War Course, 2017/7 Box 3 File 7. Directorate of History and Heritage
+Archives (DHH), Ottawa.
+
+82
+Private Papers of R P Pope, Documents.25477. The Imperial War Museum (London),
+London.
+S & T History 90 Coy RASC Armd Bde-Assault an account of the work carried out during
+the first four days of the Invasion, June 1944, August 1944, WO 171/2377. The
+National Archives UK (TNA), Kew.
+Scarfe, Norman. Assault Division: a History of the 3rd division from the Invasion of Normandy to the Surrender of Germany. Camebridge: Spellmount Limited, 2004.
+Staffordshire Yeomanry War Diary, WO 171/863. The National Archives UK (TNA), Kew.
+Symonds, Craig Lee. Neptune: the Allied Invasion of Europe and the D-Day Landings.
+Oxford: Oxford University Press, 2014.
+Van Creveld, Martin. Supplying War: Logistics from Wallenstein to Patton. Cambridge;
+New York: Cambridge University Press, 1977.
+War Office Geographical Section, General Staff, and Ordnance Survey. France, Caen-Falaise.
+Sheet 7F: 1:100,000. Map. France, 1943.
+
+
